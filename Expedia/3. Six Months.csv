@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6213044120543628,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+EASY,Valid Parentheses,100.0,0.41538847575232146,https://leetcode.com/problems/valid-parentheses
+EASY,Roman to Integer,100.0,0.6361665460366076,https://leetcode.com/problems/roman-to-integer
+HARD,Minimum One Bit Operations to Make Integers Zero,87.3,0.7357507392921874,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero
+MEDIUM,String Compression,87.3,0.567216051186496,https://leetcode.com/problems/string-compression
+MEDIUM,Remove Duplicate Letters,87.3,0.5054090223164166,https://leetcode.com/problems/remove-duplicate-letters
+MEDIUM,Merge Intervals,87.3,0.48475651326816627,https://leetcode.com/problems/merge-intervals
+HARD,Trapping Rain Water,87.3,0.6378152025949972,https://leetcode.com/problems/trapping-rain-water
+EASY,Valid Word,87.3,0.3818626898362134,https://leetcode.com/problems/valid-word
+MEDIUM,Unique Substrings With Equal Digit Frequency,87.3,0.6136449302676216,https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency
+MEDIUM,The Earliest Moment When Everyone Become Friends,87.3,0.6552849984807232,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+MEDIUM,Rearrange Words in a Sentence,87.3,0.6533064966492926,https://leetcode.com/problems/rearrange-words-in-a-sentence
+MEDIUM,Break a Palindrome,87.3,0.5157598765271226,https://leetcode.com/problems/break-a-palindrome
+MEDIUM,Valid Triangle Number,87.3,0.5172486618359247,https://leetcode.com/problems/valid-triangle-number
+MEDIUM,Minimum Swaps to Group All 1's Together,87.3,0.6033862952223689,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+EASY,Most Visited Sector in  a Circular Track,87.3,0.589990359081914,https://leetcode.com/problems/most-visited-sector-in-a-circular-track
+HARD,Minimum Replacements to Sort the Array,87.3,0.5336927641312852,https://leetcode.com/problems/minimum-replacements-to-sort-the-array
+MEDIUM,The kth Factor of n,87.3,0.6890413635973651,https://leetcode.com/problems/the-kth-factor-of-n
+MEDIUM,Number of Good Binary Strings,87.3,0.521251193887297,https://leetcode.com/problems/number-of-good-binary-strings
+MEDIUM,Divide Players Into Teams of Equal Skill,87.3,0.6897346955777547,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill

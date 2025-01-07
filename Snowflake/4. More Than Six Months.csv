@@ -1,0 +1,49 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Design In-Memory File System,100.0,0.4805465892878937,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Find All Anagrams in a String,89.9,0.5163214158009103,https://leetcode.com/problems/find-all-anagrams-in-a-string
+HARD,Maximum Profit in Job Scheduling,85.3,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Reverse Nodes in k-Group,82.5,0.6142016062634955,https://leetcode.com/problems/reverse-nodes-in-k-group
+HARD,Number of Ways to Form a Target String Given a Dictionary,82.5,0.5745819366896173,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
+HARD,String Transformation,79.5,0.30123974588293345,https://leetcode.com/problems/string-transformation
+HARD,Basic Calculator,79.5,0.4444650812616134,https://leetcode.com/problems/basic-calculator
+HARD,Painting the Walls,71.7,0.5034421347221598,https://leetcode.com/problems/painting-the-walls
+MEDIUM,Boundary of Binary Tree,71.7,0.46476830484532156,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Populating Next Right Pointers in Each Node,71.7,0.6442299173336388,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+MEDIUM,Populating Next Right Pointers in Each Node II,71.7,0.543692071166972,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
+MEDIUM,Encode and Decode Strings,71.7,0.4850518558386983,https://leetcode.com/problems/encode-and-decode-strings
+EASY,Happy Number,66.5,0.5727302922309815,https://leetcode.com/problems/happy-number
+MEDIUM,Swap Nodes in Pairs,66.5,0.6607527803317178,https://leetcode.com/problems/swap-nodes-in-pairs
+MEDIUM,Graph Valid Tree,66.5,0.48821115752741123,https://leetcode.com/problems/graph-valid-tree
+HARD,Patching Array,66.5,0.532795140016893,https://leetcode.com/problems/patching-array
+HARD,Parallel Courses III,66.5,0.6700825351852422,https://leetcode.com/problems/parallel-courses-iii
+EASY,Calculate Amount Paid in Taxes,59.9,0.6660115141760553,https://leetcode.com/problems/calculate-amount-paid-in-taxes
+HARD,Minimum Operations to Make Numbers Non-positive,59.9,0.41282521861168087,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
+HARD,Sliding Window Median,59.9,0.3870556319412617,https://leetcode.com/problems/sliding-window-median
+MEDIUM,Evaluate Division,59.9,0.625363256705991,https://leetcode.com/problems/evaluate-division
+MEDIUM,Maximum Profit From Trading Stocks,59.9,0.45893422079789636,https://leetcode.com/problems/maximum-profit-from-trading-stocks
+HARD,Regular Expression Matching,59.9,0.2873979179161774,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Design Hit Counter,59.9,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Course Schedule II,59.9,0.5218092987271744,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Number of Islands,59.9,0.611226385269829,https://leetcode.com/problems/number-of-islands
+MEDIUM,Basic Calculator II,59.9,0.44895408364935213,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Count Nodes Equal to Average of Subtree,50.6,0.8643991641674696,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree
+MEDIUM,Time Based Key-Value Store,50.6,0.4930010025287666,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Jump Game,50.6,0.3897889908669478,https://leetcode.com/problems/jump-game
+HARD,Remove Invalid Parentheses,50.6,0.48775889109891857,https://leetcode.com/problems/remove-invalid-parentheses
+MEDIUM,Search in Rotated Sorted Array,50.6,0.42017102225295005,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Merge Intervals,50.6,0.48475649256099723,https://leetcode.com/problems/merge-intervals
+MEDIUM,Swapping Nodes in a Linked List,50.6,0.6817095900004013,https://leetcode.com/problems/swapping-nodes-in-a-linked-list
+HARD,Set Intersection Size At Least Two,50.6,0.4466871590767754,https://leetcode.com/problems/set-intersection-size-at-least-two
+HARD,Word Search II,50.6,0.3685624720107479,https://leetcode.com/problems/word-search-ii
+MEDIUM,LRU Cache,50.6,0.4397805713502933,https://leetcode.com/problems/lru-cache
+HARD,Integer to English Words,50.6,0.34172421038619005,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,Meeting Rooms II,50.6,0.517840795999009,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Maximum Product of the Length of Two Palindromic Subsequences,50.6,0.6121580212480963,https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences
+HARD,Count Subarrays With Fixed Bounds,50.6,0.6777196096629151,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+EASY,Binary Tree Inorder Traversal,50.6,0.7764941756181972,https://leetcode.com/problems/binary-tree-inorder-traversal
+MEDIUM,Decode String,50.6,0.6039237081260408,https://leetcode.com/problems/decode-string
+MEDIUM,01 Matrix,50.6,0.5012713059351869,https://leetcode.com/problems/01-matrix
+MEDIUM,Range Sum Query 2D - Immutable,50.6,0.5567123920867871,https://leetcode.com/problems/range-sum-query-2d-immutable
+MEDIUM,Cheapest Flights Within K Stops,50.6,0.39897730258259245,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Word Pattern II,50.6,0.4848704398227071,https://leetcode.com/problems/word-pattern-ii
+HARD,Cherry Pickup,50.6,0.3742077405434563,https://leetcode.com/problems/cherry-pickup

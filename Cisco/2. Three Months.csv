@@ -1,9 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Palindromic Substring,100.0,0.34945200191154263,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,House Robber,97.9,0.5179711882682598,https://leetcode.com/problems/house-robber
-MEDIUM,Rotate Image,89.9,0.7663568103363545,https://leetcode.com/problems/rotate-image
-EASY,Lucky Numbers in a Matrix,86.4,0.7989622402934732,https://leetcode.com/problems/lucky-numbers-in-a-matrix
-MEDIUM,Spiral Matrix,86.4,0.5222657133689532,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Maximum Subarray,77.3,0.5149491082159533,https://leetcode.com/problems/maximum-subarray
-EASY,Fizz Buzz,61.8,0.7351192545720048,https://leetcode.com/problems/fizz-buzz
-EASY,Move Zeroes,61.8,0.6235857751940406,https://leetcode.com/problems/move-zeroes
+MEDIUM,Longest Palindromic Substring,100.0,0.34984291000350365,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,House Robber,91.2,0.5181552260473242,https://leetcode.com/problems/house-robber
+EASY,Lucky Numbers in a Matrix,81.0,0.7989668780745867,https://leetcode.com/problems/lucky-numbers-in-a-matrix
+MEDIUM,Spiral Matrix,81.0,0.5230482928918913,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Rotate Image,81.0,0.7669476214459554,https://leetcode.com/problems/rotate-image
+MEDIUM,Maximum Subarray,81.0,0.5151960707922605,https://leetcode.com/problems/maximum-subarray
+EASY,Remove Duplicates from Sorted Array,61.2,0.587718498577667,https://leetcode.com/problems/remove-duplicates-from-sorted-array

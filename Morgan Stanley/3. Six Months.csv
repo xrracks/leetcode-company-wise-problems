@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Best Time to Buy and Sell Stock,100.0,0.5452640647660772,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Count Subarrays With Fixed Bounds,89.0,0.6777196096629151,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+MEDIUM,Minimum Number of Lines to Cover Points,67.5,0.4272193829263676,https://leetcode.com/problems/minimum-number-of-lines-to-cover-points
+HARD,Find the Longest Valid Obstacle Course at Each Position,67.5,0.6280470376873137,https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position
+EASY,Minimum Cost to Move Chips to The Same Position,67.5,0.7200515874829269,https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position
+EASY,Find Subarrays With Equal Sum,67.5,0.6569198990130823,https://leetcode.com/problems/find-subarrays-with-equal-sum
+MEDIUM,Best Team With No Conflicts,67.5,0.5036577989294804,https://leetcode.com/problems/best-team-with-no-conflicts
+EASY,The Employee That Worked on the Longest Task,67.5,0.5043022175009959,https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task
+MEDIUM,Find The Original Array of Prefix Xor,67.5,0.8802914337795251,https://leetcode.com/problems/find-the-original-array-of-prefix-xor
+MEDIUM,Kth Largest Element in an Array,67.5,0.6738414206762229,https://leetcode.com/problems/kth-largest-element-in-an-array

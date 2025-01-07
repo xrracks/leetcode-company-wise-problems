@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Next Greater Element I,100.0,0.7361298755416363,https://leetcode.com/problems/next-greater-element-i
+EASY,Minimum Value to Get Positive Step by Step Sum,88.1,0.6500231089200432,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
+MEDIUM,Maximize Area of Square Hole in Grid,88.1,0.36976439790575916,https://leetcode.com/problems/maximize-area-of-square-hole-in-grid
+MEDIUM,Subarray Sum Equals K,88.1,0.44595940996859623,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Median of Two Sorted Arrays,88.1,0.4236996723965206,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Integer to Roman,88.1,0.6724942892078386,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Count Good Meals,88.1,0.30925859726889254,https://leetcode.com/problems/count-good-meals

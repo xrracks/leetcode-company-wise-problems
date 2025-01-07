@@ -1,0 +1,19 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Word Ladder,100.0,0.412680622312805,https://leetcode.com/problems/word-ladder
+MEDIUM,Open the Lock,91.8,0.6051160318866253,https://leetcode.com/problems/open-the-lock
+EASY,Valid Parentheses,91.8,0.41538864107914036,https://leetcode.com/problems/valid-parentheses
+MEDIUM,LRU Cache,91.8,0.43977986744656694,https://leetcode.com/problems/lru-cache
+EASY,Binary Gap,80.2,0.6420068148443849,https://leetcode.com/problems/binary-gap
+HARD,Binary Tree Cameras,80.2,0.469059455343243,https://leetcode.com/problems/binary-tree-cameras
+MEDIUM,Spiral Matrix,80.2,0.5230484378990381,https://leetcode.com/problems/spiral-matrix
+HARD,Reconstruct Itinerary,80.2,0.433767564606974,https://leetcode.com/problems/reconstruct-itinerary
+MEDIUM,Number of Islands,80.2,0.6112264394345484,https://leetcode.com/problems/number-of-islands
+MEDIUM,Partition Equal Subset Sum,80.2,0.4702875363348029,https://leetcode.com/problems/partition-equal-subset-sum
+HARD,Concatenated Words,80.2,0.4931589896481707,https://leetcode.com/problems/concatenated-words
+EASY,Subtree of Another Tree,80.2,0.49186463139910686,https://leetcode.com/problems/subtree-of-another-tree
+HARD,Design Skiplist,80.2,0.6180130774098291,https://leetcode.com/problems/design-skiplist
+HARD,Minimum Window Subsequence,80.2,0.435303628104374,https://leetcode.com/problems/minimum-window-subsequence
+EASY,Alternating Digit Sum,80.2,0.6851326755436343,https://leetcode.com/problems/alternating-digit-sum
+EASY,Remove One Element to Make the Array Strictly Increasing,80.2,0.2830399907669225,https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing
+MEDIUM,Minimize Maximum Pair Sum in Array,80.2,0.8146558852457589,https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
+MEDIUM,Course Schedule,80.2,0.4808052106290731,https://leetcode.com/problems/course-schedule

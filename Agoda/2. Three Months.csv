@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Unique Paths II,100.0,0.42519934989573543,https://leetcode.com/problems/unique-paths-ii
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7094552479757533,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
-MEDIUM,3Sum,88.6,0.3596104825594868,https://leetcode.com/problems/3sum
-EASY,Minimum Absolute Difference,88.6,0.7008933310600625,https://leetcode.com/problems/minimum-absolute-difference
-MEDIUM,Daily Temperatures,88.6,0.6670370120337453,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7099161213502216,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+MEDIUM,Unique Paths II,88.6,0.42541527982041955,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,3Sum,88.6,0.36009012719234057,https://leetcode.com/problems/3sum
+EASY,Minimum Absolute Difference,88.6,0.701163926290005,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Daily Temperatures,88.6,0.6673108746674834,https://leetcode.com/problems/daily-temperatures
+EASY,Best Time to Buy and Sell Stock,88.6,0.545263856169294,https://leetcode.com/problems/best-time-to-buy-and-sell-stock

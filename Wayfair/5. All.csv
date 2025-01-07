@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximum Product Subarray,100.0,0.3432801409642016,https://leetcode.com/problems/maximum-product-subarray
+MEDIUM,Largest Magic Square,94.3,0.5296081097787119,https://leetcode.com/problems/largest-magic-square
+EASY,Add Strings,94.3,0.5164195875787755,https://leetcode.com/problems/add-strings
+MEDIUM,Team Scores in Football Tournament,94.3,0.5567213531730891,https://leetcode.com/problems/team-scores-in-football-tournament
+MEDIUM,Minimum Moves to Reach Target Score,94.3,0.511652880260276,https://leetcode.com/problems/minimum-moves-to-reach-target-score
+MEDIUM,Longest Happy String,92.0,0.6549086113962167,https://leetcode.com/problems/longest-happy-string
+MEDIUM,Best Sightseeing Pair,92.0,0.6254669476766198,https://leetcode.com/problems/best-sightseeing-pair
+MEDIUM,Design A Leaderboard,92.0,0.6788423447190195,https://leetcode.com/problems/design-a-leaderboard
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,92.0,0.46038519201937494,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+EASY,Maximum Number of Balloons,92.0,0.5971613617758944,https://leetcode.com/problems/maximum-number-of-balloons
+EASY,Delete Characters to Make Fancy String,92.0,0.7184775888717156,https://leetcode.com/problems/delete-characters-to-make-fancy-string
+HARD,Tournament Winners,92.0,0.494180482919773,https://leetcode.com/problems/tournament-winners
+MEDIUM,Number of Divisible Substrings,79.9,0.7365250475586557,https://leetcode.com/problems/number-of-divisible-substrings
+MEDIUM,Longest Palindromic Substring,75.6,0.34984272717859644,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Group Anagrams,63.5,0.6997631288729476,https://leetcode.com/problems/group-anagrams
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,53.9,0.5948726149314463,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
+MEDIUM,Longest Increasing Subsequence,53.9,0.5686132287811572,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Lowest Common Ancestor of a Binary Tree,53.9,0.6499519129185449,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Palindromic Substrings,53.9,0.7102989803027911,https://leetcode.com/problems/palindromic-substrings
+HARD,Reaching Points,53.9,0.33463824516319873,https://leetcode.com/problems/reaching-points
+EASY,Valid Palindrome,53.9,0.4959738139953543,https://leetcode.com/problems/valid-palindrome
+EASY,Backspace String Compare,53.9,0.4934366149798832,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Reverse Words in a String,53.9,0.48645001435834734,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Last Person to Fit in the Bus,53.9,0.6808881444125666,https://leetcode.com/problems/last-person-to-fit-in-the-bus

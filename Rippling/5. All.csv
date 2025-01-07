@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Design Excel Sum Formula,100.0,0.438960986210118,https://leetcode.com/problems/design-excel-sum-formula
+HARD,Median of Two Sorted Arrays,82.7,0.42369959290596504,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Evaluate Division,82.7,0.6253629692807333,https://leetcode.com/problems/evaluate-division
+MEDIUM,Synonymous Sentences,63.1,0.5649063796389729,https://leetcode.com/problems/synonymous-sentences
+MEDIUM,Employee Importance,63.1,0.6779720311354924,https://leetcode.com/problems/employee-importance
+MEDIUM,Maximum Subarray,55.0,0.5151962739246845,https://leetcode.com/problems/maximum-subarray
+HARD,Text Justification,55.0,0.46327524791330205,https://leetcode.com/problems/text-justification
+HARD,Longest Duplicate Substring,55.0,0.306121589406205,https://leetcode.com/problems/longest-duplicate-substring
+EASY,Last Stone Weight,55.0,0.6572262223408962,https://leetcode.com/problems/last-stone-weight
+HARD,Optimal Account Balancing,55.0,0.4966693712373912,https://leetcode.com/problems/optimal-account-balancing
+HARD,Number of Visible People in a Queue,55.0,0.7036126308887113,https://leetcode.com/problems/number-of-visible-people-in-a-queue
+MEDIUM,Accounts Merge,55.0,0.5854923198284038,https://leetcode.com/problems/accounts-merge

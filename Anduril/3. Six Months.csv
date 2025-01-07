@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Islands,100.0,0.6112267846348662,https://leetcode.com/problems/number-of-islands
+MEDIUM,Group Anagrams,91.9,0.6997627797633867,https://leetcode.com/problems/group-anagrams
+MEDIUM,Heaters,91.9,0.3903633342368567,https://leetcode.com/problems/heaters
+MEDIUM,Course Schedule,91.9,0.48080581507960274,https://leetcode.com/problems/course-schedule
+MEDIUM,Daily Temperatures,86.5,0.667310493697497,https://leetcode.com/problems/daily-temperatures
+HARD,Find Median from Data Stream,79.5,0.5271724088518268,https://leetcode.com/problems/find-median-from-data-stream
+EASY,Shortest Word Distance,69.7,0.6565283351992541,https://leetcode.com/problems/shortest-word-distance
+MEDIUM,Flip Equivalent Binary Trees,69.7,0.6982157514770687,https://leetcode.com/problems/flip-equivalent-binary-trees
+MEDIUM,Search Suggestions System,69.7,0.650632097904024,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Shortest Word Distance II,69.7,0.6165623332808787,https://leetcode.com/problems/shortest-word-distance-ii
+EASY,Move Zeroes,69.7,0.6237767407061282,https://leetcode.com/problems/move-zeroes
+MEDIUM,Course Schedule II,69.7,0.5218098513989794,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Snakes and Ladders,69.7,0.43895139161113295,https://leetcode.com/problems/snakes-and-ladders
+MEDIUM,Find the Duplicate Number,69.7,0.6204376331329962,https://leetcode.com/problems/find-the-duplicate-number

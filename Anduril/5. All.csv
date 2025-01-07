@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Group Anagrams,100.0,0.6997627797633867,https://leetcode.com/problems/group-anagrams
+MEDIUM,Heaters,100.0,0.3903633342368567,https://leetcode.com/problems/heaters
+MEDIUM,Number of Islands,100.0,0.6112267846348662,https://leetcode.com/problems/number-of-islands
+HARD,Maximum Number of Visible Points,96.7,0.3742272499851598,https://leetcode.com/problems/maximum-number-of-visible-points
+MEDIUM,Daily Temperatures,92.8,0.667310493697497,https://leetcode.com/problems/daily-temperatures
+EASY,Shortest Word Distance,92.8,0.6565283351992541,https://leetcode.com/problems/shortest-word-distance
+MEDIUM,Course Schedule,88.3,0.48080581507960274,https://leetcode.com/problems/course-schedule
+MEDIUM,Search Suggestions System,82.8,0.650632097904024,https://leetcode.com/problems/search-suggestions-system
+HARD,Find Median from Data Stream,82.8,0.5271724088518268,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Flip Equivalent Binary Trees,75.6,0.6982157514770687,https://leetcode.com/problems/flip-equivalent-binary-trees
+MEDIUM,Flatten Binary Tree to Linked List,65.6,0.6721726926812379,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+MEDIUM,Game of Life,65.6,0.7057873020098496,https://leetcode.com/problems/game-of-life
+HARD,Basic Calculator,65.6,0.4444640677651304,https://leetcode.com/problems/basic-calculator
+MEDIUM,Shortest Word Distance II,65.6,0.6165623332808787,https://leetcode.com/problems/shortest-word-distance-ii
+MEDIUM,Basic Calculator II,65.6,0.44895474368971344,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Search in Rotated Sorted Array,65.6,0.42017075983930496,https://leetcode.com/problems/search-in-rotated-sorted-array
+EASY,Move Zeroes,65.6,0.6237767407061282,https://leetcode.com/problems/move-zeroes
+MEDIUM,Course Schedule II,65.6,0.5218098513989794,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Snakes and Ladders,65.6,0.43895139161113295,https://leetcode.com/problems/snakes-and-ladders
+HARD,Merge k Sorted Lists,65.6,0.551603657592466,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Find the Duplicate Number,65.6,0.6204376331329962,https://leetcode.com/problems/find-the-duplicate-number

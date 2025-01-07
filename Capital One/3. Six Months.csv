@@ -1,19 +1,20 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Simple Bank System,100.0,0.6360117481282787,https://leetcode.com/problems/simple-bank-system
-HARD,Block Placement Queries,98.0,0.15156909121942894,https://leetcode.com/problems/block-placement-queries
-MEDIUM,Spiral Matrix,93.5,0.5222655811136241,https://leetcode.com/problems/spiral-matrix
-HARD,Text Justification,84.3,0.4625562871305861,https://leetcode.com/problems/text-justification
-MEDIUM,Rotate Image,84.3,0.7663565493770786,https://leetcode.com/problems/rotate-image
-MEDIUM,Simplify Path,80.2,0.455984441868086,https://leetcode.com/problems/simplify-path
-MEDIUM,Minimum Operations to Write the Letter Y on a Grid,68.7,0.6219364016240405,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid
-MEDIUM,Count Alternating Subarrays,68.7,0.5715883330814568,https://leetcode.com/problems/count-alternating-subarrays
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,68.7,0.5665081750132076,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
-HARD,Largest Rectangle in Histogram,59.6,0.4611576222104536,https://leetcode.com/problems/largest-rectangle-in-histogram
-MEDIUM,Meeting Rooms II,59.6,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Non-overlapping Intervals,59.6,0.5458519587206231,https://leetcode.com/problems/non-overlapping-intervals
-MEDIUM,Find the Length of the Longest Common Prefix,59.6,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
-HARD,Remove Boxes,59.6,0.48104023158719383,https://leetcode.com/problems/remove-boxes
-EASY,Best Time to Buy and Sell Stock,59.6,0.5449236034350208,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Four Divisors,59.6,0.4404895037863054,https://leetcode.com/problems/four-divisors
-HARD,Number of Flowers in Full Bloom,59.6,0.5696301469033692,https://leetcode.com/problems/number-of-flowers-in-full-bloom
-MEDIUM,Number of Islands,59.6,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Simple Bank System,100.0,0.6364081191894309,https://leetcode.com/problems/simple-bank-system
+HARD,Block Placement Queries,100.0,0.152011778619874,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Spiral Matrix,91.8,0.5230483209213309,https://leetcode.com/problems/spiral-matrix
+HARD,Text Justification,86.2,0.4632742352690355,https://leetcode.com/problems/text-justification
+MEDIUM,Rotate Image,82.7,0.7669476465694077,https://leetcode.com/problems/rotate-image
+MEDIUM,Simplify Path,78.6,0.45695846056904654,https://leetcode.com/problems/simplify-path
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,67.2,0.6221289426231931,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid
+MEDIUM,Count Alternating Subarrays,67.2,0.5718483912289956,https://leetcode.com/problems/count-alternating-subarrays
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,67.2,0.5664732639332009,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+EASY,Best Time to Buy and Sell Stock,67.2,0.5452634891153141,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Meeting Rooms II,58.2,0.5178402898285993,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Number of Islands,58.2,0.6112260291537752,https://leetcode.com/problems/number-of-islands
+HARD,Largest Rectangle in Histogram,58.2,0.46159670344185744,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Find the Length of the Longest Common Prefix,58.2,0.5621293753558577,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Non-overlapping Intervals,58.2,0.5462370870827298,https://leetcode.com/problems/non-overlapping-intervals
+HARD,Remove Boxes,58.2,0.4810799988559334,https://leetcode.com/problems/remove-boxes
+MEDIUM,Four Divisors,58.2,0.44047505333205966,https://leetcode.com/problems/four-divisors
+HARD,Number of Flowers in Full Bloom,58.2,0.5698214878565774,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+EASY,Palindrome Number,58.2,0.5822326593921145,https://leetcode.com/problems/palindrome-number

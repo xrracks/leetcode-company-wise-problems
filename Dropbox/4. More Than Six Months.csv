@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Simple Bank System,100.0,0.6364142538975501,https://leetcode.com/problems/simple-bank-system
+MEDIUM,Max Area of Island,97.7,0.7271225709350659,https://leetcode.com/problems/max-area-of-island
+MEDIUM,Find Duplicate File in System,74.1,0.6757432787931584,https://leetcode.com/problems/find-duplicate-file-in-system
+MEDIUM,Number of Islands,74.1,0.6112276807760896,https://leetcode.com/problems/number-of-islands
+MEDIUM,Top K Frequent Elements,65.4,0.6378665882570921,https://leetcode.com/problems/top-k-frequent-elements
+HARD,Minimize Malware Spread,65.4,0.42093125880795457,https://leetcode.com/problems/minimize-malware-spread
+MEDIUM,Merge Intervals,65.4,0.48475787737769743,https://leetcode.com/problems/merge-intervals

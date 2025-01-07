@@ -1,0 +1,20 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Copy List with Random Pointer,100.0,0.5882846041118327,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Rotting Oranges,100.0,0.5557391367752484,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Product of Array Except Self,93.7,0.6713959118362745,https://leetcode.com/problems/product-of-array-except-self
+HARD,Reaching Points,85.6,0.33463824516319873,https://leetcode.com/problems/reaching-points
+EASY,Valid Parentheses,85.6,0.41538868179580407,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Sort Colors,85.6,0.6582513695138581,https://leetcode.com/problems/sort-colors
+MEDIUM,Implement Trie (Prefix Tree),85.6,0.6704758589804415,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Binary Tree Zigzag Level Order Traversal,74.3,0.6062053561852464,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+HARD,IPO,74.3,0.5301691310961139,https://leetcode.com/problems/ipo
+MEDIUM,Optimal Partition of String,74.3,0.7805102136620304,https://leetcode.com/problems/optimal-partition-of-string
+MEDIUM,Boats to Save People,74.3,0.597605866069851,https://leetcode.com/problems/boats-to-save-people
+MEDIUM,Top K Frequent Elements,74.3,0.6378660195176844,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Two Sum,74.3,0.5456848212078474,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Substring Without Repeating Characters,74.3,0.3597431237350228,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Clone Graph,74.3,0.6043647469495445,https://leetcode.com/problems/clone-graph
+MEDIUM,Merge Intervals,74.3,0.48475698177745385,https://leetcode.com/problems/merge-intervals
+MEDIUM,Minesweeper,74.3,0.6752538322166138,https://leetcode.com/problems/minesweeper
+MEDIUM,3Sum,74.3,0.36009005889055,https://leetcode.com/problems/3sum
+EASY,Palindrome Permutation,74.3,0.6801397440115305,https://leetcode.com/problems/palindrome-permutation

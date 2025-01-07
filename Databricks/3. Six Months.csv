@@ -1,0 +1,19 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Design Hit Counter,100.0,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
+MEDIUM,House Robber,98.6,0.5181555043088136,https://leetcode.com/problems/house-robber
+MEDIUM,Design Tic-Tac-Toe,91.9,0.5834831827582454,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,House Robber II,91.9,0.42898949913503,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Time Based Key-Value Store,85.0,0.4930010025287666,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,IP to CIDR,82.1,0.5581040700669758,https://leetcode.com/problems/ip-to-cidr
+HARD,Split Message Based on Limit,78.8,0.43385097592249605,https://leetcode.com/problems/split-message-based-on-limit
+HARD,Text Justification,74.9,0.4632747415916464,https://leetcode.com/problems/text-justification
+MEDIUM,Longest Mountain in Array,63.9,0.40732439440967355,https://leetcode.com/problems/longest-mountain-in-array
+MEDIUM,Closest Leaf in a Binary Tree,55.1,0.4671845320783602,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+MEDIUM,Longest Palindrome by Concatenating Two Letter Words,55.1,0.4787706560412016,https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words
+HARD,Number of Flowers in Full Bloom,55.1,0.5698214878565774,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+MEDIUM,Find the Length of the Longest Common Prefix,55.1,0.5621293753558577,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Finding Pairs With a Certain Sum,55.1,0.5145917471466198,https://leetcode.com/problems/finding-pairs-with-a-certain-sum
+MEDIUM,Spiral Matrix,55.1,0.5230484378990381,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,55.1,0.5634547717130106,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+MEDIUM,String to Integer (atoi),55.1,0.18419981058955692,https://leetcode.com/problems/string-to-integer-atoi
+MEDIUM,Snapshot Array,55.1,0.3676601089248457,https://leetcode.com/problems/snapshot-array

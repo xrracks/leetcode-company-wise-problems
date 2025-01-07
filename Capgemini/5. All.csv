@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5456856737956223,https://leetcode.com/problems/two-sum
+EASY,Number of Unique Subjects Taught by Each Teacher,94.0,0.8915529613433182,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher
+EASY,Count Elements With Maximum Frequency,78.2,0.7835768623610874,https://leetcode.com/problems/count-elements-with-maximum-frequency
+EASY,Best Time to Buy and Sell Stock,73.1,0.5452644668433633,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Remove Duplicates from Sorted Array,66.6,0.5877204718897303,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Longest Common Prefix,66.6,0.4447200019390045,https://leetcode.com/problems/longest-common-prefix
+EASY,Fibonacci Number,66.6,0.7222484197533922,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Nth Highest Salary,57.4,0.37951902197405424,https://leetcode.com/problems/nth-highest-salary
+MEDIUM,Group Anagrams,57.4,0.6997636016234083,https://leetcode.com/problems/group-anagrams
+HARD,Median of Two Sorted Arrays,57.4,0.4237004135619863,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Longest Substring Without Repeating Characters,57.4,0.35974315882279995,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Happy String,57.4,0.6549086113962167,https://leetcode.com/problems/longest-happy-string
+MEDIUM,Delete Node in a Linked List,57.4,0.8136665872961008,https://leetcode.com/problems/delete-node-in-a-linked-list
+MEDIUM,Add Two Numbers,57.4,0.44937138832483475,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Rotate Array,57.4,0.4210416926783936,https://leetcode.com/problems/rotate-array
+MEDIUM,Reverse Words in a String,57.4,0.48645126589278237,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Valid Palindrome,57.4,0.4959740928789868,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Remove Nth Node From End of List,57.4,0.4758429024798623,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+EASY,Palindrome Number,57.4,0.5822343101996498,https://leetcode.com/problems/palindrome-number
+MEDIUM,Exchange Seats,57.4,0.7176794832359275,https://leetcode.com/problems/exchange-seats

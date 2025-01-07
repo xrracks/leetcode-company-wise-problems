@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Reverse Linked List,100.0,0.7827330149367749,https://leetcode.com/problems/reverse-linked-list
+EASY,Valid Parentheses,91.2,0.4153884373366459,https://leetcode.com/problems/valid-parentheses
+MEDIUM,LRU Cache,91.2,0.4397805713502933,https://leetcode.com/problems/lru-cache
+EASY,Palindrome Number,78.9,0.5822333980918972,https://leetcode.com/problems/palindrome-number
+HARD,Reverse Nodes in k-Group,78.9,0.6142018203051965,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Maximum Subarray,78.9,0.5151960362211924,https://leetcode.com/problems/maximum-subarray
+EASY,Climbing Stairs,78.9,0.5327838946151161,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Min Stack,78.9,0.5555547123610626,https://leetcode.com/problems/min-stack
+EASY,Find Winner on a Tic Tac Toe Game,78.9,0.5400922220024045,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+MEDIUM,Longest Substring Without Repeating Characters,78.9,0.3597424632081747,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Rotate Image,78.9,0.7669483987743431,https://leetcode.com/problems/rotate-image
+EASY,Number of 1 Bits,78.9,0.7326506865867237,https://leetcode.com/problems/number-of-1-bits
+EASY,Power of Two,78.9,0.48106300339394376,https://leetcode.com/problems/power-of-two
+EASY,Single Number,78.9,0.748754960808488,https://leetcode.com/problems/single-number
+EASY,Palindrome Linked List,78.9,0.5476099612709576,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Swap Nodes in Pairs,78.9,0.6607530740321657,https://leetcode.com/problems/swap-nodes-in-pairs

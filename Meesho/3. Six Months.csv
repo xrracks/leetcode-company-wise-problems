@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Painting the Walls,100.0,0.503438367542409,https://leetcode.com/problems/painting-the-walls
+MEDIUM,Number of Strings Which Can Be Rearranged to Contain Substring,88.0,0.5510500807754443,https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring
+HARD,Number of Possible Sets of Closing Branches,88.0,0.5065253908773744,https://leetcode.com/problems/number-of-possible-sets-of-closing-branches
+HARD,Count Complete Substrings,88.0,0.27722316624185783,https://leetcode.com/problems/count-complete-substrings
+MEDIUM,Longest Non-decreasing Subarray From Two Arrays,88.0,0.2979676970799016,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays
+MEDIUM,Delete and Earn,88.0,0.5658224220682867,https://leetcode.com/problems/delete-and-earn
+MEDIUM,Consecutive Numbers,88.0,0.44902122247774395,https://leetcode.com/problems/consecutive-numbers
+HARD,Minimum Number of Taps to Open to Water a Garden,88.0,0.5068628230041827,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+HARD,Minimum Edge Reversals So Every Node Is Reachable,88.0,0.572848655961414,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
+HARD,Count Subarrays With Fixed Bounds,88.0,0.6777196096629151,https://leetcode.com/problems/count-subarrays-with-fixed-bounds

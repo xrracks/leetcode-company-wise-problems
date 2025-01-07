@@ -1,0 +1,31 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Best Time to Buy and Sell Stock,100.0,0.5452640647660772,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Two Sum,92.4,0.5456845214757035,https://leetcode.com/problems/two-sum
+MEDIUM,Merge Intervals,87.6,0.4847564309549797,https://leetcode.com/problems/merge-intervals
+EASY,Valid Parentheses,81.7,0.4153885642281851,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Jump Game,74.1,0.3897889711600748,https://leetcode.com/problems/jump-game
+HARD,Minimum Number of Refueling Stops,74.1,0.4030481890985673,https://leetcode.com/problems/minimum-number-of-refueling-stops
+MEDIUM,Longest Substring Without Repeating Characters,74.1,0.3597424846260451,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,LRU Cache,74.1,0.4397805713502933,https://leetcode.com/problems/lru-cache
+HARD,First Missing Positive,74.1,0.40339549304968325,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Longest Palindromic Substring,74.1,0.3498429498866465,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Maximum Subarray,63.4,0.5151960844534291,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Number of Closed Islands,63.4,0.6656378855522271,https://leetcode.com/problems/number-of-closed-islands
+MEDIUM,Sort Colors,63.4,0.6582505736186897,https://leetcode.com/problems/sort-colors
+MEDIUM,Add Two Numbers,63.4,0.44937065435341056,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Subarray Sum Equals K,63.4,0.44595893195477143,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Count of Integers,63.4,0.349850064258175,https://leetcode.com/problems/count-of-integers
+MEDIUM,Reverse Words in a String,63.4,0.48644790688546796,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Subtree of Another Tree,63.4,0.49186488628497477,https://leetcode.com/problems/subtree-of-another-tree
+MEDIUM,Elimination Game,63.4,0.4535846426971512,https://leetcode.com/problems/elimination-game
+EASY,Reverse String,63.4,0.7932258148813203,https://leetcode.com/problems/reverse-string
+MEDIUM,Rotate List,63.4,0.39091333464451117,https://leetcode.com/problems/rotate-list
+MEDIUM,Steps to Make Array Non-decreasing,63.4,0.22597913868908553,https://leetcode.com/problems/steps-to-make-array-non-decreasing
+MEDIUM,Lowest Common Ancestor of a Binary Tree,63.4,0.6499510561064309,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,House Robber,63.4,0.5181555420934033,https://leetcode.com/problems/house-robber
+MEDIUM,Letter Combinations of a Phone Number,63.4,0.6258623839293727,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Copy List with Random Pointer,63.4,0.5882842724165879,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Best Time to Buy and Sell Stock II,63.4,0.6840509108723932,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Decode Ways,63.4,0.35864203770942155,https://leetcode.com/problems/decode-ways
+EASY,Sqrt(x),63.4,0.39778995539980505,https://leetcode.com/problems/sqrtx
+HARD,Count of Range Sum,63.4,0.363771334086492,https://leetcode.com/problems/count-of-range-sum

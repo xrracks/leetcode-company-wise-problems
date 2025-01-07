@@ -1,0 +1,28 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.37273688871396243,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i
+HARD,Find Beautiful Indices in the Given Array II,97.8,0.2546797931977101,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
+HARD,Integer to English Words,89.5,0.34172421038619005,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,LRU Cache,87.8,0.4397805713502933,https://leetcode.com/problems/lru-cache
+MEDIUM,Minimum Time Difference,87.8,0.6218417218702963,https://leetcode.com/problems/minimum-time-difference
+EASY,Range Sum Query - Immutable,85.9,0.6644019420952302,https://leetcode.com/problems/range-sum-query-immutable
+EASY,Contains Duplicate II,83.8,0.47491309177500474,https://leetcode.com/problems/contains-duplicate-ii
+HARD,Contains Duplicate III,83.8,0.23237937762605945,https://leetcode.com/problems/contains-duplicate-iii
+EASY,Check If It Is a Straight Line,83.8,0.39595888187556355,https://leetcode.com/problems/check-if-it-is-a-straight-line
+HARD,Selling Pieces of Wood,83.8,0.5105471459463871,https://leetcode.com/problems/selling-pieces-of-wood
+MEDIUM,Maximum Size Subarray Sum Equals k,83.8,0.5009898757016841,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
+EASY,Contains Duplicate,83.8,0.6257631311676208,https://leetcode.com/problems/contains-duplicate
+EASY,Single Number,83.8,0.7487547912330643,https://leetcode.com/problems/single-number
+HARD,Merge k Sorted Lists,68.6,0.5516029005912945,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Number of Islands,63.7,0.611226460858263,https://leetcode.com/problems/number-of-islands
+MEDIUM,Construct Quad Tree,63.7,0.7639412188325175,https://leetcode.com/problems/construct-quad-tree
+MEDIUM,Find Players With Zero or One Losses,57.5,0.7289685253244048,https://leetcode.com/problems/find-players-with-zero-or-one-losses
+MEDIUM,Shortest Word Distance III,57.5,0.58789585766298,https://leetcode.com/problems/shortest-word-distance-iii
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,57.5,0.36065437536357486,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
+MEDIUM,Merge Intervals,57.5,0.48475658005109046,https://leetcode.com/problems/merge-intervals
+MEDIUM,All Ancestors of a Node in a Directed Acyclic Graph,48.7,0.6207966199141608,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
+MEDIUM,Number of Divisible Triplet Sums,48.7,0.6427406199021207,https://leetcode.com/problems/number-of-divisible-triplet-sums
+EASY,Flood Fill,48.7,0.654642890037863,https://leetcode.com/problems/flood-fill
+MEDIUM,Lowest Common Ancestor of a Binary Tree,48.7,0.64995103926097,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Accounts Merge,48.7,0.5854930611831443,https://leetcode.com/problems/accounts-merge
+EASY,Best Time to Buy and Sell Stock,48.7,0.5452642816208702,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Trapping Rain Water II,48.7,0.4867211258738774,https://leetcode.com/problems/trapping-rain-water-ii

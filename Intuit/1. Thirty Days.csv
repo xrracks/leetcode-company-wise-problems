@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Valid Parentheses,100.0,0.4150710712998599,https://leetcode.com/problems/valid-parentheses
+EASY,Valid Parentheses,100.0,0.4153885526029335,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Word Break,90.1,0.4764143031307191,https://leetcode.com/problems/word-break

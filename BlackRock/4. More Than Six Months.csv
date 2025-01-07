@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.4153892615260819,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Evaluate Division,89.4,0.6253616775418308,https://leetcode.com/problems/evaluate-division
+EASY,Happy Number,84.2,0.5727310051966639,https://leetcode.com/problems/happy-number
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,73.6,0.5309194115593246,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+EASY,Best Time to Buy and Sell Stock,57.0,0.5452645797988649,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Path with Maximum Probability,57.0,0.6535334969349534,https://leetcode.com/problems/path-with-maximum-probability
+MEDIUM,Maximize Greatness of an Array,44.5,0.5839763106310214,https://leetcode.com/problems/maximize-greatness-of-an-array
+MEDIUM,Group Anagrams,44.5,0.6997636835665118,https://leetcode.com/problems/group-anagrams
+EASY,Valid Anagram,44.5,0.6581708911736687,https://leetcode.com/problems/valid-anagram
+MEDIUM,Boundary of Binary Tree,44.5,0.46476830484532156,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Coin Change,44.5,0.4544107718608715,https://leetcode.com/problems/coin-change
+MEDIUM,Generate Parentheses,44.5,0.7612867219142623,https://leetcode.com/problems/generate-parentheses

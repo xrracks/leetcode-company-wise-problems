@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.41539004033203936,https://leetcode.com/problems/valid-parentheses
+EASY,Squares of a Sorted Array,82.0,0.7303110212401555,https://leetcode.com/problems/squares-of-a-sorted-array
+EASY,Move Zeroes,75.7,0.6237760435044959,https://leetcode.com/problems/move-zeroes
+MEDIUM,Merge Intervals,75.7,0.48475811964679955,https://leetcode.com/problems/merge-intervals
+EASY,Remove Duplicates from Sorted Array,66.7,0.5877213617488783,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Monotonic Array,66.7,0.6149278298628498,https://leetcode.com/problems/monotonic-array
+MEDIUM,Number of Islands,66.7,0.6112280259690972,https://leetcode.com/problems/number-of-islands
+EASY,Reverse Linked List,66.7,0.7827345575375325,https://leetcode.com/problems/reverse-linked-list
+EASY,Two Sum,66.7,0.5456863053769355,https://leetcode.com/problems/two-sum
+EASY,Merge Sorted Array,66.7,0.5180381232781559,https://leetcode.com/problems/merge-sorted-array

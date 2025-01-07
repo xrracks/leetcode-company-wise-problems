@@ -1,56 +1,58 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5450373383197369,https://leetcode.com/problems/two-sum
-EASY,Valid Parentheses,100.0,0.4150712046356338,https://leetcode.com/problems/valid-parentheses
-EASY,Merge Sorted Array,100.0,0.5174773442310547,https://leetcode.com/problems/merge-sorted-array
-EASY,Best Time to Buy and Sell Stock,91.8,0.5449243916755069,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Palindrome Number,80.3,0.5816769716318946,https://leetcode.com/problems/palindrome-number
-MEDIUM,Longest Substring Without Repeating Characters,80.3,0.35935513800490265,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Next Permutation,80.3,0.418295146246823,https://leetcode.com/problems/next-permutation
-HARD,Trapping Rain Water,80.3,0.6373267918264369,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Maximum Subarray,80.3,0.5149491636152653,https://leetcode.com/problems/maximum-subarray
-MEDIUM,Jump Game,80.3,0.3896548495541218,https://leetcode.com/problems/jump-game
-MEDIUM,Palindrome Partitioning,80.3,0.7089176761840279,https://leetcode.com/problems/palindrome-partitioning
-MEDIUM,Add Two Numbers,72.2,0.4487591266729803,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Single Element in a Sorted Array,72.2,0.5923862429782363,https://leetcode.com/problems/single-element-in-a-sorted-array
-EASY,Reverse String,72.2,0.7930057906594622,https://leetcode.com/problems/reverse-string
-EASY,Missing Number,72.2,0.687785788479155,https://leetcode.com/problems/missing-number
-MEDIUM,Rotate Array,72.2,0.4206104992590133,https://leetcode.com/problems/rotate-array
-MEDIUM,Gas Station,72.2,0.4578430655359792,https://leetcode.com/problems/gas-station
-MEDIUM,Reverse Integer,72.2,0.29565295209006603,https://leetcode.com/problems/reverse-integer
-MEDIUM,3Sum,72.2,0.35961038280787183,https://leetcode.com/problems/3sum
-EASY,Remove Duplicates from Sorted Array,72.2,0.5868529707359057,https://leetcode.com/problems/remove-duplicates-from-sorted-array
-EASY,Greatest Common Divisor of Strings,60.8,0.5225943983621436,https://leetcode.com/problems/greatest-common-divisor-of-strings
-MEDIUM,Second Highest Salary,60.8,0.424244248591549,https://leetcode.com/problems/second-highest-salary
-MEDIUM,Combination Sum,60.8,0.7341582038409358,https://leetcode.com/problems/combination-sum
-EASY,Climbing Stairs,60.8,0.5326793677410606,https://leetcode.com/problems/climbing-stairs
-MEDIUM,House Robber,60.8,0.5179709828188317,https://leetcode.com/problems/house-robber
-EASY,Average Time of Process per Machine,60.8,0.687716734311335,https://leetcode.com/problems/average-time-of-process-per-machine
-EASY,Find the Index of the First Occurrence in a String,60.8,0.44068014668053784,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
-HARD,Minimum Reverse Operations,60.8,0.16473604826546004,https://leetcode.com/problems/minimum-reverse-operations
-EASY,Sqrt(x),60.8,0.3975127313456992,https://leetcode.com/problems/sqrtx
-HARD,Maximum Score Words Formed by Letters,60.8,0.8181369566686947,https://leetcode.com/problems/maximum-score-words-formed-by-letters
-EASY,Fibonacci Number,60.8,0.7219075182998725,https://leetcode.com/problems/fibonacci-number
-MEDIUM,Group Anagrams,60.8,0.6992934435759459,https://leetcode.com/problems/group-anagrams
-MEDIUM,Edit Distance,60.8,0.5783445669848835,https://leetcode.com/problems/edit-distance
-MEDIUM,"Pow(x, n)",60.8,0.36107215592112524,https://leetcode.com/problems/powx-n
-MEDIUM,Car Fleet,60.8,0.5251230338705009,https://leetcode.com/problems/car-fleet
-MEDIUM,Sort Colors,60.8,0.657662994331763,https://leetcode.com/problems/sort-colors
-EASY,Employee Bonus,60.8,0.7682972101987299,https://leetcode.com/problems/employee-bonus
-HARD,Sliding Window Maximum,60.8,0.47070035952422434,https://leetcode.com/problems/sliding-window-maximum
-HARD,Reverse Nodes in k-Group,60.8,0.6135042838791728,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Container With Most Water,60.8,0.5672664993382032,https://leetcode.com/problems/container-with-most-water
-EASY,Longest Common Prefix,60.8,0.44416897484794104,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Swap Nodes in Pairs,60.8,0.6602514113518296,https://leetcode.com/problems/swap-nodes-in-pairs
-EASY,Search Insert Position,60.8,0.4785326489459007,https://leetcode.com/problems/search-insert-position
-MEDIUM,Rotate List,60.8,0.39064394990020285,https://leetcode.com/problems/rotate-list
-MEDIUM,Search a 2D Matrix,60.8,0.5146653364752145,https://leetcode.com/problems/search-a-2d-matrix
-MEDIUM,Find the Duplicate Number,60.8,0.6200863433020448,https://leetcode.com/problems/find-the-duplicate-number
-EASY,Convert Binary Number in a Linked List to Integer,60.8,0.8117064358628765,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
-EASY,Find Followers Count,60.8,0.6935102915845693,https://leetcode.com/problems/find-followers-count
-MEDIUM,Peak Index in a Mountain Array,60.8,0.6795606062945067,https://leetcode.com/problems/peak-index-in-a-mountain-array
-MEDIUM,Koko Eating Bananas,60.8,0.4868795211044024,https://leetcode.com/problems/koko-eating-bananas
-EASY,Merge Two Sorted Lists,60.8,0.6585744798961513,https://leetcode.com/problems/merge-two-sorted-lists
-MEDIUM,Integer to Roman,60.8,0.6717640921057799,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Two Sum II - Input Array Is Sorted,60.8,0.6252236700132509,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
-MEDIUM,Number of Islands,60.8,0.6107403600887201,https://leetcode.com/problems/number-of-islands
-MEDIUM,Coin Change,60.8,0.453944694150401,https://leetcode.com/problems/coin-change
+EASY,Two Sum,100.0,0.5456838836162556,https://leetcode.com/problems/two-sum
+EASY,Valid Parentheses,100.0,0.4153885595858561,https://leetcode.com/problems/valid-parentheses
+EASY,Merge Sorted Array,96.7,0.5180364618000208,https://leetcode.com/problems/merge-sorted-array
+EASY,Best Time to Buy and Sell Stock,88.8,0.5452642725623186,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Trapping Rain Water,83.8,0.6378149057718029,https://leetcode.com/problems/trapping-rain-water
+EASY,Palindrome Number,77.6,0.5822331147795222,https://leetcode.com/problems/palindrome-number
+MEDIUM,Longest Substring Without Repeating Characters,77.6,0.3597421287281472,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Next Permutation,77.6,0.4188319885720574,https://leetcode.com/problems/next-permutation
+MEDIUM,3Sum,77.6,0.36008937191367296,https://leetcode.com/problems/3sum
+MEDIUM,Maximum Subarray,77.6,0.51519600527437,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Jump Game,77.6,0.38978925057153446,https://leetcode.com/problems/jump-game
+MEDIUM,Palindrome Partitioning,77.6,0.709346894145825,https://leetcode.com/problems/palindrome-partitioning
+MEDIUM,Add Two Numbers,69.7,0.4493702115968818,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Single Element in a Sorted Array,69.7,0.5923485902621369,https://leetcode.com/problems/single-element-in-a-sorted-array
+EASY,Reverse String,69.7,0.7932258519549386,https://leetcode.com/problems/reverse-string
+EASY,Missing Number,69.7,0.6884047877464599,https://leetcode.com/problems/missing-number
+MEDIUM,Rotate Array,69.7,0.4210399470980735,https://leetcode.com/problems/rotate-array
+MEDIUM,Gas Station,69.7,0.458005218736327,https://leetcode.com/problems/gas-station
+MEDIUM,Reverse Integer,69.7,0.29599246330140566,https://leetcode.com/problems/reverse-integer
+EASY,Remove Duplicates from Sorted Array,69.7,0.5877185117340339,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Sort Colors,58.6,0.6582493290177939,https://leetcode.com/problems/sort-colors
+MEDIUM,Second Highest Salary,58.6,0.4248120114034826,https://leetcode.com/problems/second-highest-salary
+MEDIUM,Coin Change,58.6,0.45440949994642793,https://leetcode.com/problems/coin-change
+EASY,Climbing Stairs,58.6,0.532783662814038,https://leetcode.com/problems/climbing-stairs
+MEDIUM,House Robber,58.6,0.5181555043088136,https://leetcode.com/problems/house-robber
+EASY,Average Time of Process per Machine,58.6,0.6879322295438793,https://leetcode.com/problems/average-time-of-process-per-machine
+EASY,Find the Index of the First Occurrence in a String,58.6,0.4411402074052939,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+HARD,Maximum Score Words Formed by Letters,58.6,0.8180408862047815,https://leetcode.com/problems/maximum-score-words-formed-by-letters
+MEDIUM,Group Anagrams,58.6,0.6997624917446398,https://leetcode.com/problems/group-anagrams
+MEDIUM,Edit Distance,58.6,0.578709719878238,https://leetcode.com/problems/edit-distance
+MEDIUM,"Pow(x, n)",58.6,0.3614477657034893,https://leetcode.com/problems/powx-n
+HARD,Minimum Reverse Operations,58.6,0.16548278352997833,https://leetcode.com/problems/minimum-reverse-operations
+MEDIUM,Car Fleet,58.6,0.5256880162019684,https://leetcode.com/problems/car-fleet
+MEDIUM,Combination Sum,58.6,0.7346530801344319,https://leetcode.com/problems/combination-sum
+EASY,Fibonacci Number,58.6,0.7222475461453196,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Rotate Image,58.6,0.7669481396654567,https://leetcode.com/problems/rotate-image
+EASY,Greatest Common Divisor of Strings,58.6,0.5228891729940786,https://leetcode.com/problems/greatest-common-divisor-of-strings
+EASY,Find Followers Count,58.6,0.6936674212750511,https://leetcode.com/problems/find-followers-count
+EASY,Sqrt(x),58.6,0.39778940151902775,https://leetcode.com/problems/sqrtx
+EASY,Convert Binary Number in a Linked List to Integer,58.6,0.8117448401150305,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+MEDIUM,Container With Most Water,58.6,0.5676691493561449,https://leetcode.com/problems/container-with-most-water
+EASY,Longest Common Prefix,58.6,0.4447192248202975,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Swap Nodes in Pairs,58.6,0.6607526334813032,https://leetcode.com/problems/swap-nodes-in-pairs
+EASY,Search Insert Position,58.6,0.4790885471750181,https://leetcode.com/problems/search-insert-position
+MEDIUM,Rotate List,58.6,0.3909132454097384,https://leetcode.com/problems/rotate-list
+MEDIUM,Search a 2D Matrix,58.6,0.5149910332379587,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Find the Duplicate Number,58.6,0.6204382770019122,https://leetcode.com/problems/find-the-duplicate-number
+EASY,Employee Bonus,58.6,0.7686913697281587,https://leetcode.com/problems/employee-bonus
+HARD,Sliding Window Maximum,58.6,0.4709058103191584,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Peak Index in a Mountain Array,58.6,0.6793270068227362,https://leetcode.com/problems/peak-index-in-a-mountain-array
+MEDIUM,Koko Eating Bananas,58.6,0.48695409820690133,https://leetcode.com/problems/koko-eating-bananas
+EASY,Merge Two Sorted Lists,58.6,0.6590067748571878,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Integer to Roman,58.6,0.6724926376666089,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Two Sum II - Input Array Is Sorted,58.6,0.6255696260505164,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+MEDIUM,Number of Islands,58.6,0.6112265906115717,https://leetcode.com/problems/number-of-islands
+HARD,Reverse Nodes in k-Group,58.6,0.6142013048978052,https://leetcode.com/problems/reverse-nodes-in-k-group
+EASY,Kids With the Greatest Number of Candies,58.6,0.8791430238517157,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies

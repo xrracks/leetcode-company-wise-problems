@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Most Stones Removed with Same Row or Column,100.0,0.62105467498811,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.3537855333520968,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements

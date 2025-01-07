@@ -1,34 +1,37 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Operations to Make Numbers Non-positive,100.0,0.4121785007693999,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
-MEDIUM,Length of Longest Subarray With at Most K Frequency,82.7,0.558338720103426,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
-MEDIUM,LRU Cache,82.7,0.43931229996871723,https://leetcode.com/problems/lru-cache
-HARD,Couples Holding Hands,77.1,0.5800619615498875,https://leetcode.com/problems/couples-holding-hands
-EASY,Fizz Buzz,70.0,0.7351191150355767,https://leetcode.com/problems/fizz-buzz
-HARD,Minimum Costs Using the Train Line,70.0,0.7830287366931266,https://leetcode.com/problems/minimum-costs-using-the-train-line
-HARD,Best Position for a Service Centre,70.0,0.3458923149296497,https://leetcode.com/problems/best-position-for-a-service-centre
-MEDIUM,Maximum Total Damage With Spell Casting,70.0,0.2690281450505299,https://leetcode.com/problems/maximum-total-damage-with-spell-casting
-MEDIUM,Insert Delete GetRandom O(1),70.0,0.5479311778504371,https://leetcode.com/problems/insert-delete-getrandom-o1
-HARD,Sort Items by Groups Respecting Dependencies,70.0,0.6589158835663533,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
-HARD,Design Excel Sum Formula,70.0,0.4384048353174198,https://leetcode.com/problems/design-excel-sum-formula
-MEDIUM,Design Circular Queue,70.0,0.5212501011349177,https://leetcode.com/problems/design-circular-queue
-MEDIUM,Paint House,59.9,0.6319346404854427,https://leetcode.com/problems/paint-house
-HARD,Merge k Sorted Lists,59.9,0.5509065267556179,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Search Suggestions System,59.9,0.6505649285149212,https://leetcode.com/problems/search-suggestions-system
-MEDIUM,Letter Combinations of a Phone Number,59.9,0.625286825377602,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,Palindromic Substrings,59.9,0.7099839709545972,https://leetcode.com/problems/palindromic-substrings
-MEDIUM,Perfect Squares,59.9,0.5526910522986808,https://leetcode.com/problems/perfect-squares
-MEDIUM,Course Schedule,59.9,0.48040216429757904,https://leetcode.com/problems/course-schedule
-HARD,Rank Transform of a Matrix,59.9,0.4111411385232325,https://leetcode.com/problems/rank-transform-of-a-matrix
-HARD,LFU Cache,59.9,0.45428478596377225,https://leetcode.com/problems/lfu-cache
-HARD,Word Ladder II,59.9,0.2711553727257688,https://leetcode.com/problems/word-ladder-ii
-MEDIUM,Find the Duplicate Number,59.9,0.6200863433020448,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,Count Number of Maximum Bitwise-OR Subsets,59.9,0.8809391364394912,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
-EASY,Sqrt(x),59.9,0.39751272708589336,https://leetcode.com/problems/sqrtx
-HARD,Serialize and Deserialize Binary Tree,59.9,0.5798680060916557,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-MEDIUM,Group Anagrams,59.9,0.6992932360482793,https://leetcode.com/problems/group-anagrams
-MEDIUM,Longest String Chain,59.9,0.6153565067733707,https://leetcode.com/problems/longest-string-chain
-MEDIUM,Implement Trie (Prefix Tree),59.9,0.6700103949236733,https://leetcode.com/problems/implement-trie-prefix-tree
-HARD,Sudoku Solver,59.9,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
-MEDIUM,First Completely Painted Row or Column,59.9,0.4995327976079238,https://leetcode.com/problems/first-completely-painted-row-or-column
-MEDIUM,Maximum Length of Repeated Subarray,59.9,0.5096579537156349,https://leetcode.com/problems/maximum-length-of-repeated-subarray
-HARD,Sliding Window Maximum,59.9,0.47070035952422434,https://leetcode.com/problems/sliding-window-maximum
+HARD,Minimum Operations to Make Numbers Non-positive,100.0,0.41282521861168087,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
+MEDIUM,Length of Longest Subarray With at Most K Frequency,82.7,0.5584235563443141,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
+MEDIUM,LRU Cache,82.7,0.4397786910282398,https://leetcode.com/problems/lru-cache
+HARD,Couples Holding Hands,77.1,0.5801361281365345,https://leetcode.com/problems/couples-holding-hands
+HARD,Minimum Costs Using the Train Line,69.9,0.7832995889318363,https://leetcode.com/problems/minimum-costs-using-the-train-line
+HARD,Best Position for a Service Centre,69.9,0.34647179137549,https://leetcode.com/problems/best-position-for-a-service-centre
+MEDIUM,Maximum Total Damage With Spell Casting,69.9,0.26942518406568156,https://leetcode.com/problems/maximum-total-damage-with-spell-casting
+MEDIUM,Insert Delete GetRandom O(1),69.9,0.5480519507056787,https://leetcode.com/problems/insert-delete-getrandom-o1
+EASY,Fizz Buzz,69.9,0.7356985723088217,https://leetcode.com/problems/fizz-buzz
+HARD,Sort Items by Groups Respecting Dependencies,69.9,0.6586113079860079,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
+HARD,Design Excel Sum Formula,69.9,0.438960986210118,https://leetcode.com/problems/design-excel-sum-formula
+MEDIUM,Design Circular Queue,69.9,0.5214246945092345,https://leetcode.com/problems/design-circular-queue
+HARD,Rank Transform of a Matrix,59.8,0.41146793778922097,https://leetcode.com/problems/rank-transform-of-a-matrix
+MEDIUM,Paint House,59.8,0.6321986610333256,https://leetcode.com/problems/paint-house
+MEDIUM,Perfect Squares,59.8,0.5528656659722704,https://leetcode.com/problems/perfect-squares
+MEDIUM,Longest String Chain,59.8,0.6155300025330338,https://leetcode.com/problems/longest-string-chain
+HARD,LFU Cache,59.8,0.45463368319404796,https://leetcode.com/problems/lfu-cache
+HARD,Sliding Window Maximum,59.8,0.47090576442150506,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Search Suggestions System,59.8,0.6506308149089354,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Design Front Middle Back Queue,59.8,0.5690660967363314,https://leetcode.com/problems/design-front-middle-back-queue
+MEDIUM,Evaluate Division,59.8,0.6253629726095394,https://leetcode.com/problems/evaluate-division
+MEDIUM,Number of Islands,59.8,0.6112259535650222,https://leetcode.com/problems/number-of-islands
+MEDIUM,Letter Combinations of a Phone Number,59.8,0.6258614192348442,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+HARD,Serialize and Deserialize Binary Tree,59.8,0.5802163472522505,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+HARD,Merge k Sorted Lists,59.8,0.5516023761845168,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Word Ladder II,59.8,0.27115672780753114,https://leetcode.com/problems/word-ladder-ii
+MEDIUM,Course Schedule,59.8,0.4808050570422261,https://leetcode.com/problems/course-schedule
+MEDIUM,Count Number of Maximum Bitwise-OR Subsets,59.8,0.8810329985652797,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
+EASY,Sqrt(x),59.8,0.39778922348320483,https://leetcode.com/problems/sqrtx
+MEDIUM,Group Anagrams,59.8,0.6997623680985018,https://leetcode.com/problems/group-anagrams
+MEDIUM,Find the Duplicate Number,59.8,0.6204385773245555,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,Implement Trie (Prefix Tree),59.8,0.6704749584446694,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Sudoku Solver,59.8,0.6353939027356343,https://leetcode.com/problems/sudoku-solver
+MEDIUM,First Completely Painted Row or Column,59.8,0.4997577519379845,https://leetcode.com/problems/first-completely-painted-row-or-column
+MEDIUM,Maximum Length of Repeated Subarray,59.8,0.5096222268402194,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+MEDIUM,"Pow(x, n)",59.8,0.36144759558648226,https://leetcode.com/problems/powx-n

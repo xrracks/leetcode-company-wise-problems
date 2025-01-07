@@ -1,7 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximum Points Tourist Can Earn,100.0,0.48951623362587005,https://leetcode.com/problems/maximum-points-tourist-can-earn
-MEDIUM,Minimize Connected Groups by Inserting Interval,97.9,0.5681211041852182,https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval
-HARD,Minimum Runes to Add to Cast Spell,97.9,0.5295169946332737,https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell
-HARD,Binary Tree Cameras,77.6,0.46903038806631464,https://leetcode.com/problems/binary-tree-cameras
-MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,62.2,0.5177429552023122,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted
-HARD,Consecutive Numbers Sum,62.2,0.41930887395545097,https://leetcode.com/problems/consecutive-numbers-sum
+MEDIUM,Maximum Points Tourist Can Earn,100.0,0.4904792606920266,https://leetcode.com/problems/maximum-points-tourist-can-earn
+MEDIUM,Minimize Connected Groups by Inserting Interval,97.9,0.5694564279551337,https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval
+HARD,Minimum Runes to Add to Cast Spell,97.9,0.5231560891938251,https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell
+HARD,Binary Tree Cameras,62.3,0.469059455343243,https://leetcode.com/problems/binary-tree-cameras
+MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,62.3,0.5179201786614798,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted
+HARD,Consecutive Numbers Sum,62.3,0.4193446277920756,https://leetcode.com/problems/consecutive-numbers-sum
+HARD,Minimum Number of Taps to Open to Water a Garden,62.3,0.506861041780295,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden

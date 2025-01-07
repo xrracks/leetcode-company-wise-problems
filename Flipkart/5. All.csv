@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Smallest Range Covering Elements from K Lists,100.0,0.6979953163827749,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+MEDIUM,Shortest Bridge,95.1,0.5818577046762664,https://leetcode.com/problems/shortest-bridge
+HARD,Trapping Rain Water,92.2,0.6378149276722407,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Maximum Points You Can Obtain from Cards,89.0,0.5452001503203986,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+MEDIUM,Container With Most Water,85.2,0.5676699497642484,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Minimum Number of Coins to be Added,83.1,0.5697185292895721,https://leetcode.com/problems/minimum-number-of-coins-to-be-added
+HARD,The Score of Students Solving Math Expression,80.7,0.33419810317696597,https://leetcode.com/problems/the-score-of-students-solving-math-expression
+MEDIUM,Numbers With Same Consecutive Differences,80.7,0.5843353213773612,https://leetcode.com/problems/numbers-with-same-consecutive-differences
+HARD,Triples with Bitwise AND Equal To Zero,80.7,0.5887215654536521,https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero
+MEDIUM,Capacity To Ship Packages Within D Days,80.7,0.7099152695415217,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+MEDIUM,Minimum Cost to Reach City With Discounts,80.7,0.5978645686990728,https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts
+MEDIUM,Minimum Limit of Balls in a Bag,80.7,0.6798091436791506,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag
+HARD,Design Movie Rental System,80.7,0.3681385703830202,https://leetcode.com/problems/design-movie-rental-system
+MEDIUM,Asteroid Collision,78.2,0.44952775052144495,https://leetcode.com/problems/asteroid-collision
+HARD,Minimum Total Cost to Make Arrays Unequal,78.2,0.4209636517328825,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal
+MEDIUM,Longest Substring Without Repeating Characters,75.3,0.3597423162468109,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Binary Tree Maximum Path Sum,72.0,0.4071196068600299,https://leetcode.com/problems/binary-tree-maximum-path-sum
+HARD,Minimum Adjacent Swaps for K Consecutive Ones,72.0,0.42295785548441567,https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
+HARD,Cherry Pickup II,72.0,0.7183530918333689,https://leetcode.com/problems/cherry-pickup-ii
+MEDIUM,Number of Islands,68.3,0.611226385269829,https://leetcode.com/problems/number-of-islands
+MEDIUM,Product of Array Except Self,68.3,0.6713949759442593,https://leetcode.com/problems/product-of-array-except-self
+HARD,Create Maximum Number,68.3,0.3141858866120666,https://leetcode.com/problems/create-maximum-number
+HARD,Strong Password Checker,68.3,0.14240504367340107,https://leetcode.com/problems/strong-password-checker
+MEDIUM,Course Schedule,63.8,0.4808059192003688,https://leetcode.com/problems/course-schedule
+MEDIUM,Decode Ways,63.8,0.35864203770942155,https://leetcode.com/problems/decode-ways
+HARD,Maximum Profit in Job Scheduling,58.4,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Candy,58.4,0.4413092100539078,https://leetcode.com/problems/candy
+MEDIUM,Search in Rotated Sorted Array,58.4,0.42017102225295005,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Find K-th Smallest Pair Distance,58.4,0.4551649094382222,https://leetcode.com/problems/find-k-th-smallest-pair-distance
+MEDIUM,Koko Eating Bananas,58.4,0.48695439941637053,https://leetcode.com/problems/koko-eating-bananas
+HARD,Dungeon Game,58.4,0.3884658271698149,https://leetcode.com/problems/dungeon-game
+EASY,Two Sum,58.4,0.5456842372770491,https://leetcode.com/problems/two-sum
+MEDIUM,Partition Equal Subset Sum,58.4,0.47028695742840154,https://leetcode.com/problems/partition-equal-subset-sum
+EASY,Merge Two Sorted Lists,58.4,0.65900701081021,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Binary Tree Zigzag Level Order Traversal,58.4,0.606205113010976,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+HARD,Median of Two Sorted Arrays,51.5,0.42369922343756466,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Edit Distance,51.5,0.5787101898039496,https://leetcode.com/problems/edit-distance
+MEDIUM,Subarray Sum Equals K,51.5,0.44595941787594545,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Course Schedule III,51.5,0.40371451494511873,https://leetcode.com/problems/course-schedule-iii
+MEDIUM,Maximum Width of Binary Tree,51.5,0.43521030535862804,https://leetcode.com/problems/maximum-width-of-binary-tree
+MEDIUM,Daily Temperatures,51.5,0.6673108757676431,https://leetcode.com/problems/daily-temperatures
+HARD,Cherry Pickup,51.5,0.3742077405434563,https://leetcode.com/problems/cherry-pickup
+MEDIUM,Open the Lock,51.5,0.6051160318866253,https://leetcode.com/problems/open-the-lock
+HARD,Largest Rectangle in Histogram,51.5,0.4615969690076107,https://leetcode.com/problems/largest-rectangle-in-histogram
+HARD,Minimum Window Substring,51.5,0.44291868575078525,https://leetcode.com/problems/minimum-window-substring
+EASY,Last Stone Weight,51.5,0.6572259056404345,https://leetcode.com/problems/last-stone-weight
+MEDIUM,House Robber,51.5,0.5181553804857995,https://leetcode.com/problems/house-robber
+MEDIUM,01 Matrix,51.5,0.5012713059351869,https://leetcode.com/problems/01-matrix
+MEDIUM,Car Pooling,51.5,0.5596356456059762,https://leetcode.com/problems/car-pooling
+MEDIUM,Rank Teams by Votes,51.5,0.5882525508378769,https://leetcode.com/problems/rank-teams-by-votes
+EASY,Number of Students Unable to Eat Lunch,51.5,0.7845200925163492,https://leetcode.com/problems/number-of-students-unable-to-eat-lunch
+HARD,First Missing Positive,51.5,0.4033945506436585,https://leetcode.com/problems/first-missing-positive
+EASY,Remove Duplicates from Sorted Array,51.5,0.5877187457150692,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+HARD,Minimum Number of Refueling Stops,51.5,0.4030481890985673,https://leetcode.com/problems/minimum-number-of-refueling-stops
+MEDIUM,3Sum,51.5,0.3600899197337295,https://leetcode.com/problems/3sum
+MEDIUM,Jump Game,51.5,0.3897889259408553,https://leetcode.com/problems/jump-game
+HARD,Maximal Rectangle,51.5,0.5245217361492046,https://leetcode.com/problems/maximal-rectangle
+HARD,Alien Dictionary,51.5,0.3628537344163828,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Word Break,51.5,0.47641420762076747,https://leetcode.com/problems/word-break
+MEDIUM,Predict the Winner,51.5,0.5550028625533976,https://leetcode.com/problems/predict-the-winner
+MEDIUM,Lowest Common Ancestor of a Binary Tree,51.5,0.64995103926097,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+HARD,Burst Balloons,51.5,0.6032279930854962,https://leetcode.com/problems/burst-balloons
+MEDIUM,Kth Largest Element in an Array,51.5,0.6738410160601618,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Populating Next Right Pointers in Each Node,51.5,0.6442299173336388,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+HARD,Sliding Window Maximum,51.5,0.4709058562166668,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Path Sum III,51.5,0.4605085882676696,https://leetcode.com/problems/path-sum-iii
+MEDIUM,Binary Tree Right Side View,51.5,0.6474089101966329,https://leetcode.com/problems/binary-tree-right-side-view
+MEDIUM,Minimum Number of Arrows to Burst Balloons,51.5,0.5973158731599153,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+MEDIUM,Swap Nodes in Pairs,41.8,0.6607527803317178,https://leetcode.com/problems/swap-nodes-in-pairs
+MEDIUM,Minimized Maximum of Products Distributed to Any Store,41.8,0.6262164690440157,https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store
+MEDIUM,Path with Maximum Gold,41.8,0.6806183023208687,https://leetcode.com/problems/path-with-maximum-gold
+MEDIUM,Furthest Building You Can Reach,41.8,0.5004226947519219,https://leetcode.com/problems/furthest-building-you-can-reach
+EASY,Crawler Log Folder,41.8,0.716525729592943,https://leetcode.com/problems/crawler-log-folder
+MEDIUM,Jump Game II,41.8,0.40963794993475794,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Maximum Subarray,41.8,0.5151961017389886,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Time Needed to Inform All Employees,41.8,0.6013172001837954,https://leetcode.com/problems/time-needed-to-inform-all-employees
+MEDIUM,Rotate Array,41.8,0.4210403332068963,https://leetcode.com/problems/rotate-array
+HARD,Minimum Number of Taps to Open to Water a Garden,41.8,0.5068628230041827,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Min Stack,41.8,0.5555544625250429,https://leetcode.com/problems/min-stack
+MEDIUM,Spiral Matrix,41.8,0.5230484378990381,https://leetcode.com/problems/spiral-matrix
+HARD,Maximum Running Time of N Computers,41.8,0.4994664160680438,https://leetcode.com/problems/maximum-running-time-of-n-computers
+MEDIUM,Next Greater Element II,41.8,0.6524372049860075,https://leetcode.com/problems/next-greater-element-ii
+MEDIUM,Copy List with Random Pointer,41.8,0.5882839407208086,https://leetcode.com/problems/copy-list-with-random-pointer
+EASY,Greatest Common Divisor of Strings,41.8,0.5228895563837634,https://leetcode.com/problems/greatest-common-divisor-of-strings
+HARD,Sliding Window Median,41.8,0.3870556319412617,https://leetcode.com/problems/sliding-window-median
+EASY,Same Tree,41.8,0.6404592179328671,https://leetcode.com/problems/same-tree
+HARD,Put Marbles in Bags,41.8,0.6623037226534934,https://leetcode.com/problems/put-marbles-in-bags
+MEDIUM,Maximum Length of Repeated Subarray,41.8,0.5096222268402194,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+MEDIUM,Subsets II,41.8,0.5856915747807359,https://leetcode.com/problems/subsets-ii
+MEDIUM,Second Highest Salary,41.8,0.42481148392848495,https://leetcode.com/problems/second-highest-salary
+EASY,Best Time to Buy and Sell Stock,41.8,0.5452642381296915,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Amount of Time for Binary Tree to Be Infected,41.8,0.6289696129366366,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+HARD,Patching Array,41.8,0.532795140016893,https://leetcode.com/problems/patching-array
+MEDIUM,Maximum Sum Circular Subarray,41.8,0.46420300910374446,https://leetcode.com/problems/maximum-sum-circular-subarray
+MEDIUM,Surrounded Regions,41.8,0.4155072940638886,https://leetcode.com/problems/surrounded-regions
+MEDIUM,Minimum Area Rectangle,41.8,0.5463287526754971,https://leetcode.com/problems/minimum-area-rectangle
+MEDIUM,Search a 2D Matrix,41.8,0.5149911142719857,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Minimum Cost For Tickets,41.8,0.6741628101431398,https://leetcode.com/problems/minimum-cost-for-tickets
+MEDIUM,Minimum Path Sum,41.8,0.6549993169519206,https://leetcode.com/problems/minimum-path-sum
+MEDIUM,Find Peak Element,41.8,0.4624651177442464,https://leetcode.com/problems/find-peak-element

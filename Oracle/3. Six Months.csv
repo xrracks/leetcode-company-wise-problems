@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,LRU Cache,100.0,0.439778246385038,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Substring Without Repeating Characters,95.5,0.35974140849830166,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Minimum One Bit Operations to Make Integers Zero,95.5,0.7357507392921874,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero
+EASY,Two Sum,95.5,0.5456826010946588,https://leetcode.com/problems/two-sum
+MEDIUM,Number of Islands,90.1,0.6112259968160371,https://leetcode.com/problems/number-of-islands
+MEDIUM,Group Anagrams,90.1,0.6997621833598086,https://leetcode.com/problems/group-anagrams
+EASY,Minimum Absolute Difference,86.9,0.7011629694144168,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Unique Binary Search Trees,86.9,0.6193546232533605,https://leetcode.com/problems/unique-binary-search-trees
+MEDIUM,Merge Intervals,83.3,0.4847551284332756,https://leetcode.com/problems/merge-intervals
+HARD,Trapping Rain Water,79.2,0.6378143121227103,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Longest Palindromic Substring,74.3,0.3498425381992133,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Top K Frequent Elements,74.3,0.6378662143301653,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Meeting Rooms II,74.3,0.5178400367429958,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Lowest Common Ancestor of a Binary Tree,74.3,0.6499498465162309,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+HARD,Merge k Sorted Lists,74.3,0.5516023178221772,https://leetcode.com/problems/merge-k-sorted-lists
+EASY,Roman to Integer,74.3,0.6361648508946901,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Longest Consecutive Sequence,74.3,0.4763412558459338,https://leetcode.com/problems/longest-consecutive-sequence
+HARD,Median of Two Sorted Arrays,74.3,0.42369861078849985,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,Reverse Linked List,68.3,0.7827322260144497,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Kth Largest Element in an Array,68.3,0.6738413068925869,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Spiral Matrix,68.3,0.5230477408911904,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Coin Change,68.3,0.45440928447517837,https://leetcode.com/problems/coin-change
+HARD,First Missing Positive,68.3,0.40339403469991764,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Insert Delete GetRandom O(1),68.3,0.5480512580809126,https://leetcode.com/problems/insert-delete-getrandom-o1
+HARD,Binary Tree Maximum Path Sum,60.6,0.4071194693220184,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Integer to Roman,60.6,0.6724929567476614,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Contiguous Array,60.6,0.4893518325677912,https://leetcode.com/problems/contiguous-array
+MEDIUM,Min Stack,60.6,0.5555543688327107,https://leetcode.com/problems/min-stack
+HARD,Vertical Order Traversal of a Binary Tree,60.6,0.4979736192318997,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+MEDIUM,Kill Process,60.6,0.6989258961183681,https://leetcode.com/problems/kill-process
+EASY,Reformat Date,60.6,0.6701414983797587,https://leetcode.com/problems/reformat-date
+MEDIUM,Asteroid Collision,60.6,0.449528549750937,https://leetcode.com/problems/asteroid-collision
+EASY,Move Zeroes,60.6,0.6237771543600722,https://leetcode.com/problems/move-zeroes
+EASY,Linked List Cycle,60.6,0.5163129414142429,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Binary Tree Zigzag Level Order Traversal,60.6,0.6062047749113374,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Search a 2D Matrix,60.6,0.5149909074201255,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,House Robber,60.6,0.5181554880336405,https://leetcode.com/problems/house-robber
+EASY,Valid Parentheses,60.6,0.41538849789993465,https://leetcode.com/problems/valid-parentheses
+EASY,Longest Common Prefix,60.6,0.4447187263104697,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Product of Array Except Self,60.6,0.6713947980743682,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Maximum Number of Events That Can Be Attended,60.6,0.326517413756125,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,Simplify Path,60.6,0.45695846056904654,https://leetcode.com/problems/simplify-path
+MEDIUM,3Sum,60.6,0.3600888754105408,https://leetcode.com/problems/3sum
+HARD,Maximum Good People Based on Statements,60.6,0.5106191939772766,https://leetcode.com/problems/maximum-good-people-based-on-statements
+MEDIUM,Maximum Subarray,60.6,0.5151959364662207,https://leetcode.com/problems/maximum-subarray
+HARD,Sliding Window Maximum,60.6,0.4709055557527499,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Longest Increasing Subsequence,60.6,0.5686112145305643,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Set Matrix Zeroes,60.6,0.5837193345345971,https://leetcode.com/problems/set-matrix-zeroes
+HARD,Rearranging Fruits,49.8,0.34498841795529955,https://leetcode.com/problems/rearranging-fruits
+MEDIUM,Count Ways To Build Good Strings,49.8,0.5944326642422645,https://leetcode.com/problems/count-ways-to-build-good-strings
+EASY,Lucky Numbers in a Matrix,49.8,0.7989668780745867,https://leetcode.com/problems/lucky-numbers-in-a-matrix
+MEDIUM,Rotting Oranges,49.8,0.5557370122969407,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Restore IP Addresses,49.8,0.5189686894257419,https://leetcode.com/problems/restore-ip-addresses
+MEDIUM,Task Scheduler,49.8,0.6075148809523809,https://leetcode.com/problems/task-scheduler
+MEDIUM,Word Search,49.8,0.44225365834063807,https://leetcode.com/problems/word-search
+MEDIUM,"Pow(x, n)",49.8,0.36144767628676555,https://leetcode.com/problems/powx-n
+MEDIUM,Count the Number of Houses at a Certain Distance I,49.8,0.5656335339502081,https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i
+EASY,Count Pairs Of Similar Strings,49.8,0.7171576944830068,https://leetcode.com/problems/count-pairs-of-similar-strings
+EASY,Binary Search,49.8,0.5887494317630754,https://leetcode.com/problems/binary-search
+MEDIUM,Add Two Numbers,49.8,0.4493692116251126,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Fraction to Recurring Decimal,49.8,0.25684346113847406,https://leetcode.com/problems/fraction-to-recurring-decimal
+MEDIUM,All Ancestors of a Node in a Directed Acyclic Graph,49.8,0.6207993867327474,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
+MEDIUM,Subarray Sum Equals K,49.8,0.445958167915822,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Valid Palindrome,49.8,0.4959712980090202,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Binary Tree Right Side View,49.8,0.6474063403467308,https://leetcode.com/problems/binary-tree-right-side-view
+MEDIUM,Rotate List,49.8,0.3909138178268069,https://leetcode.com/problems/rotate-list
+EASY,Count Vowel Substrings of a String,49.8,0.6929074589558598,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+HARD,Count of Range Sum,49.8,0.363771334086492,https://leetcode.com/problems/count-of-range-sum
+MEDIUM,Kth Smallest Element in a BST,49.8,0.7432391622123311,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+MEDIUM,Rotate Array,49.8,0.421038394630061,https://leetcode.com/problems/rotate-array
+MEDIUM,Minimum Operations to Halve Array Sum,49.8,0.477617885134267,https://leetcode.com/problems/minimum-operations-to-halve-array-sum
+MEDIUM,Jump Game,49.8,0.38978832148643017,https://leetcode.com/problems/jump-game
+EASY,Degree of an Array,49.8,0.5699902867726395,https://leetcode.com/problems/degree-of-an-array
+MEDIUM,Maximal Square,49.8,0.47897267107784486,https://leetcode.com/problems/maximal-square
+EASY,Last Stone Weight,49.8,0.6572255889393871,https://leetcode.com/problems/last-stone-weight
+HARD,Distinct Subsequences,49.8,0.4901435189006481,https://leetcode.com/problems/distinct-subsequences
+MEDIUM,Max Consecutive Ones III,49.8,0.6481779133496213,https://leetcode.com/problems/max-consecutive-ones-iii
+MEDIUM,Swapping Nodes in a Linked List,49.8,0.6817090095396843,https://leetcode.com/problems/swapping-nodes-in-a-linked-list
+MEDIUM,Copy List with Random Pointer,49.8,0.5882843199455384,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Search a 2D Matrix II,49.8,0.5406357059327338,https://leetcode.com/problems/search-a-2d-matrix-ii
+MEDIUM,Reorganize String,49.8,0.5552005523898057,https://leetcode.com/problems/reorganize-string
+HARD,Max Stack,49.8,0.4516542825373975,https://leetcode.com/problems/max-stack
+EASY,Contains Duplicate,49.8,0.6257627847042142,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Permutations,49.8,0.7980244988075359,https://leetcode.com/problems/permutations
+EASY,Best Time to Buy and Sell Stock,49.8,0.5452634973714391,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Merge Sorted Array,49.8,0.518035407765524,https://leetcode.com/problems/merge-sorted-array
+EASY,Next Greater Element I,49.8,0.7361285418263919,https://leetcode.com/problems/next-greater-element-i
+MEDIUM,Count Ways to Group Overlapping Ranges,49.8,0.3697700024467825,https://leetcode.com/problems/count-ways-to-group-overlapping-ranges
+HARD,Maximize Value of Function in a Ball Passing Game,49.8,0.30901928012893215,https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game
+MEDIUM,Search Suggestions System,49.8,0.6506301734078573,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Binary Tree Level Order Traversal,49.8,0.6931580967358439,https://leetcode.com/problems/binary-tree-level-order-traversal
+EASY,Count Distinct Numbers on Board,49.8,0.6105326998888103,https://leetcode.com/problems/count-distinct-numbers-on-board
+EASY,Palindrome Number,49.8,0.5822325726802396,https://leetcode.com/problems/palindrome-number
+MEDIUM,HTML Entity Parser,49.8,0.5043668122270742,https://leetcode.com/problems/html-entity-parser
+MEDIUM,Top K Frequent Words,49.8,0.5872255862425589,https://leetcode.com/problems/top-k-frequent-words
+MEDIUM,Permutation in String,49.8,0.4662195814948522,https://leetcode.com/problems/permutation-in-string
+HARD,Count the Number of Houses at a Certain Distance II,49.8,0.21383122308631658,https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii
+MEDIUM,Minimize Length of Array Using Operations,49.8,0.34774089710993444,https://leetcode.com/problems/minimize-length-of-array-using-operations
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,49.8,0.5309203670741869,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+MEDIUM,Combination Sum II,49.8,0.5689166481492628,https://leetcode.com/problems/combination-sum-ii

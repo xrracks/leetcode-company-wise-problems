@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Count Subarrays of Length Three With a Condition,100.0,0.5284526854219949,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition
+EASY,Palindrome Number,100.0,0.5822343542273283,https://leetcode.com/problems/palindrome-number
+MEDIUM,Smallest Value of the Rearranged Number,100.0,0.5247353499622858,https://leetcode.com/problems/smallest-value-of-the-rearranged-number
+MEDIUM,Managers with at Least 5 Direct Reports,77.5,0.49337293574237023,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+EASY,Fibonacci Number,77.5,0.7222476759483708,https://leetcode.com/problems/fibonacci-number
+EASY,Two Sum,77.5,0.5456860148287399,https://leetcode.com/problems/two-sum
+EASY,Valid Parentheses,70.4,0.4153898307906337,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Reverse Integer,70.4,0.2959942171230123,https://leetcode.com/problems/reverse-integer
+EASY,Longest Common Prefix,70.4,0.4447201964884112,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Maximum Subarray,70.4,0.5151973146148062,https://leetcode.com/problems/maximum-subarray
+EASY,Binary Search,70.4,0.5887513640507376,https://leetcode.com/problems/binary-search
+EASY,Merge Two Sorted Lists,60.5,0.6590071169906545,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Consecutive Numbers,60.5,0.4490233851105854,https://leetcode.com/problems/consecutive-numbers
+EASY,Happy Number,60.5,0.5727310021410004,https://leetcode.com/problems/happy-number
+EASY,Move Zeroes,60.5,0.6237764723441812,https://leetcode.com/problems/move-zeroes
+EASY,Fizz Buzz,60.5,0.735699463905243,https://leetcode.com/problems/fizz-buzz
+MEDIUM,3Sum,60.5,0.36009125639381023,https://leetcode.com/problems/3sum
+EASY,Counter,60.5,0.8180816585711813,https://leetcode.com/problems/counter
+EASY,Valid Anagram,60.5,0.6581713289373554,https://leetcode.com/problems/valid-anagram
+MEDIUM,Count Primes,60.5,0.3425105258654261,https://leetcode.com/problems/count-primes
+EASY,Product Sales Analysis I,60.5,0.8501907492666456,https://leetcode.com/problems/product-sales-analysis-i

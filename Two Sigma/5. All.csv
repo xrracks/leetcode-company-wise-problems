@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Minimum Operations to Reduce an Integer to 0,100.0,0.5628462306024843,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
+MEDIUM,Number of Provinces,98.1,0.6767898032177875,https://leetcode.com/problems/number-of-provinces
+MEDIUM,Random Pick with Weight,98.1,0.47882321317191184,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Maximum Subarray Sum with One Deletion,96.0,0.4458677367080794,https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion
+MEDIUM,Game of Life,93.8,0.7057874582222476,https://leetcode.com/problems/game-of-life
+MEDIUM,Multiply Strings,93.8,0.4150608347981939,https://leetcode.com/problems/multiply-strings
+HARD,Wildcard Matching,93.8,0.2907011578384956,https://leetcode.com/problems/wildcard-matching
+MEDIUM,Maximum Sum Circular Subarray,93.8,0.46420300910374446,https://leetcode.com/problems/maximum-sum-circular-subarray
+MEDIUM,Longest String Chain,93.8,0.6155310727229203,https://leetcode.com/problems/longest-string-chain
+EASY,Intersection of Two Arrays,93.8,0.7572246305680675,https://leetcode.com/problems/intersection-of-two-arrays
+EASY,Power of Four,93.8,0.4881893006267142,https://leetcode.com/problems/power-of-four
+HARD,Word Search II,81.7,0.3685624720107479,https://leetcode.com/problems/word-search-ii
+HARD,Merge k Sorted Lists,72.1,0.5516031168776042,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Parallel Courses III,72.1,0.6700825351852422,https://leetcode.com/problems/parallel-courses-iii
+EASY,Design HashMap,65.3,0.6561966452623075,https://leetcode.com/problems/design-hashmap
+EASY,Best Time to Buy and Sell Stock,65.3,0.5452642121551239,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Minimum Space Wasted From Packaging,65.3,0.32077939650895315,https://leetcode.com/problems/minimum-space-wasted-from-packaging
+MEDIUM,Design Memory Allocator,65.3,0.5342293262065066,https://leetcode.com/problems/design-memory-allocator
+MEDIUM,Design Tic-Tac-Toe,55.7,0.5834840895088941,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Search Suggestions System,55.7,0.650632097904024,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Number of Orders in the Backlog,55.7,0.5099317194289261,https://leetcode.com/problems/number-of-orders-in-the-backlog
+MEDIUM,Sum of Square Numbers,55.7,0.36468552150623035,https://leetcode.com/problems/sum-of-square-numbers
+MEDIUM,Merge Intervals,55.7,0.4847565904046208,https://leetcode.com/problems/merge-intervals
+HARD,Robot Room Cleaner,55.7,0.7704786030154254,https://leetcode.com/problems/robot-room-cleaner

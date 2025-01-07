@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximum Subarray Sum with One Deletion,100.0,0.4458677367080794,https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion
+HARD,Minimum Space Wasted From Packaging,100.0,0.32077939650895315,https://leetcode.com/problems/minimum-space-wasted-from-packaging
+MEDIUM,Game of Life,88.5,0.7057874582222476,https://leetcode.com/problems/game-of-life
+MEDIUM,Number of Provinces,88.5,0.6767898032177875,https://leetcode.com/problems/number-of-provinces
+MEDIUM,Longest String Chain,88.5,0.6155310727229203,https://leetcode.com/problems/longest-string-chain
+HARD,Wildcard Matching,88.5,0.2907011578384956,https://leetcode.com/problems/wildcard-matching
+MEDIUM,Random Pick with Weight,88.5,0.47882321317191184,https://leetcode.com/problems/random-pick-with-weight
+EASY,Power of Four,88.5,0.4881893006267142,https://leetcode.com/problems/power-of-four
+MEDIUM,Maximum Sum Circular Subarray,88.5,0.46420300910374446,https://leetcode.com/problems/maximum-sum-circular-subarray
+EASY,Intersection of Two Arrays,88.5,0.7572246305680675,https://leetcode.com/problems/intersection-of-two-arrays
+HARD,Merge k Sorted Lists,88.5,0.5516031168776042,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Design Memory Allocator,88.5,0.5342293262065066,https://leetcode.com/problems/design-memory-allocator
+HARD,Word Search II,88.5,0.3685624720107479,https://leetcode.com/problems/word-search-ii

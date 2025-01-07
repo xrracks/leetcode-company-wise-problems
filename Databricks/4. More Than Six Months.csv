@@ -1,0 +1,24 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Design Hit Counter,100.0,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
+MEDIUM,IP to CIDR,94.7,0.5581040700669758,https://leetcode.com/problems/ip-to-cidr
+MEDIUM,House Robber,80.2,0.5181555043088136,https://leetcode.com/problems/house-robber
+MEDIUM,Design Tic-Tac-Toe,78.3,0.5834831827582454,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,House Robber II,78.3,0.42898949913503,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Snapshot Array,73.9,0.3676601089248457,https://leetcode.com/problems/snapshot-array
+MEDIUM,Minimum Absolute Difference Between Elements With Constraint,71.2,0.3454806798004566,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint
+HARD,Smallest Range Covering Elements from K Lists,71.2,0.6979953163827749,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+MEDIUM,Web Crawler Multithreaded,71.2,0.49577103801794103,https://leetcode.com/problems/web-crawler-multithreaded
+HARD,Number of Flowers in Full Bloom,54.5,0.5698214878565774,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+HARD,Count Integers in Intervals,54.5,0.3557464405184152,https://leetcode.com/problems/count-integers-in-intervals
+MEDIUM,Time Based Key-Value Store,54.5,0.4930010025287666,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Second Degree Follower,54.5,0.3942915335574683,https://leetcode.com/problems/second-degree-follower
+MEDIUM,Web Crawler,46.5,0.6833396697356894,https://leetcode.com/problems/web-crawler
+HARD,First Missing Positive,46.5,0.4033943163004326,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Course Schedule II,46.5,0.5218093172180694,https://leetcode.com/problems/course-schedule-ii
+HARD,Maximum Profit in Job Scheduling,46.5,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Accounts Merge,46.5,0.5854930611831443,https://leetcode.com/problems/accounts-merge
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,46.5,0.5634547717130106,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+HARD,Data Stream as Disjoint Intervals,46.5,0.6023564913530703,https://leetcode.com/problems/data-stream-as-disjoint-intervals
+MEDIUM,Design A Leaderboard,46.5,0.6788423447190195,https://leetcode.com/problems/design-a-leaderboard
+MEDIUM,Rotating the Box,46.5,0.7920106774323422,https://leetcode.com/problems/rotating-the-box
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,46.5,0.5664732639332009,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit

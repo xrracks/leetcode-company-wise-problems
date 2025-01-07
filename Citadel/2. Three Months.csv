@@ -1,13 +1,14 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Operations to Make Numbers Non-positive,100.0,0.4121785007693999,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
-HARD,Sort Items by Groups Respecting Dependencies,86.1,0.6589158835663533,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
-MEDIUM,Insert Delete GetRandom O(1),86.1,0.5479311778504371,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,Length of Longest Subarray With at Most K Frequency,75.1,0.558338720103426,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
-MEDIUM,LRU Cache,75.1,0.43931229996871723,https://leetcode.com/problems/lru-cache
-MEDIUM,Count Number of Maximum Bitwise-OR Subsets,75.1,0.8809391364394912,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
-MEDIUM,Search Suggestions System,75.1,0.6505649285149212,https://leetcode.com/problems/search-suggestions-system
-MEDIUM,Letter Combinations of a Phone Number,75.1,0.625286825377602,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-HARD,Couples Holding Hands,75.1,0.5800619615498875,https://leetcode.com/problems/couples-holding-hands
-MEDIUM,Paint House,75.1,0.6319346404854427,https://leetcode.com/problems/paint-house
-HARD,Rank Transform of a Matrix,75.1,0.4111411385232325,https://leetcode.com/problems/rank-transform-of-a-matrix
-HARD,LFU Cache,75.1,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5480519507056787,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Length of Longest Subarray With at Most K Frequency,87.5,0.5584235563443141,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
+MEDIUM,LRU Cache,87.5,0.4397787927921382,https://leetcode.com/problems/lru-cache
+HARD,Sort Items by Groups Respecting Dependencies,87.5,0.6586113079860079,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
+MEDIUM,Count Number of Maximum Bitwise-OR Subsets,87.5,0.8810329985652797,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
+MEDIUM,Search Suggestions System,87.5,0.6506308149089354,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Letter Combinations of a Phone Number,87.5,0.6258613193115,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+HARD,Couples Holding Hands,87.5,0.5801361281365345,https://leetcode.com/problems/couples-holding-hands
+MEDIUM,Paint House,87.5,0.6321986610333256,https://leetcode.com/problems/paint-house
+HARD,Rank Transform of a Matrix,87.5,0.41146793778922097,https://leetcode.com/problems/rank-transform-of-a-matrix
+HARD,LFU Cache,87.5,0.45463368319404796,https://leetcode.com/problems/lfu-cache
+MEDIUM,Evaluate Division,87.5,0.6253629726095394,https://leetcode.com/problems/evaluate-division
+MEDIUM,"Pow(x, n)",87.5,0.36144759558648226,https://leetcode.com/problems/powx-n

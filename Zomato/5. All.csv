@@ -1,0 +1,23 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Maximum Spending After Buying Items,100.0,0.6120902906617193,https://leetcode.com/problems/maximum-spending-after-buying-items
+HARD,Split the Array to Make Coprime Products,100.0,0.23481592225752196,https://leetcode.com/problems/split-the-array-to-make-coprime-products
+MEDIUM,Bitwise OR of All Subsequence Sums,100.0,0.6633976063829787,https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums
+HARD,Shortest Cycle in a Graph,100.0,0.36638292556703606,https://leetcode.com/problems/shortest-cycle-in-a-graph
+HARD,Number of Ways to Divide a Long Corridor,100.0,0.4909295695329273,https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor
+MEDIUM,Find and Replace Pattern,82.4,0.7678975750726383,https://leetcode.com/problems/find-and-replace-pattern
+MEDIUM,Total Cost to Hire K Workers,82.4,0.4277789585547291,https://leetcode.com/problems/total-cost-to-hire-k-workers
+HARD,Cherry Pickup,76.8,0.3742077405434563,https://leetcode.com/problems/cherry-pickup
+MEDIUM,Count Zero Request Servers,69.5,0.33031326125048077,https://leetcode.com/problems/count-zero-request-servers
+MEDIUM,3Sum,69.5,0.3600912599060887,https://leetcode.com/problems/3sum
+HARD,Largest Rectangle in Histogram,59.2,0.4615977988545341,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Number of Islands,59.2,0.6112280477993457,https://leetcode.com/problems/number-of-islands
+HARD,LFU Cache,59.2,0.4546345668090843,https://leetcode.com/problems/lfu-cache
+HARD,First Missing Positive,59.2,0.4033966647529274,https://leetcode.com/problems/first-missing-positive
+HARD,Reverse Nodes in k-Group,59.2,0.6142044761048789,https://leetcode.com/problems/reverse-nodes-in-k-group
+HARD,Frog Jump,59.2,0.4632101155937908,https://leetcode.com/problems/frog-jump
+HARD,Optimal Account Balancing,59.2,0.4966693712373912,https://leetcode.com/problems/optimal-account-balancing
+MEDIUM,Unique Paths,59.2,0.6518557743371558,https://leetcode.com/problems/unique-paths
+MEDIUM,Decode String,59.2,0.6039238302333305,https://leetcode.com/problems/decode-string
+MEDIUM,Global and Local Inversions,59.2,0.4235936255406048,https://leetcode.com/problems/global-and-local-inversions
+MEDIUM,Unique Paths II,59.2,0.4254166718270088,https://leetcode.com/problems/unique-paths-ii
+HARD,Self Crossing,59.2,0.31321195841416705,https://leetcode.com/problems/self-crossing

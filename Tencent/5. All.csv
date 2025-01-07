@@ -1,0 +1,19 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Remove Boxes,100.0,0.4810799988559334,https://leetcode.com/problems/remove-boxes
+MEDIUM,Minimum Factorization,100.0,0.33714847249920515,https://leetcode.com/problems/minimum-factorization
+MEDIUM,Merge Intervals,64.2,0.48475787737769743,https://leetcode.com/problems/merge-intervals
+MEDIUM,Debounce,64.2,0.9142251552094764,https://leetcode.com/problems/debounce
+EASY,Next Greater Element I,64.2,0.7361300902997922,https://leetcode.com/problems/next-greater-element-i
+MEDIUM,Department Highest Salary,64.2,0.5347723178777666,https://leetcode.com/problems/department-highest-salary
+MEDIUM,Circle and Rectangle Overlapping,64.2,0.4807931199235547,https://leetcode.com/problems/circle-and-rectangle-overlapping
+MEDIUM,Minimum Remove to Make Valid Parentheses,64.2,0.6994289114984492,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+HARD,Maximum Running Time of N Computers,64.2,0.4994664160680438,https://leetcode.com/problems/maximum-running-time-of-n-computers
+MEDIUM,Jump Game,64.2,0.3897884208450374,https://leetcode.com/problems/jump-game
+EASY,Valid Parentheses,64.2,0.4153887853972166,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Remove Duplicates from Sorted List II,64.2,0.4888392818416038,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
+MEDIUM,LRU Cache,64.2,0.4397818955437559,https://leetcode.com/problems/lru-cache
+HARD,Alien Dictionary,64.2,0.3628542114095418,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Immediate Food Delivery II,64.2,0.532933477332922,https://leetcode.com/problems/immediate-food-delivery-ii
+MEDIUM,Implement Rand10() Using Rand7(),64.2,0.45852054683993687,https://leetcode.com/problems/implement-rand10-using-rand7
+HARD,Candy,64.2,0.44131010905164564,https://leetcode.com/problems/candy
+MEDIUM,Unique Paths II,64.2,0.4254166718270088,https://leetcode.com/problems/unique-paths-ii

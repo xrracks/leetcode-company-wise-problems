@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Number of Changing Keys,100.0,0.8014471340394096,https://leetcode.com/problems/number-of-changing-keys
+EASY,Distribute Elements Into Two Arrays I,97.7,0.7253414727203358,https://leetcode.com/problems/distribute-elements-into-two-arrays-i
+HARD,Distribute Elements Into Two Arrays II,97.7,0.2747291687759441,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii
+MEDIUM,Number of Subarrays That Match a Pattern I,97.7,0.6676195051645447,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i
+HARD,Number of Subarrays That Match a Pattern II,97.7,0.31975141853553096,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii
+HARD,Count Prefix and Suffix Pairs II,97.7,0.24989486963835156,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii
+EASY,Count Prefix and Suffix Pairs I,97.7,0.6583291946965251,https://leetcode.com/problems/count-prefix-and-suffix-pairs-i
+MEDIUM,Group Anagrams,75.7,0.6997636632019115,https://leetcode.com/problems/group-anagrams
+HARD,Sliding Window Maximum,75.7,0.4709100503309253,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Combination Sum,59.2,0.7346539620621594,https://leetcode.com/problems/combination-sum
+HARD,Block Placement Queries,59.2,0.15200444090459295,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Product of Array Except Self,59.2,0.6713969099419467,https://leetcode.com/problems/product-of-array-except-self
+EASY,Valid Anagram,59.2,0.6581709557277411,https://leetcode.com/problems/valid-anagram
+HARD,Reverse Nodes in k-Group,59.2,0.6142044761048789,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Valid Sudoku,59.2,0.6123430049234961,https://leetcode.com/problems/valid-sudoku

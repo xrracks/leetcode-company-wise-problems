@@ -1,0 +1,23 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Combination Sum,100.0,0.7346528254376576,https://leetcode.com/problems/combination-sum
+HARD,Palindrome Pairs,91.8,0.35856414457656205,https://leetcode.com/problems/palindrome-pairs
+HARD,Maximum Profit in Job Scheduling,90.1,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Shortest Path to Get All Keys,88.2,0.5360151462177335,https://leetcode.com/problems/shortest-path-to-get-all-keys
+HARD,Minimum Window Substring,83.9,0.442918373343981,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Flatten 2D Vector,83.9,0.4986133951263268,https://leetcode.com/problems/flatten-2d-vector
+HARD,Alien Dictionary,71.3,0.3628537344163828,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Cheapest Flights Within K Stops,71.3,0.3989770548648009,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Smallest Common Region,66.5,0.6792288768238887,https://leetcode.com/problems/smallest-common-region
+HARD,Text Justification,66.5,0.4632742352690355,https://leetcode.com/problems/text-justification
+HARD,Trapping Rain Water,66.5,0.6378147703295906,https://leetcode.com/problems/trapping-rain-water
+HARD,Sliding Puzzle,66.5,0.7291815218498523,https://leetcode.com/problems/sliding-puzzle
+MEDIUM,Coin Change,60.3,0.4544094607113951,https://leetcode.com/problems/coin-change
+MEDIUM,Pour Water,60.3,0.47492210743317637,https://leetcode.com/problems/pour-water
+MEDIUM,Flatten Nested List Iterator,51.7,0.6499953571955275,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Shortest Uncommon Substring in an Array,51.7,0.46707004448465655,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array
+MEDIUM,Simple Bank System,51.7,0.6364081191894309,https://leetcode.com/problems/simple-bank-system
+MEDIUM,IP to CIDR,51.7,0.5581040700669758,https://leetcode.com/problems/ip-to-cidr
+MEDIUM,Merge Intervals,51.7,0.4847550616516687,https://leetcode.com/problems/merge-intervals
+HARD,Employee Free Time,51.7,0.724126764032439,https://leetcode.com/problems/employee-free-time
+MEDIUM,Sort Integers by The Power Value,51.7,0.7038189200049885,https://leetcode.com/problems/sort-integers-by-the-power-value
+MEDIUM,Design Tic-Tac-Toe,51.7,0.5834831827582454,https://leetcode.com/problems/design-tic-tac-toe

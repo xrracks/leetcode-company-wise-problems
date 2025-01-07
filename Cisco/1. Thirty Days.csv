@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,House Robber,100.0,0.5179711882682598,https://leetcode.com/problems/house-robber
+MEDIUM,House Robber,100.0,0.5181553283609587,https://leetcode.com/problems/house-robber
+EASY,Lucky Numbers in a Matrix,100.0,0.7989668780745867,https://leetcode.com/problems/lucky-numbers-in-a-matrix
+MEDIUM,Longest Palindromic Substring,100.0,0.34984291000350365,https://leetcode.com/problems/longest-palindromic-substring

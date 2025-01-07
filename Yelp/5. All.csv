@@ -1,0 +1,29 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Destination City,100.0,0.7947004633534521,https://leetcode.com/problems/destination-city
+MEDIUM,Course Schedule,100.0,0.4808063502764407,https://leetcode.com/problems/course-schedule
+EASY,Two Sum,97.5,0.5456851117592346,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Substring Without Repeating Characters,97.5,0.3597432687586021,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Letter Case Permutation,97.5,0.7465536660057895,https://leetcode.com/problems/letter-case-permutation
+MEDIUM,Top K Frequent Words,97.5,0.5872268892732343,https://leetcode.com/problems/top-k-frequent-words
+EASY,Minimum Index Sum of Two Lists,97.5,0.5700857424892324,https://leetcode.com/problems/minimum-index-sum-of-two-lists
+HARD,Find the Closest Palindrome,97.5,0.3161273800993815,https://leetcode.com/problems/find-the-closest-palindrome
+EASY,Check If a Word Occurs As a Prefix of Any Word in a Sentence,97.5,0.6888377445339471,https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
+MEDIUM,String Compression,97.5,0.5672172630680943,https://leetcode.com/problems/string-compression
+MEDIUM,"Filter Restaurants by Vegan-Friendly, Price and Distance",97.5,0.6292877234713333,https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
+MEDIUM,Decode String,97.5,0.6039238302333305,https://leetcode.com/problems/decode-string
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,97.5,0.3571114631310033,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+MEDIUM,Insert Delete GetRandom O(1),97.5,0.5480520197020177,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Top K Frequent Elements,97.5,0.637866223598419,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Valid Anagram,97.5,0.6581702384568089,https://leetcode.com/problems/valid-anagram
+HARD,The Skyline Problem,97.5,0.4341465479533236,https://leetcode.com/problems/the-skyline-problem
+EASY,Reverse Linked List,97.5,0.7827334303899667,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Active Businesses,97.5,0.6583996256434255,https://leetcode.com/problems/active-businesses
+MEDIUM,Reverse Words in a String,97.5,0.48645001435834734,https://leetcode.com/problems/reverse-words-in-a-string
+HARD,Word Ladder,97.5,0.41268257304600675,https://leetcode.com/problems/word-ladder
+HARD,Word Ladder II,97.5,0.27115661039148437,https://leetcode.com/problems/word-ladder-ii
+MEDIUM,Merge Intervals,97.5,0.4847573472652813,https://leetcode.com/problems/merge-intervals
+MEDIUM,Group Anagrams,97.5,0.6997631288729476,https://leetcode.com/problems/group-anagrams
+EASY,Longest Common Prefix,97.5,0.4447199906295774,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Random Pick with Weight,79.6,0.4788236665512579,https://leetcode.com/problems/random-pick-with-weight
+EASY,Minimum String Length After Removing Substrings,56.0,0.7751740684313195,https://leetcode.com/problems/minimum-string-length-after-removing-substrings
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,56.0,0.3951127765574077,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string

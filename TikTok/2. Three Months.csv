@@ -1,93 +1,95 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Increasing Subsequence,100.0,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence
-HARD,Minimum Operations to Make Character Frequencies Equal,97.4,0.20644969828865367,https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal
-MEDIUM,Longest Substring Without Repeating Characters,94.5,0.3593552355888445,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Merge Intervals,94.5,0.4843939551074825,https://leetcode.com/problems/merge-intervals
-MEDIUM,Number of Islands,91.2,0.6107403600887201,https://leetcode.com/problems/number-of-islands
-MEDIUM,Meeting Rooms II,87.5,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Word Search,87.5,0.44185947952859245,https://leetcode.com/problems/word-search
-MEDIUM,LRU Cache,83.3,0.4393120395402852,https://leetcode.com/problems/lru-cache
-MEDIUM,House Robber,78.3,0.5179715106992544,https://leetcode.com/problems/house-robber
-MEDIUM,Number of Distinct Islands,78.3,0.618416553836896,https://leetcode.com/problems/number-of-distinct-islands
-HARD,Word Break II,78.3,0.5245542784239083,https://leetcode.com/problems/word-break-ii
-EASY,Add Strings,78.3,0.5162948572951066,https://leetcode.com/problems/add-strings
-EASY,Greatest Common Divisor of Strings,78.3,0.5225940108113549,https://leetcode.com/problems/greatest-common-divisor-of-strings
-MEDIUM,Maximum Value at a Given Index in a Bounded Array,78.3,0.3899614473592928,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
-MEDIUM,Search in Rotated Sorted Array,72.1,0.41984367464624756,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Random Pick with Weight,72.1,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
-HARD,Trapping Rain Water,72.1,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Find Minimum in Rotated Sorted Array,72.1,0.5180755647250144,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
-MEDIUM,Word Break,72.1,0.47610835387466127,https://leetcode.com/problems/word-break
-HARD,Minimum Window Substring,72.1,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Sentence Similarity III,72.1,0.48768311678069365,https://leetcode.com/problems/sentence-similarity-iii
-MEDIUM,Longest Substring with At Least K Repeating Characters,72.1,0.4527297255132288,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
-MEDIUM,Course Schedule II,72.1,0.5213306342998251,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Insert Delete GetRandom O(1),72.1,0.5479315083048156,https://leetcode.com/problems/insert-delete-getrandom-o1
-EASY,Sqrt(x),72.1,0.3975126919810383,https://leetcode.com/problems/sqrtx
-MEDIUM,Longest Palindromic Substring,72.1,0.34945224985175394,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Longest Consecutive Sequence,64.2,0.4769873519853477,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Kth Largest Element in an Array,64.2,0.6735615226465641,https://leetcode.com/problems/kth-largest-element-in-an-array
-MEDIUM,Reorder List,64.2,0.6099170357626266,https://leetcode.com/problems/reorder-list
-MEDIUM,Merge Operations to Turn Array Into a Palindrome,64.2,0.6908963216574489,https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome
-MEDIUM,Asteroid Collision,64.2,0.44934118798845435,https://leetcode.com/problems/asteroid-collision
-MEDIUM,Water and Jug Problem,64.2,0.4214687325322685,https://leetcode.com/problems/water-and-jug-problem
-EASY,Best Time to Buy and Sell Stock,64.2,0.5449231479926895,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Replace Words,64.2,0.681046339462335,https://leetcode.com/problems/replace-words
-MEDIUM,Sort Colors,64.2,0.6576625490293508,https://leetcode.com/problems/sort-colors
-MEDIUM,Coin Change,64.2,0.45394430053632023,https://leetcode.com/problems/coin-change
-HARD,Word Ladder,64.2,0.41208921460411657,https://leetcode.com/problems/word-ladder
-MEDIUM,Combination Sum,64.2,0.7341576060068288,https://leetcode.com/problems/combination-sum
-MEDIUM,3Sum,64.2,0.3596101976081807,https://leetcode.com/problems/3sum
-HARD,Longest Increasing Path in a Matrix,64.2,0.5459799426827036,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
-MEDIUM,Matchsticks to Square,64.2,0.40592731144035576,https://leetcode.com/problems/matchsticks-to-square
-EASY,Diameter of Binary Tree,53.2,0.6220182410834645,https://leetcode.com/problems/diameter-of-binary-tree
-EASY,Longest Common Prefix,53.2,0.4441687418742922,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Lowest Common Ancestor of a Binary Tree,53.2,0.6492100886357168,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,53.2,0.6463596541178366,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
-MEDIUM,House Robber III,53.2,0.5459574225880278,https://leetcode.com/problems/house-robber-iii
-EASY,Reverse Linked List,53.2,0.7822930316255255,https://leetcode.com/problems/reverse-linked-list
-HARD,Regular Expression Matching,53.2,0.28716808633145086,https://leetcode.com/problems/regular-expression-matching
-HARD,Valid Palindrome III,53.2,0.49165089741384255,https://leetcode.com/problems/valid-palindrome-iii
-HARD,Max Stack,53.2,0.4516132651544263,https://leetcode.com/problems/max-stack
-MEDIUM,Daily Temperatures,53.2,0.6670373942882774,https://leetcode.com/problems/daily-temperatures
-MEDIUM,Maximum Width Ramp,53.2,0.5551495930586595,https://leetcode.com/problems/maximum-width-ramp
-MEDIUM,Find the Duplicate Number,53.2,0.6200863433020448,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,Tree Diameter,53.2,0.6113247202818817,https://leetcode.com/problems/tree-diameter
-MEDIUM,Maximum Points You Can Obtain from Cards,53.2,0.5448990849503537,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
-HARD,Alien Dictionary,53.2,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
-HARD,N-Queens,53.2,0.7091787115322903,https://leetcode.com/problems/n-queens
-MEDIUM,Evaluate Division,53.2,0.6251128117287361,https://leetcode.com/problems/evaluate-division
-MEDIUM,Max Area of Island,53.2,0.7268937975232898,https://leetcode.com/problems/max-area-of-island
-HARD,Bus Routes,53.2,0.4718293910417715,https://leetcode.com/problems/bus-routes
-MEDIUM,House Robber II,53.2,0.42872527304666613,https://leetcode.com/problems/house-robber-ii
-MEDIUM,Find Positive Integer Solution for a Given Equation,53.2,0.6970657594618627,https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation
-MEDIUM,Koko Eating Bananas,53.2,0.486879464660218,https://leetcode.com/problems/koko-eating-bananas
-HARD,Word Search II,53.2,0.36838788593974686,https://leetcode.com/problems/word-search-ii
-MEDIUM,Score of Parentheses,53.2,0.6386077296742854,https://leetcode.com/problems/score-of-parentheses
-MEDIUM,Is Graph Bipartite?,53.2,0.568573589085075,https://leetcode.com/problems/is-graph-bipartite
-MEDIUM,Course Schedule,53.2,0.4804021541532256,https://leetcode.com/problems/course-schedule
-MEDIUM,Decode String,53.2,0.6036411009633038,https://leetcode.com/problems/decode-string
-MEDIUM,Find the Length of the Longest Common Prefix,53.2,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
-MEDIUM,Minimum Swaps to Group All 1's Together,53.2,0.6035866049343566,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
-EASY,Climbing Stairs,53.2,0.5326794783045511,https://leetcode.com/problems/climbing-stairs
-HARD,Meeting Rooms III,53.2,0.44092027960615787,https://leetcode.com/problems/meeting-rooms-iii
-EASY,Two Sum,53.2,0.5450370267380433,https://leetcode.com/problems/two-sum
-EASY,Meeting Rooms,53.2,0.5861248705678225,https://leetcode.com/problems/meeting-rooms
-MEDIUM,Find First and Last Position of Element in Sorted Array,53.2,0.4570987507473561,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-HARD,Find Median from Data Stream,53.2,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
-MEDIUM,Maximal Score After Applying K Operations,53.2,0.6379366276399884,https://leetcode.com/problems/maximal-score-after-applying-k-operations
-MEDIUM,Find Peak Element,53.2,0.46229123073476946,https://leetcode.com/problems/find-peak-element
-MEDIUM,Min Cost to Connect All Points,53.2,0.6800056090867205,https://leetcode.com/problems/min-cost-to-connect-all-points
-MEDIUM,Maximum Subarray,53.2,0.5149489556769163,https://leetcode.com/problems/maximum-subarray
-MEDIUM,Open the Lock,53.2,0.6050277425744683,https://leetcode.com/problems/open-the-lock
-MEDIUM,Spiral Matrix,53.2,0.5222657405595416,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Number of Good Leaf Nodes Pairs,53.2,0.7185392116545423,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
-MEDIUM,Permutations,53.2,0.7976510838958961,https://leetcode.com/problems/permutations
-HARD,Sliding Window Maximum,53.2,0.4707001499470018,https://leetcode.com/problems/sliding-window-maximum
-MEDIUM,Swap Nodes in Pairs,53.2,0.6602519843999325,https://leetcode.com/problems/swap-nodes-in-pairs
-EASY,Kth Missing Positive Number,53.2,0.6138134178229229,https://leetcode.com/problems/kth-missing-positive-number
-MEDIUM,Minimum Size Subarray Sum,53.2,0.48360797354501556,https://leetcode.com/problems/minimum-size-subarray-sum
-HARD,Candy,53.2,0.44097573703806536,https://leetcode.com/problems/candy
-MEDIUM,Shortest Bridge,53.2,0.5815828379585425,https://leetcode.com/problems/shortest-bridge
-EASY,Valid Palindrome II,53.2,0.42042764768612334,https://leetcode.com/problems/valid-palindrome-ii
-HARD,Merge k Sorted Lists,53.2,0.5509064181379404,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Minimum Operations to Make Character Frequencies Equal,100.0,0.21519342179031956,https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal
+MEDIUM,Longest Increasing Subsequence,100.0,0.5686113781315844,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Merge Intervals,93.7,0.4847551284332756,https://leetcode.com/problems/merge-intervals
+MEDIUM,Number of Islands,93.7,0.6112259968160371,https://leetcode.com/problems/number-of-islands
+MEDIUM,Longest Substring Without Repeating Characters,90.0,0.35974137443498344,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Meeting Rooms II,85.6,0.5178400367429958,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Word Search,85.6,0.44225365834063807,https://leetcode.com/problems/word-search
+MEDIUM,LRU Cache,85.6,0.43977821851460275,https://leetcode.com/problems/lru-cache
+MEDIUM,Maximum Value at a Given Index in a Bounded Array,85.6,0.38980882912158193,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
+MEDIUM,Search in Rotated Sorted Array,80.5,0.42017007500367,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Minimum Window Substring,80.5,0.442918373343981,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,House Robber,80.5,0.518155400059356,https://leetcode.com/problems/house-robber
+MEDIUM,Number of Distinct Islands,80.5,0.6185997161494582,https://leetcode.com/problems/number-of-distinct-islands
+EASY,Add Strings,74.3,0.5164190830223567,https://leetcode.com/problems/add-strings
+MEDIUM,Longest Substring with At Least K Repeating Characters,74.3,0.4528787185354691,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+MEDIUM,Word Break,74.3,0.4764145413185179,https://leetcode.com/problems/word-break
+HARD,Word Break II,74.3,0.5249823557885946,https://leetcode.com/problems/word-break-ii
+MEDIUM,Insert Delete GetRandom O(1),74.3,0.5480512580809126,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Sentence Similarity III,74.3,0.48765760127222557,https://leetcode.com/problems/sentence-similarity-iii
+EASY,Sqrt(x),74.3,0.39778864039746503,https://leetcode.com/problems/sqrtx
+MEDIUM,Longest Palindromic Substring,74.3,0.3498425381992133,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Find Minimum in Rotated Sorted Array,74.3,0.5184050594446765,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,Course Schedule II,74.3,0.5218081563908091,https://leetcode.com/problems/course-schedule-ii
+EASY,Best Time to Buy and Sell Stock,66.2,0.5452635146877063,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Kth Largest Element in an Array,66.2,0.6738412259688447,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Replace Words,66.2,0.6811651977962169,https://leetcode.com/problems/replace-words
+MEDIUM,Random Pick with Weight,66.2,0.4788248424792372,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Coin Change,66.2,0.45440928447517837,https://leetcode.com/problems/coin-change
+MEDIUM,Merge Operations to Turn Array Into a Palindrome,66.2,0.6910332231692469,https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome
+HARD,Word Ladder,66.2,0.4126807608778864,https://leetcode.com/problems/word-ladder
+MEDIUM,Combination Sum,66.2,0.7346523160426424,https://leetcode.com/problems/combination-sum
+MEDIUM,Matchsticks to Square,66.2,0.40599385941872784,https://leetcode.com/problems/matchsticks-to-square
+HARD,Trapping Rain Water,66.2,0.6378143121227103,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Asteroid Collision,66.2,0.449528549750937,https://leetcode.com/problems/asteroid-collision
+HARD,Longest Increasing Path in a Matrix,66.2,0.5462635639278677,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+HARD,Shortest Distance from All Buildings,55.0,0.43683609563682924,https://leetcode.com/problems/shortest-distance-from-all-buildings
+MEDIUM,Find the Duplicate Number,55.0,0.6204384157883794,https://leetcode.com/problems/find-the-duplicate-number
+HARD,N-Queens,55.0,0.7099636716938348,https://leetcode.com/problems/n-queens
+HARD,Alien Dictionary,55.0,0.36285318041709963,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Tree Diameter,55.0,0.6113829957717484,https://leetcode.com/problems/tree-diameter
+HARD,Max Stack,55.0,0.4516542825373975,https://leetcode.com/problems/max-stack
+MEDIUM,Maximum Width Ramp,55.0,0.5553602649374196,https://leetcode.com/problems/maximum-width-ramp
+EASY,Diameter of Binary Tree,55.0,0.6225855065500254,https://leetcode.com/problems/diameter-of-binary-tree
+HARD,Binary Tree Maximum Path Sum,55.0,0.4071194693220184,https://leetcode.com/problems/binary-tree-maximum-path-sum
+HARD,Valid Palindrome III,55.0,0.4915177382146724,https://leetcode.com/problems/valid-palindrome-iii
+MEDIUM,Walls and Gates,55.0,0.6228685071380634,https://leetcode.com/problems/walls-and-gates
+MEDIUM,Decode String,55.0,0.6039223013014007,https://leetcode.com/problems/decode-string
+MEDIUM,House Robber II,55.0,0.4289892965888374,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Koko Eating Bananas,55.0,0.48695447816313936,https://leetcode.com/problems/koko-eating-bananas
+HARD,Maximum Spending After Buying Items,55.0,0.6120902906617193,https://leetcode.com/problems/maximum-spending-after-buying-items
+MEDIUM,Find Positive Integer Solution for a Given Equation,55.0,0.6973406256330121,https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation
+MEDIUM,Maximum Points You Can Obtain from Cards,55.0,0.545197949697261,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+MEDIUM,Max Area of Island,55.0,0.727121896806239,https://leetcode.com/problems/max-area-of-island
+MEDIUM,Evaluate Division,55.0,0.6253636895140489,https://leetcode.com/problems/evaluate-division
+MEDIUM,Daily Temperatures,55.0,0.667310312006699,https://leetcode.com/problems/daily-temperatures
+EASY,Reverse Linked List,55.0,0.7827322260144497,https://leetcode.com/problems/reverse-linked-list
+HARD,Basic Calculator III,55.0,0.5159796499120629,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,Time Based Key-Value Store,55.0,0.49300051529375016,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Unique Binary Search Trees,55.0,0.6193546232533605,https://leetcode.com/problems/unique-binary-search-trees
+MEDIUM,Unique Paths II,55.0,0.4254154850999715,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,House Robber III,55.0,0.5461294765658323,https://leetcode.com/problems/house-robber-iii
+MEDIUM,Subarray Sum Equals K,55.0,0.445958297231685,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Sliding Window Maximum,55.0,0.4709055557527499,https://leetcode.com/problems/sliding-window-maximum
+EASY,Longest Common Prefix,55.0,0.44471881173263983,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Maximum Subarray,55.0,0.5151958813194838,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Course Schedule,55.0,0.4808050372554968,https://leetcode.com/problems/course-schedule
+MEDIUM,Minimum Swaps to Group All 1's Together,55.0,0.6033862952223689,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+MEDIUM,Sort Colors,55.0,0.6582486838411009,https://leetcode.com/problems/sort-colors
+HARD,Meeting Rooms III,55.0,0.4408588665943601,https://leetcode.com/problems/meeting-rooms-iii
+MEDIUM,3Sum,55.0,0.3600889060507152,https://leetcode.com/problems/3sum
+EASY,Two Sum,55.0,0.5456826390465583,https://leetcode.com/problems/two-sum
+EASY,Meeting Rooms,55.0,0.586298339897621,https://leetcode.com/problems/meeting-rooms
+MEDIUM,Longest Consecutive Sequence,55.0,0.47634145808173683,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Water and Jug Problem,55.0,0.4218532978990999,https://leetcode.com/problems/water-and-jug-problem
+MEDIUM,Reorder List,55.0,0.6105316282634295,https://leetcode.com/problems/reorder-list
+HARD,Word Search II,55.0,0.36856139262357834,https://leetcode.com/problems/word-search-ii
+MEDIUM,Find Peak Element,55.0,0.46246533469333223,https://leetcode.com/problems/find-peak-element
+MEDIUM,Min Cost to Connect All Points,55.0,0.6804136874361594,https://leetcode.com/problems/min-cost-to-connect-all-points
+MEDIUM,Open the Lock,55.0,0.6051160318866253,https://leetcode.com/problems/open-the-lock
+MEDIUM,Lowest Common Ancestor of a Binary Tree,55.0,0.6499498465162309,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Spiral Matrix,55.0,0.5230478999133514,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Number of Good Leaf Nodes Pairs,55.0,0.718618763153176,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+MEDIUM,Permutations,55.0,0.7980244988075359,https://leetcode.com/problems/permutations
+MEDIUM,Swap Nodes in Pairs,55.0,0.6607520460783732,https://leetcode.com/problems/swap-nodes-in-pairs
+EASY,Kth Missing Positive Number,55.0,0.6143023951561049,https://leetcode.com/problems/kth-missing-positive-number
+MEDIUM,Minimum Size Subarray Sum,55.0,0.48399044043773043,https://leetcode.com/problems/minimum-size-subarray-sum
+HARD,Candy,55.0,0.4413076461757154,https://leetcode.com/problems/candy
+MEDIUM,Shortest Bridge,55.0,0.5818606842377473,https://leetcode.com/problems/shortest-bridge
+EASY,Valid Palindrome II,55.0,0.420909682882968,https://leetcode.com/problems/valid-palindrome-ii
+MEDIUM,Is Graph Bipartite?,55.0,0.568855953479802,https://leetcode.com/problems/is-graph-bipartite
+HARD,Bus Routes,55.0,0.47166685122929153,https://leetcode.com/problems/bus-routes
+HARD,Regular Expression Matching,55.0,0.28739758087657225,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,55.0,0.6465095107383754,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
+MEDIUM,Find First and Last Position of Element in Sorted Array,55.0,0.45753107659709763,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array

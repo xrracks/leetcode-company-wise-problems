@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Minimum Absolute Difference,100.0,0.7008978404861399,https://leetcode.com/problems/minimum-absolute-difference
-MEDIUM,Integer to Roman,88.2,0.6717640921057799,https://leetcode.com/problems/integer-to-roman
+EASY,Minimum Operations to Make Columns Strictly Increasing,100.0,0.729147675478578,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing
+EASY,Minimum Absolute Difference,92.7,0.7011629694144168,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Integer to Roman,81.2,0.6724932382686701,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Longest Substring Without Repeating Characters,66.9,0.359741855879446,https://leetcode.com/problems/longest-substring-without-repeating-characters

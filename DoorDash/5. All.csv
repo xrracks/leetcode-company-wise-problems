@@ -1,0 +1,78 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Walls and Gates,100.0,0.6228685071380634,https://leetcode.com/problems/walls-and-gates
+HARD,Binary Tree Maximum Path Sum,99.2,0.407119459249771,https://leetcode.com/problems/binary-tree-maximum-path-sum
+HARD,Maximum Profit in Job Scheduling,92.7,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Longest Increasing Path in a Matrix,89.6,0.5462630552102105,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+MEDIUM,Most Profit Assigning Work,82.7,0.5585144659416259,https://leetcode.com/problems/most-profit-assigning-work
+MEDIUM,Koko Eating Bananas,80.6,0.4869548488932445,https://leetcode.com/problems/koko-eating-bananas
+EASY,Check if One String Swap Can Make Strings Equal,80.0,0.4603533278553821,https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal
+MEDIUM,Design File System,78.8,0.6359286071600487,https://leetcode.com/problems/design-file-system
+MEDIUM,Find K Closest Elements,75.6,0.48165652229431044,https://leetcode.com/problems/find-k-closest-elements
+MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,74.1,0.821093304863005,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+MEDIUM,Search Suggestions System,73.3,0.6506314564076575,https://leetcode.com/problems/search-suggestions-system
+EASY,Find Nearest Point That Has the Same X or Y Coordinate,70.7,0.690723577927047,https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate
+EASY,Buddy Strings,70.7,0.3338539108546169,https://leetcode.com/problems/buddy-strings
+MEDIUM,Single-Threaded CPU,70.7,0.46006211828776317,https://leetcode.com/problems/single-threaded-cpu
+HARD,Basic Calculator III,68.7,0.5159796499120629,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,Count Sub Islands,68.7,0.7280939110741833,https://leetcode.com/problems/count-sub-islands
+MEDIUM,Next Greater Element III,67.6,0.3435254180159141,https://leetcode.com/problems/next-greater-element-iii
+MEDIUM,Asteroid Collision,67.6,0.44952778118483994,https://leetcode.com/problems/asteroid-collision
+HARD,Making A Large Island,65.3,0.49581520371102883,https://leetcode.com/problems/making-a-large-island
+HARD,Count All Valid Pickup and Delivery Options,64.0,0.6488582244474295,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options
+HARD,Shortest Distance from All Buildings,64.0,0.43683609563682924,https://leetcode.com/problems/shortest-distance-from-all-buildings
+HARD,Serialize and Deserialize Binary Tree,64.0,0.5802165996393814,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+EASY,Immediate Food Delivery I,59.5,0.8083962000558816,https://leetcode.com/problems/immediate-food-delivery-i
+MEDIUM,Immediate Food Delivery II,59.5,0.5329351839351647,https://leetcode.com/problems/immediate-food-delivery-ii
+HARD,Best Meeting Point,59.5,0.6113317701105422,https://leetcode.com/problems/best-meeting-point
+MEDIUM,Interval List Intersections,59.5,0.7227889167277138,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Course Schedule II,59.5,0.5218089487675912,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Count Nodes With the Highest Score,59.5,0.5063522337880649,https://leetcode.com/problems/count-nodes-with-the-highest-score
+MEDIUM,Task Scheduler,57.7,0.6075148809523809,https://leetcode.com/problems/task-scheduler
+HARD,Subsequence With the Minimum Score,57.7,0.322906233145851,https://leetcode.com/problems/subsequence-with-the-minimum-score
+MEDIUM,Mice and Cheese,57.7,0.4670829919774937,https://leetcode.com/problems/mice-and-cheese
+EASY,Two Sum,57.7,0.5456832076259376,https://leetcode.com/problems/two-sum
+HARD,Vertical Order Traversal of a Binary Tree,57.7,0.4979740998818544,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+MEDIUM,Implement Trie (Prefix Tree),57.7,0.6704749521123763,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Basic Calculator II,55.7,0.44895369248542727,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Jump Game,53.5,0.3897889483462629,https://leetcode.com/problems/jump-game
+MEDIUM,Next Permutation,51.0,0.41883073391582293,https://leetcode.com/problems/next-permutation
+HARD,Basic Calculator,48.2,0.4444669239277701,https://leetcode.com/problems/basic-calculator
+HARD,Number of Visible People in a Queue,48.2,0.7036126308887113,https://leetcode.com/problems/number-of-visible-people-in-a-queue
+HARD,Swim in Rising Water,48.2,0.6196250541486567,https://leetcode.com/problems/swim-in-rising-water
+MEDIUM,Longest Common Subsequence,44.8,0.5786707840249089,https://leetcode.com/problems/longest-common-subsequence
+MEDIUM,Jump Game II,44.8,0.4096369085080085,https://leetcode.com/problems/jump-game-ii
+HARD,Largest Rectangle in Histogram,44.8,0.46159670344185744,https://leetcode.com/problems/largest-rectangle-in-histogram
+HARD,Design In-Memory File System,44.8,0.4805465892878937,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Design Add and Search Words Data Structure,44.8,0.4640784712368792,https://leetcode.com/problems/design-add-and-search-words-data-structure
+MEDIUM,Maximum Gap,40.6,0.4808389764856875,https://leetcode.com/problems/maximum-gap
+MEDIUM,Max Area of Island,40.6,0.7271220989228963,https://leetcode.com/problems/max-area-of-island
+HARD,Sudoku Solver,40.6,0.6353933239324742,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Number of Islands,40.6,0.6112261047424989,https://leetcode.com/problems/number-of-islands
+HARD,Word Search II,40.6,0.3685621560603923,https://leetcode.com/problems/word-search-ii
+MEDIUM,Shortest Path to Get Food,40.6,0.5546254391239674,https://leetcode.com/problems/shortest-path-to-get-food
+MEDIUM,01 Matrix,35.4,0.5012716897971436,https://leetcode.com/problems/01-matrix
+MEDIUM,LRU Cache,35.4,0.4397790060362377,https://leetcode.com/problems/lru-cache
+MEDIUM,Capacity To Ship Packages Within D Days,35.4,0.7099141823093694,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+MEDIUM,3Sum,35.4,0.36008901476216215,https://leetcode.com/problems/3sum
+MEDIUM,Find the Celebrity,35.4,0.4802295211582581,https://leetcode.com/problems/find-the-celebrity
+MEDIUM,Analyze User Website Visit Pattern,35.4,0.4300114565763931,https://leetcode.com/problems/analyze-user-website-visit-pattern
+MEDIUM,Group Anagrams,28.0,0.699762286154963,https://leetcode.com/problems/group-anagrams
+MEDIUM,Task Scheduler II,28.0,0.5336462456647753,https://leetcode.com/problems/task-scheduler-ii
+MEDIUM,Binary Tree Vertical Order Traversal,28.0,0.5613562743076572,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+MEDIUM,Valid Sudoku,28.0,0.6123406060573098,https://leetcode.com/problems/valid-sudoku
+MEDIUM,Number of Closed Islands,28.0,0.6656369658025615,https://leetcode.com/problems/number-of-closed-islands
+MEDIUM,Path With Maximum Minimum Value,28.0,0.5387254167291136,https://leetcode.com/problems/path-with-maximum-minimum-value
+MEDIUM,Implement Trie II (Prefix Tree),28.0,0.6300983751519841,https://leetcode.com/problems/implement-trie-ii-prefix-tree
+EASY,Counting Words With a Given Prefix,28.0,0.7875423261674147,https://leetcode.com/problems/counting-words-with-a-given-prefix
+EASY,Move Zeroes,28.0,0.623777200452504,https://leetcode.com/problems/move-zeroes
+HARD,Employee Free Time,28.0,0.724126764032439,https://leetcode.com/problems/employee-free-time
+HARD,LFU Cache,28.0,0.45463368319404796,https://leetcode.com/problems/lfu-cache
+MEDIUM,Top K Frequent Elements,28.0,0.6378661884181144,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Design Browser History,28.0,0.7781474108223899,https://leetcode.com/problems/design-browser-history
+HARD,Maximum Path Quality of a Graph,28.0,0.5925691930114451,https://leetcode.com/problems/maximum-path-quality-of-a-graph
+MEDIUM,Diameter of N-Ary Tree,28.0,0.7466713532513181,https://leetcode.com/problems/diameter-of-n-ary-tree
+MEDIUM,Number of Provinces,28.0,0.6767892130064258,https://leetcode.com/problems/number-of-provinces
+HARD,Maximum Performance of a Team,28.0,0.47583276242855704,https://leetcode.com/problems/maximum-performance-of-a-team
+HARD,Sliding Window Maximum,28.0,0.4709059730900956,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Meeting Rooms II,28.0,0.5178402898285993,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Ways to Make a Fair Array,28.0,0.6393695081076184,https://leetcode.com/problems/ways-to-make-a-fair-array

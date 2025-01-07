@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Find the Integer Added to Array I,100.0,0.8188875014482306,https://leetcode.com/problems/find-the-integer-added-to-array-i
+MEDIUM,Find the Integer Added to Array II,100.0,0.3146221704394141,https://leetcode.com/problems/find-the-integer-added-to-array-ii
+MEDIUM,Minimum Substring Partition of Equal Character Frequency,100.0,0.40027129679869783,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency
+HARD,Construct String with Minimum Cost,100.0,0.19723200555583115,https://leetcode.com/problems/construct-string-with-minimum-cost
+MEDIUM,Maximum Total Reward Using Operations I,100.0,0.29710031871977177,https://leetcode.com/problems/maximum-total-reward-using-operations-i
+HARD,Maximum Total Reward Using Operations II,100.0,0.20741272805631375,https://leetcode.com/problems/maximum-total-reward-using-operations-ii
+MEDIUM,Shortest Subarray With OR at Least K II,100.0,0.5055031531288741,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii
+EASY,Shortest Subarray With OR at Least K I,100.0,0.42355303221688895,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i
+MEDIUM,Right Triangles,100.0,0.4695827757037872,https://leetcode.com/problems/right-triangles
+MEDIUM,Symmetric Coordinates,100.0,0.4096069868995633,https://leetcode.com/problems/symmetric-coordinates
+EASY,Pascal's Triangle,71.1,0.7603654845204072,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Next Permutation,71.1,0.41883441183888775,https://leetcode.com/problems/next-permutation
+MEDIUM,Next Greater Element III,61.4,0.34352122142305413,https://leetcode.com/problems/next-greater-element-iii
+MEDIUM,Zigzag Conversion,61.4,0.5021552753706362,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Jump Game II,61.4,0.40963727495755525,https://leetcode.com/problems/jump-game-ii

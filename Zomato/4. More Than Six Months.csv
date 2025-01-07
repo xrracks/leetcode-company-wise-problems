@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Total Cost to Hire K Workers,100.0,0.4277789585547291,https://leetcode.com/problems/total-cost-to-hire-k-workers
+MEDIUM,Find and Replace Pattern,100.0,0.7678975750726383,https://leetcode.com/problems/find-and-replace-pattern
+HARD,Cherry Pickup,93.7,0.3742077405434563,https://leetcode.com/problems/cherry-pickup
+MEDIUM,Count Zero Request Servers,85.6,0.33031326125048077,https://leetcode.com/problems/count-zero-request-servers
+MEDIUM,Global and Local Inversions,74.2,0.4235936255406048,https://leetcode.com/problems/global-and-local-inversions
+MEDIUM,Unique Paths,74.2,0.6518556678967466,https://leetcode.com/problems/unique-paths
+MEDIUM,Unique Paths II,74.2,0.4254166718270088,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Decode String,74.2,0.6039238302333305,https://leetcode.com/problems/decode-string
+HARD,Frog Jump,74.2,0.4632101155937908,https://leetcode.com/problems/frog-jump
+HARD,Optimal Account Balancing,74.2,0.4966693712373912,https://leetcode.com/problems/optimal-account-balancing
+HARD,Reverse Nodes in k-Group,74.2,0.6142044761048789,https://leetcode.com/problems/reverse-nodes-in-k-group

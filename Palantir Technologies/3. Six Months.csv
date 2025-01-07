@@ -1,18 +1,18 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.3721684844297488,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i
-HARD,Find Beautiful Indices in the Given Array II,96.1,0.25429723983069374,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
-MEDIUM,Minimum Time Difference,70.0,0.6217053263219021,https://leetcode.com/problems/minimum-time-difference
-HARD,Integer to English Words,70.0,0.3416010309069405,https://leetcode.com/problems/integer-to-english-words
-HARD,Selling Pieces of Wood,61.2,0.5102725710076124,https://leetcode.com/problems/selling-pieces-of-wood
-MEDIUM,Accounts Merge,61.2,0.5849885129158102,https://leetcode.com/problems/accounts-merge
-MEDIUM,Find Players With Zero or One Losses,61.2,0.7291886397543021,https://leetcode.com/problems/find-players-with-zero-or-one-losses
-MEDIUM,Number of Divisible Triplet Sums,61.2,0.6427910420136961,https://leetcode.com/problems/number-of-divisible-triplet-sums
-HARD,Contains Duplicate III,61.2,0.23221695674651044,https://leetcode.com/problems/contains-duplicate-iii
-MEDIUM,LRU Cache,61.2,0.43931297922662327,https://leetcode.com/problems/lru-cache
-EASY,Contains Duplicate,61.2,0.6254445228958262,https://leetcode.com/problems/contains-duplicate
-EASY,Check If It Is a Straight Line,61.2,0.3959051864267189,https://leetcode.com/problems/check-if-it-is-a-straight-line
-EASY,Range Sum Query - Immutable,61.2,0.6632116673970434,https://leetcode.com/problems/range-sum-query-immutable
-EASY,Contains Duplicate II,61.2,0.4742417082505279,https://leetcode.com/problems/contains-duplicate-ii
-EASY,Single Number,61.2,0.7481655159258328,https://leetcode.com/problems/single-number
-MEDIUM,Maximum Size Subarray Sum Equals k,61.2,0.5005154068948872,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
-MEDIUM,Construct Quad Tree,61.2,0.7634417062705232,https://leetcode.com/problems/construct-quad-tree
+MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.37273688871396243,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i
+HARD,Find Beautiful Indices in the Given Array II,96.1,0.2546797931977101,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
+MEDIUM,Minimum Time Difference,70.1,0.6218417218702963,https://leetcode.com/problems/minimum-time-difference
+HARD,Selling Pieces of Wood,61.3,0.5105471459463871,https://leetcode.com/problems/selling-pieces-of-wood
+MEDIUM,Accounts Merge,61.3,0.5854930611831443,https://leetcode.com/problems/accounts-merge
+MEDIUM,Find Players With Zero or One Losses,61.3,0.7289685253244048,https://leetcode.com/problems/find-players-with-zero-or-one-losses
+MEDIUM,Number of Divisible Triplet Sums,61.3,0.6427406199021207,https://leetcode.com/problems/number-of-divisible-triplet-sums
+HARD,Integer to English Words,61.3,0.34172421038619005,https://leetcode.com/problems/integer-to-english-words
+HARD,Contains Duplicate III,61.3,0.23237937762605945,https://leetcode.com/problems/contains-duplicate-iii
+MEDIUM,LRU Cache,61.3,0.4397805713502933,https://leetcode.com/problems/lru-cache
+EASY,Contains Duplicate,61.3,0.6257631311676208,https://leetcode.com/problems/contains-duplicate
+EASY,Check If It Is a Straight Line,61.3,0.39595888187556355,https://leetcode.com/problems/check-if-it-is-a-straight-line
+EASY,Range Sum Query - Immutable,61.3,0.6644019420952302,https://leetcode.com/problems/range-sum-query-immutable
+EASY,Contains Duplicate II,61.3,0.47491309177500474,https://leetcode.com/problems/contains-duplicate-ii
+EASY,Single Number,61.3,0.7487549596880515,https://leetcode.com/problems/single-number
+MEDIUM,Maximum Size Subarray Sum Equals k,61.3,0.5009898757016841,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
+MEDIUM,Construct Quad Tree,61.3,0.7639412188325175,https://leetcode.com/problems/construct-quad-tree

@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.545686239094749,https://leetcode.com/problems/two-sum
+MEDIUM,Minimum Number of Groups to Create a Valid Assignment,100.0,0.2458648001473568,https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment
+MEDIUM,Gas Station,100.0,0.4580078503077386,https://leetcode.com/problems/gas-station
+HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.5068628230041827,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Longest Substring Without Repeating Characters,87.0,0.3597435361326976,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Reverse Words in a String III,87.0,0.834491064083642,https://leetcode.com/problems/reverse-words-in-a-string-iii
+MEDIUM,Group Anagrams,87.0,0.6997639507293039,https://leetcode.com/problems/group-anagrams
+MEDIUM,Remove Duplicate Letters,87.0,0.5054082845372196,https://leetcode.com/problems/remove-duplicate-letters
+MEDIUM,Coin Change,87.0,0.4544106351805197,https://leetcode.com/problems/coin-change
+EASY,Best Time to Buy and Sell Stock,87.0,0.5452646673792405,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Convert Binary Number in a Linked List to Integer,87.0,0.811745722310218,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+MEDIUM,Palindromic Substrings,87.0,0.7103002177186656,https://leetcode.com/problems/palindromic-substrings
+EASY,Roman to Integer,87.0,0.636168690778448,https://leetcode.com/problems/roman-to-integer
+EASY,Move Zeroes,87.0,0.6237760640172052,https://leetcode.com/problems/move-zeroes

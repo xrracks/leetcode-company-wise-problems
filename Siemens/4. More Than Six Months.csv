@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Islands,100.0,0.6112281343020961,https://leetcode.com/problems/number-of-islands
+HARD,LFU Cache,85.8,0.4546345668090843,https://leetcode.com/problems/lfu-cache
+MEDIUM,Letter Combinations of a Phone Number,85.8,0.6258637828413748,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Merge Two Sorted Lists,85.8,0.6590071912896146,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Best Time to Buy and Sell Stock,85.8,0.5452645884570084,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Reverse Linked List,85.8,0.7827338530716743,https://leetcode.com/problems/reverse-linked-list
+HARD,First Missing Positive,74.6,0.4033966074277459,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Merge Intervals,74.6,0.48475799592441715,https://leetcode.com/problems/merge-intervals
+MEDIUM,Jump Game II,74.6,0.40963774101155487,https://leetcode.com/problems/jump-game-ii
+EASY,Two Sum,74.6,0.5456856391098134,https://leetcode.com/problems/two-sum
+EASY,Contains Duplicate,74.6,0.625762753512348,https://leetcode.com/problems/contains-duplicate
+MEDIUM,3Sum,74.6,0.3600909944896174,https://leetcode.com/problems/3sum
+MEDIUM,Longest Subarray With Maximum Bitwise AND,74.6,0.6185404115499771,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and
+MEDIUM,Largest Number,74.6,0.4053566453259674,https://leetcode.com/problems/largest-number
+MEDIUM,Top K Frequent Elements,74.6,0.6378677733927076,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Valid Parentheses,74.6,0.415389084575918,https://leetcode.com/problems/valid-parentheses
+EASY,Palindrome Number,74.6,0.5822342752469036,https://leetcode.com/problems/palindrome-number

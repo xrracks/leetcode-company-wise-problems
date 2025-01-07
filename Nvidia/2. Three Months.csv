@@ -1,19 +1,20 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Special Binary String,100.0,0.6270448429137311,https://leetcode.com/problems/special-binary-string
-MEDIUM,Group Anagrams,73.4,0.6992932360482793,https://leetcode.com/problems/group-anagrams
-MEDIUM,Dot Product of Two Sparse Vectors,66.9,0.8988401115842021,https://leetcode.com/problems/dot-product-of-two-sparse-vectors
-EASY,Last Stone Weight,66.9,0.6571611413308106,https://leetcode.com/problems/last-stone-weight
-MEDIUM,Reverse Words in a String,66.9,0.4847727970591624,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,Remove Stones to Minimize the Total,66.9,0.6374826155042325,https://leetcode.com/problems/remove-stones-to-minimize-the-total
-EASY,Best Time to Buy and Sell Stock,57.8,0.5449233230333227,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Minimum Path Sum,57.8,0.6546599935498513,https://leetcode.com/problems/minimum-path-sum
-MEDIUM,Rotate Image,57.8,0.7663564623905238,https://leetcode.com/problems/rotate-image
-MEDIUM,The Maze,57.8,0.5885927199770707,https://leetcode.com/problems/the-maze
-MEDIUM,Find the Duplicate Number,57.8,0.6200863433020448,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,String Compression,57.8,0.5666217027523721,https://leetcode.com/problems/string-compression
-HARD,Merge k Sorted Lists,57.8,0.5509065267556179,https://leetcode.com/problems/merge-k-sorted-lists
-EASY,Valid Parentheses,57.8,0.4150707845407542,https://leetcode.com/problems/valid-parentheses
-EASY,Reverse Bits,57.8,0.6137302568761662,https://leetcode.com/problems/reverse-bits
-MEDIUM,Minimum Knight Moves,57.8,0.41035343370099026,https://leetcode.com/problems/minimum-knight-moves
-MEDIUM,Course Schedule II,57.8,0.5213306342998251,https://leetcode.com/problems/course-schedule-ii
-EASY,Two Sum,57.8,0.5450370712497605,https://leetcode.com/problems/two-sum
+HARD,Special Binary String,100.0,0.6273377833904624,https://leetcode.com/problems/special-binary-string
+MEDIUM,Group Anagrams,78.4,0.6997623065189625,https://leetcode.com/problems/group-anagrams
+EASY,Last Stone Weight,66.8,0.6572259056404345,https://leetcode.com/problems/last-stone-weight
+MEDIUM,Reverse Words in a String,66.8,0.48644590308665964,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Reverse Bits,66.8,0.6145757368555567,https://leetcode.com/problems/reverse-bits
+MEDIUM,Remove Stones to Minimize the Total,66.8,0.6378965169244197,https://leetcode.com/problems/remove-stones-to-minimize-the-total
+EASY,Best Time to Buy and Sell Stock,57.7,0.5452634627389443,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,String Compression,57.7,0.5672144884218164,https://leetcode.com/problems/string-compression
+MEDIUM,Rectangle Area,57.7,0.4699249080255898,https://leetcode.com/problems/rectangle-area
+EASY,Two Sum,57.7,0.5456828127454332,https://leetcode.com/problems/two-sum
+MEDIUM,Rotate Image,57.7,0.7669474738288244,https://leetcode.com/problems/rotate-image
+MEDIUM,The Maze,57.7,0.5889552608907129,https://leetcode.com/problems/the-maze
+HARD,Merge k Sorted Lists,57.7,0.5516021598969107,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Minimum Path Sum,57.7,0.6549980032072442,https://leetcode.com/problems/minimum-path-sum
+EASY,Valid Parentheses,57.7,0.41538853049350605,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Minimum Knight Moves,57.7,0.41038796670398675,https://leetcode.com/problems/minimum-knight-moves
+MEDIUM,Course Schedule II,57.7,0.5218083591079278,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Dot Product of Two Sparse Vectors,57.7,0.8989052362650292,https://leetcode.com/problems/dot-product-of-two-sparse-vectors
+MEDIUM,Longest Substring Without Repeating Characters,57.7,0.3597414149926527,https://leetcode.com/problems/longest-substring-without-repeating-characters

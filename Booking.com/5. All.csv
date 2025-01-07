@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Reward Top K Students,100.0,0.4547639687918669,https://leetcode.com/problems/reward-top-k-students
+HARD,Sliding Window Maximum,87.7,0.4709093325582396,https://leetcode.com/problems/sliding-window-maximum
+HARD,Delete Duplicate Folders in System,80.9,0.5482625482625483,https://leetcode.com/problems/delete-duplicate-folders-in-system
+MEDIUM,Order Two Columns Independently,80.9,0.6065642166747792,https://leetcode.com/problems/order-two-columns-independently
+MEDIUM,K Highest Ranked Items Within a Price Range,80.9,0.4387197896652847,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range
+EASY,Two Out of Three,80.9,0.7589296778929104,https://leetcode.com/problems/two-out-of-three
+MEDIUM,Coloring A Border,80.9,0.49419875357504156,https://leetcode.com/problems/coloring-a-border
+MEDIUM,Maximal Square,70.8,0.47897127032965925,https://leetcode.com/problems/maximal-square
+HARD,Binary Tree Maximum Path Sum,57.0,0.40711867523997486,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Longest Increasing Subsequence,57.0,0.5686129353943818,https://leetcode.com/problems/longest-increasing-subsequence
+HARD,Reconstruct Itinerary,57.0,0.433767564606974,https://leetcode.com/problems/reconstruct-itinerary
+EASY,Backspace String Compare,57.0,0.4934363355989861,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Minimum Knight Moves,48.9,0.41038796670398675,https://leetcode.com/problems/minimum-knight-moves
+MEDIUM,Number of Islands,48.9,0.6112272381634173,https://leetcode.com/problems/number-of-islands
+MEDIUM,Least Number of Unique Integers after K Removals,48.9,0.6322426286734063,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+MEDIUM,Count Number of Nice Subarrays,48.9,0.7203785554328451,https://leetcode.com/problems/count-number-of-nice-subarrays
+EASY,Valid Parentheses,48.9,0.41538873301635526,https://leetcode.com/problems/valid-parentheses
