@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Minimum Operations to Make Columns Strictly Increasing,100.0,0.729147675478578,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing
-EASY,Minimum Absolute Difference,92.7,0.7011629694144168,https://leetcode.com/problems/minimum-absolute-difference
-MEDIUM,Integer to Roman,81.2,0.6724932382686701,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Longest Substring Without Repeating Characters,66.9,0.359741855879446,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Minimum Operations to Make Columns Strictly Increasing,100.0,0.7308245829113587,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing
+EASY,Largest Number After Digit Swaps by Parity,81.1,0.6291200428594041,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+MEDIUM,Count Ways to Group Overlapping Ranges,75.2,0.37132219029503427,https://leetcode.com/problems/count-ways-to-group-overlapping-ranges
+MEDIUM,Longest Substring Without Repeating Characters,66.8,0.3604558471505934,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Consecutive Sequence,66.8,0.4750204573660121,https://leetcode.com/problems/longest-consecutive-sequence

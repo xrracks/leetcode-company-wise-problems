@@ -1,43 +1,46 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.506861041780295,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
-MEDIUM,Product of Array Except Self,86.6,0.6713949877047211,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Course Schedule II,84.2,0.5218091329930646,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,LRU Cache,74.9,0.43977986744656694,https://leetcode.com/problems/lru-cache
-HARD,Sudoku Solver,74.9,0.6353930772636263,https://leetcode.com/problems/sudoku-solver
-MEDIUM,Longest Substring Without Repeating Characters,70.7,0.359742118019099,https://leetcode.com/problems/longest-substring-without-repeating-characters
-HARD,Trapping Rain Water,70.7,0.6378148838713318,https://leetcode.com/problems/trapping-rain-water
-EASY,Valid Parentheses,65.7,0.41538864107914036,https://leetcode.com/problems/valid-parentheses
-EASY,Two Sum,65.7,0.5456837541375219,https://leetcode.com/problems/two-sum
-MEDIUM,Longest Increasing Subsequence,65.7,0.5686117561623049,https://leetcode.com/problems/longest-increasing-subsequence
-MEDIUM,3Sum,65.7,0.36008891933229664,https://leetcode.com/problems/3sum
-MEDIUM,Spiral Matrix,59.1,0.5230484378990381,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Group Anagrams,59.1,0.6997623070064773,https://leetcode.com/problems/group-anagrams
-MEDIUM,Generate Parentheses,59.1,0.7612848146643022,https://leetcode.com/problems/generate-parentheses
-MEDIUM,Min Stack,59.1,0.5555546499009386,https://leetcode.com/problems/min-stack
-MEDIUM,Rotting Oranges,59.1,0.5557378736220349,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Heaters,59.1,0.3903615380762556,https://leetcode.com/problems/heaters
-EASY,Best Time to Buy and Sell Stock,59.1,0.5452638897988051,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Course Schedule,49.9,0.4808052106290731,https://leetcode.com/problems/course-schedule
-MEDIUM,Top K Frequent Elements,49.9,0.6378661190038754,https://leetcode.com/problems/top-k-frequent-elements
-MEDIUM,Shortest Path in Binary Matrix,49.9,0.48783499826480486,https://leetcode.com/problems/shortest-path-in-binary-matrix
-EASY,Unique Email Addresses,49.9,0.6740901191867198,https://leetcode.com/problems/unique-email-addresses
-MEDIUM,Minimum Cost For Tickets,49.9,0.6741656193962755,https://leetcode.com/problems/minimum-cost-for-tickets
-MEDIUM,Decode String,49.9,0.6039235860182758,https://leetcode.com/problems/decode-string
-EASY,Merge Two Sorted Lists,49.9,0.6590068648454451,https://leetcode.com/problems/merge-two-sorted-lists
-EASY,Palindrome Linked List,49.9,0.547609625604964,https://leetcode.com/problems/palindrome-linked-list
-MEDIUM,Binary Tree Level Order Traversal,49.9,0.693158917398043,https://leetcode.com/problems/binary-tree-level-order-traversal
-EASY,Logger Rate Limiter,49.9,0.7625936052134716,https://leetcode.com/problems/logger-rate-limiter
-MEDIUM,Task Scheduler,49.9,0.6075152090730261,https://leetcode.com/problems/task-scheduler
-MEDIUM,House Robber,49.9,0.5181555043088136,https://leetcode.com/problems/house-robber
-HARD,Serialize and Deserialize Binary Tree,49.9,0.5802168520262089,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-MEDIUM,Largest Plus Sign,49.9,0.4853209151650131,https://leetcode.com/problems/largest-plus-sign
-MEDIUM,Partition to K Equal Sum Subsets,49.9,0.3809787892120315,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
-MEDIUM,Most Profitable Path in a Tree,49.9,0.4964574898785425,https://leetcode.com/problems/most-profitable-path-in-a-tree
-MEDIUM,132 Pattern,49.9,0.33795262881616195,https://leetcode.com/problems/132-pattern
-MEDIUM,Pacific Atlantic Water Flow,49.9,0.5656440560629111,https://leetcode.com/problems/pacific-atlantic-water-flow
-MEDIUM,Insert Delete GetRandom O(1),49.9,0.5480515725500152,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,Number of Islands,49.9,0.6112263638459926,https://leetcode.com/problems/number-of-islands
-MEDIUM,Word Break,49.9,0.4764143031307191,https://leetcode.com/problems/word-break
-EASY,Merge Sorted Array,49.9,0.5180364664129485,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,Find First and Last Position of Element in Sorted Array,49.9,0.45753220572467995,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-EASY,Middle of the Linked List,49.9,0.7982474353773296,https://leetcode.com/problems/middle-of-the-linked-list
+HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.506953719871114,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Product of Array Except Self,86.5,0.6720153788454799,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Course Schedule II,84.1,0.5227078698820142,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,LRU Cache,78.4,0.4406270976773964,https://leetcode.com/problems/lru-cache
+HARD,Sudoku Solver,74.9,0.635481510259028,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Longest Substring Without Repeating Characters,70.7,0.3604563318565052,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Trapping Rain Water,70.7,0.6391072878047876,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,3Sum,65.6,0.3609278153993387,https://leetcode.com/problems/3sum
+EASY,Valid Parentheses,65.6,0.4160102087271318,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Increasing Subsequence,65.6,0.569300696723033,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Two Sum,65.6,0.5468046134826204,https://leetcode.com/problems/two-sum
+MEDIUM,Insert Delete GetRandom O(1),59.0,0.5482815637119863,https://leetcode.com/problems/insert-delete-getrandom-o1
+EASY,Best Time to Buy and Sell Stock,59.0,0.5457833094148696,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Group Anagrams,59.0,0.7004731600731481,https://leetcode.com/problems/group-anagrams
+MEDIUM,Spiral Matrix,59.0,0.5243056320212475,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Heaters,59.0,0.39086069600668727,https://leetcode.com/problems/heaters
+MEDIUM,Min Stack,59.0,0.5561978186407871,https://leetcode.com/problems/min-stack
+MEDIUM,Rotting Oranges,59.0,0.5565936471654513,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Course Schedule,49.8,0.4816002903670229,https://leetcode.com/problems/course-schedule
+EASY,Merge Two Sorted Lists,49.8,0.6598110749662935,https://leetcode.com/problems/merge-two-sorted-lists
+HARD,Median of Two Sorted Arrays,49.8,0.42479948320243394,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Decode String,49.8,0.6045200032982381,https://leetcode.com/problems/decode-string
+MEDIUM,Binary Tree Level Order Traversal,49.8,0.6941502120200976,https://leetcode.com/problems/binary-tree-level-order-traversal
+MEDIUM,Top K Frequent Elements,49.8,0.6385666533626023,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Middle of the Linked List,49.8,0.7988359589263115,https://leetcode.com/problems/middle-of-the-linked-list
+EASY,Logger Rate Limiter,49.8,0.7628052945168325,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,Minimum Cost For Tickets,49.8,0.6741650330177681,https://leetcode.com/problems/minimum-cost-for-tickets
+EASY,Palindrome Linked List,49.8,0.5483736752622672,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Design Circular Queue,49.8,0.5218939534178647,https://leetcode.com/problems/design-circular-queue
+MEDIUM,Shortest Path in Binary Matrix,49.8,0.48865958425169487,https://leetcode.com/problems/shortest-path-in-binary-matrix
+MEDIUM,Partition to K Equal Sum Subsets,49.8,0.38096156292999533,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+EASY,Unique Email Addresses,49.8,0.6742343754835116,https://leetcode.com/problems/unique-email-addresses
+MEDIUM,House Robber,49.8,0.5185577280155941,https://leetcode.com/problems/house-robber
+HARD,Serialize and Deserialize Binary Tree,49.8,0.5809250267379039,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Largest Plus Sign,49.8,0.48517773514861096,https://leetcode.com/problems/largest-plus-sign
+MEDIUM,Generate Parentheses,49.8,0.7621025746099932,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Task Scheduler,49.8,0.6080405305564733,https://leetcode.com/problems/task-scheduler
+MEDIUM,Most Profitable Path in a Tree,49.8,0.49666132478632474,https://leetcode.com/problems/most-profitable-path-in-a-tree
+MEDIUM,132 Pattern,49.8,0.33796097776702716,https://leetcode.com/problems/132-pattern
+MEDIUM,Pacific Atlantic Water Flow,49.8,0.5664399060303374,https://leetcode.com/problems/pacific-atlantic-water-flow
+MEDIUM,Number of Islands,49.8,0.6120955098590548,https://leetcode.com/problems/number-of-islands
+MEDIUM,Word Break,49.8,0.4769040767743635,https://leetcode.com/problems/word-break
+EASY,Merge Sorted Array,49.8,0.519007407650906,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Find First and Last Position of Element in Sorted Array,49.8,0.45834940827843945,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Find All Anagrams in a String,49.8,0.5167444790615465,https://leetcode.com/problems/find-all-anagrams-in-a-string

@@ -1,19 +1,19 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7099161213502216,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
-MEDIUM,Longest Substring Without Repeating Characters,90.6,0.3597425102589645,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,3Sum,90.6,0.36009012719234057,https://leetcode.com/problems/3sum
-MEDIUM,Brick Wall,84.0,0.556722219576264,https://leetcode.com/problems/brick-wall
-EASY,Best Time to Buy and Sell Stock,74.7,0.5452639431514416,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Minimum Window Substring,68.0,0.4429189981572392,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Coin Change,68.0,0.4544096761819031,https://leetcode.com/problems/coin-change
-MEDIUM,House Robber,68.0,0.5181555420934033,https://leetcode.com/problems/house-robber
-MEDIUM,Triangle,68.0,0.5824647988794834,https://leetcode.com/problems/triangle
-MEDIUM,Group Anagrams,68.0,0.6997627589126413,https://leetcode.com/problems/group-anagrams
-HARD,Word Ladder,58.7,0.41268192280378946,https://leetcode.com/problems/word-ladder
-HARD,Find Median from Data Stream,58.7,0.5271727134577938,https://leetcode.com/problems/find-median-from-data-stream
-EASY,Plus One,58.7,0.4672877198037053,https://leetcode.com/problems/plus-one
-MEDIUM,Jump Game II,58.7,0.4096377313650723,https://leetcode.com/problems/jump-game-ii
-EASY,Valid Parentheses,58.7,0.4153884641077695,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Course Schedule,58.7,0.48080606289261496,https://leetcode.com/problems/course-schedule
-MEDIUM,Kth Smallest Element in a BST,58.7,0.7432395235406943,https://leetcode.com/problems/kth-smallest-element-in-a-bst
-MEDIUM,Longest Palindromic Substring,58.7,0.3498429498866465,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7108313036418464,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+MEDIUM,Longest Substring Without Repeating Characters,90.6,0.36045703956563474,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,3Sum,90.6,0.36092914378684815,https://leetcode.com/problems/3sum
+MEDIUM,Brick Wall,84.0,0.5570828267782366,https://leetcode.com/problems/brick-wall
+EASY,Best Time to Buy and Sell Stock,74.6,0.5457849498294518,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Minimum Window Substring,68.0,0.44367065679349516,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Coin Change,68.0,0.4551643189479212,https://leetcode.com/problems/coin-change
+MEDIUM,House Robber,68.0,0.5185586562437997,https://leetcode.com/problems/house-robber
+MEDIUM,Triangle,68.0,0.5833078843029091,https://leetcode.com/problems/triangle
+MEDIUM,Group Anagrams,68.0,0.7004740728267458,https://leetcode.com/problems/group-anagrams
+HARD,Word Ladder,58.6,0.41384715723653964,https://leetcode.com/problems/word-ladder
+HARD,Find Median from Data Stream,58.6,0.5275402382739255,https://leetcode.com/problems/find-median-from-data-stream
+EASY,Plus One,58.6,0.46787168893054565,https://leetcode.com/problems/plus-one
+MEDIUM,Jump Game II,58.6,0.4098933083389269,https://leetcode.com/problems/jump-game-ii
+EASY,Valid Parentheses,58.6,0.4160107508256299,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Course Schedule,58.6,0.48159960821080555,https://leetcode.com/problems/course-schedule
+MEDIUM,Kth Smallest Element in a BST,58.6,0.7440410387063288,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+MEDIUM,Longest Palindromic Substring,58.6,0.35047770521842303,https://leetcode.com/problems/longest-palindromic-substring

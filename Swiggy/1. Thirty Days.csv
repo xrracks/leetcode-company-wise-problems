@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Next Greater Element I,100.0,0.7361298755416363,https://leetcode.com/problems/next-greater-element-i
-MEDIUM,Integer to Roman,89.4,0.6724942892078386,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Count Good Meals,89.4,0.30925859726889254,https://leetcode.com/problems/count-good-meals
+MEDIUM,Integer to Roman,100.0,0.6736960113438727,https://leetcode.com/problems/integer-to-roman
+EASY,Next Greater Element I,100.0,0.7367201882104558,https://leetcode.com/problems/next-greater-element-i
+EASY,Happy Number,100.0,0.5733815226772045,https://leetcode.com/problems/happy-number
+MEDIUM,Count Good Meals,89.1,0.3095283844659365,https://leetcode.com/problems/count-good-meals
+MEDIUM,Daily Temperatures,89.1,0.667763324819432,https://leetcode.com/problems/daily-temperatures

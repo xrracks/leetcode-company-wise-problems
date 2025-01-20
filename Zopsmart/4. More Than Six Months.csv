@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Zigzag Conversion,100.0,0.5021552753706362,https://leetcode.com/problems/zigzag-conversion
-HARD,Minimum Window Substring,92.2,0.4429193822811273,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Fraction Addition and Subtraction,80.4,0.6609754979135778,https://leetcode.com/problems/fraction-addition-and-subtraction
-EASY,Best Time to Buy and Sell Stock,71.0,0.5452646766366142,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Trapping Rain Water,71.0,0.6378168002360172,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Group Anagrams,71.0,0.6997635002860106,https://leetcode.com/problems/group-anagrams
+MEDIUM,Zigzag Conversion,100.0,0.503285661249927,https://leetcode.com/problems/zigzag-conversion
+HARD,Minimum Window Substring,92.2,0.44367277247241693,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Fraction Addition and Subtraction,80.4,0.6613410255498732,https://leetcode.com/problems/fraction-addition-and-subtraction
+EASY,Best Time to Buy and Sell Stock,71.1,0.5457863551423454,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Trapping Rain Water,71.1,0.6391114414720586,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Group Anagrams,71.1,0.7004751615478085,https://leetcode.com/problems/group-anagrams

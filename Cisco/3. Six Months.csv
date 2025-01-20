@@ -1,26 +1,25 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,House Robber,100.0,0.5181552260473242,https://leetcode.com/problems/house-robber
-MEDIUM,Longest Palindromic Substring,95.1,0.34984291000350365,https://leetcode.com/problems/longest-palindromic-substring
-EASY,Lucky Numbers in a Matrix,83.6,0.7989668780745867,https://leetcode.com/problems/lucky-numbers-in-a-matrix
-MEDIUM,Rotate Image,82.1,0.7669476214459554,https://leetcode.com/problems/rotate-image
-MEDIUM,Spiral Matrix,80.5,0.5230482928918913,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Find Third Transaction,78.8,0.5308333333333334,https://leetcode.com/problems/find-third-transaction
-MEDIUM,Maximum Subarray,72.5,0.5151960121885688,https://leetcode.com/problems/maximum-subarray
-EASY,Fizz Buzz,66.7,0.7356984937061206,https://leetcode.com/problems/fizz-buzz
-EASY,Maximum Difference Between Increasing Elements,58.7,0.5808146432404949,https://leetcode.com/problems/maximum-difference-between-increasing-elements
-MEDIUM,LRU Cache,53.0,0.43977986744656694,https://leetcode.com/problems/lru-cache
-HARD,Word Search II,53.0,0.3685624720107479,https://leetcode.com/problems/word-search-ii
-EASY,Number of Valid Words in a Sentence,53.0,0.29586357673808483,https://leetcode.com/problems/number-of-valid-words-in-a-sentence
-HARD,Sum of k-Mirror Numbers,45.0,0.4230032298680681,https://leetcode.com/problems/sum-of-k-mirror-numbers
-MEDIUM,Find the Largest Area of Square Inside Two Rectangles,45.0,0.45121336343906876,https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles
-EASY,Check if Binary String Has at Most One Segment of Ones,45.0,0.39183311281364636,https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones
-HARD,Minimum Cost to Make Array Equal,45.0,0.4613541839960073,https://leetcode.com/problems/minimum-cost-to-make-array-equal
-HARD,Count of Integers,45.0,0.349850064258175,https://leetcode.com/problems/count-of-integers
-MEDIUM,Number of Equal Count Substrings,45.0,0.45344777422170496,https://leetcode.com/problems/number-of-equal-count-substrings
-MEDIUM,Add Two Numbers,45.0,0.44936985857103984,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Jump Game,45.0,0.38978896535457935,https://leetcode.com/problems/jump-game
-MEDIUM,Palindromic Substrings,45.0,0.7102990810770861,https://leetcode.com/problems/palindromic-substrings
-EASY,Valid Parentheses,45.0,0.4153885712305297,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Longest Consecutive Sequence,45.0,0.47634072949780026,https://leetcode.com/problems/longest-consecutive-sequence
-EASY,Move Zeroes,45.0,0.6237764470093515,https://leetcode.com/problems/move-zeroes
-EASY,Remove Duplicates from Sorted Array,45.0,0.5877185427427226,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,House Robber,100.0,0.5185577280155941,https://leetcode.com/problems/house-robber
+MEDIUM,Longest Palindromic Substring,95.9,0.3504766094056425,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Lucky Numbers in a Matrix,83.6,0.7990262424038732,https://leetcode.com/problems/lucky-numbers-in-a-matrix
+MEDIUM,Rotate Image,82.1,0.7679933045092013,https://leetcode.com/problems/rotate-image
+MEDIUM,Spiral Matrix,80.5,0.5243059483590042,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Find Third Transaction,78.8,0.5341210022407822,https://leetcode.com/problems/find-third-transaction
+MEDIUM,Maximum Subarray,72.5,0.515627017412385,https://leetcode.com/problems/maximum-subarray
+EASY,Fizz Buzz,69.8,0.7363863947081613,https://leetcode.com/problems/fizz-buzz
+EASY,Maximum Difference Between Increasing Elements,58.7,0.58183810743261,https://leetcode.com/problems/maximum-difference-between-increasing-elements
+EASY,Number of Valid Words in a Sentence,53.0,0.29643551635530246,https://leetcode.com/problems/number-of-valid-words-in-a-sentence
+HARD,Word Search II,53.0,0.36892863771690054,https://leetcode.com/problems/word-search-ii
+MEDIUM,LRU Cache,53.0,0.44062694184306417,https://leetcode.com/problems/lru-cache
+HARD,Sum of k-Mirror Numbers,45.0,0.4233306077950395,https://leetcode.com/problems/sum-of-k-mirror-numbers
+MEDIUM,Number of Equal Count Substrings,45.0,0.45103311633172943,https://leetcode.com/problems/number-of-equal-count-substrings
+MEDIUM,Find the Largest Area of Square Inside Two Rectangles,45.0,0.45208619899128843,https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles
+HARD,Count of Integers,45.0,0.35037948776258565,https://leetcode.com/problems/count-of-integers
+EASY,Check if Binary String Has at Most One Segment of Ones,45.0,0.3918918918918919,https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones
+HARD,Minimum Cost to Make Array Equal,45.0,0.4612696138898837,https://leetcode.com/problems/minimum-cost-to-make-array-equal
+MEDIUM,Jump Game,45.0,0.39004636325592057,https://leetcode.com/problems/jump-game
+MEDIUM,Palindromic Substrings,45.0,0.7108315424795613,https://leetcode.com/problems/palindromic-substrings
+EASY,Valid Parentheses,45.0,0.41601012648575714,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Consecutive Sequence,45.0,0.47501929577535534,https://leetcode.com/problems/longest-consecutive-sequence
+EASY,Move Zeroes,45.0,0.6240681081577596,https://leetcode.com/problems/move-zeroes
+EASY,Remove Duplicates from Sorted Array,45.0,0.5892746397738533,https://leetcode.com/problems/remove-duplicates-from-sorted-array

@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.545682620070608,https://leetcode.com/problems/two-sum
-EASY,Minimum Absolute Difference,88.0,0.7011629694144168,https://leetcode.com/problems/minimum-absolute-difference
-MEDIUM,Coin Change,88.0,0.45440928447517837,https://leetcode.com/problems/coin-change
-MEDIUM,LRU Cache,88.0,0.4397783481489983,https://leetcode.com/problems/lru-cache
-MEDIUM,Jump Game,88.0,0.38978832148643017,https://leetcode.com/problems/jump-game
-MEDIUM,3Sum,88.0,0.3600889060507152,https://leetcode.com/problems/3sum
+MEDIUM,Jump Game,100.0,0.3900465431515571,https://leetcode.com/problems/jump-game
+MEDIUM,3Sum,100.0,0.3609269535598786,https://leetcode.com/problems/3sum
+HARD,Sliding Window Maximum,100.0,0.4711555395186798,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Number of Islands,100.0,0.6120952252355103,https://leetcode.com/problems/number-of-islands
+EASY,Valid Anagram,100.0,0.6589722675491704,https://leetcode.com/problems/valid-anagram

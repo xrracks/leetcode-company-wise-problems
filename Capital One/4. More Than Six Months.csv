@@ -1,21 +1,21 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Split Message Based on Limit,100.0,0.43385097592249605,https://leetcode.com/problems/split-message-based-on-limit
-HARD,Text Justification,100.0,0.4632742352690355,https://leetcode.com/problems/text-justification
-MEDIUM,Candy Crush,88.2,0.7710323449861726,https://leetcode.com/problems/candy-crush
-MEDIUM,Word Search,82.6,0.44225371166528654,https://leetcode.com/problems/word-search
-EASY,Two Sum,75.4,0.5456831128337231,https://leetcode.com/problems/two-sum
-MEDIUM,Coin Change,75.4,0.4544094607113951,https://leetcode.com/problems/coin-change
-HARD,Number of Flowers in Full Bloom,75.4,0.5698214878565774,https://leetcode.com/problems/number-of-flowers-in-full-bloom
-HARD,Word Search II,75.4,0.3685621560603923,https://leetcode.com/problems/word-search-ii
-HARD,Remove Boxes,75.4,0.4810799988559334,https://leetcode.com/problems/remove-boxes
-MEDIUM,Find the Length of the Longest Common Prefix,75.4,0.5621293753558577,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
-MEDIUM,Rotate Array,65.3,0.4210395770646227,https://leetcode.com/problems/rotate-array
-MEDIUM,Add Two Numbers,65.3,0.44936955229243175,https://leetcode.com/problems/add-two-numbers
-MEDIUM,K-diff Pairs in an Array,65.3,0.4391632380456205,https://leetcode.com/problems/k-diff-pairs-in-an-array
-HARD,Reverse Nodes in k-Group,65.3,0.6142016850547648,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Diagonal Traverse,65.3,0.6195958365317578,https://leetcode.com/problems/diagonal-traverse
-MEDIUM,Get Biggest Three Rhombus Sums in a Grid,65.3,0.48734071559735137,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid
-MEDIUM,Rotate Image,65.3,0.7669476465694077,https://leetcode.com/problems/rotate-image
-MEDIUM,Simplify Path,65.3,0.45695846056904654,https://leetcode.com/problems/simplify-path
-MEDIUM,Simple Bank System,65.3,0.6364081191894309,https://leetcode.com/problems/simple-bank-system
-EASY,Binary Tree Paths,65.3,0.6541796554817639,https://leetcode.com/problems/binary-tree-paths
+HARD,Split Message Based on Limit,100.0,0.432480983523732,https://leetcode.com/problems/split-message-based-on-limit
+HARD,Text Justification,96.7,0.46463350588941404,https://leetcode.com/problems/text-justification
+MEDIUM,Candy Crush,88.2,0.7712595762720418,https://leetcode.com/problems/candy-crush
+MEDIUM,Word Search,82.7,0.44307304982407447,https://leetcode.com/problems/word-search
+HARD,Number of Flowers in Full Bloom,82.7,0.5698612926559982,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+EASY,Two Sum,75.5,0.5468040151323236,https://leetcode.com/problems/two-sum
+MEDIUM,Coin Change,75.5,0.4551646150408125,https://leetcode.com/problems/coin-change
+HARD,Word Search II,75.5,0.3689285604101087,https://leetcode.com/problems/word-search-ii
+HARD,Remove Boxes,75.5,0.481066610975575,https://leetcode.com/problems/remove-boxes
+MEDIUM,Find the Length of the Longest Common Prefix,75.5,0.562112327038217,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Rotate Array,65.4,0.4218122599923258,https://leetcode.com/problems/rotate-array
+MEDIUM,Add Two Numbers,65.4,0.4504468195219992,https://leetcode.com/problems/add-two-numbers
+MEDIUM,K-diff Pairs in an Array,65.4,0.4399567417999533,https://leetcode.com/problems/k-diff-pairs-in-an-array
+HARD,Reverse Nodes in k-Group,65.4,0.6153407794503923,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Diagonal Traverse,65.4,0.6206070901756814,https://leetcode.com/problems/diagonal-traverse
+MEDIUM,Get Biggest Three Rhombus Sums in a Grid,65.4,0.4874570827334146,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid
+MEDIUM,Rotate Image,65.4,0.7679935544269757,https://leetcode.com/problems/rotate-image
+MEDIUM,Simplify Path,65.4,0.45876941184948533,https://leetcode.com/problems/simplify-path
+MEDIUM,Simple Bank System,65.4,0.6365813772939758,https://leetcode.com/problems/simple-bank-system
+EASY,Binary Tree Paths,65.4,0.6549932325784077,https://leetcode.com/problems/binary-tree-paths

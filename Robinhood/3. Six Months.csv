@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Number of Orders in the Backlog,100.0,0.5099317194289261,https://leetcode.com/problems/number-of-orders-in-the-backlog
-MEDIUM,Check if There is a Valid Path in a Grid,100.0,0.48551065996018666,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid
-MEDIUM,Count Good Meals,100.0,0.30925859726889254,https://leetcode.com/problems/count-good-meals
-MEDIUM,Ways to Split Array Into Three Subarrays,100.0,0.3322737174752471,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays
-MEDIUM,Restore the Array From Adjacent Pairs,100.0,0.7475328178625322,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs
-MEDIUM,Capital Gain/Loss,100.0,0.8515145833891314,https://leetcode.com/problems/capital-gainloss
-EASY,Count the Number of Consistent Strings,100.0,0.88140158535171,https://leetcode.com/problems/count-the-number-of-consistent-strings
-MEDIUM,Brightest Position on Street,100.0,0.6161968832495955,https://leetcode.com/problems/brightest-position-on-street
+MEDIUM,Number of Orders in the Backlog,100.0,0.5091705559649554,https://leetcode.com/problems/number-of-orders-in-the-backlog
+MEDIUM,Check if There is a Valid Path in a Grid,100.0,0.48536994752839063,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid
+MEDIUM,Count Good Meals,100.0,0.3095283844659365,https://leetcode.com/problems/count-good-meals
+MEDIUM,Ways to Split Array Into Three Subarrays,100.0,0.3322229769337415,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays
+MEDIUM,Restore the Array From Adjacent Pairs,100.0,0.7470813492724185,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs
+MEDIUM,Capital Gain/Loss,100.0,0.8515416217941048,https://leetcode.com/problems/capital-gainloss
+EASY,Count the Number of Consistent Strings,100.0,0.8816371759491258,https://leetcode.com/problems/count-the-number-of-consistent-strings
+MEDIUM,Brightest Position on Street,100.0,0.6161565056075554,https://leetcode.com/problems/brightest-position-on-street

@@ -1,23 +1,23 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Combination Sum,100.0,0.7346528254376576,https://leetcode.com/problems/combination-sum
-HARD,Palindrome Pairs,91.8,0.35856414457656205,https://leetcode.com/problems/palindrome-pairs
-HARD,Maximum Profit in Job Scheduling,90.1,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-HARD,Shortest Path to Get All Keys,88.2,0.5360151462177335,https://leetcode.com/problems/shortest-path-to-get-all-keys
-HARD,Minimum Window Substring,83.9,0.442918373343981,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Flatten 2D Vector,83.9,0.4986133951263268,https://leetcode.com/problems/flatten-2d-vector
-HARD,Alien Dictionary,71.3,0.3628537344163828,https://leetcode.com/problems/alien-dictionary
-MEDIUM,Cheapest Flights Within K Stops,71.3,0.3989770548648009,https://leetcode.com/problems/cheapest-flights-within-k-stops
-MEDIUM,Smallest Common Region,66.5,0.6792288768238887,https://leetcode.com/problems/smallest-common-region
-HARD,Text Justification,66.5,0.4632742352690355,https://leetcode.com/problems/text-justification
-HARD,Trapping Rain Water,66.5,0.6378147703295906,https://leetcode.com/problems/trapping-rain-water
-HARD,Sliding Puzzle,66.5,0.7291815218498523,https://leetcode.com/problems/sliding-puzzle
-MEDIUM,Coin Change,60.3,0.4544094607113951,https://leetcode.com/problems/coin-change
-MEDIUM,Pour Water,60.3,0.47492210743317637,https://leetcode.com/problems/pour-water
-MEDIUM,Flatten Nested List Iterator,51.7,0.6499953571955275,https://leetcode.com/problems/flatten-nested-list-iterator
-MEDIUM,Shortest Uncommon Substring in an Array,51.7,0.46707004448465655,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array
-MEDIUM,Simple Bank System,51.7,0.6364081191894309,https://leetcode.com/problems/simple-bank-system
-MEDIUM,IP to CIDR,51.7,0.5581040700669758,https://leetcode.com/problems/ip-to-cidr
-MEDIUM,Merge Intervals,51.7,0.4847550616516687,https://leetcode.com/problems/merge-intervals
-HARD,Employee Free Time,51.7,0.724126764032439,https://leetcode.com/problems/employee-free-time
-MEDIUM,Sort Integers by The Power Value,51.7,0.7038189200049885,https://leetcode.com/problems/sort-integers-by-the-power-value
-MEDIUM,Design Tic-Tac-Toe,51.7,0.5834831827582454,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Combination Sum,100.0,0.7356021274906723,https://leetcode.com/problems/combination-sum
+HARD,Palindrome Pairs,92.9,0.3587929343301544,https://leetcode.com/problems/palindrome-pairs
+HARD,Maximum Profit in Job Scheduling,91.2,0.5431849681573361,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Shortest Path to Get All Keys,87.2,0.5361114947745046,https://leetcode.com/problems/shortest-path-to-get-all-keys
+MEDIUM,Flatten 2D Vector,85.0,0.49890532047815306,https://leetcode.com/problems/flatten-2d-vector
+HARD,Minimum Window Substring,82.4,0.44366978618373876,https://leetcode.com/problems/minimum-window-substring
+HARD,Alien Dictionary,72.2,0.3631402172134235,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Cheapest Flights Within K Stops,72.2,0.39931959550529406,https://leetcode.com/problems/cheapest-flights-within-k-stops
+HARD,Text Justification,67.4,0.46463350588941404,https://leetcode.com/problems/text-justification
+HARD,Trapping Rain Water,67.4,0.6391060920831345,https://leetcode.com/problems/trapping-rain-water
+HARD,Sliding Puzzle,67.4,0.7293936983890619,https://leetcode.com/problems/sliding-puzzle
+MEDIUM,Smallest Common Region,61.1,0.6786367939413064,https://leetcode.com/problems/smallest-common-region
+MEDIUM,Coin Change,61.1,0.4551644986398335,https://leetcode.com/problems/coin-change
+MEDIUM,Pour Water,61.1,0.4750432303593961,https://leetcode.com/problems/pour-water
+MEDIUM,Flatten Nested List Iterator,52.4,0.6502400196101128,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Shortest Uncommon Substring in an Array,52.4,0.46774585037061933,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array
+MEDIUM,Simple Bank System,52.4,0.6365813772939758,https://leetcode.com/problems/simple-bank-system
+MEDIUM,IP to CIDR,52.4,0.5577166932547961,https://leetcode.com/problems/ip-to-cidr
+MEDIUM,Merge Intervals,52.4,0.48545681235387284,https://leetcode.com/problems/merge-intervals
+HARD,Employee Free Time,52.4,0.7243460032648682,https://leetcode.com/problems/employee-free-time
+MEDIUM,Sort Integers by The Power Value,52.4,0.7045304687070718,https://leetcode.com/problems/sort-integers-by-the-power-value
+MEDIUM,Design Tic-Tac-Toe,52.4,0.5837778114777183,https://leetcode.com/problems/design-tic-tac-toe

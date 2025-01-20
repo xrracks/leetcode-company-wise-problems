@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,House Robber,100.0,0.5181555043088136,https://leetcode.com/problems/house-robber
-MEDIUM,House Robber II,97.0,0.42898949913503,https://leetcode.com/problems/house-robber-ii
-MEDIUM,Design Hit Counter,97.0,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
-MEDIUM,Design Tic-Tac-Toe,89.5,0.5834831827582454,https://leetcode.com/problems/design-tic-tac-toe
-MEDIUM,IP to CIDR,89.5,0.5581040700669758,https://leetcode.com/problems/ip-to-cidr
-MEDIUM,String to Integer (atoi),69.0,0.18419981058955692,https://leetcode.com/problems/string-to-integer-atoi
+MEDIUM,Design Hit Counter,100.0,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
+MEDIUM,House Robber,97.0,0.5185578077744283,https://leetcode.com/problems/house-robber
+MEDIUM,House Robber II,97.0,0.4294267947950554,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Design Tic-Tac-Toe,93.6,0.5837787131898152,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,IP to CIDR,89.5,0.5577166932547961,https://leetcode.com/problems/ip-to-cidr
+MEDIUM,String to Integer (atoi),69.0,0.1847760984819619,https://leetcode.com/problems/string-to-integer-atoi

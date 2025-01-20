@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Count Vowel Substrings of a String,100.0,0.6929325059286292,https://leetcode.com/problems/count-vowel-substrings-of-a-string
-MEDIUM,Longest Palindromic Substring,100.0,0.34984326770486374,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Find Peak Element,100.0,0.4624650842729735,https://leetcode.com/problems/find-peak-element
+EASY,Count Vowel Substrings of a String,100.0,0.6943077807213043,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+MEDIUM,Find Peak Element,100.0,0.46262325354750994,https://leetcode.com/problems/find-peak-element

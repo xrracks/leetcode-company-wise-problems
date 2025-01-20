@@ -1,8 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Form Smallest Number From Two Digit Arrays,100.0,0.5434506036609114,https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays
-MEDIUM,Number of Islands,100.0,0.6112279831268782,https://leetcode.com/problems/number-of-islands
-EASY,Minimum Difference Between Highest and Lowest of K Scores,81.4,0.5787711782975531,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores
-EASY,Find All Numbers Disappeared in an Array,81.4,0.6172733564356865,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
-MEDIUM,Min Stack,81.4,0.5555559303064516,https://leetcode.com/problems/min-stack
-MEDIUM,Find First and Last Position of Element in Sorted Array,81.4,0.45753305126492205,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-MEDIUM,Decode String,81.4,0.6039238302333305,https://leetcode.com/problems/decode-string
+EASY,Form Smallest Number From Two Digit Arrays,100.0,0.5440298988336877,https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays
+MEDIUM,Number of Islands,100.0,0.6120967218510809,https://leetcode.com/problems/number-of-islands
+EASY,Minimum Difference Between Highest and Lowest of K Scores,81.4,0.579597236513303,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores
+EASY,Find All Numbers Disappeared in an Array,81.4,0.6176127761708413,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+MEDIUM,Min Stack,81.4,0.5561976226082181,https://leetcode.com/problems/min-stack
+MEDIUM,Find First and Last Position of Element in Sorted Array,81.4,0.4583507607146309,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Decode String,81.4,0.6045178778715844,https://leetcode.com/problems/decode-string
+EASY,Two Sum,81.4,0.5468068244146066,https://leetcode.com/problems/two-sum

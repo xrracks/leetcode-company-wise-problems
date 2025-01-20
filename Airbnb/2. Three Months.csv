@@ -1,5 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Maximum Profit in Job Scheduling,100.0,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,Smallest Common Region,100.0,0.6792288768238887,https://leetcode.com/problems/smallest-common-region
-HARD,Text Justification,89.4,0.4632742352690355,https://leetcode.com/problems/text-justification
-MEDIUM,Shortest Path in Binary Matrix,89.4,0.4878353418644138,https://leetcode.com/problems/shortest-path-in-binary-matrix
+HARD,Text Justification,100.0,0.46463350588941404,https://leetcode.com/problems/text-justification
+MEDIUM,Smallest Common Region,100.0,0.6786367939413064,https://leetcode.com/problems/smallest-common-region
+HARD,Maximum Profit in Job Scheduling,89.2,0.5431849681573361,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Shortest Path in Binary Matrix,89.2,0.488659146534384,https://leetcode.com/problems/shortest-path-in-binary-matrix
+HARD,Making A Large Island,89.2,0.4966909508179222,https://leetcode.com/problems/making-a-large-island
+MEDIUM,Subarray Product Less Than K,89.2,0.5221942018288432,https://leetcode.com/problems/subarray-product-less-than-k

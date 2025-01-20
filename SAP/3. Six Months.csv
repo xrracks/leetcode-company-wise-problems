@@ -1,15 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5456844551920698,https://leetcode.com/problems/two-sum
-MEDIUM,Container With Most Water,94.1,0.5676701572322311,https://leetcode.com/problems/container-with-most-water
-EASY,Reverse Linked List,86.4,0.7827330501605005,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,Movie Rating,75.7,0.4102245404737817,https://leetcode.com/problems/movie-rating
-HARD,Maximum Path Quality of a Graph,75.7,0.5925691930114451,https://leetcode.com/problems/maximum-path-quality-of-a-graph
-HARD,Count the Number of Infection Sequences,75.7,0.3481832238113645,https://leetcode.com/problems/count-the-number-of-infection-sequences
-HARD,Count Increasing Quadruplets,75.7,0.3339740827892486,https://leetcode.com/problems/count-increasing-quadruplets
-HARD,Maximum Students Taking Exam,75.7,0.5165783956747214,https://leetcode.com/problems/maximum-students-taking-exam
-EASY,Valid Parentheses,75.7,0.41538845014187503,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Longest Palindromic Substring,75.7,0.3498429498866465,https://leetcode.com/problems/longest-palindromic-substring
-HARD,Trapping Rain Water,75.7,0.6378152025949972,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Number of Islands,75.7,0.6112266011212253,https://leetcode.com/problems/number-of-islands
-MEDIUM,Maximal Square,75.7,0.47897184650042424,https://leetcode.com/problems/maximal-square
-MEDIUM,Maximum Subarray,75.7,0.515195977617638,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Container With Most Water,100.0,0.5685255181617158,https://leetcode.com/problems/container-with-most-water
+EASY,Two Sum,100.0,0.5468057652946066,https://leetcode.com/problems/two-sum
+EASY,Reverse Linked List,100.0,0.7835427420434994,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Number of Islands,100.0,0.6120960426396002,https://leetcode.com/problems/number-of-islands
+MEDIUM,Movie Rating,87.6,0.41059749074454954,https://leetcode.com/problems/movie-rating
+HARD,Maximum Path Quality of a Graph,87.6,0.5936006949471551,https://leetcode.com/problems/maximum-path-quality-of-a-graph
+HARD,Count the Number of Infection Sequences,87.6,0.347913284309044,https://leetcode.com/problems/count-the-number-of-infection-sequences
+HARD,Count Increasing Quadruplets,87.6,0.335279454211493,https://leetcode.com/problems/count-increasing-quadruplets
+HARD,Maximum Students Taking Exam,87.6,0.5169251887439945,https://leetcode.com/problems/maximum-students-taking-exam
+EASY,Valid Parentheses,87.6,0.4160106061419108,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Palindromic Substring,87.6,0.35047752849382374,https://leetcode.com/problems/longest-palindromic-substring
+HARD,Trapping Rain Water,87.6,0.6391086360183599,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Maximal Square,87.6,0.4795506133124887,https://leetcode.com/problems/maximal-square
+MEDIUM,Maximum Subarray,87.6,0.5156272202004311,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Leftmost Column with at Least a One,87.6,0.5480371332827882,https://leetcode.com/problems/leftmost-column-with-at-least-a-one

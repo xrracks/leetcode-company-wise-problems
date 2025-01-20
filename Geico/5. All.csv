@@ -1,18 +1,18 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximum Number of Potholes That Can Be Fixed,100.0,0.5493060628195763,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed
-MEDIUM,Largest Palindromic Number,95.4,0.3605601027122452,https://leetcode.com/problems/largest-palindromic-number
-MEDIUM,Integer to Roman,89.6,0.6724962372537239,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,89.6,0.6143436800940516,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
-MEDIUM,Number of Spaces Cleaning Robot Cleaned,76.7,0.6254426229508196,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned
-MEDIUM,Valid Sudoku,76.7,0.6123432819129065,https://leetcode.com/problems/valid-sudoku
-HARD,First Missing Positive,76.7,0.4033974250944109,https://leetcode.com/problems/first-missing-positive
-MEDIUM,Path with Maximum Gold,70.1,0.6806181775919563,https://leetcode.com/problems/path-with-maximum-gold
-MEDIUM,Boundary of Binary Tree,70.1,0.46476830484532156,https://leetcode.com/problems/boundary-of-binary-tree
-MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,60.8,0.46931941298138485,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
-MEDIUM,Minimum Moves to Spread Stones Over Grid,60.8,0.4498686632239158,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid
-EASY,Roman to Integer,60.8,0.6361688233152955,https://leetcode.com/problems/roman-to-integer
-MEDIUM,Decode String,60.8,0.6039239523401451,https://leetcode.com/problems/decode-string
-MEDIUM,Longest Happy String,60.8,0.6549086113962167,https://leetcode.com/problems/longest-happy-string
-MEDIUM,Rotate Array,60.8,0.4210424649059962,https://leetcode.com/problems/rotate-array
-HARD,Count of Smaller Numbers After Self,60.8,0.4266832182870327,https://leetcode.com/problems/count-of-smaller-numbers-after-self
-MEDIUM,Best Time to Buy and Sell Stock II,60.8,0.6840520641480482,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Maximum Number of Potholes That Can Be Fixed,100.0,0.5508771929824562,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed
+MEDIUM,Largest Palindromic Number,95.4,0.3609534982084001,https://leetcode.com/problems/largest-palindromic-number
+MEDIUM,Integer to Roman,89.6,0.6736980543067302,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,89.6,0.6143394197597742,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
+MEDIUM,Valid Sudoku,81.8,0.6132863163628225,https://leetcode.com/problems/valid-sudoku
+MEDIUM,Number of Spaces Cleaning Robot Cleaned,76.6,0.6248780804993823,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned
+HARD,First Missing Positive,76.6,0.4039185936237652,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Path with Maximum Gold,70.0,0.6806452475697715,https://leetcode.com/problems/path-with-maximum-gold
+MEDIUM,Boundary of Binary Tree,70.0,0.4656287133808023,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,60.7,0.46962474744502636,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
+MEDIUM,Minimum Moves to Spread Stones Over Grid,60.7,0.45053931308543854,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid
+EASY,Roman to Integer,60.7,0.6373355809497181,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Decode String,60.7,0.6045184638356698,https://leetcode.com/problems/decode-string
+MEDIUM,Longest Happy String,60.7,0.6547672658691597,https://leetcode.com/problems/longest-happy-string
+MEDIUM,Rotate Array,60.7,0.42181569615281483,https://leetcode.com/problems/rotate-array
+HARD,Count of Smaller Numbers After Self,60.7,0.42667131824820437,https://leetcode.com/problems/count-of-smaller-numbers-after-self
+MEDIUM,Best Time to Buy and Sell Stock II,60.7,0.6850428578945599,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii

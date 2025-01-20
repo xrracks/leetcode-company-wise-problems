@@ -1,15 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Unique Paths II,100.0,0.42541550220005336,https://leetcode.com/problems/unique-paths-ii
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7099161213502216,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
-MEDIUM,3Sum,91.8,0.36009012719234057,https://leetcode.com/problems/3sum
-EASY,Best Time to Buy and Sell Stock,91.8,0.545263856169294,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Find the Child Who Has the Ball After K Seconds,80.2,0.6189882240727833,https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds
-EASY,Sort Array by Increasing Frequency,80.2,0.7999216571431702,https://leetcode.com/problems/sort-array-by-increasing-frequency
-MEDIUM,Lexicographically Smallest String After Substring Operation,80.2,0.32270725740690404,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
-MEDIUM,Reverse Substrings Between Each Pair of Parentheses,80.2,0.717413055041921,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
-MEDIUM,Longest Substring Without Repeating Characters,80.2,0.3597425102589645,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Insert Delete GetRandom O(1),80.2,0.5480513761767832,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,House Robber,80.2,0.5181555420934033,https://leetcode.com/problems/house-robber
-EASY,Minimum Absolute Difference,80.2,0.701163926290005,https://leetcode.com/problems/minimum-absolute-difference
-EASY,Squares of a Sorted Array,80.2,0.7303116853324799,https://leetcode.com/problems/squares-of-a-sorted-array
-MEDIUM,Daily Temperatures,80.2,0.6673108746674834,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Unique Paths II,100.0,0.4259043501075397,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7108313036418464,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+EASY,Best Time to Buy and Sell Stock,100.0,0.5457849498294518,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Daily Temperatures,100.0,0.6677640796925965,https://leetcode.com/problems/daily-temperatures
+MEDIUM,3Sum,91.7,0.36092914378684815,https://leetcode.com/problems/3sum
+EASY,Find the Child Who Has the Ball After K Seconds,79.9,0.6191813804173355,https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds
+EASY,Sort Array by Increasing Frequency,79.9,0.8001799517402152,https://leetcode.com/problems/sort-array-by-increasing-frequency
+MEDIUM,Lexicographically Smallest String After Substring Operation,79.9,0.3234359235834626,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
+MEDIUM,Reverse Substrings Between Each Pair of Parentheses,79.9,0.7174691603660963,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,79.9,0.36045703956563474,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Insert Delete GetRandom O(1),79.9,0.548285581106749,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,House Robber,79.9,0.5185583733517498,https://leetcode.com/problems/house-robber
+EASY,Minimum Absolute Difference,79.9,0.701473827190271,https://leetcode.com/problems/minimum-absolute-difference
+EASY,Squares of a Sorted Array,79.9,0.7303731246973616,https://leetcode.com/problems/squares-of-a-sorted-array

@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Valid Parentheses,100.0,0.41538859684104035,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Word Break,90.4,0.4764143031307191,https://leetcode.com/problems/word-break
-MEDIUM,Coin Change,74.0,0.45440949994642793,https://leetcode.com/problems/coin-change
+EASY,Valid Parentheses,100.0,0.4160101084621295,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Word Break,87.2,0.4769040767743635,https://leetcode.com/problems/word-break
+MEDIUM,LRU Cache,80.6,0.4406270976773964,https://leetcode.com/problems/lru-cache
+MEDIUM,Minimum Limit of Balls in a Bag,71.3,0.6791986758631794,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag
+EASY,Two Sum,71.3,0.5468045697836208,https://leetcode.com/problems/two-sum

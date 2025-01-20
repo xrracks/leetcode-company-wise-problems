@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Block Placement Queries,100.0,0.152011778619874,https://leetcode.com/problems/block-placement-queries
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,79.4,0.5664732639332009,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
-EASY,Palindrome Number,79.4,0.5822325740297496,https://leetcode.com/problems/palindrome-number
+HARD,Block Placement Queries,100.0,0.15384978297792037,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,100.0,0.5665658299331127,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+MEDIUM,Simple Bank System,100.0,0.6365813772939758,https://leetcode.com/problems/simple-bank-system
+MEDIUM,Spiral Matrix,89.6,0.5243063820184993,https://leetcode.com/problems/spiral-matrix

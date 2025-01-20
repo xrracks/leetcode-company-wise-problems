@@ -1,22 +1,22 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Median of Two Sorted Arrays,100.0,0.42370133945381844,https://leetcode.com/problems/median-of-two-sorted-arrays
-EASY,Excel Sheet Column Title,100.0,0.42491605689753215,https://leetcode.com/problems/excel-sheet-column-title
-HARD,Shortest Distance from All Buildings,100.0,0.43683667843854596,https://leetcode.com/problems/shortest-distance-from-all-buildings
-MEDIUM,Flatten 2D Vector,100.0,0.4986171429425703,https://leetcode.com/problems/flatten-2d-vector
-EASY,Valid Palindrome,100.0,0.4959737748006108,https://leetcode.com/problems/valid-palindrome
-HARD,N-Queens II,100.0,0.7559431293682127,https://leetcode.com/problems/n-queens-ii
-HARD,Sliding Window Maximum,100.0,0.4709091676338831,https://leetcode.com/problems/sliding-window-maximum
-MEDIUM,Convert Sorted List to Binary Search Tree,100.0,0.6350923007355534,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
-HARD,Trapping Rain Water,100.0,0.6378165950576494,https://leetcode.com/problems/trapping-rain-water
-EASY,Majority Element,100.0,0.6539925696446602,https://leetcode.com/problems/majority-element
-MEDIUM,Majority Element II,100.0,0.53254527058726,https://leetcode.com/problems/majority-element-ii
-MEDIUM,Graph Valid Tree,100.0,0.48821171632999116,https://leetcode.com/problems/graph-valid-tree
-MEDIUM,Min Stack,100.0,0.5555564299711181,https://leetcode.com/problems/min-stack
-MEDIUM,Generate Parentheses,100.0,0.7612867908548153,https://leetcode.com/problems/generate-parentheses
-EASY,Valid Parentheses,100.0,0.41539003566845956,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Course Schedule II,100.0,0.5218105328128763,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,LRU Cache,100.0,0.4397816193847274,https://leetcode.com/problems/lru-cache
-MEDIUM,Course Schedule,100.0,0.48080748991088595,https://leetcode.com/problems/course-schedule
-EASY,Reverse Linked List,100.0,0.7827347336532833,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,Number of Islands,100.0,0.6112279394666664,https://leetcode.com/problems/number-of-islands
-MEDIUM,Verify Preorder Sequence in Binary Search Tree,100.0,0.5050684402743549,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+HARD,Median of Two Sorted Arrays,100.0,0.42480330812772815,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,Excel Sheet Column Title,100.0,0.4257534431474133,https://leetcode.com/problems/excel-sheet-column-title
+HARD,Shortest Distance from All Buildings,100.0,0.43710177925487964,https://leetcode.com/problems/shortest-distance-from-all-buildings
+MEDIUM,Flatten 2D Vector,100.0,0.4989090583588508,https://leetcode.com/problems/flatten-2d-vector
+EASY,Valid Palindrome,100.0,0.4971865664075924,https://leetcode.com/problems/valid-palindrome
+HARD,N-Queens II,100.0,0.7566328915035001,https://leetcode.com/problems/n-queens-ii
+HARD,Sliding Window Maximum,100.0,0.4711591142474297,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Convert Sorted List to Binary Search Tree,100.0,0.635747444154951,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+HARD,Trapping Rain Water,100.0,0.6391114207690782,https://leetcode.com/problems/trapping-rain-water
+EASY,Majority Element,100.0,0.6542262632008551,https://leetcode.com/problems/majority-element
+MEDIUM,Majority Element II,100.0,0.5334284274738403,https://leetcode.com/problems/majority-element-ii
+MEDIUM,Graph Valid Tree,100.0,0.48860869206323004,https://leetcode.com/problems/graph-valid-tree
+MEDIUM,Min Stack,100.0,0.5561982049733261,https://leetcode.com/problems/min-stack
+MEDIUM,Generate Parentheses,100.0,0.7621063378067606,https://leetcode.com/problems/generate-parentheses
+EASY,Valid Parentheses,100.0,0.41601261730691946,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Course Schedule II,100.0,0.5227091613350578,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,LRU Cache,100.0,0.44062734395681974,https://leetcode.com/problems/lru-cache
+MEDIUM,Course Schedule,100.0,0.4816009700556162,https://leetcode.com/problems/course-schedule
+EASY,Reverse Linked List,100.0,0.7835451429425094,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Number of Islands,100.0,0.6120979688688278,https://leetcode.com/problems/number-of-islands
+MEDIUM,Verify Preorder Sequence in Binary Search Tree,100.0,0.5053848112207743,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree

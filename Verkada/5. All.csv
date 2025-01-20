@@ -1,14 +1,14 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Snapshot Array,100.0,0.36765778263572413,https://leetcode.com/problems/snapshot-array
-MEDIUM,Interval List Intersections,81.3,0.7227895108629576,https://leetcode.com/problems/interval-list-intersections
-MEDIUM,Basic Calculator II,81.3,0.44895579488770404,https://leetcode.com/problems/basic-calculator-ii
-HARD,Maximum Profit in Job Scheduling,76.5,0.5432053631700555,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-HARD,Guess the Word,76.5,0.3824680778729914,https://leetcode.com/problems/guess-the-word
-HARD,Merge k Sorted Lists,70.3,0.5516045810927064,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Non-overlapping Intervals,70.3,0.546241634372777,https://leetcode.com/problems/non-overlapping-intervals
-EASY,Transpose Matrix,70.3,0.7319209080709321,https://leetcode.com/problems/transpose-matrix
-EASY,Image Smoother,61.7,0.6793623762072429,https://leetcode.com/problems/image-smoother
-MEDIUM,Time Based Key-Value Store,61.7,0.4929987365648967,https://leetcode.com/problems/time-based-key-value-store
-MEDIUM,Remove Sub-Folders from the Filesystem,61.7,0.7563982211096255,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem
-HARD,Basic Calculator III,61.7,0.5159796499120629,https://leetcode.com/problems/basic-calculator-iii
-MEDIUM,LRU Cache,61.7,0.4397819428320729,https://leetcode.com/problems/lru-cache
+MEDIUM,Snapshot Array,100.0,0.3677238253150671,https://leetcode.com/problems/snapshot-array
+MEDIUM,Interval List Intersections,81.3,0.7232074629694157,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Basic Calculator II,81.3,0.4496696190492619,https://leetcode.com/problems/basic-calculator-ii
+HARD,Maximum Profit in Job Scheduling,76.5,0.5431804987591627,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Guess the Word,76.5,0.3820188929037139,https://leetcode.com/problems/guess-the-word
+HARD,Merge k Sorted Lists,70.3,0.5529239622299807,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Non-overlapping Intervals,70.3,0.5469645938496241,https://leetcode.com/problems/non-overlapping-intervals
+EASY,Transpose Matrix,70.3,0.7328369116259903,https://leetcode.com/problems/transpose-matrix
+EASY,Image Smoother,61.7,0.6797782854174147,https://leetcode.com/problems/image-smoother
+MEDIUM,Time Based Key-Value Store,61.7,0.493068919977699,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Remove Sub-Folders from the Filesystem,61.7,0.7563827474407571,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem
+HARD,Basic Calculator III,61.7,0.5166181086821676,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,LRU Cache,61.7,0.44062717233566084,https://leetcode.com/problems/lru-cache

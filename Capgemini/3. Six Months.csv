@@ -1,7 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Count Elements With Maximum Frequency,100.0,0.7835768623610874,https://leetcode.com/problems/count-elements-with-maximum-frequency
-EASY,Number of Unique Subjects Taught by Each Teacher,77.6,0.8915529613433182,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher
-MEDIUM,Longest Happy String,77.6,0.6549086113962167,https://leetcode.com/problems/longest-happy-string
-HARD,Median of Two Sorted Arrays,77.6,0.4237004720039062,https://leetcode.com/problems/median-of-two-sorted-arrays
-MEDIUM,Exchange Seats,77.6,0.7176794832359275,https://leetcode.com/problems/exchange-seats
-EASY,Best Time to Buy and Sell Stock,77.6,0.545264518992039,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Count Elements With Maximum Frequency,100.0,0.7832792460802616,https://leetcode.com/problems/count-elements-with-maximum-frequency
+EASY,Number of Unique Subjects Taught by Each Teacher,77.5,0.891896015599491,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher
+MEDIUM,Longest Happy String,77.5,0.6547672658691597,https://leetcode.com/problems/longest-happy-string
+HARD,Median of Two Sorted Arrays,77.5,0.42480203557875806,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Exchange Seats,77.5,0.7180957279805508,https://leetcode.com/problems/exchange-seats
+EASY,Best Time to Buy and Sell Stock,77.5,0.5457854973341077,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Two Sum,77.5,0.5468073207365802,https://leetcode.com/problems/two-sum

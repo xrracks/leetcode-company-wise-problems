@@ -1,44 +1,44 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Car Fleet,100.0,0.5256887743684503,https://leetcode.com/problems/car-fleet
-MEDIUM,Check If Word Is Valid After Substitutions,100.0,0.6038631176097067,https://leetcode.com/problems/check-if-word-is-valid-after-substitutions
-MEDIUM,Partitioning Into Minimum Number Of Deci-Binary Numbers,97.5,0.887536216474841,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
-MEDIUM,Broken Calculator,97.5,0.5484529959603304,https://leetcode.com/problems/broken-calculator
-HARD,Delivering Boxes from Storage to Ports,97.5,0.3893636218884348,https://leetcode.com/problems/delivering-boxes-from-storage-to-ports
-MEDIUM,Detect Cycles in 2D Grid,97.5,0.49291029350971477,https://leetcode.com/problems/detect-cycles-in-2d-grid
-MEDIUM,Maximum Sum of an Hourglass,97.5,0.7564959550253668,https://leetcode.com/problems/maximum-sum-of-an-hourglass
-HARD,Online Majority Element In Subarray,97.5,0.4203708880812599,https://leetcode.com/problems/online-majority-element-in-subarray
-MEDIUM,Swap For Longest Repeated Character Substring,97.5,0.4377329601787126,https://leetcode.com/problems/swap-for-longest-repeated-character-substring
-MEDIUM,Minimum Processing Time,97.5,0.6938238170465658,https://leetcode.com/problems/minimum-processing-time
-MEDIUM,Grumpy Bookstore Owner,97.5,0.6413245597009785,https://leetcode.com/problems/grumpy-bookstore-owner
-HARD,First Missing Positive,84.3,0.40339572739116647,https://leetcode.com/problems/first-missing-positive
-MEDIUM,Pacific Atlantic Water Flow,73.8,0.565644506211415,https://leetcode.com/problems/pacific-atlantic-water-flow
-MEDIUM,Course Schedule,66.3,0.48080581507960274,https://leetcode.com/problems/course-schedule
-HARD,Sliding Window Maximum,66.3,0.4709072000119893,https://leetcode.com/problems/sliding-window-maximum
-EASY,Two Sum,66.3,0.5456847361247827,https://leetcode.com/problems/two-sum
-MEDIUM,LRU Cache,66.3,0.4397808584847571,https://leetcode.com/problems/lru-cache
-MEDIUM,Rotting Oranges,66.3,0.5557386772933585,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Longest Palindromic Substring,66.3,0.3498429152223755,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Jump Game II,55.9,0.40963804636329615,https://leetcode.com/problems/jump-game-ii
-MEDIUM,Coin Change,55.9,0.45440969579928875,https://leetcode.com/problems/coin-change
-MEDIUM,Binary Tree Zigzag Level Order Traversal,55.9,0.6062050042230673,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-MEDIUM,Word Break,55.9,0.4764141239029992,https://leetcode.com/problems/word-break
-MEDIUM,3Sum,55.9,0.3600901067017668,https://leetcode.com/problems/3sum
-MEDIUM,Min Cost to Connect All Points,55.9,0.6804149625935162,https://leetcode.com/problems/min-cost-to-connect-all-points
-MEDIUM,Top K Frequent Elements,55.9,0.6378660671803922,https://leetcode.com/problems/top-k-frequent-elements
-HARD,Reverse Nodes in k-Group,55.9,0.6142018203051965,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Product of Array Except Self,55.9,0.6713957785582596,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,55.9,0.780226432499045,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
-EASY,Maximum Product of Three Numbers,55.9,0.451947405084079,https://leetcode.com/problems/maximum-product-of-three-numbers
-EASY,Best Time to Buy and Sell Stock,55.9,0.5452640130177632,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,All Nodes Distance K in Binary Tree,55.9,0.655368980075267,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
-MEDIUM,Longest Substring Without Repeating Characters,55.9,0.3597426403596672,https://leetcode.com/problems/longest-substring-without-repeating-characters
-HARD,Word Ladder,55.9,0.41268212000580207,https://leetcode.com/problems/word-ladder
-MEDIUM,Container With Most Water,55.9,0.5676704071371526,https://leetcode.com/problems/container-with-most-water
-EASY,Degree of an Array,55.9,0.5699885497303804,https://leetcode.com/problems/degree-of-an-array
-MEDIUM,Group Anagrams,55.9,0.6997628001275732,https://leetcode.com/problems/group-anagrams
-MEDIUM,Boundary of Binary Tree,55.9,0.46476830484532156,https://leetcode.com/problems/boundary-of-binary-tree
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,55.9,0.5664762278065044,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
-MEDIUM,Heaters,55.9,0.3903633342368567,https://leetcode.com/problems/heaters
-EASY,Longest Common Prefix,55.9,0.4447193943074959,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Add Two Numbers,55.9,0.4493708203866437,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Number of Islands,55.9,0.6112267522977448,https://leetcode.com/problems/number-of-islands
+MEDIUM,Car Fleet,100.0,0.5264155832664438,https://leetcode.com/problems/car-fleet
+MEDIUM,Check If Word Is Valid After Substitutions,100.0,0.6043678553147926,https://leetcode.com/problems/check-if-word-is-valid-after-substitutions
+MEDIUM,Partitioning Into Minimum Number Of Deci-Binary Numbers,97.5,0.8876060516616338,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
+MEDIUM,Broken Calculator,97.5,0.5485526900504145,https://leetcode.com/problems/broken-calculator
+HARD,Delivering Boxes from Storage to Ports,97.5,0.3896763274804316,https://leetcode.com/problems/delivering-boxes-from-storage-to-ports
+MEDIUM,Detect Cycles in 2D Grid,97.5,0.4928380874204802,https://leetcode.com/problems/detect-cycles-in-2d-grid
+MEDIUM,Maximum Sum of an Hourglass,97.5,0.7567641014317985,https://leetcode.com/problems/maximum-sum-of-an-hourglass
+HARD,Online Majority Element In Subarray,97.5,0.42106240282193497,https://leetcode.com/problems/online-majority-element-in-subarray
+MEDIUM,Minimum Processing Time,97.5,0.6942264573991033,https://leetcode.com/problems/minimum-processing-time
+MEDIUM,Grumpy Bookstore Owner,97.5,0.6412660683816671,https://leetcode.com/problems/grumpy-bookstore-owner
+MEDIUM,Swap For Longest Repeated Character Substring,97.5,0.4376507040141927,https://leetcode.com/problems/swap-for-longest-repeated-character-substring
+HARD,First Missing Positive,84.2,0.40391674446767,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Pacific Atlantic Water Flow,73.7,0.5664395317632145,https://leetcode.com/problems/pacific-atlantic-water-flow
+MEDIUM,Group Anagrams,73.7,0.7004741534028107,https://leetcode.com/problems/group-anagrams
+MEDIUM,LRU Cache,73.7,0.4406269382412426,https://leetcode.com/problems/lru-cache
+HARD,Sliding Window Maximum,66.2,0.47115707479569546,https://leetcode.com/problems/sliding-window-maximum
+EASY,Two Sum,66.2,0.5468060199970459,https://leetcode.com/problems/two-sum
+MEDIUM,Rotting Oranges,66.2,0.5565968716919594,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Longest Palindromic Substring,66.2,0.3504775671388265,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Course Schedule,55.8,0.4816000151317137,https://leetcode.com/problems/course-schedule
+MEDIUM,All Nodes Distance K in Binary Tree,55.8,0.6560868451890657,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+MEDIUM,Binary Tree Zigzag Level Order Traversal,55.8,0.6069308715813482,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Word Break,55.8,0.4769041800790104,https://leetcode.com/problems/word-break
+MEDIUM,3Sum,55.8,0.36092922373388403,https://leetcode.com/problems/3sum
+MEDIUM,Min Cost to Connect All Points,55.8,0.6812508281960458,https://leetcode.com/problems/min-cost-to-connect-all-points
+MEDIUM,Top K Frequent Elements,55.8,0.6385669748360745,https://leetcode.com/problems/top-k-frequent-elements
+HARD,Reverse Nodes in k-Group,55.8,0.6153408646252302,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Product of Array Except Self,55.8,0.6720172411955709,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,55.8,0.7804122269364158,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+EASY,Maximum Product of Three Numbers,55.8,0.452065546862046,https://leetcode.com/problems/maximum-product-of-three-numbers
+EASY,Best Time to Buy and Sell Stock,55.8,0.5457846741825481,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Longest Substring Without Repeating Characters,55.8,0.36045729266227455,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Word Ladder,55.8,0.4138473529820362,https://leetcode.com/problems/word-ladder
+MEDIUM,Container With Most Water,55.8,0.5685251715094618,https://leetcode.com/problems/container-with-most-water
+EASY,Degree of an Array,55.8,0.5704036224149108,https://leetcode.com/problems/degree-of-an-array
+MEDIUM,Boundary of Binary Tree,55.8,0.4656648076755125,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,55.8,0.5665677927723938,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+MEDIUM,Heaters,55.8,0.39086069600668727,https://leetcode.com/problems/heaters
+EASY,Longest Common Prefix,55.8,0.44561673383441386,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Add Two Numbers,55.8,0.4504478252168619,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Coin Change,55.8,0.4551637354936847,https://leetcode.com/problems/coin-change
+MEDIUM,Jump Game II,55.8,0.4098941822683373,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Number of Islands,55.8,0.6120962124434544,https://leetcode.com/problems/number-of-islands

@@ -1,41 +1,39 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Find the Number of Subsequences With Equal GCD,100.0,0.38574660633484165,https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd
-EASY,Two Sum,87.2,0.5456839025921681,https://leetcode.com/problems/two-sum
-HARD,Find Building Where Alice and Bob Can Meet,82.7,0.5301963277958827,https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet
-MEDIUM,Longest Substring Without Repeating Characters,77.1,0.3597421287281472,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Kth Largest Element in an Array,69.9,0.6738412801910253,https://leetcode.com/problems/kth-largest-element-in-an-array
-EASY,Best Time to Buy and Sell Stock,69.9,0.5452642290710558,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Palindrome Number,69.9,0.5822331147795222,https://leetcode.com/problems/palindrome-number
-HARD,Minimum Reverse Operations,69.9,0.16548278352997833,https://leetcode.com/problems/minimum-reverse-operations
-MEDIUM,Maximum Subarray,59.8,0.51519600527437,https://leetcode.com/problems/maximum-subarray
-EASY,Merge Sorted Array,59.8,0.5180364618000208,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,Coin Change,59.8,0.45440949994642793,https://leetcode.com/problems/coin-change
-MEDIUM,Longest Consecutive Sequence,59.8,0.4763410020448812,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Next Permutation,59.8,0.4188319885720574,https://leetcode.com/problems/next-permutation
-MEDIUM,Generate Parentheses,59.8,0.76128479858731,https://leetcode.com/problems/generate-parentheses
-MEDIUM,Longest Palindromic Substring,59.8,0.34984299927370444,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Subarray Sum Equals K,59.8,0.4459589045663945,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Reverse Words in a String,59.8,0.4864468952347137,https://leetcode.com/problems/reverse-words-in-a-string
-EASY,Longest Common Prefix,59.8,0.44471927359413066,https://leetcode.com/problems/longest-common-prefix
-EASY,Valid Parentheses,59.8,0.4153885595858561,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Product of Array Except Self,59.8,0.6713949137144659,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Rotate Image,59.8,0.7669481396654567,https://leetcode.com/problems/rotate-image
-MEDIUM,Determine the Minimum Sum of a k-avoiding Array,59.8,0.6054410470195486,https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array
-EASY,Reverse String,59.8,0.7932258519549386,https://leetcode.com/problems/reverse-string
-HARD,Minimum Total Distance Traveled,59.8,0.5913959124852614,https://leetcode.com/problems/minimum-total-distance-traveled
-MEDIUM,The Number of Beautiful Subsets,59.8,0.5086526471162084,https://leetcode.com/problems/the-number-of-beautiful-subsets
-MEDIUM,Maximum Number of Consecutive Values You Can Make,59.8,0.6142079336271714,https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make
-MEDIUM,Number of Nodes With Value One,59.8,0.6778205507847201,https://leetcode.com/problems/number-of-nodes-with-value-one
-MEDIUM,Maximum Product After K Increments,59.8,0.4179963867358238,https://leetcode.com/problems/maximum-product-after-k-increments
-MEDIUM,Largest Number After Mutating Substring,59.8,0.3645639616213814,https://leetcode.com/problems/largest-number-after-mutating-substring
-HARD,Maximum Segment Sum After Removals,59.8,0.4887550395880896,https://leetcode.com/problems/maximum-segment-sum-after-removals
-MEDIUM,Longest Well-Performing Interval,59.8,0.3558549303904591,https://leetcode.com/problems/longest-well-performing-interval
-EASY,Sort the People,59.8,0.8484572669637681,https://leetcode.com/problems/sort-the-people
-HARD,Number of Beautiful Integers in the Range,59.8,0.1886903017872839,https://leetcode.com/problems/number-of-beautiful-integers-in-the-range
-HARD,Stone Game VIII,59.8,0.5315687347629235,https://leetcode.com/problems/stone-game-viii
-MEDIUM,Find the Minimum Possible Sum of a Beautiful Array,59.8,0.3703504622661793,https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array
-HARD,Maximum Sum of Subsequence With Non-adjacent Elements,59.8,0.16517937508036518,https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements
-MEDIUM,Can Convert String in K Moves,59.8,0.35658120787630504,https://leetcode.com/problems/can-convert-string-in-k-moves
-MEDIUM,Minimum Addition to Make Integer Beautiful,59.8,0.3784766118836915,https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful
-HARD,Count the Number of Ideal Arrays,59.8,0.2711458665815512,https://leetcode.com/problems/count-the-number-of-ideal-arrays
-EASY,Valid Anagram,59.8,0.6581692337988556,https://leetcode.com/problems/valid-anagram
+HARD,Find the Number of Subsequences With Equal GCD,100.0,0.38546749307661876,https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd
+EASY,Two Sum,87.2,0.5468047947408956,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Substring Without Repeating Characters,82.6,0.36045652168055875,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Find Building Where Alice and Bob Can Meet,82.6,0.5295304923719794,https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet
+EASY,Best Time to Buy and Sell Stock,77.0,0.5457835067130754,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Minimum Reverse Operations,69.9,0.16529320434730682,https://leetcode.com/problems/minimum-reverse-operations
+MEDIUM,Kth Largest Element in an Array,69.9,0.674275055046034,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Maximum Subarray,59.7,0.5156269451080423,https://leetcode.com/problems/maximum-subarray
+EASY,Merge Sorted Array,59.7,0.5190073180004402,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Coin Change,59.7,0.4551643026989611,https://leetcode.com/problems/coin-change
+MEDIUM,Longest Consecutive Sequence,59.7,0.47501892949271474,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,The Number of Beautiful Subsets,59.7,0.5086532849493745,https://leetcode.com/problems/the-number-of-beautiful-subsets
+MEDIUM,Generate Parentheses,59.7,0.7621025575082558,https://leetcode.com/problems/generate-parentheses
+EASY,Palindrome Number,59.7,0.5831337777948742,https://leetcode.com/problems/palindrome-number
+MEDIUM,Reverse Words in a String,59.7,0.48959972261487794,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Longest Common Prefix,59.7,0.44561583566237156,https://leetcode.com/problems/longest-common-prefix
+EASY,Valid Parentheses,59.7,0.4160102843692028,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Product of Array Except Self,59.7,0.6720158493695072,https://leetcode.com/problems/product-of-array-except-self
+EASY,Valid Anagram,59.7,0.6589726852988873,https://leetcode.com/problems/valid-anagram
+MEDIUM,Rotate Image,59.7,0.767993389785778,https://leetcode.com/problems/rotate-image
+MEDIUM,Longest Palindromic Substring,59.7,0.3504765353001733,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Maximum Number of Consecutive Values You Can Make,59.7,0.6134807642728236,https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make
+HARD,Number of Beautiful Integers in the Range,59.7,0.18914233576642336,https://leetcode.com/problems/number-of-beautiful-integers-in-the-range
+MEDIUM,Number of Nodes With Value One,59.7,0.6781844802342606,https://leetcode.com/problems/number-of-nodes-with-value-one
+MEDIUM,Maximum Product After K Increments,59.7,0.418830493190594,https://leetcode.com/problems/maximum-product-after-k-increments
+MEDIUM,Largest Number After Mutating Substring,59.7,0.3653128681764629,https://leetcode.com/problems/largest-number-after-mutating-substring
+HARD,Maximum Segment Sum After Removals,59.7,0.4899121536827879,https://leetcode.com/problems/maximum-segment-sum-after-removals
+MEDIUM,Longest Well-Performing Interval,59.7,0.3562106780420343,https://leetcode.com/problems/longest-well-performing-interval
+EASY,Sort the People,59.7,0.8484745020564118,https://leetcode.com/problems/sort-the-people
+HARD,Stone Game VIII,59.7,0.5288722323585976,https://leetcode.com/problems/stone-game-viii
+MEDIUM,Determine the Minimum Sum of a k-avoiding Array,59.7,0.6057545857890206,https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array
+MEDIUM,Find the Minimum Possible Sum of a Beautiful Array,59.7,0.3698666031443544,https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array
+HARD,Maximum Sum of Subsequence With Non-adjacent Elements,59.7,0.1644229545743733,https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements
+MEDIUM,Can Convert String in K Moves,59.7,0.3566072485693613,https://leetcode.com/problems/can-convert-string-in-k-moves
+MEDIUM,Minimum Addition to Make Integer Beautiful,59.7,0.3786365306229554,https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful
+HARD,Count the Number of Ideal Arrays,59.7,0.27177755710029794,https://leetcode.com/problems/count-the-number-of-ideal-arrays
+HARD,Minimum Total Distance Traveled,59.7,0.5909283906262758,https://leetcode.com/problems/minimum-total-distance-traveled
+EASY,Replace Employee ID With The Unique Identifier,59.7,0.8366701813805371,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier

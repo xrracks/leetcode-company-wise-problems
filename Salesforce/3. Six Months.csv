@@ -1,69 +1,71 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimize Malware Spread,100.0,0.42093125880795457,https://leetcode.com/problems/minimize-malware-spread
-HARD,Smallest Substring With Identical Characters II,97.5,0.44192156126853066,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii
-HARD,Smallest Substring With Identical Characters I,97.5,0.18043035766211107,https://leetcode.com/problems/smallest-substring-with-identical-characters-i
-MEDIUM,Palindromic Substrings,88.0,0.7102990810770861,https://leetcode.com/problems/palindromic-substrings
-MEDIUM,Merge Intervals,88.0,0.48475496380619887,https://leetcode.com/problems/merge-intervals
-MEDIUM,Number of Divisible Triplet Sums,88.0,0.6427406199021207,https://leetcode.com/problems/number-of-divisible-triplet-sums
-MEDIUM,Maximum Number of Occurrences of a Substring,88.0,0.5263456800434292,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
-MEDIUM,K-diff Pairs in an Array,88.0,0.4391632380456205,https://leetcode.com/problems/k-diff-pairs-in-an-array
-MEDIUM,Group Anagrams,83.9,0.6997623065189625,https://leetcode.com/problems/group-anagrams
-HARD,Distinct Subsequences,83.9,0.4901435189006481,https://leetcode.com/problems/distinct-subsequences
-EASY,Maximum Units on a Truck,79.0,0.7394603634140421,https://leetcode.com/problems/maximum-units-on-a-truck
-HARD,Trapping Rain Water,79.0,0.6378144037641791,https://leetcode.com/problems/trapping-rain-water
-EASY,Two Sum,79.0,0.5456826611124528,https://leetcode.com/problems/two-sum
-MEDIUM,Divide Array Into Arrays With Max Difference,79.0,0.7185208387073,https://leetcode.com/problems/divide-array-into-arrays-with-max-difference
-MEDIUM,Number of Islands,73.1,0.6112258779762396,https://leetcode.com/problems/number-of-islands
-MEDIUM,Remove Adjacent Almost-Equal Characters,73.1,0.5208768721699756,https://leetcode.com/problems/remove-adjacent-almost-equal-characters
-EASY,Best Time to Buy and Sell Stock,73.1,0.5452634887133104,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Minimum Number of Taps to Open to Water a Garden,73.1,0.5068628725817405,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
-EASY,Largest Number After Digit Swaps by Parity,73.1,0.6277081308514696,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
-MEDIUM,Word Break,65.5,0.4764145413185179,https://leetcode.com/problems/word-break
-MEDIUM,Sum of Nodes with Even-Valued Grandparent,65.5,0.8569885437115051,https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent
-MEDIUM,Min Stack,65.5,0.5555546186696257,https://leetcode.com/problems/min-stack
-MEDIUM,String Compression,65.5,0.5672144884218164,https://leetcode.com/problems/string-compression
-HARD,LFU Cache,65.5,0.45463368319404796,https://leetcode.com/problems/lfu-cache
-MEDIUM,Word Search,65.5,0.44225355624310025,https://leetcode.com/problems/word-search
-MEDIUM,Verify Preorder Sequence in Binary Search Tree,65.5,0.5050684402743549,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
-MEDIUM,Course Schedule II,65.5,0.5218081563908091,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Gas Station,54.8,0.45800391546440516,https://leetcode.com/problems/gas-station
-MEDIUM,Search Suggestions System,54.8,0.6506301734078573,https://leetcode.com/problems/search-suggestions-system
-MEDIUM,Top K Frequent Elements,54.8,0.6378662143301653,https://leetcode.com/problems/top-k-frequent-elements
-MEDIUM,Find Leaves of Binary Tree,54.8,0.8086605635376805,https://leetcode.com/problems/find-leaves-of-binary-tree
-MEDIUM,K Closest Points to Origin,54.8,0.6732880753738459,https://leetcode.com/problems/k-closest-points-to-origin
-MEDIUM,Search in Rotated Sorted Array,54.8,0.420170170818664,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Exclusive Time of Functions,54.8,0.63588808830138,https://leetcode.com/problems/exclusive-time-of-functions
-EASY,Maximum Product of Three Numbers,54.8,0.45194651446501233,https://leetcode.com/problems/maximum-product-of-three-numbers
-EASY,Shortest Distance to Target String in a Circular Array,54.8,0.5035866514190664,https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array
-MEDIUM,Meeting Rooms II,54.8,0.5178400367429958,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Longest Increasing Subsequence,54.8,0.5686112145305643,https://leetcode.com/problems/longest-increasing-subsequence
-MEDIUM,Subarray Product Less Than K,54.8,0.5216856344843862,https://leetcode.com/problems/subarray-product-less-than-k
-MEDIUM,All Nodes Distance K in Binary Tree,54.8,0.6553672244431681,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
-MEDIUM,Top K Frequent Words,54.8,0.5872255862425589,https://leetcode.com/problems/top-k-frequent-words
-MEDIUM,Coin Change,54.8,0.45440928447517837,https://leetcode.com/problems/coin-change
-MEDIUM,Game of Life,54.8,0.7057855001783594,https://leetcode.com/problems/game-of-life
-HARD,Find Subarray With Bitwise OR Closest to K,54.8,0.3024342381909078,https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k
-HARD,Reverse Nodes in k-Group,54.8,0.6142006148369783,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Equalize Strings by Adding or Removing Characters at Ends,54.8,0.5565163681284744,https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends
-EASY,Check Whether Two Strings are Almost Equivalent,54.8,0.6393131921607196,https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent
-HARD,Find the Minimum Area to Cover All Ones II,54.8,0.3571222398614518,https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii
-HARD,Maximize Grid Happiness,54.8,0.40063979526551496,https://leetcode.com/problems/maximize-grid-happiness
-MEDIUM,Masking Personal Information,54.8,0.49829775487670225,https://leetcode.com/problems/masking-personal-information
-EASY,Height Checker,54.8,0.809615840182799,https://leetcode.com/problems/height-checker
-HARD,Number of Digit One,54.8,0.35286108984388,https://leetcode.com/problems/number-of-digit-one
-MEDIUM,Maximum Number That Makes Result of Bitwise AND Zero,54.8,0.686113393590797,https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero
-EASY,Matrix Similarity After Cyclic Shifts,54.8,0.5857149421062304,https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts
-MEDIUM,Magnetic Force Between Two Balls,54.8,0.7111697776161815,https://leetcode.com/problems/magnetic-force-between-two-balls
-MEDIUM,Longest Substring Without Repeating Characters,54.8,0.3597414042833806,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Check If a Number Is Majority Element in a Sorted Array,54.8,0.5903162230391071,https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array
-HARD,Maximum Number of Ways to Partition an Array,54.8,0.34547021757222685,https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array
-EASY,Maximum Height of a Triangle,54.8,0.43118989714183714,https://leetcode.com/problems/maximum-height-of-a-triangle
-MEDIUM,Count the Number of Fair Pairs,54.8,0.4890877481644754,https://leetcode.com/problems/count-the-number-of-fair-pairs
-MEDIUM,Average Waiting Time,54.8,0.730828297905932,https://leetcode.com/problems/average-waiting-time
-MEDIUM,Maximum Product Subarray,54.8,0.34327916266248665,https://leetcode.com/problems/maximum-product-subarray
-MEDIUM,Beautiful Towers I,54.8,0.4350026424945148,https://leetcode.com/problems/beautiful-towers-i
-MEDIUM,Beautiful Towers II,54.8,0.3452717938876361,https://leetcode.com/problems/beautiful-towers-ii
-HARD,Maximum Frequency Stack,54.8,0.6659123578554859,https://leetcode.com/problems/maximum-frequency-stack
-MEDIUM,Find the Minimum Area to Cover All Ones I,54.8,0.7301395528006864,https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i
-MEDIUM,Number of Self-Divisible Permutations,54.8,0.7244623655913979,https://leetcode.com/problems/number-of-self-divisible-permutations
-HARD,Count the Number of Inversions,54.8,0.32861965149165223,https://leetcode.com/problems/count-the-number-of-inversions
+HARD,Minimize Malware Spread,100.0,0.4211092703510188,https://leetcode.com/problems/minimize-malware-spread
+HARD,Smallest Substring With Identical Characters II,97.4,0.4450182530495949,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii
+HARD,Smallest Substring With Identical Characters I,97.4,0.18554326201528742,https://leetcode.com/problems/smallest-substring-with-identical-characters-i
+MEDIUM,Maximum Number of Occurrences of a Substring,97.4,0.5271556782308315,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+HARD,Distinct Subsequences,94.6,0.49099205719062444,https://leetcode.com/problems/distinct-subsequences
+MEDIUM,Palindromic Substrings,91.4,0.7108307592062486,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Subarray Product Less Than K,91.4,0.5221947966298035,https://leetcode.com/problems/subarray-product-less-than-k
+MEDIUM,String Compression,87.8,0.5683420640237292,https://leetcode.com/problems/string-compression
+MEDIUM,Number of Divisible Triplet Sums,87.8,0.6425576519916143,https://leetcode.com/problems/number-of-divisible-triplet-sums
+MEDIUM,Merge Intervals,87.8,0.4854573599561618,https://leetcode.com/problems/merge-intervals
+MEDIUM,K-diff Pairs in an Array,87.8,0.4399567417999533,https://leetcode.com/problems/k-diff-pairs-in-an-array
+MEDIUM,Group Anagrams,83.7,0.7004721245196645,https://leetcode.com/problems/group-anagrams
+HARD,LFU Cache,78.8,0.4552123016577045,https://leetcode.com/problems/lfu-cache
+EASY,Maximum Units on a Truck,78.8,0.7396779290065301,https://leetcode.com/problems/maximum-units-on-a-truck
+HARD,Trapping Rain Water,78.8,0.6391044651267398,https://leetcode.com/problems/trapping-rain-water
+EASY,Two Sum,78.8,0.5468037264176929,https://leetcode.com/problems/two-sum
+MEDIUM,Divide Array Into Arrays With Max Difference,78.8,0.7187554599207334,https://leetcode.com/problems/divide-array-into-arrays-with-max-difference
+MEDIUM,Number of Islands,72.8,0.6120952252355103,https://leetcode.com/problems/number-of-islands
+HARD,Minimum Number of Taps to Open to Water a Garden,72.8,0.5069519448164629,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+EASY,Best Time to Buy and Sell Stock,72.8,0.5457829075163753,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Largest Number After Digit Swaps by Parity,72.8,0.6291200428594041,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+MEDIUM,Remove Adjacent Almost-Equal Characters,72.8,0.5209521125539248,https://leetcode.com/problems/remove-adjacent-almost-equal-characters
+MEDIUM,Min Stack,65.1,0.5561961509825473,https://leetcode.com/problems/min-stack
+MEDIUM,Longest Substring Without Repeating Characters,65.1,0.36045541097301254,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Word Search,65.1,0.44307289590786425,https://leetcode.com/problems/word-search
+MEDIUM,Course Schedule II,65.1,0.5227069612913758,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Word Break,65.1,0.476903629424337,https://leetcode.com/problems/word-break
+MEDIUM,Verify Preorder Sequence in Binary Search Tree,65.1,0.5053848112207743,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+HARD,Minimum Window Substring,65.1,0.443670033266885,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Coin Change,65.1,0.45516483014066156,https://leetcode.com/problems/coin-change
+MEDIUM,K Closest Points to Origin,54.3,0.6738307892644095,https://leetcode.com/problems/k-closest-points-to-origin
+HARD,Number of Visible People in a Queue,54.3,0.7043291838158706,https://leetcode.com/problems/number-of-visible-people-in-a-queue
+MEDIUM,Validate Binary Search Tree,54.3,0.3380899506186854,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,Game of Life,54.3,0.7065316072406957,https://leetcode.com/problems/game-of-life
+MEDIUM,Top K Frequent Words,54.3,0.5877633771328539,https://leetcode.com/problems/top-k-frequent-words
+MEDIUM,All Nodes Distance K in Binary Tree,54.3,0.6560864113748572,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+MEDIUM,Find Leaves of Binary Tree,54.3,0.8088412503313812,https://leetcode.com/problems/find-leaves-of-binary-tree
+MEDIUM,Meeting Rooms II,54.3,0.5181621604113019,https://leetcode.com/problems/meeting-rooms-ii
+EASY,Maximum Product of Three Numbers,54.3,0.4520658248686306,https://leetcode.com/problems/maximum-product-of-three-numbers
+EASY,Shortest Distance to Target String in a Circular Array,54.3,0.5042295938704106,https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array
+MEDIUM,Gas Station,54.3,0.4582105888780603,https://leetcode.com/problems/gas-station
+MEDIUM,Exclusive Time of Functions,54.3,0.6367789089010703,https://leetcode.com/problems/exclusive-time-of-functions
+MEDIUM,Search in Rotated Sorted Array,54.3,0.4207847118088338,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Top K Frequent Elements,54.3,0.6385663678976886,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Longest Increasing Subsequence,54.3,0.5693001167257915,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Maximum Product Subarray,54.3,0.3437476449545506,https://leetcode.com/problems/maximum-product-subarray
+HARD,Reverse Nodes in k-Group,54.3,0.6153404825914572,https://leetcode.com/problems/reverse-nodes-in-k-group
+HARD,Maximum Number of Ways to Partition an Array,54.3,0.34678752805007673,https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array
+HARD,Find Subarray With Bitwise OR Closest to K,54.3,0.3029725963771482,https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k
+EASY,Check Whether Two Strings are Almost Equivalent,54.3,0.6397861956774343,https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent
+HARD,Find the Minimum Area to Cover All Ones II,54.3,0.3571172463248476,https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii
+HARD,Count the Number of Inversions,54.3,0.329862840070617,https://leetcode.com/problems/count-the-number-of-inversions
+MEDIUM,Find the Minimum Area to Cover All Ones I,54.3,0.7302468920848278,https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i
+HARD,Maximum Frequency Stack,54.3,0.6660695319691282,https://leetcode.com/problems/maximum-frequency-stack
+MEDIUM,Beautiful Towers II,54.3,0.3463765698353311,https://leetcode.com/problems/beautiful-towers-ii
+MEDIUM,Beautiful Towers I,54.3,0.43503076360514475,https://leetcode.com/problems/beautiful-towers-i
+MEDIUM,Average Waiting Time,54.3,0.730737679960166,https://leetcode.com/problems/average-waiting-time
+MEDIUM,Count the Number of Fair Pairs,54.3,0.48908246315089776,https://leetcode.com/problems/count-the-number-of-fair-pairs
+EASY,Maximum Height of a Triangle,54.3,0.43212642084835046,https://leetcode.com/problems/maximum-height-of-a-triangle
+EASY,Check If a Number Is Majority Element in a Sorted Array,54.3,0.5903852086914364,https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array
+EASY,Matrix Similarity After Cyclic Shifts,54.3,0.5860722198113423,https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts
+MEDIUM,Maximum Number That Makes Result of Bitwise AND Zero,54.3,0.686602870813397,https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero
+EASY,Height Checker,54.3,0.809726363926724,https://leetcode.com/problems/height-checker
+HARD,Maximize Grid Happiness,54.3,0.4007653061224489,https://leetcode.com/problems/maximize-grid-happiness
+MEDIUM,Equalize Strings by Adding or Removing Characters at Ends,54.3,0.5594739988045427,https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends
+MEDIUM,Number of Self-Divisible Permutations,54.3,0.7229819144243492,https://leetcode.com/problems/number-of-self-divisible-permutations
+MEDIUM,Masking Personal Information,54.3,0.4992440901594283,https://leetcode.com/problems/masking-personal-information
+HARD,Number of Digit One,54.3,0.35356385565284704,https://leetcode.com/problems/number-of-digit-one
+MEDIUM,Magnetic Force Between Two Balls,54.3,0.7106712530712531,https://leetcode.com/problems/magnetic-force-between-two-balls
+MEDIUM,Path Sum III,54.3,0.4604014789307833,https://leetcode.com/problems/path-sum-iii

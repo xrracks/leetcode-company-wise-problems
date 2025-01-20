@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Reward Top K Students,100.0,0.4547639687918669,https://leetcode.com/problems/reward-top-k-students
-HARD,Sliding Window Maximum,78.0,0.4709093325582396,https://leetcode.com/problems/sliding-window-maximum
-MEDIUM,K Highest Ranked Items Within a Price Range,78.0,0.4387197896652847,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range
-EASY,Two Out of Three,78.0,0.7589296778929104,https://leetcode.com/problems/two-out-of-three
-MEDIUM,Coloring A Border,78.0,0.49419875357504156,https://leetcode.com/problems/coloring-a-border
-MEDIUM,Order Two Columns Independently,78.0,0.6065642166747792,https://leetcode.com/problems/order-two-columns-independently
-HARD,Delete Duplicate Folders in System,78.0,0.5482625482625483,https://leetcode.com/problems/delete-duplicate-folders-in-system
-MEDIUM,Maximal Square,78.0,0.47897127032965925,https://leetcode.com/problems/maximal-square
+MEDIUM,Reward Top K Students,100.0,0.45566853373406974,https://leetcode.com/problems/reward-top-k-students
+HARD,Sliding Window Maximum,78.0,0.4711571650969646,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,K Highest Ranked Items Within a Price Range,78.0,0.4395391542776646,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range
+EASY,Two Out of Three,78.0,0.7601324578285973,https://leetcode.com/problems/two-out-of-three
+MEDIUM,Coloring A Border,78.0,0.4945321237728346,https://leetcode.com/problems/coloring-a-border
+MEDIUM,Order Two Columns Independently,78.0,0.6073500967117988,https://leetcode.com/problems/order-two-columns-independently
+HARD,Delete Duplicate Folders in System,78.0,0.5485665137614679,https://leetcode.com/problems/delete-duplicate-folders-in-system
+MEDIUM,Maximal Square,78.0,0.47955093929074516,https://leetcode.com/problems/maximal-square

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Most Common Word,100.0,0.4443786339494491,https://leetcode.com/problems/most-common-word
-MEDIUM,Meeting Scheduler,100.0,0.5526197249150001,https://leetcode.com/problems/meeting-scheduler
-MEDIUM,Design Add and Search Words Data Structure,76.6,0.4640785176354035,https://leetcode.com/problems/design-add-and-search-words-data-structure
-MEDIUM,Coin Change,68.0,0.45440969579928875,https://leetcode.com/problems/coin-change
-HARD,Sliding Window Median,68.0,0.3870529441855835,https://leetcode.com/problems/sliding-window-median
+EASY,Most Common Word,100.0,0.4445175164127479,https://leetcode.com/problems/most-common-word
+MEDIUM,Meeting Scheduler,96.6,0.5525053075950765,https://leetcode.com/problems/meeting-scheduler
+MEDIUM,Design Add and Search Words Data Structure,81.3,0.46465828671802323,https://leetcode.com/problems/design-add-and-search-words-data-structure
+MEDIUM,Coin Change,72.4,0.45516422170544457,https://leetcode.com/problems/coin-change
+HARD,Binary Tree Maximum Path Sum,72.4,0.4074711809065764,https://leetcode.com/problems/binary-tree-maximum-path-sum

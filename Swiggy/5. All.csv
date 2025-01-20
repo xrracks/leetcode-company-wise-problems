@@ -1,23 +1,26 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximize Area of Square Hole in Grid,100.0,0.36976439790575916,https://leetcode.com/problems/maximize-area-of-square-hole-in-grid
-EASY,Minimum Value to Get Positive Step by Step Sum,97.7,0.6500206053743437,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
-EASY,Valid Parentheses,76.0,0.4153885991425479,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Sort Colors,76.0,0.6582513695138581,https://leetcode.com/problems/sort-colors
-EASY,Merge Sorted Array,76.0,0.5180370906742625,https://leetcode.com/problems/merge-sorted-array
-EASY,Next Greater Element I,76.0,0.7361298755416363,https://leetcode.com/problems/next-greater-element-i
-HARD,Maximum Profit in Job Scheduling,69.2,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,LRU Cache,59.6,0.43978124738233165,https://leetcode.com/problems/lru-cache
-MEDIUM,Count Good Meals,59.6,0.30925859726889254,https://leetcode.com/problems/count-good-meals
-MEDIUM,Integer to Roman,59.6,0.6724944299654108,https://leetcode.com/problems/integer-to-roman
-HARD,Median of Two Sorted Arrays,59.6,0.4236996723965206,https://leetcode.com/problems/median-of-two-sorted-arrays
-MEDIUM,Subarray Sum Equals K,59.6,0.44595957062382147,https://leetcode.com/problems/subarray-sum-equals-k
-HARD,First Missing Positive,59.6,0.4033958420428459,https://leetcode.com/problems/first-missing-positive
-EASY,Majority Element,59.6,0.6539916071492834,https://leetcode.com/problems/majority-element
-MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,59.6,0.656861903027458,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
-MEDIUM,Longest Consecutive Sequence,59.6,0.4763402426665727,https://leetcode.com/problems/longest-consecutive-sequence
-EASY,Merge Two Sorted Lists,59.6,0.6590074858523113,https://leetcode.com/problems/merge-two-sorted-lists
-MEDIUM,Maximum Length of Pair Chain,59.6,0.6041156748469091,https://leetcode.com/problems/maximum-length-of-pair-chain
-MEDIUM,Subsets II,59.6,0.5856937078996864,https://leetcode.com/problems/subsets-ii
-EASY,Climbing Stairs,59.6,0.5327837105457376,https://leetcode.com/problems/climbing-stairs
-HARD,Trapping Rain Water,59.6,0.6378160273607627,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Daily Temperatures,59.6,0.667310493697497,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Maximize Area of Square Hole in Grid,100.0,0.37069653358550786,https://leetcode.com/problems/maximize-area-of-square-hole-in-grid
+EASY,Minimum Value to Get Positive Step by Step Sum,97.7,0.649825823724482,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
+EASY,Valid Parentheses,75.7,0.4160109087063788,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Sort Colors,75.7,0.6593352477721705,https://leetcode.com/problems/sort-colors
+EASY,Merge Sorted Array,75.7,0.5190092830094024,https://leetcode.com/problems/merge-sorted-array
+EASY,Next Greater Element I,75.7,0.7367201882104558,https://leetcode.com/problems/next-greater-element-i
+HARD,Maximum Profit in Job Scheduling,68.9,0.543183964069717,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Daily Temperatures,68.9,0.667763324819432,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Integer to Roman,68.9,0.6736960113438727,https://leetcode.com/problems/integer-to-roman
+EASY,Happy Number,68.9,0.5733815226772045,https://leetcode.com/problems/happy-number
+MEDIUM,Maximum Length of Pair Chain,59.2,0.6046051588623576,https://leetcode.com/problems/maximum-length-of-pair-chain
+EASY,Majority Element,59.2,0.6542308414969498,https://leetcode.com/problems/majority-element
+EASY,Merge Two Sorted Lists,59.2,0.6598118440947414,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,59.2,0.6577047609268577,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+MEDIUM,LRU Cache,59.2,0.44062676301514514,https://leetcode.com/problems/lru-cache
+HARD,First Missing Positive,59.2,0.4039163244313799,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Subarray Sum Equals K,59.2,0.4466511035142645,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Median of Two Sorted Arrays,59.2,0.42480074963515607,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Subsets II,59.2,0.5862736422372433,https://leetcode.com/problems/subsets-ii
+EASY,Climbing Stairs,59.2,0.5329284492384531,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Count Good Meals,59.2,0.3095283844659365,https://leetcode.com/problems/count-good-meals
+HARD,Trapping Rain Water,59.2,0.6391100331891763,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Immediate Food Delivery II,59.2,0.5340225784298946,https://leetcode.com/problems/immediate-food-delivery-ii
+MEDIUM,Letter Combinations of a Phone Number,59.2,0.6268949395268077,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Longest Consecutive Sequence,59.2,0.4750171241728025,https://leetcode.com/problems/longest-consecutive-sequence

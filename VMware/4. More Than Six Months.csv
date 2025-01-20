@@ -1,19 +1,18 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Median of Two Sorted Arrays,100.0,0.4236996934451046,https://leetcode.com/problems/median-of-two-sorted-arrays
-EASY,Best Time to Buy and Sell Stock,85.5,0.5452641785237862,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Two Sum,80.0,0.5456847422152559,https://leetcode.com/problems/two-sum
-MEDIUM,LRU Cache,80.0,0.43978124738233165,https://leetcode.com/problems/lru-cache
-MEDIUM,Time Based Key-Value Store,72.8,0.4930019639016179,https://leetcode.com/problems/time-based-key-value-store
-MEDIUM,Next Permutation,72.8,0.4188329794266171,https://leetcode.com/problems/next-permutation
-MEDIUM,Search in Rotated Sorted Array,72.8,0.42017078052587886,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Course Schedule,72.8,0.48080608267815966,https://leetcode.com/problems/course-schedule
-HARD,Consecutive Numbers Sum,62.9,0.4193446277920756,https://leetcode.com/problems/consecutive-numbers-sum
-EASY,Intersection of Two Linked Lists,62.9,0.5973635834335296,https://leetcode.com/problems/intersection-of-two-linked-lists
-MEDIUM,Validate Binary Search Tree,62.9,0.33764728011982487,https://leetcode.com/problems/validate-binary-search-tree
-MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,62.9,0.656861903027458,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
-MEDIUM,Longest Substring Without Repeating Characters,62.9,0.3597429534202562,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Sort Colors,62.9,0.6582513695138581,https://leetcode.com/problems/sort-colors
-EASY,Climbing Stairs,62.9,0.5327837753127791,https://leetcode.com/problems/climbing-stairs
-HARD,Reverse Nodes in k-Group,62.9,0.61420203434666,https://leetcode.com/problems/reverse-nodes-in-k-group
-EASY,Merge Two Sorted Lists,62.9,0.6590074858523113,https://leetcode.com/problems/merge-two-sorted-lists
-EASY,Longest Common Prefix,62.9,0.4447195888590092,https://leetcode.com/problems/longest-common-prefix
+HARD,Median of Two Sorted Arrays,100.0,0.4248008284920545,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,Best Time to Buy and Sell Stock,91.2,0.5457851554461577,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,LRU Cache,85.3,0.44062676301514514,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,77.7,0.5468061128301523,https://leetcode.com/problems/two-sum
+MEDIUM,Time Based Key-Value Store,77.7,0.4930688943015642,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Next Permutation,77.7,0.4196835704433437,https://leetcode.com/problems/next-permutation
+MEDIUM,Search in Rotated Sorted Array,77.7,0.4207852376292458,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Course Schedule,77.7,0.48159965524274867,https://leetcode.com/problems/course-schedule
+HARD,Consecutive Numbers Sum,67.1,0.41942863417580206,https://leetcode.com/problems/consecutive-numbers-sum
+EASY,Intersection of Two Linked Lists,67.1,0.5984514966627084,https://leetcode.com/problems/intersection-of-two-linked-lists
+MEDIUM,Validate Binary Search Tree,67.1,0.3380912634702863,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,67.1,0.6577049171350392,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+MEDIUM,Longest Substring Without Repeating Characters,67.1,0.3604578664266401,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Sort Colors,67.1,0.6593352477721705,https://leetcode.com/problems/sort-colors
+EASY,Climbing Stairs,67.1,0.5329284401822761,https://leetcode.com/problems/climbing-stairs
+HARD,Reverse Nodes in k-Group,67.1,0.6153409494857196,https://leetcode.com/problems/reverse-nodes-in-k-group
+EASY,Longest Common Prefix,67.1,0.4456167929475464,https://leetcode.com/problems/longest-common-prefix

@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,LRU Cache,100.0,0.43977821851460275,https://leetcode.com/problems/lru-cache
-MEDIUM,Subarray Sum Equals K,100.0,0.445958297231685,https://leetcode.com/problems/subarray-sum-equals-k
-EASY,Reverse String,100.0,0.7932255672359492,https://leetcode.com/problems/reverse-string
-MEDIUM,3Sum,100.0,0.36008885160029885,https://leetcode.com/problems/3sum
+MEDIUM,LRU Cache,100.0,0.44062554722283115,https://leetcode.com/problems/lru-cache
+MEDIUM,Subarray Sum Equals K,88.1,0.4466491346354507,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Kth Smallest Element in a Sorted Matrix,88.1,0.6308960173359162,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+MEDIUM,Robot Bounded In Circle,88.1,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle
+EASY,Valid Palindrome,88.1,0.49718249995128166,https://leetcode.com/problems/valid-palindrome

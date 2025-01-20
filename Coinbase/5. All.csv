@@ -1,13 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Decode the Message,100.0,0.8499136188457799,https://leetcode.com/problems/decode-the-message
-MEDIUM,Zigzag Iterator,95.4,0.6488337326430824,https://leetcode.com/problems/zigzag-iterator
-MEDIUM,Simple Bank System,95.4,0.6364081191894309,https://leetcode.com/problems/simple-bank-system
-HARD,Design In-Memory File System,86.2,0.4805465892878937,https://leetcode.com/problems/design-in-memory-file-system
-HARD,Text Justification,77.1,0.46327524791330205,https://leetcode.com/problems/text-justification
-MEDIUM,Design File System,77.1,0.6359286071600487,https://leetcode.com/problems/design-file-system
-MEDIUM,Time Based Key-Value Store,77.1,0.49300148976104907,https://leetcode.com/problems/time-based-key-value-store
-MEDIUM,Number of Orders in the Backlog,70.5,0.5099317194289261,https://leetcode.com/problems/number-of-orders-in-the-backlog
-MEDIUM,Check if There is a Valid Partition For The Array,70.5,0.5193446428269602,https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array
-MEDIUM,Simplify Path,61.4,0.4569600687114994,https://leetcode.com/problems/simplify-path
-MEDIUM,Evaluate Division,61.4,0.6253629692807333,https://leetcode.com/problems/evaluate-division
-MEDIUM,Find the Length of the Longest Common Prefix,61.4,0.5621293753558577,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+EASY,Decode the Message,100.0,0.8499379019892178,https://leetcode.com/problems/decode-the-message
+MEDIUM,Zigzag Iterator,97.8,0.6493460862775717,https://leetcode.com/problems/zigzag-iterator
+MEDIUM,Simple Bank System,95.4,0.6365708622398414,https://leetcode.com/problems/simple-bank-system
+HARD,Design In-Memory File System,86.2,0.48070331291222834,https://leetcode.com/problems/design-in-memory-file-system
+HARD,Text Justification,77.0,0.4646346426890088,https://leetcode.com/problems/text-justification
+MEDIUM,Design File System,77.0,0.6362458696305197,https://leetcode.com/problems/design-file-system
+MEDIUM,Time Based Key-Value Store,77.0,0.49306842482049407,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Number of Orders in the Backlog,70.5,0.5091705559649554,https://leetcode.com/problems/number-of-orders-in-the-backlog
+MEDIUM,Check if There is a Valid Partition For The Array,70.5,0.5195566192498707,https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array
+MEDIUM,Simplify Path,61.3,0.45877384935781185,https://leetcode.com/problems/simplify-path
+MEDIUM,Evaluate Division,61.3,0.6258574597576929,https://leetcode.com/problems/evaluate-division
+MEDIUM,Find the Length of the Longest Common Prefix,61.3,0.562112327038217,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix

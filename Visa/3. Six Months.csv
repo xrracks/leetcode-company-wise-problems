@@ -1,21 +1,25 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Trapping Rain Water,100.0,0.6378148838713318,https://leetcode.com/problems/trapping-rain-water
-EASY,Two Sum,93.6,0.5456836372800417,https://leetcode.com/problems/two-sum
-EASY,Longest Common Prefix,93.6,0.44471928599105437,https://leetcode.com/problems/longest-common-prefix
-EASY,Split the Array,85.3,0.5903064832614521,https://leetcode.com/problems/split-the-array
-MEDIUM,Rotating the Box,85.3,0.7920106774323422,https://leetcode.com/problems/rotating-the-box
-EASY,Create Target Array in the Given Order,85.3,0.8609328714801421,https://leetcode.com/problems/create-target-array-in-the-given-order
-MEDIUM,Course Schedule,85.3,0.4808050768289147,https://leetcode.com/problems/course-schedule
-MEDIUM,Match Alphanumerical Pattern in Matrix I,73.7,0.6450640542577242,https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i
-EASY,Divisor Game,73.7,0.697314895917688,https://leetcode.com/problems/divisor-game
-MEDIUM,Count Nodes With the Highest Score,73.7,0.5063522337880649,https://leetcode.com/problems/count-nodes-with-the-highest-score
-EASY,Two Furthest Houses With Different Colors,73.7,0.6558331024108309,https://leetcode.com/problems/two-furthest-houses-with-different-colors
-MEDIUM,Walls and Gates,73.7,0.6228685071380634,https://leetcode.com/problems/walls-and-gates
-HARD,Text Justification,73.7,0.4632742352690355,https://leetcode.com/problems/text-justification
-EASY,Odd String Difference,73.7,0.602867645777801,https://leetcode.com/problems/odd-string-difference
-MEDIUM,Find Score of an Array After Marking All Elements,73.7,0.6497151583698614,https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements
-EASY,Diameter of Binary Tree,73.7,0.6225865487370802,https://leetcode.com/problems/diameter-of-binary-tree
-EASY,Image Smoother,73.7,0.6793562269622151,https://leetcode.com/problems/image-smoother
-HARD,Earliest Possible Day of Full Bloom,73.7,0.7132669402462216,https://leetcode.com/problems/earliest-possible-day-of-full-bloom
-MEDIUM,Maximum Number of Events That Can Be Attended,73.7,0.326516336375575,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
-MEDIUM,LRU Cache,73.7,0.4397797378133028,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,100.0,0.5468044985415614,https://leetcode.com/problems/two-sum
+MEDIUM,LRU Cache,88.8,0.44062681329691705,https://leetcode.com/problems/lru-cache
+HARD,Trapping Rain Water,88.8,0.6391068358772355,https://leetcode.com/problems/trapping-rain-water
+EASY,Longest Common Prefix,88.8,0.4456154515986427,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Rotating the Box,80.8,0.7910341230406017,https://leetcode.com/problems/rotating-the-box
+EASY,Split the Array,80.8,0.5907364775790489,https://leetcode.com/problems/split-the-array
+MEDIUM,Course Schedule,80.8,0.4816001578615486,https://leetcode.com/problems/course-schedule
+EASY,Create Target Array in the Given Order,80.8,0.861136486482215,https://leetcode.com/problems/create-target-array-in-the-given-order
+MEDIUM,Find Score of an Array After Marking All Elements,69.7,0.6499207124003739,https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements
+MEDIUM,3Sum,69.7,0.3609279512590302,https://leetcode.com/problems/3sum
+EASY,Valid Parentheses,69.7,0.41601012648575714,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,69.7,0.5665668113549754,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+EASY,Image Smoother,69.7,0.6797782854174147,https://leetcode.com/problems/image-smoother
+EASY,Diameter of Binary Tree,69.7,0.6236304877122723,https://leetcode.com/problems/diameter-of-binary-tree
+HARD,Text Justification,69.7,0.46463350588941404,https://leetcode.com/problems/text-justification
+MEDIUM,Walls and Gates,69.7,0.6233819024291526,https://leetcode.com/problems/walls-and-gates
+MEDIUM,Count Nodes With the Highest Score,69.7,0.5074183499791258,https://leetcode.com/problems/count-nodes-with-the-highest-score
+EASY,Divisor Game,69.7,0.6976993044408775,https://leetcode.com/problems/divisor-game
+MEDIUM,Match Alphanumerical Pattern in Matrix I,69.7,0.6491228070175439,https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i
+EASY,Two Furthest Houses With Different Colors,69.7,0.6555310123736732,https://leetcode.com/problems/two-furthest-houses-with-different-colors
+EASY,Odd String Difference,69.7,0.6038252778495735,https://leetcode.com/problems/odd-string-difference
+HARD,Earliest Possible Day of Full Bloom,69.7,0.7132344687379174,https://leetcode.com/problems/earliest-possible-day-of-full-bloom
+MEDIUM,Maximum Number of Events That Can Be Attended,69.7,0.3266750823811007,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,Rotate Array,69.7,0.42181218694261113,https://leetcode.com/problems/rotate-array

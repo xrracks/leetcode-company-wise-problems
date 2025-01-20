@@ -1,29 +1,28 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Scramble String,100.0,0.4129387021503661,https://leetcode.com/problems/scramble-string
-HARD,Minimum Operations to Form Subsequence With Target Sum,96.7,0.3203128994324863,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum
-EASY,Best Time to Buy and Sell Stock,85.6,0.5452646665802087,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Count the Number of Square-Free Subsets,85.6,0.23945930008391733,https://leetcode.com/problems/count-the-number-of-square-free-subsets
-HARD,Substring with Concatenation of All Words,82.5,0.3264692862504447,https://leetcode.com/problems/substring-with-concatenation-of-all-words
-MEDIUM,Flatten Binary Tree to Linked List,82.5,0.6721728939402031,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
-EASY,Merge Two Sorted Lists,79.0,0.6590071447269081,https://leetcode.com/problems/merge-two-sorted-lists
-HARD,Painting the Walls,74.8,0.503438367542409,https://leetcode.com/problems/painting-the-walls
-EASY,Fizz Buzz,69.7,0.7356991867062205,https://leetcode.com/problems/fizz-buzz
-MEDIUM,Jump Game,69.7,0.38978829949848615,https://leetcode.com/problems/jump-game
-MEDIUM,Binary Search Tree Iterator,69.7,0.7385685035621968,https://leetcode.com/problems/binary-search-tree-iterator
-MEDIUM,Longest Palindromic Substring,63.1,0.34984287105438694,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,LRU Cache,63.1,0.4397817756218925,https://leetcode.com/problems/lru-cache
-EASY,Valid Phone Numbers,63.1,0.26724963082387687,https://leetcode.com/problems/valid-phone-numbers
-MEDIUM,Best Time to Buy and Sell Stock II,63.1,0.6840513376025722,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-HARD,Number of Submatrices That Sum to Target,63.1,0.7436849891036021,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
-MEDIUM,Recover Binary Search Tree,63.1,0.5501671587356721,https://leetcode.com/problems/recover-binary-search-tree
-HARD,The Number of Good Subsets,63.1,0.3543918648410601,https://leetcode.com/problems/the-number-of-good-subsets
-MEDIUM,Valid Sudoku,63.1,0.6123434212270676,https://leetcode.com/problems/valid-sudoku
-HARD,Maximum Genetic Difference Query,53.9,0.4330222440530489,https://leetcode.com/problems/maximum-genetic-difference-query
-EASY,Majority Element,53.9,0.6539919635851047,https://leetcode.com/problems/majority-element
-MEDIUM,Interleaving String,53.9,0.41092824244556075,https://leetcode.com/problems/interleaving-string
-HARD,Sum of Distances in Tree,53.9,0.652757256565464,https://leetcode.com/problems/sum-of-distances-in-tree
-HARD,Trapping Rain Water,53.9,0.6378165074614706,https://leetcode.com/problems/trapping-rain-water
-HARD,All O`one Data Structure,53.9,0.45013874980558655,https://leetcode.com/problems/all-oone-data-structure
-MEDIUM,Search in Rotated Sorted Array,53.9,0.4201707021217656,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Merge Intervals,53.9,0.48475790325910956,https://leetcode.com/problems/merge-intervals
-HARD,Sliding Window Maximum,53.9,0.4709095871134858,https://leetcode.com/problems/sliding-window-maximum
+HARD,Scramble String,100.0,0.4134369042799235,https://leetcode.com/problems/scramble-string
+HARD,Minimum Operations to Form Subsequence With Target Sum,98.3,0.32072582497511676,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum
+EASY,Best Time to Buy and Sell Stock,87.0,0.5457852653722504,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Substring with Concatenation of All Words,83.9,0.3266853887625565,https://leetcode.com/problems/substring-with-concatenation-of-all-words
+MEDIUM,Count the Number of Square-Free Subsets,83.9,0.24134373878722643,https://leetcode.com/problems/count-the-number-of-square-free-subsets
+MEDIUM,Flatten Binary Tree to Linked List,83.9,0.6730442332632381,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+EASY,Merge Two Sorted Lists,80.3,0.6598125097509854,https://leetcode.com/problems/merge-two-sorted-lists
+HARD,Painting the Walls,76.1,0.5033547029278086,https://leetcode.com/problems/painting-the-walls
+MEDIUM,Jump Game,70.9,0.39004655878986705,https://leetcode.com/problems/jump-game
+EASY,Fizz Buzz,70.9,0.7363865366202491,https://leetcode.com/problems/fizz-buzz
+MEDIUM,Binary Search Tree Iterator,70.9,0.739365002359666,https://leetcode.com/problems/binary-search-tree-iterator
+HARD,The Number of Good Subsets,64.3,0.35516432857767355,https://leetcode.com/problems/the-number-of-good-subsets
+MEDIUM,LRU Cache,64.3,0.4406267788067009,https://leetcode.com/problems/lru-cache
+HARD,Number of Submatrices That Sum to Target,64.3,0.7437267809424494,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
+MEDIUM,Valid Sudoku,64.3,0.6132866034478458,https://leetcode.com/problems/valid-sudoku
+EASY,Valid Phone Numbers,64.3,0.2677397708352636,https://leetcode.com/problems/valid-phone-numbers
+MEDIUM,Best Time to Buy and Sell Stock II,64.3,0.6850410180259323,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+HARD,Sum of Distances in Tree,54.9,0.6527191679049034,https://leetcode.com/problems/sum-of-distances-in-tree
+HARD,All O`one Data Structure,54.9,0.4496284298004998,https://leetcode.com/problems/all-oone-data-structure
+MEDIUM,Merge Intervals,54.9,0.4854561973846155,https://leetcode.com/problems/merge-intervals
+MEDIUM,Longest Palindromic Substring,54.9,0.3504776485533736,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Majority Element,54.9,0.6542277333104499,https://leetcode.com/problems/majority-element
+HARD,Maximum Genetic Difference Query,54.9,0.4337374581939799,https://leetcode.com/problems/maximum-genetic-difference-query
+MEDIUM,Interleaving String,54.9,0.41157741868496983,https://leetcode.com/problems/interleaving-string
+HARD,Trapping Rain Water,54.9,0.6391104002933209,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Search in Rotated Sorted Array,54.9,0.42078538916570013,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Sliding Window Maximum,54.9,0.4711572779727559,https://leetcode.com/problems/sliding-window-maximum

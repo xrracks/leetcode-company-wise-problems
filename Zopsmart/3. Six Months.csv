@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Zigzag Conversion,100.0,0.5021552753706362,https://leetcode.com/problems/zigzag-conversion
-MEDIUM,Remove K Digits,75.5,0.3422148720984499,https://leetcode.com/problems/remove-k-digits
-MEDIUM,Bulls and Cows,69.8,0.5092749840906607,https://leetcode.com/problems/bulls-and-cows
-HARD,Trapping Rain Water,61.9,0.6378168002360172,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Fraction Addition and Subtraction,61.9,0.6609754979135778,https://leetcode.com/problems/fraction-addition-and-subtraction
-MEDIUM,Reverse Nodes in Even Length Groups,61.9,0.5975676646933101,https://leetcode.com/problems/reverse-nodes-in-even-length-groups
+MEDIUM,Zigzag Conversion,100.0,0.503285661249927,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Remove K Digits,74.2,0.342640446043766,https://leetcode.com/problems/remove-k-digits
+MEDIUM,Bulls and Cows,74.2,0.50963929112262,https://leetcode.com/problems/bulls-and-cows
+HARD,Trapping Rain Water,60.7,0.6391114414720586,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Fraction Addition and Subtraction,60.7,0.6613410255498732,https://leetcode.com/problems/fraction-addition-and-subtraction
+MEDIUM,Reverse Nodes in Even Length Groups,60.7,0.5986089760413933,https://leetcode.com/problems/reverse-nodes-in-even-length-groups

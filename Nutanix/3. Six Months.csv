@@ -1,15 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Broken Calculator,100.0,0.5484529959603304,https://leetcode.com/problems/broken-calculator
-MEDIUM,Maximum Sum of an Hourglass,100.0,0.7564959550253668,https://leetcode.com/problems/maximum-sum-of-an-hourglass
-MEDIUM,Swap For Longest Repeated Character Substring,100.0,0.4377329601787126,https://leetcode.com/problems/swap-for-longest-repeated-character-substring
-HARD,Online Majority Element In Subarray,100.0,0.4203708880812599,https://leetcode.com/problems/online-majority-element-in-subarray
-MEDIUM,Minimum Processing Time,100.0,0.6938238170465658,https://leetcode.com/problems/minimum-processing-time
-MEDIUM,Partitioning Into Minimum Number Of Deci-Binary Numbers,100.0,0.887536216474841,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
-MEDIUM,Grumpy Bookstore Owner,100.0,0.6413245597009785,https://leetcode.com/problems/grumpy-bookstore-owner
-MEDIUM,Car Fleet,100.0,0.5256887743684503,https://leetcode.com/problems/car-fleet
-MEDIUM,Check If Word Is Valid After Substitutions,100.0,0.6038631176097067,https://leetcode.com/problems/check-if-word-is-valid-after-substitutions
-HARD,Delivering Boxes from Storage to Ports,100.0,0.3893636218884348,https://leetcode.com/problems/delivering-boxes-from-storage-to-ports
-MEDIUM,Detect Cycles in 2D Grid,100.0,0.49291029350971477,https://leetcode.com/problems/detect-cycles-in-2d-grid
-MEDIUM,Min Cost to Connect All Points,100.0,0.6804149625935162,https://leetcode.com/problems/min-cost-to-connect-all-points
-MEDIUM,Binary Tree Zigzag Level Order Traversal,100.0,0.6062050042230673,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-MEDIUM,Number of Islands,100.0,0.6112267522977448,https://leetcode.com/problems/number-of-islands
+MEDIUM,Broken Calculator,100.0,0.5485526900504145,https://leetcode.com/problems/broken-calculator
+MEDIUM,Maximum Sum of an Hourglass,100.0,0.7567641014317985,https://leetcode.com/problems/maximum-sum-of-an-hourglass
+MEDIUM,Swap For Longest Repeated Character Substring,100.0,0.4376507040141927,https://leetcode.com/problems/swap-for-longest-repeated-character-substring
+HARD,Online Majority Element In Subarray,100.0,0.42106240282193497,https://leetcode.com/problems/online-majority-element-in-subarray
+MEDIUM,Minimum Processing Time,100.0,0.6942264573991033,https://leetcode.com/problems/minimum-processing-time
+MEDIUM,Partitioning Into Minimum Number Of Deci-Binary Numbers,100.0,0.8876060516616338,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
+MEDIUM,Grumpy Bookstore Owner,100.0,0.6412660683816671,https://leetcode.com/problems/grumpy-bookstore-owner
+MEDIUM,Car Fleet,100.0,0.5264155832664438,https://leetcode.com/problems/car-fleet
+MEDIUM,Check If Word Is Valid After Substitutions,100.0,0.6043678553147926,https://leetcode.com/problems/check-if-word-is-valid-after-substitutions
+HARD,Delivering Boxes from Storage to Ports,100.0,0.3896763274804316,https://leetcode.com/problems/delivering-boxes-from-storage-to-ports
+MEDIUM,Detect Cycles in 2D Grid,100.0,0.4928380874204802,https://leetcode.com/problems/detect-cycles-in-2d-grid
+MEDIUM,Min Cost to Connect All Points,100.0,0.6812508281960458,https://leetcode.com/problems/min-cost-to-connect-all-points
+MEDIUM,Binary Tree Zigzag Level Order Traversal,100.0,0.6069308715813482,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Number of Islands,100.0,0.6120962124434544,https://leetcode.com/problems/number-of-islands
+MEDIUM,Group Anagrams,100.0,0.7004742958571409,https://leetcode.com/problems/group-anagrams

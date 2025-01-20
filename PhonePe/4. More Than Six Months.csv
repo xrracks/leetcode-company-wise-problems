@@ -1,48 +1,49 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Frog Jump,100.0,0.4632107485205515,https://leetcode.com/problems/frog-jump
-HARD,Burst Balloons,89.5,0.6032279930854962,https://leetcode.com/problems/burst-balloons
-MEDIUM,Decoded String at Index,87.5,0.36528865416135486,https://leetcode.com/problems/decoded-string-at-index
-HARD,Split Array Largest Sum,80.3,0.5702330826457679,https://leetcode.com/problems/split-array-largest-sum
-MEDIUM,Remove K Digits,77.3,0.3422135049939612,https://leetcode.com/problems/remove-k-digits
-MEDIUM,Frequency of the Most Frequent Element,73.7,0.4401562384484585,https://leetcode.com/problems/frequency-of-the-most-frequent-element
-HARD,Maximum Profit in Job Scheduling,73.7,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,House Robber II,69.6,0.4289882066143361,https://leetcode.com/problems/house-robber-ii
-HARD,Bus Routes,69.6,0.47166685122929153,https://leetcode.com/problems/bus-routes
-MEDIUM,Gas Station,64.5,0.458006504241004,https://leetcode.com/problems/gas-station
-MEDIUM,Accounts Merge,64.5,0.5854923198284038,https://leetcode.com/problems/accounts-merge
-MEDIUM,Amount of Time for Binary Tree to Be Infected,64.5,0.6289696129366366,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
-MEDIUM,Most Stones Removed with Same Row or Column,64.5,0.6211582093712976,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
-EASY,Best Time to Buy and Sell Stock,64.5,0.5452640478506332,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Distribute Coins in Binary Tree,64.5,0.7717928262978319,https://leetcode.com/problems/distribute-coins-in-binary-tree
-HARD,IPO,58.0,0.5301691310961139,https://leetcode.com/problems/ipo
-HARD,Candy,58.0,0.4413100310094837,https://leetcode.com/problems/candy
-MEDIUM,House Robber III,58.0,0.546129954097183,https://leetcode.com/problems/house-robber-iii
-HARD,Trapping Rain Water,58.0,0.637815660798664,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Koko Eating Bananas,58.0,0.4869547145278011,https://leetcode.com/problems/koko-eating-bananas
-HARD,Word Ladder,58.0,0.41268212000580207,https://leetcode.com/problems/word-ladder
-HARD,Cracking the Safe,58.0,0.5742630333701778,https://leetcode.com/problems/cracking-the-safe
-MEDIUM,Number of Islands,58.0,0.6112268278859605,https://leetcode.com/problems/number-of-islands
-HARD,Minimum Cost to Cut a Stick,58.0,0.6179256010396361,https://leetcode.com/problems/minimum-cost-to-cut-a-stick
-HARD,Best Time to Buy and Sell Stock III,58.0,0.4984935977906101,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
-MEDIUM,Copy List with Random Pointer,48.8,0.5882842724165879,https://leetcode.com/problems/copy-list-with-random-pointer
-MEDIUM,House Robber,48.8,0.5181553231274719,https://leetcode.com/problems/house-robber
-MEDIUM,Magnetic Force Between Two Balls,48.8,0.7111501039369581,https://leetcode.com/problems/magnetic-force-between-two-balls
-MEDIUM,Find the Celebrity,48.8,0.48023210038275393,https://leetcode.com/problems/find-the-celebrity
-MEDIUM,Longest Palindromic Substring,48.8,0.34984284589385417,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,48.8,0.5664762278065044,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
-HARD,Largest Rectangle in Histogram,48.8,0.4615970021622177,https://leetcode.com/problems/largest-rectangle-in-histogram
-MEDIUM,Queue Reconstruction by Height,48.8,0.739039607365178,https://leetcode.com/problems/queue-reconstruction-by-height
-MEDIUM,Best Time to Buy and Sell Stock II,48.8,0.684050784871275,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-MEDIUM,Complete Binary Tree Inserter,48.8,0.6611767593925396,https://leetcode.com/problems/complete-binary-tree-inserter
-MEDIUM,Minimum Height Trees,48.8,0.41910790413642124,https://leetcode.com/problems/minimum-height-trees
-MEDIUM,Merge Intervals,48.8,0.4847567912680543,https://leetcode.com/problems/merge-intervals
-HARD,Find Minimum Time to Finish All Jobs,48.8,0.42885827044242886,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs
-MEDIUM,String Compression,48.8,0.5672170366243706,https://leetcode.com/problems/string-compression
-MEDIUM,Longest Repeating Character Replacement,48.8,0.559926860848974,https://leetcode.com/problems/longest-repeating-character-replacement
-MEDIUM,Course Schedule II,48.8,0.5218100726048599,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Daily Temperatures,48.8,0.667310493697497,https://leetcode.com/problems/daily-temperatures
-HARD,Alien Dictionary,48.8,0.36285452691052605,https://leetcode.com/problems/alien-dictionary
-HARD,Swim in Rising Water,48.8,0.6196250541486567,https://leetcode.com/problems/swim-in-rising-water
-MEDIUM,Jump Game II,48.8,0.40963804636329615,https://leetcode.com/problems/jump-game-ii
-MEDIUM,Find the Duplicate Number,48.8,0.6204375148250281,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,LRU Cache,48.8,0.4397809881173419,https://leetcode.com/problems/lru-cache
+HARD,Frog Jump,100.0,0.4632623451992331,https://leetcode.com/problems/frog-jump
+HARD,Burst Balloons,89.5,0.604018135821533,https://leetcode.com/problems/burst-balloons
+MEDIUM,Decoded String at Index,87.5,0.3653717445074931,https://leetcode.com/problems/decoded-string-at-index
+HARD,Split Array Largest Sum,80.3,0.5710238758892878,https://leetcode.com/problems/split-array-largest-sum
+MEDIUM,Remove K Digits,77.2,0.34263985792922247,https://leetcode.com/problems/remove-k-digits
+MEDIUM,Frequency of the Most Frequent Element,73.7,0.4399709662227444,https://leetcode.com/problems/frequency-of-the-most-frequent-element
+HARD,Maximum Profit in Job Scheduling,73.7,0.543183964069717,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,House Robber II,69.6,0.42942692229865015,https://leetcode.com/problems/house-robber-ii
+HARD,Bus Routes,69.6,0.47123164892072,https://leetcode.com/problems/bus-routes
+MEDIUM,Distribute Coins in Binary Tree,64.5,0.7717590775728354,https://leetcode.com/problems/distribute-coins-in-binary-tree
+MEDIUM,Most Stones Removed with Same Row or Column,64.5,0.6212352573051557,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+MEDIUM,Amount of Time for Binary Tree to Be Infected,64.5,0.62984068348318,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+HARD,Smallest Range Covering Elements from K Lists,64.5,0.6978134921711758,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+MEDIUM,Gas Station,64.5,0.45821170594581423,https://leetcode.com/problems/gas-station
+EASY,Best Time to Buy and Sell Stock,64.5,0.5457848031663092,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Accounts Merge,64.5,0.5860402381415424,https://leetcode.com/problems/accounts-merge
+HARD,Best Time to Buy and Sell Stock III,58.0,0.49936882672830707,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+MEDIUM,House Robber III,58.0,0.5462701443238239,https://leetcode.com/problems/house-robber-iii
+HARD,Candy,58.0,0.441680409458545,https://leetcode.com/problems/candy
+HARD,IPO,58.0,0.5301176298065341,https://leetcode.com/problems/ipo
+HARD,Cracking the Safe,58.0,0.5745922231122115,https://leetcode.com/problems/cracking-the-safe
+HARD,Word Ladder,58.0,0.41384754872740204,https://leetcode.com/problems/word-ladder
+HARD,Minimum Cost to Cut a Stick,58.0,0.618107068724154,https://leetcode.com/problems/minimum-cost-to-cut-a-stick
+HARD,Trapping Rain Water,58.0,0.6391090389663341,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Number of Islands,58.0,0.6120962873747173,https://leetcode.com/problems/number-of-islands
+MEDIUM,Koko Eating Bananas,58.0,0.48715415485380853,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Jump Game II,48.8,0.40989422983525275,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Complete Binary Tree Inserter,48.8,0.6613507712496802,https://leetcode.com/problems/complete-binary-tree-inserter
+MEDIUM,LRU Cache,48.8,0.44062673572691013,https://leetcode.com/problems/lru-cache
+MEDIUM,House Robber,48.8,0.5185591131895351,https://leetcode.com/problems/house-robber
+MEDIUM,Magnetic Force Between Two Balls,48.8,0.7106723904770891,https://leetcode.com/problems/magnetic-force-between-two-balls
+MEDIUM,Find the Celebrity,48.8,0.4805436818913428,https://leetcode.com/problems/find-the-celebrity
+MEDIUM,Longest Palindromic Substring,48.8,0.3504775671388265,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,48.8,0.5665677927723938,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+HARD,Alien Dictionary,48.8,0.3631392739136759,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Queue Reconstruction by Height,48.8,0.739219544761678,https://leetcode.com/problems/queue-reconstruction-by-height
+HARD,Swim in Rising Water,48.8,0.6201502328013502,https://leetcode.com/problems/swim-in-rising-water
+MEDIUM,Copy List with Random Pointer,48.8,0.5897085504512558,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Merge Intervals,48.8,0.48545553227135846,https://leetcode.com/problems/merge-intervals
+HARD,Largest Rectangle in Histogram,48.8,0.4624615089271864,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Find the Duplicate Number,48.8,0.6211208099574409,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,Best Time to Buy and Sell Stock II,48.8,0.6850390517233178,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,String Compression,48.8,0.5683467484828254,https://leetcode.com/problems/string-compression
+HARD,Find Minimum Time to Finish All Jobs,48.8,0.42886472930704256,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs
+MEDIUM,Longest Repeating Character Replacement,48.8,0.5608916310539055,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Minimum Height Trees,48.8,0.4191978394470851,https://leetcode.com/problems/minimum-height-trees
+MEDIUM,Course Schedule II,48.8,0.5227091036695071,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Daily Temperatures,48.8,0.6677638905099159,https://leetcode.com/problems/daily-temperatures

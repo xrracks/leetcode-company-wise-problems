@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Coin Change,100.0,0.45440969579928875,https://leetcode.com/problems/coin-change
-EASY,Maximum Depth of N-ary Tree,83.0,0.7262390401039159,https://leetcode.com/problems/maximum-depth-of-n-ary-tree
-MEDIUM,Design Circular Queue,80.4,0.5214252708322636,https://leetcode.com/problems/design-circular-queue
-HARD,Maximum Vacation Days,63.8,0.4607138234151967,https://leetcode.com/problems/maximum-vacation-days
-HARD,Sliding Window Median,63.8,0.3870529441855835,https://leetcode.com/problems/sliding-window-median
-EASY,Valid Word Abbreviation,55.9,0.36471199417709843,https://leetcode.com/problems/valid-word-abbreviation
-HARD,Binary Tree Maximum Path Sum,55.9,0.4071190834523837,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Coin Change,100.0,0.455164027220616,https://leetcode.com/problems/coin-change
+EASY,Maximum Depth of N-ary Tree,82.2,0.7265356044900523,https://leetcode.com/problems/maximum-depth-of-n-ary-tree
+MEDIUM,Design Circular Queue,79.6,0.5218952195352322,https://leetcode.com/problems/design-circular-queue
+HARD,Maximum Vacation Days,63.1,0.46087058685308113,https://leetcode.com/problems/maximum-vacation-days
+HARD,Sliding Window Median,63.1,0.3869578824796454,https://leetcode.com/problems/sliding-window-median
+EASY,Valid Word Abbreviation,55.3,0.36521942807205465,https://leetcode.com/problems/valid-word-abbreviation
+HARD,Binary Tree Maximum Path Sum,55.3,0.4074711809065764,https://leetcode.com/problems/binary-tree-maximum-path-sum

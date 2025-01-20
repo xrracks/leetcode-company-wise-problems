@@ -1,10 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Letter Combinations of a Phone Number,100.0,0.6258640826068714,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,Additive Number,100.0,0.32125163057445016,https://leetcode.com/problems/additive-number
-EASY,Self Dividing Numbers,90.4,0.7923871427299438,https://leetcode.com/problems/self-dividing-numbers
-MEDIUM,Spiral Matrix,90.4,0.5230461604224489,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Angle Between Hands of a Clock,83.5,0.6407787530504605,https://leetcode.com/problems/angle-between-hands-of-a-clock
-EASY,Valid Parentheses,83.5,0.4153896282310238,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Stepping Numbers,73.9,0.47569265388401855,https://leetcode.com/problems/stepping-numbers
-MEDIUM,Word Search,73.9,0.442256837633968,https://leetcode.com/problems/word-search
-MEDIUM,Bulls and Cows,73.9,0.5092737223321415,https://leetcode.com/problems/bulls-and-cows
+MEDIUM,Letter Combinations of a Phone Number,100.0,0.6268951969714549,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Additive Number,100.0,0.3213844772888562,https://leetcode.com/problems/additive-number
+EASY,Self Dividing Numbers,90.4,0.792764790696575,https://leetcode.com/problems/self-dividing-numbers
+MEDIUM,Spiral Matrix,90.4,0.5243051480958033,https://leetcode.com/problems/spiral-matrix
+EASY,Valid Parentheses,83.6,0.416012014553334,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Stepping Numbers,74.0,0.4751272829183988,https://leetcode.com/problems/stepping-numbers
+MEDIUM,Word Search,74.0,0.4430755675280021,https://leetcode.com/problems/word-search
+MEDIUM,Bulls and Cows,74.0,0.5096380335923906,https://leetcode.com/problems/bulls-and-cows
+MEDIUM,Angle Between Hands of a Clock,74.0,0.6409846359123286,https://leetcode.com/problems/angle-between-hands-of-a-clock
+EASY,Two Sum,74.0,0.5468076611396842,https://leetcode.com/problems/two-sum

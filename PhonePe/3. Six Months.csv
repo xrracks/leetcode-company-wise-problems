@@ -1,28 +1,29 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.3537855333520968,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
-HARD,Find Beautiful Indices in the Given Array II,100.0,0.2546797931977101,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
-HARD,Viewers Turned Streamers,100.0,0.4309839738066517,https://leetcode.com/problems/viewers-turned-streamers
-HARD,Smallest Range Covering Elements from K Lists,97.4,0.69799737528335,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
-HARD,Reachable Nodes In Subdivided Graph,77.2,0.5075168139258869,https://leetcode.com/problems/reachable-nodes-in-subdivided-graph
-HARD,Trapping Rain Water,77.2,0.637815660798664,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Most Stones Removed with Same Row or Column,70.0,0.6211582093712976,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
-MEDIUM,Maximal Square,70.0,0.4789715451859829,https://leetcode.com/problems/maximal-square
-MEDIUM,House Robber,70.0,0.5181553231274719,https://leetcode.com/problems/house-robber
-MEDIUM,Decoded String at Index,70.0,0.36528865416135486,https://leetcode.com/problems/decoded-string-at-index
-HARD,Candy,60.0,0.4413100310094837,https://leetcode.com/problems/candy
-MEDIUM,Queue Reconstruction by Height,60.0,0.739039607365178,https://leetcode.com/problems/queue-reconstruction-by-height
-HARD,Burst Balloons,60.0,0.6032279930854962,https://leetcode.com/problems/burst-balloons
-MEDIUM,Longest Palindromic Substring,60.0,0.3498429152223755,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Simple Bank System,60.0,0.6364142538975501,https://leetcode.com/problems/simple-bank-system
-MEDIUM,Jump Game II,60.0,0.40963804636329615,https://leetcode.com/problems/jump-game-ii
-HARD,Check if Point Is Reachable,60.0,0.43432901924117906,https://leetcode.com/problems/check-if-point-is-reachable
-MEDIUM,Make Sum Divisible by P,60.0,0.3962464661404576,https://leetcode.com/problems/make-sum-divisible-by-p
-HARD,Apply Operations to Maximize Frequency Score,60.0,0.3718631568165523,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score
-MEDIUM,Smallest String With Swaps,60.0,0.5895573620692104,https://leetcode.com/problems/smallest-string-with-swaps
-HARD,Decode Ways II,60.0,0.30967110031538325,https://leetcode.com/problems/decode-ways-ii
-MEDIUM,Koko Eating Bananas,60.0,0.4869547145278011,https://leetcode.com/problems/koko-eating-bananas
-MEDIUM,Sort Colors,60.0,0.6582510157831298,https://leetcode.com/problems/sort-colors
-MEDIUM,Maximum Tastiness of Candy Basket,60.0,0.6494274664442252,https://leetcode.com/problems/maximum-tastiness-of-candy-basket
-MEDIUM,Minimum Cost Tree From Leaf Values,60.0,0.6770483857769609,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
-MEDIUM,Walking Robot Simulation,60.0,0.5800662810715563,https://leetcode.com/problems/walking-robot-simulation
-MEDIUM,Rotting Oranges,60.0,0.5557389070344223,https://leetcode.com/problems/rotting-oranges
+HARD,Viewers Turned Streamers,100.0,0.4327290869782139,https://leetcode.com/problems/viewers-turned-streamers
+HARD,Find Beautiful Indices in the Given Array II,100.0,0.2557710427135678,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
+HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.36043668122270744,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
+MEDIUM,Maximum Amount of Money Robot Can Earn,100.0,0.29445955572825594,https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn
+HARD,Smallest Range Covering Elements from K Lists,87.1,0.6978134921711758,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+HARD,Trapping Rain Water,76.9,0.6391090389663341,https://leetcode.com/problems/trapping-rain-water
+HARD,Reachable Nodes In Subdivided Graph,76.9,0.5069063262931952,https://leetcode.com/problems/reachable-nodes-in-subdivided-graph
+MEDIUM,Most Stones Removed with Same Row or Column,69.7,0.6212352573051557,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+MEDIUM,Maximal Square,69.7,0.4795506133124887,https://leetcode.com/problems/maximal-square
+MEDIUM,House Robber,69.7,0.5185590188924778,https://leetcode.com/problems/house-robber
+MEDIUM,Decoded String at Index,69.7,0.3653717445074931,https://leetcode.com/problems/decoded-string-at-index
+HARD,Candy,59.6,0.441680409458545,https://leetcode.com/problems/candy
+MEDIUM,Sort Colors,59.6,0.6593350731117081,https://leetcode.com/problems/sort-colors
+MEDIUM,Simple Bank System,59.6,0.6365708622398414,https://leetcode.com/problems/simple-bank-system
+MEDIUM,Queue Reconstruction by Height,59.6,0.739219544761678,https://leetcode.com/problems/queue-reconstruction-by-height
+HARD,Burst Balloons,59.6,0.604018135821533,https://leetcode.com/problems/burst-balloons
+MEDIUM,Longest Palindromic Substring,59.6,0.3504775671388265,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Koko Eating Bananas,59.6,0.48715440990914105,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Jump Game II,59.6,0.40989422983525275,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Make Sum Divisible by P,59.6,0.39598306215377477,https://leetcode.com/problems/make-sum-divisible-by-p
+MEDIUM,Walking Robot Simulation,59.6,0.5800775939982218,https://leetcode.com/problems/walking-robot-simulation
+HARD,Apply Operations to Maximize Frequency Score,59.6,0.37209538305428713,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score
+HARD,Decode Ways II,59.6,0.30977732105388606,https://leetcode.com/problems/decode-ways-ii
+HARD,Check if Point Is Reachable,59.6,0.4329997559189651,https://leetcode.com/problems/check-if-point-is-reachable
+MEDIUM,Maximum Tastiness of Candy Basket,59.6,0.6505858201482075,https://leetcode.com/problems/maximum-tastiness-of-candy-basket
+MEDIUM,Rotting Oranges,59.6,0.5565965873299298,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Minimum Cost Tree From Leaf Values,59.6,0.677098034787954,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+MEDIUM,Smallest String With Swaps,59.6,0.5897881094036773,https://leetcode.com/problems/smallest-string-with-swaps

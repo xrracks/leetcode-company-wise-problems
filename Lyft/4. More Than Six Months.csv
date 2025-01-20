@@ -1,15 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Time Based Key-Value Store,100.0,0.4930010156195934,https://leetcode.com/problems/time-based-key-value-store
-HARD,Read N Characters Given read4 II - Call Multiple Times,95.1,0.42671991713912893,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
-HARD,Minimum Window Substring,93.6,0.44291868575078525,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Rotting Oranges,90.4,0.5557382754585278,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Range Sum Query 2D - Immutable,81.9,0.5567123920867871,https://leetcode.com/problems/range-sum-query-2d-immutable
-HARD,Max Stack,75.9,0.4516542825373975,https://leetcode.com/problems/max-stack
-MEDIUM,Min Stack,72.1,0.5555544625250429,https://leetcode.com/problems/min-stack
-MEDIUM,Asteroid Collision,61.5,0.44952811946844823,https://leetcode.com/problems/asteroid-collision
-MEDIUM,Water and Jug Problem,61.5,0.4218532978990999,https://leetcode.com/problems/water-and-jug-problem
-MEDIUM,Convert Sorted List to Binary Search Tree,53.0,0.6350937943280054,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
-MEDIUM,Implement Trie (Prefix Tree),53.0,0.670475676340779,https://leetcode.com/problems/implement-trie-prefix-tree
-MEDIUM,Meeting Rooms II,53.0,0.517840795999009,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Find First and Last Position of Element in Sorted Array,53.0,0.45753299287627863,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-MEDIUM,Process Tasks Using Servers,53.0,0.4072609477584452,https://leetcode.com/problems/process-tasks-using-servers
+MEDIUM,Time Based Key-Value Store,100.0,0.4930688429487239,https://leetcode.com/problems/time-based-key-value-store
+HARD,Read N Characters Given read4 II - Call Multiple Times,96.4,0.4269159511974695,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+HARD,Minimum Window Substring,93.6,0.44367043914196513,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Rotting Oranges,90.4,0.5565957968574778,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Range Sum Query 2D - Immutable,81.9,0.5573222942945639,https://leetcode.com/problems/range-sum-query-2d-immutable
+HARD,Max Stack,75.9,0.4515426061771214,https://leetcode.com/problems/max-stack
+MEDIUM,Min Stack,72.1,0.556198651653823,https://leetcode.com/problems/min-stack
+MEDIUM,Asteroid Collision,61.5,0.4495647559017858,https://leetcode.com/problems/asteroid-collision
+MEDIUM,Water and Jug Problem,61.5,0.4224648838661883,https://leetcode.com/problems/water-and-jug-problem
+MEDIUM,Convert Sorted List to Binary Search Tree,53.0,0.6357466412440897,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+MEDIUM,Implement Trie (Prefix Tree),53.0,0.6714357680957289,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Meeting Rooms II,53.0,0.5181634190506144,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Find First and Last Position of Element in Sorted Array,53.0,0.45835011602233094,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Process Tasks Using Servers,53.0,0.4068008043962189,https://leetcode.com/problems/process-tasks-using-servers

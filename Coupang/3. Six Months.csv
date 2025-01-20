@@ -1,17 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,LFU Cache,100.0,0.4546345668090843,https://leetcode.com/problems/lfu-cache
-MEDIUM,Single Element in a Sorted Array,82.5,0.5923492193344168,https://leetcode.com/problems/single-element-in-a-sorted-array
-MEDIUM,Course Schedule,82.5,0.4808059192003688,https://leetcode.com/problems/course-schedule
-MEDIUM,Decode String,72.3,0.6039237081260408,https://leetcode.com/problems/decode-string
-MEDIUM,Word Break,72.3,0.47641408852713013,https://leetcode.com/problems/word-break
-HARD,Range Module,72.3,0.4397898535928524,https://leetcode.com/problems/range-module
-MEDIUM,Subsets,72.3,0.7986298407049146,https://leetcode.com/problems/subsets
-EASY,Find Pivot Index,72.3,0.5942467958062673,https://leetcode.com/problems/find-pivot-index
-MEDIUM,Longest Substring with At Most K Distinct Characters,72.3,0.4921423567665626,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
-MEDIUM,Split BST,72.3,0.8251156781443423,https://leetcode.com/problems/split-bst
-HARD,Longest Duplicate Substring,72.3,0.306121589406205,https://leetcode.com/problems/longest-duplicate-substring
-MEDIUM,Increasing Triplet Subsequence,72.3,0.39244137731690576,https://leetcode.com/problems/increasing-triplet-subsequence
-MEDIUM,Longest Repeating Substring,72.3,0.6260243902439024,https://leetcode.com/problems/longest-repeating-substring
-MEDIUM,Open the Lock,72.3,0.6051160318866253,https://leetcode.com/problems/open-the-lock
-MEDIUM,Number of Distinct Islands,72.3,0.6186036197396926,https://leetcode.com/problems/number-of-distinct-islands
-MEDIUM,LRU Cache,72.3,0.4397805713502933,https://leetcode.com/problems/lru-cache
+HARD,LFU Cache,100.0,0.4552123016577045,https://leetcode.com/problems/lfu-cache
+MEDIUM,Single Element in a Sorted Array,82.5,0.5919792217772541,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Course Schedule,82.5,0.48160008179331854,https://leetcode.com/problems/course-schedule
+MEDIUM,Decode String,72.2,0.6045197339771752,https://leetcode.com/problems/decode-string
+MEDIUM,Word Break,72.2,0.47690411120934845,https://leetcode.com/problems/word-break
+HARD,Range Module,72.2,0.43989613647491155,https://leetcode.com/problems/range-module
+MEDIUM,Subsets,72.2,0.7994397362166977,https://leetcode.com/problems/subsets
+EASY,Find Pivot Index,72.2,0.595369102475435,https://leetcode.com/problems/find-pivot-index
+MEDIUM,Longest Substring with At Most K Distinct Characters,72.2,0.4923737277208133,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+MEDIUM,Split BST,72.2,0.8249041541935823,https://leetcode.com/problems/split-bst
+MEDIUM,Increasing Triplet Subsequence,72.2,0.39218268906503184,https://leetcode.com/problems/increasing-triplet-subsequence
+MEDIUM,Longest Repeating Substring,72.2,0.626157323029817,https://leetcode.com/problems/longest-repeating-substring
+MEDIUM,Open the Lock,72.2,0.6053096658353411,https://leetcode.com/problems/open-the-lock
+MEDIUM,Number of Distinct Islands,72.2,0.6186561684073107,https://leetcode.com/problems/number-of-distinct-islands

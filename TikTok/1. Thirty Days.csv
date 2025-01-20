@@ -1,13 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Operations to Make Character Frequencies Equal,100.0,0.21519342179031956,https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal
-MEDIUM,Number of Islands,79.0,0.6112259968160371,https://leetcode.com/problems/number-of-islands
-MEDIUM,Longest Increasing Subsequence,72.4,0.5686113781315844,https://leetcode.com/problems/longest-increasing-subsequence
-EASY,Add Strings,63.2,0.5164190830223567,https://leetcode.com/problems/add-strings
-MEDIUM,Meeting Rooms II,63.2,0.5178400367429958,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Merge Intervals,63.2,0.4847551232559806,https://leetcode.com/problems/merge-intervals
-MEDIUM,Koko Eating Bananas,63.2,0.48695447816313936,https://leetcode.com/problems/koko-eating-bananas
-EASY,Reverse Linked List,63.2,0.7827322260144497,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,Unique Paths II,63.2,0.4254154850999715,https://leetcode.com/problems/unique-paths-ii
-HARD,Shortest Distance from All Buildings,63.2,0.43683609563682924,https://leetcode.com/problems/shortest-distance-from-all-buildings
-HARD,Maximum Spending After Buying Items,63.2,0.6120902906617193,https://leetcode.com/problems/maximum-spending-after-buying-items
-HARD,Minimum Window Substring,63.2,0.442918373343981,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Longest Increasing Subsequence,100.0,0.5692999936565157,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Reverse Linked List,86.4,0.7835414262277056,https://leetcode.com/problems/reverse-linked-list
+HARD,Minimum Window Substring,86.4,0.44366956852978456,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Number of Islands,75.7,0.6120951503032026,https://leetcode.com/problems/number-of-islands
+HARD,Shortest Distance from All Buildings,75.7,0.43710291957399927,https://leetcode.com/problems/shortest-distance-from-all-buildings
+HARD,Maximum Spending After Buying Items,75.7,0.6135812449474535,https://leetcode.com/problems/maximum-spending-after-buying-items
+MEDIUM,Partition Equal Subset Sum,75.7,0.4706591246984873,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,Furthest Building You Can Reach,75.7,0.5006008954275906,https://leetcode.com/problems/furthest-building-you-can-reach
+MEDIUM,Time Based Key-Value Store,75.7,0.49306827074911214,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Spiral Matrix,75.7,0.5243047186127466,https://leetcode.com/problems/spiral-matrix

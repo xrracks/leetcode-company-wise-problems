@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Group Anagrams,100.0,0.6997636632019115,https://leetcode.com/problems/group-anagrams
-MEDIUM,Combination Sum,88.0,0.7346539620621594,https://leetcode.com/problems/combination-sum
-HARD,Sliding Window Maximum,88.0,0.4709100503309253,https://leetcode.com/problems/sliding-window-maximum
-HARD,Block Placement Queries,88.0,0.15200444090459295,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Group Anagrams,100.0,0.7004739452151463,https://leetcode.com/problems/group-anagrams
+MEDIUM,Combination Sum,87.9,0.7356066136370781,https://leetcode.com/problems/combination-sum
+HARD,Sliding Window Maximum,87.9,0.47115775961929807,https://leetcode.com/problems/sliding-window-maximum
+HARD,Block Placement Queries,87.9,0.15387155357437676,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Valid Sudoku,87.9,0.6132875158628105,https://leetcode.com/problems/valid-sudoku

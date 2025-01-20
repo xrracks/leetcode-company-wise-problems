@@ -1,41 +1,41 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.35974215857627423,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Letter Combinations of a Phone Number,94.8,0.6258620514674972,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,Number of Islands,88.4,0.6112264717719592,https://leetcode.com/problems/number-of-islands
-EASY,Valid Parentheses,84.4,0.4153885479412001,https://leetcode.com/problems/valid-parentheses
-MEDIUM,LRU Cache,84.4,0.43978018245161965,https://leetcode.com/problems/lru-cache
-EASY,Find Winner on a Tic Tac Toe Game,84.4,0.5400904722591052,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
-EASY,Best Time to Buy and Sell Stock,79.7,0.5452642639041038,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Course Schedule II,79.7,0.5218095199336646,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Word Break,79.7,0.4764143149225976,https://leetcode.com/problems/word-break
-MEDIUM,Container With Most Water,79.7,0.5676693102634635,https://leetcode.com/problems/container-with-most-water
-MEDIUM,Top K Frequent Elements,79.7,0.637866140755038,https://leetcode.com/problems/top-k-frequent-elements
-EASY,Move Zeroes,74.0,0.6237766656560827,https://leetcode.com/problems/move-zeroes
-EASY,Decode the Message,74.0,0.8499136188457799,https://leetcode.com/problems/decode-the-message
-HARD,Reverse Nodes in k-Group,74.0,0.6142015189401484,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Subarray Sum Equals K,74.0,0.4459593865354447,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Generate Parentheses,74.0,0.7612848836091114,https://leetcode.com/problems/generate-parentheses
-MEDIUM,3Sum,74.0,0.36008958288395104,https://leetcode.com/problems/3sum
-EASY,Maximum Number of Balloons,74.0,0.5971613617758944,https://leetcode.com/problems/maximum-number-of-balloons
-MEDIUM,Serialize and Deserialize BST,66.6,0.5818155260436176,https://leetcode.com/problems/serialize-and-deserialize-bst
-HARD,Serialize and Deserialize Binary Tree,66.6,0.5802171044127329,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-MEDIUM,Design Bounded Blocking Queue,66.6,0.726989655900359,https://leetcode.com/problems/design-bounded-blocking-queue
-MEDIUM,Basic Calculator II,66.6,0.44895408364935213,https://leetcode.com/problems/basic-calculator-ii
-MEDIUM,Decode Ways,66.6,0.35864203770942155,https://leetcode.com/problems/decode-ways
-HARD,Merge k Sorted Lists,66.6,0.5516025177995229,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Reorganize String,66.6,0.5552020455865202,https://leetcode.com/problems/reorganize-string
-MEDIUM,Design Circular Queue,56.3,0.5214253336912658,https://leetcode.com/problems/design-circular-queue
-MEDIUM,Max Area of Island,56.3,0.7271220989228963,https://leetcode.com/problems/max-area-of-island
-EASY,Reverse Linked List,56.3,0.782732838817975,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,Consecutive Numbers,56.3,0.44902145236034113,https://leetcode.com/problems/consecutive-numbers
-MEDIUM,Flatten Nested List Iterator,56.3,0.6499953571955275,https://leetcode.com/problems/flatten-nested-list-iterator
-MEDIUM,Find Minimum in Rotated Sorted Array,56.3,0.5184053063080066,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
-MEDIUM,House Robber,56.3,0.5181555043088136,https://leetcode.com/problems/house-robber
-MEDIUM,Meeting Rooms II,56.3,0.517840795999009,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Maximal Network Rank,56.3,0.6526009567728311,https://leetcode.com/problems/maximal-network-rank
-MEDIUM,Top K Frequent Words,56.3,0.5872268892732343,https://leetcode.com/problems/top-k-frequent-words
-EASY,Intersection of Two Linked Lists,56.3,0.597363373569087,https://leetcode.com/problems/intersection-of-two-linked-lists
-MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,56.3,0.656861903027458,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
-MEDIUM,Simplify Path,56.3,0.45695933366519526,https://leetcode.com/problems/simplify-path
-MEDIUM,Group Anagrams,56.3,0.6997625533239765,https://leetcode.com/problems/group-anagrams
-MEDIUM,Combination Sum II,56.3,0.5689174364739298,https://leetcode.com/problems/combination-sum-ii
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36045662488836505,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Letter Combinations of a Phone Number,94.8,0.6268933902983228,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Valid Parentheses,88.4,0.41601033538827276,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Number of Islands,88.4,0.612095648040062,https://leetcode.com/problems/number-of-islands
+MEDIUM,LRU Cache,84.4,0.4406274093454164,https://leetcode.com/problems/lru-cache
+EASY,Find Winner on a Tic Tac Toe Game,84.4,0.5402814772834609,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+HARD,Reverse Nodes in k-Group,79.7,0.6153402709116622,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Container With Most Water,79.7,0.5685253440271034,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Top K Frequent Elements,79.7,0.6385665361290778,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Best Time to Buy and Sell Stock,79.7,0.5457835146955299,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Word Break,74.0,0.47690408825270325,https://leetcode.com/problems/word-break
+MEDIUM,Course Schedule II,74.0,0.522708013380178,https://leetcode.com/problems/course-schedule-ii
+EASY,Move Zeroes,74.0,0.624068088884336,https://leetcode.com/problems/move-zeroes
+EASY,Decode the Message,74.0,0.8499379019892178,https://leetcode.com/problems/decode-the-message
+MEDIUM,Subarray Sum Equals K,74.0,0.446649765574746,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Generate Parentheses,74.0,0.7621024392639216,https://leetcode.com/problems/generate-parentheses
+MEDIUM,3Sum,74.0,0.36092831997614555,https://leetcode.com/problems/3sum
+EASY,Maximum Number of Balloons,74.0,0.5971429251684484,https://leetcode.com/problems/maximum-number-of-balloons
+MEDIUM,Serialize and Deserialize BST,66.6,0.5820563833389774,https://leetcode.com/problems/serialize-and-deserialize-bst
+HARD,Serialize and Deserialize Binary Tree,66.6,0.5809249298710657,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Design Bounded Blocking Queue,66.6,0.727024687147467,https://leetcode.com/problems/design-bounded-blocking-queue
+MEDIUM,Basic Calculator II,66.6,0.4496697068938649,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Decode Ways,66.6,0.3591372130117027,https://leetcode.com/problems/decode-ways
+HARD,Merge k Sorted Lists,66.6,0.5529206885302528,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Reorganize String,66.6,0.5556514820645642,https://leetcode.com/problems/reorganize-string
+MEDIUM,Design Circular Queue,56.2,0.5218953471931714,https://leetcode.com/problems/design-circular-queue
+MEDIUM,Max Area of Island,56.2,0.7275355853876317,https://leetcode.com/problems/max-area-of-island
+EASY,Reverse Linked List,56.2,0.7835422890409696,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Consecutive Numbers,56.2,0.45004096409911926,https://leetcode.com/problems/consecutive-numbers
+MEDIUM,Flatten Nested List Iterator,56.2,0.6502409722231678,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Find Minimum in Rotated Sorted Array,56.2,0.5190308788464417,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,House Robber,56.2,0.5185579891008527,https://leetcode.com/problems/house-robber
+MEDIUM,Meeting Rooms II,56.2,0.5181634190506144,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Maximal Network Rank,56.2,0.6527597611786436,https://leetcode.com/problems/maximal-network-rank
+MEDIUM,Top K Frequent Words,56.2,0.5877623440787265,https://leetcode.com/problems/top-k-frequent-words
+EASY,Intersection of Two Linked Lists,56.2,0.598452079727132,https://leetcode.com/problems/intersection-of-two-linked-lists
+MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,56.2,0.6577033427753766,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+MEDIUM,Simplify Path,56.2,0.45877031074198166,https://leetcode.com/problems/simplify-path
+MEDIUM,Group Anagrams,56.2,0.7004732612767907,https://leetcode.com/problems/group-anagrams
+MEDIUM,Combination Sum II,56.2,0.5695209189273671,https://leetcode.com/problems/combination-sum-ii

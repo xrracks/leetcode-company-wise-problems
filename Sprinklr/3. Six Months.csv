@@ -1,17 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Maximum Score of Non-overlapping Intervals,100.0,0.29118370214260625,https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals
-HARD,Minimum Time to Revert Word to Initial State II,64.4,0.3486765365634813,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii
-MEDIUM,Minimum Time to Revert Word to Initial State I,64.4,0.41190560332979936,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i
-HARD,Create Components With Same Value,64.4,0.5333118348919703,https://leetcode.com/problems/create-components-with-same-value
-MEDIUM,Maximum Subarray Sum After One Operation,64.4,0.6558756054040277,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation
-HARD,Minimum Edge Weight Equilibrium Queries in a Tree,64.4,0.44255042290175667,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree
-MEDIUM,Apply Bitwise Operations to Make Strings Equal,64.4,0.41635865276797207,https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal
-HARD,Number of Great Partitions,64.4,0.32256860182938213,https://leetcode.com/problems/number-of-great-partitions
-HARD,Count the Number of Powerful Integers,64.4,0.26523839734517596,https://leetcode.com/problems/count-the-number-of-powerful-integers
-MEDIUM,Number of Same-End Substrings,64.4,0.6170384502494863,https://leetcode.com/problems/number-of-same-end-substrings
-HARD,Apply Operations on Array to Maximize Sum of Squares,64.4,0.4540409079570965,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares
-HARD,Maximize Score After N Operations,64.4,0.5782283421880082,https://leetcode.com/problems/maximize-score-after-n-operations
-MEDIUM,Choose Edges to Maximize Score in a Tree,64.4,0.5862900447812608,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree
-HARD,Closest Subsequence Sum,64.4,0.40640875341930444,https://leetcode.com/problems/closest-subsequence-sum
-MEDIUM,Next Greater Numerically Balanced Number,64.4,0.48870851606990906,https://leetcode.com/problems/next-greater-numerically-balanced-number
-HARD,First Missing Positive,64.4,0.403397430134546,https://leetcode.com/problems/first-missing-positive
+HARD,Maximum Score of Non-overlapping Intervals,100.0,0.31669473177772434,https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals
+HARD,Minimum Time to Revert Word to Initial State II,64.6,0.3491974008248524,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii
+MEDIUM,Minimum Time to Revert Word to Initial State I,64.6,0.4124711947818615,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i
+HARD,Create Components With Same Value,64.6,0.5304181295882541,https://leetcode.com/problems/create-components-with-same-value
+MEDIUM,Maximum Subarray Sum After One Operation,64.6,0.652690073250821,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation
+HARD,Minimum Edge Weight Equilibrium Queries in a Tree,64.6,0.4421412889061088,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree
+MEDIUM,Apply Bitwise Operations to Make Strings Equal,64.6,0.41663907284768215,https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal
+HARD,Number of Great Partitions,64.6,0.3222105393369619,https://leetcode.com/problems/number-of-great-partitions
+HARD,Count the Number of Powerful Integers,64.6,0.264392839864538,https://leetcode.com/problems/count-the-number-of-powerful-integers
+MEDIUM,Number of Same-End Substrings,64.6,0.6173480582169238,https://leetcode.com/problems/number-of-same-end-substrings
+HARD,Apply Operations on Array to Maximize Sum of Squares,64.6,0.4545850170966739,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares
+HARD,Maximize Score After N Operations,64.6,0.5781903388608508,https://leetcode.com/problems/maximize-score-after-n-operations
+MEDIUM,Choose Edges to Maximize Score in a Tree,64.6,0.5865022267899965,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree
+HARD,Closest Subsequence Sum,64.6,0.4073355326993984,https://leetcode.com/problems/closest-subsequence-sum
+MEDIUM,Next Greater Numerically Balanced Number,64.6,0.48963073722532824,https://leetcode.com/problems/next-greater-numerically-balanced-number

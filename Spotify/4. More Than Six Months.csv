@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3597432389108796,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Two Sum,94.9,0.5456849411531514,https://leetcode.com/problems/two-sum
-EASY,Moving Average from Data Stream,91.9,0.7934742943007406,https://leetcode.com/problems/moving-average-from-data-stream
-EASY,Valid Parentheses,79.2,0.4153888342969447,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Analyze User Website Visit Pattern,79.2,0.4300120133977231,https://leetcode.com/problems/analyze-user-website-visit-pattern
-EASY,Valid Palindrome,79.2,0.4959738139953543,https://leetcode.com/problems/valid-palindrome
-MEDIUM,Kth Largest Element in an Array,72.7,0.6738417336871368,https://leetcode.com/problems/kth-largest-element-in-an-array
-MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,63.5,0.563455942499296,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
-HARD,Find Median from Data Stream,63.5,0.5271720728456081,https://leetcode.com/problems/find-median-from-data-stream
-EASY,Valid Anagram,63.5,0.6581703400315726,https://leetcode.com/problems/valid-anagram
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3604582479157042,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Two Sum,94.9,0.5468063879455293,https://leetcode.com/problems/two-sum
+EASY,Moving Average from Data Stream,91.9,0.7938965593784684,https://leetcode.com/problems/moving-average-from-data-stream
+EASY,Valid Parentheses,79.2,0.41601127853970377,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Analyze User Website Visit Pattern,79.2,0.4305900565926709,https://leetcode.com/problems/analyze-user-website-visit-pattern
+EASY,Valid Palindrome,79.2,0.49718487202988226,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Kth Largest Element in an Array,72.7,0.6742764578143097,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,63.5,0.5634340937183954,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+HARD,Find Median from Data Stream,63.5,0.5275406856253686,https://leetcode.com/problems/find-median-from-data-stream
+EASY,Valid Anagram,63.5,0.6589735446792111,https://leetcode.com/problems/valid-anagram

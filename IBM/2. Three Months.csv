@@ -1,16 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Minimum Moves to Equal Array Elements,100.0,0.5737508132428,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
-EASY,Minimum Operations to Make Columns Strictly Increasing,97.8,0.729147675478578,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing
-EASY,Minimum Absolute Difference,89.4,0.7011629694144168,https://leetcode.com/problems/minimum-absolute-difference
-EASY,Maximum Units on a Truck,85.8,0.7394609490371842,https://leetcode.com/problems/maximum-units-on-a-truck
-EASY,Fizz Buzz,81.5,0.7356984637070724,https://leetcode.com/problems/fizz-buzz
-MEDIUM,Integer to Roman,81.5,0.6724932382686701,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Longest Substring Without Repeating Characters,76.3,0.35974192400589716,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Minimum Time to Type Word Using Special Typewriter,69.6,0.7612147465718949,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
-EASY,Valid Parentheses,69.6,0.4153885072041853,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Report Spam Message,69.6,0.4740764043176501,https://leetcode.com/problems/report-spam-message
-EASY,Two Sum,60.2,0.5456832076259376,https://leetcode.com/problems/two-sum
-MEDIUM,Longest Palindromic Substring,60.2,0.34984284558242057,https://leetcode.com/problems/longest-palindromic-substring
-EASY,Missing Number,60.2,0.6884039957297544,https://leetcode.com/problems/missing-number
-MEDIUM,Remove All Occurrences of a Substring,60.2,0.7830587341531741,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
-MEDIUM,Letter Combinations of a Phone Number,60.2,0.6258615191581349,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Minimum Operations to Make Columns Strictly Increasing,100.0,0.7308245829113587,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing
+EASY,Minimum Absolute Difference,91.6,0.7014719323634702,https://leetcode.com/problems/minimum-absolute-difference
+EASY,Maximum Units on a Truck,88.0,0.7396779290065301,https://leetcode.com/problems/maximum-units-on-a-truck
+MEDIUM,Integer to Roman,83.7,0.6736951941440882,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Longest Substring Without Repeating Characters,78.4,0.3604558618947009,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Largest Number After Digit Swaps by Parity,78.4,0.6291200428594041,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+EASY,Valid Parentheses,71.6,0.41600948106466396,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Report Spam Message,71.6,0.4742390700123855,https://leetcode.com/problems/report-spam-message
+MEDIUM,Count Ways to Group Overlapping Ranges,71.6,0.37132219029503427,https://leetcode.com/problems/count-ways-to-group-overlapping-ranges
+EASY,Fizz Buzz,62.1,0.7363859825057569,https://leetcode.com/problems/fizz-buzz
+EASY,Two Sum,62.1,0.5468040836561178,https://leetcode.com/problems/two-sum
+EASY,Minimum Time to Type Word Using Special Typewriter,62.1,0.7632943935771954,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
+MEDIUM,Remove All Occurrences of a Substring,62.1,0.7834168451254756,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
+MEDIUM,Letter Combinations of a Phone Number,62.1,0.6268934616995981,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Longest Consecutive Sequence,62.1,0.4750204573660121,https://leetcode.com/problems/longest-consecutive-sequence

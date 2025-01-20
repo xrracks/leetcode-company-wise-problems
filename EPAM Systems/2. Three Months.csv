@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.35974337744072366,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Longest Common Prefix,89.1,0.4447200024829835,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Maximum Difference Between Node and Ancestor,89.1,0.7806469192429524,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3604585618307986,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Longest Common Prefix,89.2,0.445616849766682,https://leetcode.com/problems/longest-common-prefix

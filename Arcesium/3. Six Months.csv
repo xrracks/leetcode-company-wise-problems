@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.2107670654468684,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference
-HARD,Find the Count of Monotonic Pairs I,87.4,0.45979554684217905,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i
-HARD,Cycle Length Queries in a Tree,77.3,0.5717051262196067,https://leetcode.com/problems/cycle-length-queries-in-a-tree
-MEDIUM,Number of People Aware of a Secret,77.3,0.4585265506781493,https://leetcode.com/problems/number-of-people-aware-of-a-secret
-MEDIUM,Count Collisions on a Road,77.3,0.4392222018839498,https://leetcode.com/problems/count-collisions-on-a-road
-MEDIUM,Maximize the Confusion of an Exam,77.3,0.6789345262301749,https://leetcode.com/problems/maximize-the-confusion-of-an-exam
-MEDIUM,Maximum Length of Subarray With Positive Product,77.3,0.443255727521304,https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.2111109113033262,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference
+HARD,Find the Count of Monotonic Pairs I,87.4,0.460184875821361,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i
+HARD,Cycle Length Queries in a Tree,77.4,0.5731931870492558,https://leetcode.com/problems/cycle-length-queries-in-a-tree
+MEDIUM,Number of People Aware of a Secret,77.4,0.4587299110625683,https://leetcode.com/problems/number-of-people-aware-of-a-secret
+MEDIUM,Count Collisions on a Road,77.4,0.43956504724101303,https://leetcode.com/problems/count-collisions-on-a-road
+MEDIUM,Maximize the Confusion of an Exam,77.4,0.6794036169314495,https://leetcode.com/problems/maximize-the-confusion-of-an-exam
+MEDIUM,Maximum Length of Subarray With Positive Product,77.4,0.44324383899836883,https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product

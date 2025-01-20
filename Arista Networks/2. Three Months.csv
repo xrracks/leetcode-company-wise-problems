@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Restore IP Addresses,100.0,0.5189696377026488,https://leetcode.com/problems/restore-ip-addresses
-EASY,Contains Duplicate II,88.0,0.47491376885851627,https://leetcode.com/problems/contains-duplicate-ii
-MEDIUM,Reverse Linked List II,78.4,0.4879129989824557,https://leetcode.com/problems/reverse-linked-list-ii
-HARD,Reverse Nodes in k-Group,78.4,0.6142023357097284,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Restore IP Addresses,100.0,0.5199282440031173,https://leetcode.com/problems/restore-ip-addresses
+EASY,Contains Duplicate II,87.9,0.4762099950812395,https://leetcode.com/problems/contains-duplicate-ii
+HARD,Reverse Nodes in k-Group,78.3,0.6153402712293722,https://leetcode.com/problems/reverse-nodes-in-k-group

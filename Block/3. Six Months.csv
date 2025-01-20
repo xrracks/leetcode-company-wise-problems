@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Walking Robot Simulation II,100.0,0.2661637931034483,https://leetcode.com/problems/walking-robot-simulation-ii
-MEDIUM,Count Nice Pairs in an Array,100.0,0.4853853866558363,https://leetcode.com/problems/count-nice-pairs-in-an-array
-MEDIUM,Number of Black Blocks,100.0,0.3679804957334417,https://leetcode.com/problems/number-of-black-blocks
-MEDIUM,Word Break,100.0,0.4764141121110546,https://leetcode.com/problems/word-break
-MEDIUM,Pancake Sorting,100.0,0.7094497414633804,https://leetcode.com/problems/pancake-sorting
-EASY,Available Captures for Rook,100.0,0.6989856773442494,https://leetcode.com/problems/available-captures-for-rook
-MEDIUM,Rotating the Box,100.0,0.7920106774323422,https://leetcode.com/problems/rotating-the-box
-HARD,Falling Squares,100.0,0.45703909751197647,https://leetcode.com/problems/falling-squares
-MEDIUM,Squirrel Simulation,100.0,0.5716121379855689,https://leetcode.com/problems/squirrel-simulation
+MEDIUM,Walking Robot Simulation II,100.0,0.2661023545436855,https://leetcode.com/problems/walking-robot-simulation-ii
+MEDIUM,Count Nice Pairs in an Array,100.0,0.48491646918683207,https://leetcode.com/problems/count-nice-pairs-in-an-array
+MEDIUM,Number of Black Blocks,100.0,0.3715719734992973,https://leetcode.com/problems/number-of-black-blocks
+MEDIUM,Word Break,100.0,0.476904122687654,https://leetcode.com/problems/word-break
+MEDIUM,Pancake Sorting,100.0,0.7097124064096285,https://leetcode.com/problems/pancake-sorting
+EASY,Available Captures for Rook,100.0,0.6993640850417616,https://leetcode.com/problems/available-captures-for-rook
+MEDIUM,Rotating the Box,100.0,0.7910352703474327,https://leetcode.com/problems/rotating-the-box
+HARD,Falling Squares,100.0,0.4572637083749903,https://leetcode.com/problems/falling-squares
+MEDIUM,Squirrel Simulation,100.0,0.57156236906317,https://leetcode.com/problems/squirrel-simulation

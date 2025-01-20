@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Reverse Linked List,100.0,0.7827330501605005,https://leetcode.com/problems/reverse-linked-list
+EASY,Reverse Linked List,100.0,0.7835427420434994,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Number of Islands,89.2,0.6120960426396002,https://leetcode.com/problems/number-of-islands
+MEDIUM,Leftmost Column with at Least a One,89.2,0.5480371332827882,https://leetcode.com/problems/leftmost-column-with-at-least-a-one

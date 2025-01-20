@@ -1,28 +1,26 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Walls and Gates,100.0,0.6228685071380634,https://leetcode.com/problems/walls-and-gates
-HARD,Longest Increasing Path in a Matrix,92.0,0.5462630552102105,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
-HARD,Binary Tree Maximum Path Sum,90.6,0.407119459249771,https://leetcode.com/problems/binary-tree-maximum-path-sum
-MEDIUM,Find K Closest Elements,85.6,0.48165652229431044,https://leetcode.com/problems/find-k-closest-elements
-HARD,Maximum Profit in Job Scheduling,83.6,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-HARD,Vertical Order Traversal of a Binary Tree,72.9,0.4979740998818544,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
-MEDIUM,Search Suggestions System,69.1,0.6506314564076575,https://leetcode.com/problems/search-suggestions-system
-MEDIUM,Koko Eating Bananas,69.1,0.4869548488932445,https://leetcode.com/problems/koko-eating-bananas
-EASY,Check if One String Swap Can Make Strings Equal,64.5,0.4603533278553821,https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal
-EASY,Buddy Strings,64.5,0.3338539108546169,https://leetcode.com/problems/buddy-strings
-MEDIUM,Most Profit Assigning Work,64.5,0.5585144659416259,https://leetcode.com/problems/most-profit-assigning-work
-HARD,Best Meeting Point,58.5,0.6113317701105422,https://leetcode.com/problems/best-meeting-point
-MEDIUM,Next Greater Element III,58.5,0.3435254180159141,https://leetcode.com/problems/next-greater-element-iii
-MEDIUM,Count Nodes With the Highest Score,58.5,0.5063522337880649,https://leetcode.com/problems/count-nodes-with-the-highest-score
-HARD,Shortest Distance from All Buildings,58.5,0.43683609563682924,https://leetcode.com/problems/shortest-distance-from-all-buildings
-EASY,Two Sum,58.5,0.5456831602298353,https://leetcode.com/problems/two-sum
-MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,58.5,0.821093304863005,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
-MEDIUM,Single-Threaded CPU,58.5,0.46006211828776317,https://leetcode.com/problems/single-threaded-cpu
-MEDIUM,Longest Common Subsequence,58.5,0.5786707840249089,https://leetcode.com/problems/longest-common-subsequence
-HARD,Basic Calculator,50.1,0.4444669239277701,https://leetcode.com/problems/basic-calculator
-MEDIUM,Jump Game II,50.1,0.4096367510080468,https://leetcode.com/problems/jump-game-ii
-MEDIUM,Number of Islands,50.1,0.6112260291537752,https://leetcode.com/problems/number-of-islands
-MEDIUM,Course Schedule II,50.1,0.5218087460511524,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Max Area of Island,50.1,0.7271220989228963,https://leetcode.com/problems/max-area-of-island
-MEDIUM,Ways to Make a Fair Array,50.1,0.6393695081076184,https://leetcode.com/problems/ways-to-make-a-fair-array
-EASY,Find Nearest Point That Has the Same X or Y Coordinate,50.1,0.690723577927047,https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate
-HARD,Serialize and Deserialize Binary Tree,50.1,0.5802165996393814,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Walls and Gates,100.0,0.6233819024291526,https://leetcode.com/problems/walls-and-gates
+HARD,Binary Tree Maximum Path Sum,90.8,0.40747184763608346,https://leetcode.com/problems/binary-tree-maximum-path-sum
+HARD,Longest Increasing Path in a Matrix,90.8,0.5469390364106631,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+HARD,Maximum Profit in Job Scheduling,87.3,0.5431849681573361,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Find K Closest Elements,87.3,0.48192841064758096,https://leetcode.com/problems/find-k-closest-elements
+MEDIUM,Search Suggestions System,74.4,0.6505752316310943,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Next Greater Element III,74.4,0.34353649138079057,https://leetcode.com/problems/next-greater-element-iii
+MEDIUM,Koko Eating Bananas,74.4,0.48715502662401244,https://leetcode.com/problems/koko-eating-bananas
+HARD,Vertical Order Traversal of a Binary Tree,70.5,0.49916728858910014,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+MEDIUM,Most Profit Assigning Work,65.8,0.558448854868683,https://leetcode.com/problems/most-profit-assigning-work
+EASY,Check if One String Swap Can Make Strings Equal,65.8,0.46041773182601453,https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal
+HARD,Best Meeting Point,59.7,0.6112822330044159,https://leetcode.com/problems/best-meeting-point
+MEDIUM,Count Nodes With the Highest Score,59.7,0.5074183499791258,https://leetcode.com/problems/count-nodes-with-the-highest-score
+MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,59.7,0.8211528067330708,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+EASY,Buddy Strings,59.7,0.3339787879560462,https://leetcode.com/problems/buddy-strings
+MEDIUM,Longest Common Subsequence,59.7,0.57880592383454,https://leetcode.com/problems/longest-common-subsequence
+MEDIUM,Max Area of Island,59.7,0.7275369253249023,https://leetcode.com/problems/max-area-of-island
+HARD,Basic Calculator,59.7,0.4451539372458467,https://leetcode.com/problems/basic-calculator
+HARD,Serialize and Deserialize Binary Tree,59.7,0.5809253744206535,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,01 Matrix,59.7,0.5021986826712208,https://leetcode.com/problems/01-matrix
+EASY,Two Sum,51.1,0.5468040243134453,https://leetcode.com/problems/two-sum
+MEDIUM,Ways to Make a Fair Array,51.1,0.6401914737173812,https://leetcode.com/problems/ways-to-make-a-fair-array
+MEDIUM,Number of Islands,51.1,0.6120953084280082,https://leetcode.com/problems/number-of-islands
+MEDIUM,Jump Game II,51.1,0.40989346502236623,https://leetcode.com/problems/jump-game-ii
+HARD,Shortest Distance from All Buildings,51.1,0.43710291957399927,https://leetcode.com/problems/shortest-distance-from-all-buildings

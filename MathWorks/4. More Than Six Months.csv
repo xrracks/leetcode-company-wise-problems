@@ -1,12 +1,1 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Count Subarrays With Fixed Bounds,100.0,0.6777196096629151,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
-MEDIUM,Maximum Number of Alloys,79.0,0.3877068557919622,https://leetcode.com/problems/maximum-number-of-alloys
-HARD,String Transformation,79.0,0.30123974588293345,https://leetcode.com/problems/string-transformation
-MEDIUM,Beautiful Arrangement,72.4,0.6440161750028295,https://leetcode.com/problems/beautiful-arrangement
-MEDIUM,Longest String Chain,72.4,0.6155310727229203,https://leetcode.com/problems/longest-string-chain
-HARD,Cherry Pickup,72.4,0.3742077405434563,https://leetcode.com/problems/cherry-pickup
-HARD,Sum of Distances in Tree,72.4,0.652757256565464,https://leetcode.com/problems/sum-of-distances-in-tree
-EASY,Two Sum,63.1,0.545684461546679,https://leetcode.com/problems/two-sum
-MEDIUM,Fraction to Recurring Decimal,63.1,0.25684346113847406,https://leetcode.com/problems/fraction-to-recurring-decimal
-HARD,Split Array Largest Sum,63.1,0.5702338536842604,https://leetcode.com/problems/split-array-largest-sum
-HARD,Remove Boxes,63.1,0.4810799988559334,https://leetcode.com/problems/remove-boxes

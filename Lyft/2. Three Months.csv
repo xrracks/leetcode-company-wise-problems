@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Time Based Key-Value Store,100.0,0.4930005414772509,https://leetcode.com/problems/time-based-key-value-store
-HARD,Minimum Window Substring,100.0,0.44291868575078525,https://leetcode.com/problems/minimum-window-substring
-HARD,Max Stack,100.0,0.4516542825373975,https://leetcode.com/problems/max-stack
-MEDIUM,Rotting Oranges,89.2,0.5557382754585278,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Longest Substring Without Repeating Characters,89.2,0.35974244828416346,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Time Based Key-Value Store,100.0,0.4930688429487239,https://leetcode.com/problems/time-based-key-value-store
+HARD,Max Stack,100.0,0.4515426061771214,https://leetcode.com/problems/max-stack
+MEDIUM,Rotting Oranges,89.9,0.5565957968574778,https://leetcode.com/problems/rotting-oranges

@@ -1,2 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Decode String,100.0,0.6039234511839118,https://leetcode.com/problems/decode-string
+MEDIUM,Multiply Strings,100.0,0.41563035334597265,https://leetcode.com/problems/multiply-strings
+MEDIUM,Decode String,81.4,0.6045202580611913,https://leetcode.com/problems/decode-string
+MEDIUM,Number of Islands,81.4,0.6120956913472477,https://leetcode.com/problems/number-of-islands
+MEDIUM,Word Subsets,81.4,0.5546759723943925,https://leetcode.com/problems/word-subsets
+MEDIUM,Longest Substring Without Repeating Characters,81.4,0.36045663348579704,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Interleaving String,81.4,0.41157456331199105,https://leetcode.com/problems/interleaving-string
+MEDIUM,Spiral Matrix,81.4,0.5243054298587932,https://leetcode.com/problems/spiral-matrix

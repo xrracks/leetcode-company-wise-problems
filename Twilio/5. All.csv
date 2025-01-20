@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximize Greatness of an Array,100.0,0.5839763106310214,https://leetcode.com/problems/maximize-greatness-of-an-array
-EASY,Univalued Binary Tree,93.3,0.7169164804856165,https://leetcode.com/problems/univalued-binary-tree
-EASY,Reformat Date,91.3,0.6701414983797587,https://leetcode.com/problems/reformat-date
-HARD,Text Justification,65.4,0.4632757542340024,https://leetcode.com/problems/text-justification
-MEDIUM,Letter Combinations of a Phone Number,56.8,0.6258632832311464,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-HARD,First Missing Positive,56.8,0.4033962533983748,https://leetcode.com/problems/first-missing-positive
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,56.8,0.780226432499045,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
-MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,56.8,0.36065437536357486,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
-MEDIUM,LRU Cache,56.8,0.4397817198849594,https://leetcode.com/problems/lru-cache
-MEDIUM,Group Anagrams,56.8,0.6997628830435636,https://leetcode.com/problems/group-anagrams
-MEDIUM,Top K Frequent Elements,56.8,0.6378667705861533,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Maximize Greatness of an Array,100.0,0.5847755879430275,https://leetcode.com/problems/maximize-greatness-of-an-array
+EASY,Univalued Binary Tree,93.3,0.7172466550668986,https://leetcode.com/problems/univalued-binary-tree
+EASY,Reformat Date,91.3,0.6707221824096367,https://leetcode.com/problems/reformat-date
+HARD,Text Justification,65.4,0.4646371530040859,https://leetcode.com/problems/text-justification
+MEDIUM,Letter Combinations of a Phone Number,56.8,0.6268956646059861,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+HARD,First Missing Positive,56.8,0.403916488762926,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,56.8,0.7804122269364158,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,56.8,0.36125327232848276,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
+MEDIUM,LRU Cache,56.8,0.4406269540320881,https://leetcode.com/problems/lru-cache
+MEDIUM,Group Anagrams,56.8,0.7004733370413944,https://leetcode.com/problems/group-anagrams
+MEDIUM,Top K Frequent Elements,56.8,0.6385658266938731,https://leetcode.com/problems/top-k-frequent-elements

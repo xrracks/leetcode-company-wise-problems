@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Valid Parentheses,100.0,0.4153885549047393,https://leetcode.com/problems/valid-parentheses
-EASY,Merge Sorted Array,91.9,0.5180370906742625,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,Sort Colors,91.9,0.6582512810812448,https://leetcode.com/problems/sort-colors
-HARD,Trapping Rain Water,80.5,0.6378160273607627,https://leetcode.com/problems/trapping-rain-water
-EASY,Climbing Stairs,80.5,0.5327836457786782,https://leetcode.com/problems/climbing-stairs
-MEDIUM,Subsets II,80.5,0.5856937078996864,https://leetcode.com/problems/subsets-ii
-HARD,Maximum Profit in Job Scheduling,80.5,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,Maximum Length of Pair Chain,80.5,0.6041156748469091,https://leetcode.com/problems/maximum-length-of-pair-chain
-EASY,Majority Element,80.5,0.6539916071492834,https://leetcode.com/problems/majority-element
-EASY,Merge Two Sorted Lists,80.5,0.6590074858523113,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Valid Parentheses,100.0,0.4160108648778384,https://leetcode.com/problems/valid-parentheses
+EASY,Merge Sorted Array,91.9,0.5190092830094024,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Sort Colors,91.9,0.6593352477721705,https://leetcode.com/problems/sort-colors
+HARD,Trapping Rain Water,80.4,0.6391099428055079,https://leetcode.com/problems/trapping-rain-water
+EASY,Climbing Stairs,80.4,0.5329284492384531,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Subsets II,80.4,0.5862736422372433,https://leetcode.com/problems/subsets-ii
+HARD,Maximum Profit in Job Scheduling,80.4,0.543183964069717,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Maximum Length of Pair Chain,80.4,0.6046051588623576,https://leetcode.com/problems/maximum-length-of-pair-chain
+EASY,Majority Element,80.4,0.6542307816743954,https://leetcode.com/problems/majority-element
+EASY,Merge Two Sorted Lists,80.4,0.6598118440947414,https://leetcode.com/problems/merge-two-sorted-lists

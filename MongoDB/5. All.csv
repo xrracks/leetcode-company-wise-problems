@@ -1,14 +1,14 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Insert Interval,100.0,0.4266964838019114,https://leetcode.com/problems/insert-interval
-EASY,Merge Two Binary Trees,94.1,0.7922291113309394,https://leetcode.com/problems/merge-two-binary-trees
-MEDIUM,LRU Cache,94.1,0.43978176591159096,https://leetcode.com/problems/lru-cache
-MEDIUM,Web Crawler Multithreaded,86.4,0.4957749541768927,https://leetcode.com/problems/web-crawler-multithreaded
-MEDIUM,Stock Price Fluctuation ,86.4,0.4860920543844331,https://leetcode.com/problems/stock-price-fluctuation
-HARD,Text Justification,86.4,0.4632757542340024,https://leetcode.com/problems/text-justification
-EASY,Two Sum,75.7,0.545685203372787,https://leetcode.com/problems/two-sum
-MEDIUM,Valid Sudoku,75.7,0.6123433868084935,https://leetcode.com/problems/valid-sudoku
-MEDIUM,Search in Rotated Sorted Array,75.7,0.42017062482362627,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Word Break,75.7,0.47641390930032285,https://leetcode.com/problems/word-break
-MEDIUM,Design Hit Counter,75.7,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
-HARD,Merge k Sorted Lists,75.7,0.5516041734145841,https://leetcode.com/problems/merge-k-sorted-lists
-HARD,Sliding Window Maximum,75.7,0.47090914683973234,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Insert Interval,100.0,0.4271862192976875,https://leetcode.com/problems/insert-interval
+EASY,Merge Two Binary Trees,94.1,0.7922761701301223,https://leetcode.com/problems/merge-two-binary-trees
+MEDIUM,Web Crawler Multithreaded,86.4,0.49538770874263266,https://leetcode.com/problems/web-crawler-multithreaded
+MEDIUM,LRU Cache,86.4,0.4406265138207526,https://leetcode.com/problems/lru-cache
+MEDIUM,Stock Price Fluctuation ,86.4,0.48628502113006733,https://leetcode.com/problems/stock-price-fluctuation
+HARD,Text Justification,86.4,0.4646356468178647,https://leetcode.com/problems/text-justification
+EASY,Two Sum,75.7,0.5468065972564163,https://leetcode.com/problems/two-sum
+MEDIUM,Valid Sudoku,75.7,0.6132875290672493,https://leetcode.com/problems/valid-sudoku
+MEDIUM,Search in Rotated Sorted Array,75.7,0.4207850696434407,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Word Break,75.7,0.4769040004572236,https://leetcode.com/problems/word-break
+MEDIUM,Design Hit Counter,75.7,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
+HARD,Merge k Sorted Lists,75.7,0.5529224043967516,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Sliding Window Maximum,75.7,0.47115642755000847,https://leetcode.com/problems/sliding-window-maximum

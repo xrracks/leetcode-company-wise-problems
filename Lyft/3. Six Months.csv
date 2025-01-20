@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Time Based Key-Value Store,100.0,0.4930005414772509,https://leetcode.com/problems/time-based-key-value-store
-HARD,Minimum Window Substring,93.4,0.44291868575078525,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Rotting Oranges,93.4,0.5557382754585278,https://leetcode.com/problems/rotting-oranges
-HARD,Read N Characters Given read4 II - Call Multiple Times,93.4,0.42671991713912893,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
-HARD,Max Stack,84.0,0.4516542825373975,https://leetcode.com/problems/max-stack
-MEDIUM,Longest Substring Without Repeating Characters,77.3,0.3597424823472542,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Car Pooling,68.0,0.5596343576749677,https://leetcode.com/problems/car-pooling
-MEDIUM,String Compression,68.0,0.5672150657441337,https://leetcode.com/problems/string-compression
-HARD,Smallest Range Covering Elements from K Lists,68.0,0.6979953163827749,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
-HARD,Word Ladder II,68.0,0.2711557872610537,https://leetcode.com/problems/word-ladder-ii
-MEDIUM,Longest Consecutive Sequence,68.0,0.4763411024905075,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Time Based Key-Value Store,100.0,0.4930688429487239,https://leetcode.com/problems/time-based-key-value-store
+HARD,Minimum Window Substring,96.3,0.44367043914196513,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Rotting Oranges,96.3,0.5565957968574778,https://leetcode.com/problems/rotting-oranges
+HARD,Read N Characters Given read4 II - Call Multiple Times,92.0,0.4269159511974695,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+HARD,Max Stack,86.7,0.4515426061771214,https://leetcode.com/problems/max-stack
+MEDIUM,Longest Consecutive Sequence,79.8,0.47501897646583385,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Longest Substring Without Repeating Characters,79.8,0.3604567723278235,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Car Pooling,70.2,0.5595888988067381,https://leetcode.com/problems/car-pooling
+MEDIUM,String Compression,70.2,0.5683449081888164,https://leetcode.com/problems/string-compression
+HARD,Smallest Range Covering Elements from K Lists,70.2,0.6978134921711758,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+HARD,Word Ladder II,70.2,0.2710964010913618,https://leetcode.com/problems/word-ladder-ii

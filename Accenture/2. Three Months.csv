@@ -1,14 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Smallest Divisible Digit Product I,100.0,0.6514156385905743,https://leetcode.com/problems/smallest-divisible-digit-product-i
-HARD,Smallest Divisible Digit Product II,100.0,0.09036068870177201,https://leetcode.com/problems/smallest-divisible-digit-product-ii
-HARD,Shortest Palindrome,78.7,0.40056341043063987,https://leetcode.com/problems/shortest-palindrome
-MEDIUM,Letter Combinations of a Phone Number,72.0,0.6258620514674972,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,Reverse Words in a String,72.0,0.4864467850354332,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,Bulb Switcher,62.6,0.5351330657118452,https://leetcode.com/problems/bulb-switcher
-MEDIUM,Maximum Width Ramp,62.6,0.5553599235287769,https://leetcode.com/problems/maximum-width-ramp
-EASY,Maximum Number of Balls in a Box,62.6,0.7373937677053825,https://leetcode.com/problems/maximum-number-of-balls-in-a-box
-MEDIUM,Maximum Subarray,62.6,0.5151961637997274,https://leetcode.com/problems/maximum-subarray
-EASY,Single Number,62.6,0.7487550150928055,https://leetcode.com/problems/single-number
-MEDIUM,Longest Substring Without Repeating Characters,62.6,0.359742203348441,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Search Insert Position,62.6,0.47908866018097135,https://leetcode.com/problems/search-insert-position
-EASY,Contains Duplicate II,62.6,0.47491309177500474,https://leetcode.com/problems/contains-duplicate-ii
+EASY,Smallest Divisible Digit Product I,100.0,0.6513333042377689,https://leetcode.com/problems/smallest-divisible-digit-product-i
+HARD,Smallest Divisible Digit Product II,100.0,0.09259791798470123,https://leetcode.com/problems/smallest-divisible-digit-product-ii
+HARD,Shortest Palindrome,72.4,0.40100832572556266,https://leetcode.com/problems/shortest-palindrome
+MEDIUM,Maximum Subarray,72.4,0.5156270879456241,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Reverse Words in a String,63.1,0.48960057227233067,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Longest Substring Without Repeating Characters,63.1,0.36045669430940985,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Search Insert Position,63.1,0.47999403549569125,https://leetcode.com/problems/search-insert-position
+EASY,Contains Duplicate II,63.1,0.4762093860361587,https://leetcode.com/problems/contains-duplicate-ii
+EASY,Reverse String,63.1,0.7936755074264874,https://leetcode.com/problems/reverse-string

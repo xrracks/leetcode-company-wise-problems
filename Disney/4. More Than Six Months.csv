@@ -1,11 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Max Area of Island,100.0,0.7271233793937095,https://leetcode.com/problems/max-area-of-island
-MEDIUM,Number of Islands,88.0,0.6112280368842108,https://leetcode.com/problems/number-of-islands
-EASY,Valid Anagram,88.0,0.658171219496687,https://leetcode.com/problems/valid-anagram
-MEDIUM,Search in Rotated Sorted Array,88.0,0.42017085999444165,https://leetcode.com/problems/search-in-rotated-sorted-array
-EASY,Valid Parentheses,88.0,0.41538978655320613,https://leetcode.com/problems/valid-parentheses
-EASY,Valid Word Abbreviation,88.0,0.36471098097283305,https://leetcode.com/problems/valid-word-abbreviation
-MEDIUM,Egg Drop With 2 Eggs and N Floors,88.0,0.7337469800131783,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors
-EASY,Ransom Note,88.0,0.6343718391703413,https://leetcode.com/problems/ransom-note
-MEDIUM,Merge Intervals,88.0,0.48475793431668796,https://leetcode.com/problems/merge-intervals
-EASY,Climbing Stairs,88.0,0.532783436729476,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Max Area of Island,100.0,0.7275357176770573,https://leetcode.com/problems/max-area-of-island
+MEDIUM,Number of Islands,88.0,0.6120970930761523,https://leetcode.com/problems/number-of-islands
+EASY,Valid Anagram,88.0,0.6589752892538239,https://leetcode.com/problems/valid-anagram
+MEDIUM,Search in Rotated Sorted Array,88.0,0.4207856132036662,https://leetcode.com/problems/search-in-rotated-sorted-array
+EASY,Valid Parentheses,88.0,0.41601220247224047,https://leetcode.com/problems/valid-parentheses
+EASY,Valid Word Abbreviation,88.0,0.36521790346418365,https://leetcode.com/problems/valid-word-abbreviation
+MEDIUM,Egg Drop With 2 Eggs and N Floors,88.0,0.7342284448576664,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors
+EASY,Ransom Note,88.0,0.6355379487143519,https://leetcode.com/problems/ransom-note
+MEDIUM,Merge Intervals,88.0,0.4854563133862117,https://leetcode.com/problems/merge-intervals
+EASY,Climbing Stairs,88.0,0.5329289935702222,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Reverse Linked List II,88.0,0.4883999495649981,https://leetcode.com/problems/reverse-linked-list-ii

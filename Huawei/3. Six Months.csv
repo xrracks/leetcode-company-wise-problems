@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Generate Parentheses,100.0,0.7612861589288633,https://leetcode.com/problems/generate-parentheses
-MEDIUM,Longest Palindromic Substring,100.0,0.3498429152223755,https://leetcode.com/problems/longest-palindromic-substring
-HARD,Minimum Number of Visited Cells in a Grid,88.9,0.23402573665621063,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid
-MEDIUM,Maximum Binary String After Change,88.9,0.469250947245701,https://leetcode.com/problems/maximum-binary-string-after-change
-MEDIUM,Decode String,88.9,0.6039233163498977,https://leetcode.com/problems/decode-string
-EASY,Merge Two Sorted Lists,88.9,0.6590074361518758,https://leetcode.com/problems/merge-two-sorted-lists
-MEDIUM,Number of Islands,88.9,0.6112267522977448,https://leetcode.com/problems/number-of-islands
+MEDIUM,Generate Parentheses,100.0,0.762103615832581,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Longest Palindromic Substring,92.6,0.3504775671388265,https://leetcode.com/problems/longest-palindromic-substring
+HARD,Minimum Number of Visited Cells in a Grid,82.1,0.23364097040319223,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid
+MEDIUM,Maximum Binary String After Change,82.1,0.46950651020736217,https://leetcode.com/problems/maximum-binary-string-after-change
+MEDIUM,Decode String,82.1,0.6045193299981834,https://leetcode.com/problems/decode-string
+EASY,Merge Two Sorted Lists,82.1,0.6598118846670945,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Number of Islands,82.1,0.6120962873747173,https://leetcode.com/problems/number-of-islands

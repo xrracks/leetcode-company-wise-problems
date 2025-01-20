@@ -1,27 +1,27 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Delete and Earn,100.0,0.565821770650791,https://leetcode.com/problems/delete-and-earn
-HARD,Minimum Initial Energy to Finish Tasks,100.0,0.5858711856156257,https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks
-HARD,Number of Different Subsequences GCDs,97.6,0.4141883010187315,https://leetcode.com/problems/number-of-different-subsequences-gcds
-HARD,Dice Roll Simulation,97.6,0.4971213327616831,https://leetcode.com/problems/dice-roll-simulation
-HARD,Constrained Subsequence Sum,97.6,0.5650677134716349,https://leetcode.com/problems/constrained-subsequence-sum
-HARD,Create Sorted Array through Instructions,97.6,0.39562874337092785,https://leetcode.com/problems/create-sorted-array-through-instructions
-MEDIUM,Network Delay Time,97.6,0.5593208368058988,https://leetcode.com/problems/network-delay-time
-HARD,Cherry Pickup,97.6,0.3742077405434563,https://leetcode.com/problems/cherry-pickup
-MEDIUM,Can Make Palindrome from Substring,97.6,0.3974909598840776,https://leetcode.com/problems/can-make-palindrome-from-substring
-HARD,Minimum Number of Taps to Open to Water a Garden,97.6,0.5068628230041827,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
-MEDIUM,Reduce Array Size to The Half,97.6,0.6900628594356025,https://leetcode.com/problems/reduce-array-size-to-the-half
-MEDIUM,Map Sum Pairs,97.6,0.5691766361717101,https://leetcode.com/problems/map-sum-pairs
-EASY,Increasing Decreasing String,97.6,0.7664558044110105,https://leetcode.com/problems/increasing-decreasing-string
-MEDIUM,Number of Operations to Make Network Connected,97.6,0.6382005660636135,https://leetcode.com/problems/number-of-operations-to-make-network-connected
-MEDIUM,Count and Say,92.1,0.5735455684709283,https://leetcode.com/problems/count-and-say
-MEDIUM,Number of Islands,67.6,0.6112279075392251,https://leetcode.com/problems/number-of-islands
-MEDIUM,Maximum Star Sum of a Graph,67.6,0.40266222961730447,https://leetcode.com/problems/maximum-star-sum-of-a-graph
-EASY,Valid Parentheses,67.6,0.41538893789794,https://leetcode.com/problems/valid-parentheses
-HARD,Max Points on a Line,67.6,0.2806532321368333,https://leetcode.com/problems/max-points-on-a-line
-MEDIUM,Minimum Processing Time,67.6,0.6938238170465658,https://leetcode.com/problems/minimum-processing-time
-HARD,Distance to a Cycle in Undirected Graph,57.6,0.7341158458790509,https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph
-EASY,Flood Fill,57.6,0.6546433423426844,https://leetcode.com/problems/flood-fill
-MEDIUM,Binary Tree Right Side View,57.6,0.6474092627018976,https://leetcode.com/problems/binary-tree-right-side-view
-MEDIUM,Palindromic Substrings,57.6,0.7102989803027911,https://leetcode.com/problems/palindromic-substrings
-EASY,Sort Array by Increasing Frequency,57.6,0.7999222052084162,https://leetcode.com/problems/sort-array-by-increasing-frequency
-HARD,Maximum Profit in Job Scheduling,57.6,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Delete and Earn,100.0,0.5660279647850854,https://leetcode.com/problems/delete-and-earn
+HARD,Minimum Initial Energy to Finish Tasks,100.0,0.5864796072965275,https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks
+HARD,Number of Different Subsequences GCDs,97.6,0.41285976729944884,https://leetcode.com/problems/number-of-different-subsequences-gcds
+HARD,Dice Roll Simulation,97.6,0.49738515254547394,https://leetcode.com/problems/dice-roll-simulation
+HARD,Constrained Subsequence Sum,97.6,0.5645479207444799,https://leetcode.com/problems/constrained-subsequence-sum
+HARD,Create Sorted Array through Instructions,97.6,0.3958247180116075,https://leetcode.com/problems/create-sorted-array-through-instructions
+MEDIUM,Network Delay Time,97.6,0.5603735992131214,https://leetcode.com/problems/network-delay-time
+HARD,Cherry Pickup,97.6,0.37427317654363457,https://leetcode.com/problems/cherry-pickup
+MEDIUM,Can Make Palindrome from Substring,97.6,0.39750690724190263,https://leetcode.com/problems/can-make-palindrome-from-substring
+HARD,Minimum Number of Taps to Open to Water a Garden,97.6,0.5069482445782092,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Reduce Array Size to The Half,97.6,0.6899559826596336,https://leetcode.com/problems/reduce-array-size-to-the-half
+MEDIUM,Map Sum Pairs,97.6,0.5691166828694807,https://leetcode.com/problems/map-sum-pairs
+EASY,Increasing Decreasing String,97.6,0.7668596211401638,https://leetcode.com/problems/increasing-decreasing-string
+MEDIUM,Number of Operations to Make Network Connected,97.6,0.6387689505942203,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Count and Say,92.1,0.574640930584824,https://leetcode.com/problems/count-and-say
+MEDIUM,Number of Islands,67.6,0.6120968084654286,https://leetcode.com/problems/number-of-islands
+MEDIUM,Maximum Star Sum of a Graph,67.6,0.40356372945297764,https://leetcode.com/problems/maximum-star-sum-of-a-graph
+EASY,Valid Parentheses,67.6,0.41601157450196297,https://leetcode.com/problems/valid-parentheses
+HARD,Max Points on a Line,67.6,0.2813969620581937,https://leetcode.com/problems/max-points-on-a-line
+MEDIUM,Minimum Processing Time,67.6,0.6942264573991033,https://leetcode.com/problems/minimum-processing-time
+HARD,Distance to a Cycle in Undirected Graph,57.6,0.7341435624762628,https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph
+EASY,Flood Fill,57.6,0.655353874737855,https://leetcode.com/problems/flood-fill
+MEDIUM,Binary Tree Right Side View,57.6,0.6492539868994762,https://leetcode.com/problems/binary-tree-right-side-view
+MEDIUM,Palindromic Substrings,57.6,0.7108296446302986,https://leetcode.com/problems/palindromic-substrings
+EASY,Sort Array by Increasing Frequency,57.6,0.800181041369589,https://leetcode.com/problems/sort-array-by-increasing-frequency
+HARD,Maximum Profit in Job Scheduling,57.6,0.5431813650826561,https://leetcode.com/problems/maximum-profit-in-job-scheduling

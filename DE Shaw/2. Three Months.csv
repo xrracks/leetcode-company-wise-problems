@@ -1,8 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximum Points Tourist Can Earn,100.0,0.4904792606920266,https://leetcode.com/problems/maximum-points-tourist-can-earn
-MEDIUM,Minimize Connected Groups by Inserting Interval,97.9,0.5694564279551337,https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval
-HARD,Minimum Runes to Add to Cast Spell,97.9,0.5231560891938251,https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell
-HARD,Binary Tree Cameras,62.3,0.469059455343243,https://leetcode.com/problems/binary-tree-cameras
-MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,62.3,0.5179201786614798,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted
-HARD,Consecutive Numbers Sum,62.3,0.4193446277920756,https://leetcode.com/problems/consecutive-numbers-sum
-HARD,Minimum Number of Taps to Open to Water a Garden,62.3,0.506861041780295,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+HARD,Minimum Runes to Add to Cast Spell,100.0,0.5,https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell
+HARD,Binary Tree Cameras,73.9,0.46914724697805477,https://leetcode.com/problems/binary-tree-cameras
+HARD,Consecutive Numbers Sum,65.1,0.41942863417580206,https://leetcode.com/problems/consecutive-numbers-sum
+HARD,Minimum Number of Taps to Open to Water a Garden,65.1,0.506953719871114,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden

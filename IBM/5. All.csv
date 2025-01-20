@@ -1,101 +1,101 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Exclusive Time of Functions,100.0,0.63588808830138,https://leetcode.com/problems/exclusive-time-of-functions
-MEDIUM,Integer to Roman,89.6,0.6724932382686701,https://leetcode.com/problems/integer-to-roman
-EASY,Fizz Buzz,88.5,0.7356984637070724,https://leetcode.com/problems/fizz-buzz
-EASY,Best Time to Buy and Sell Stock,87.3,0.5452635587821477,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Roman to Integer,87.3,0.6361650233916358,https://leetcode.com/problems/roman-to-integer
-EASY,Two Sum,84.8,0.545683220247402,https://leetcode.com/problems/two-sum
-MEDIUM,Number of Divisible Triplet Sums,81.9,0.6427406199021207,https://leetcode.com/problems/number-of-divisible-triplet-sums
-EASY,Minimum Absolute Difference,81.9,0.7011629694144168,https://leetcode.com/problems/minimum-absolute-difference
-MEDIUM,Meeting Rooms II,81.9,0.5178402898285993,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Rotate Image,76.8,0.7669476465694077,https://leetcode.com/problems/rotate-image
-MEDIUM,Minimum Operations to Make All Array Elements Equal,76.8,0.3639932788315507,https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal
-MEDIUM,Minimum Operations to Make Median of Array Equal to K,76.8,0.4797256515775034,https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k
-EASY,Valid Parentheses,74.8,0.4153885072041853,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Activity Participants,74.8,0.7231368059530624,https://leetcode.com/problems/activity-participants
-EASY,Find the Array Concatenation Value,74.8,0.7055605496340054,https://leetcode.com/problems/find-the-array-concatenation-value
-MEDIUM,Maximum Profitable Triplets With Increasing Prices I,74.8,0.5581210191082803,https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i
-MEDIUM,Minimum Levels to Gain More Points,72.6,0.39991457372287714,https://leetcode.com/problems/minimum-levels-to-gain-more-points
-MEDIUM,Find Occurrences of an Element in an Array,72.6,0.7321106867478562,https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array
-HARD,Maximum Profitable Triplets With Increasing Prices II,72.6,0.456427955133736,https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii
-EASY,Type of Triangle,72.6,0.38339437514359465,https://leetcode.com/problems/type-of-triangle
-EASY,Average Value of Even Numbers That Are Divisible by Three,72.6,0.6115958750991562,https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three
-MEDIUM,Taking Maximum Energy From the Mystic Dungeon,72.6,0.4081554068408753,https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon
-MEDIUM,The kth Factor of n,72.6,0.6890391403097764,https://leetcode.com/problems/the-kth-factor-of-n
-MEDIUM,Sort the Students by Their Kth Score,72.6,0.8560341202619091,https://leetcode.com/problems/sort-the-students-by-their-kth-score
-MEDIUM,Find The First Player to win K Games in a Row,72.6,0.39395087376267873,https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row
-HARD,Find Products of Elements of Big Array,72.6,0.22376374987612724,https://leetcode.com/problems/find-products-of-elements-of-big-array
-MEDIUM,Minimum Length of String After Operations,72.6,0.5478425026968716,https://leetcode.com/problems/minimum-length-of-string-after-operations
-HARD,Count the Number of Incremovable Subarrays II,72.6,0.3988223660553757,https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii
-EASY,Maximum Units on a Truck,70.2,0.7394609490371842,https://leetcode.com/problems/maximum-units-on-a-truck
-MEDIUM,String Compression,70.2,0.5672144884218164,https://leetcode.com/problems/string-compression
-EASY,Longest Common Prefix,70.2,0.4447190060157024,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Longest Substring Without Repeating Characters,70.2,0.35974193893000866,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Count Binary Substrings,67.5,0.6573900252379216,https://leetcode.com/problems/count-binary-substrings
-MEDIUM,Letter Combinations of a Phone Number,67.5,0.6258613520058308,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,Get Equal Substrings Within Budget,67.5,0.5854344419888746,https://leetcode.com/problems/get-equal-substrings-within-budget
-MEDIUM,Minimum Suffix Flips,64.4,0.733980851251211,https://leetcode.com/problems/minimum-suffix-flips
-HARD,Numbers With Repeated Digits,64.4,0.4276333422674886,https://leetcode.com/problems/numbers-with-repeated-digits
-MEDIUM,Maximum Sum of Distinct Subarrays With Length K,64.4,0.42837108327431883,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
-EASY,Merge Sorted Array,64.4,0.5180356790278805,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,Lexicographically Smallest String After Substring Operation,60.9,0.32270725740690404,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
-MEDIUM,Number of Divisible Substrings,56.8,0.7365250475586557,https://leetcode.com/problems/number-of-divisible-substrings
-EASY,Count Pairs Of Similar Strings,56.8,0.7171576944830068,https://leetcode.com/problems/count-pairs-of-similar-strings
-MEDIUM,Longest Palindromic Substring,56.8,0.34984291000350365,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Shortest and Lexicographically Smallest Beautiful String,56.8,0.3951127765574077,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
-MEDIUM,Divide Players Into Teams of Equal Skill,51.7,0.6897346955777547,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
-MEDIUM,Count Ways to Group Overlapping Ranges,51.7,0.3697700024467825,https://leetcode.com/problems/count-ways-to-group-overlapping-ranges
-MEDIUM,Validate Binary Search Tree,51.7,0.33764788872484225,https://leetcode.com/problems/validate-binary-search-tree
-MEDIUM,Product of Array Except Self,51.7,0.6713951327454722,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Smallest Missing Non-negative Integer After Operations,51.7,0.39542999399853296,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
-MEDIUM,Find The Original Array of Prefix Xor,51.7,0.8802914337795251,https://leetcode.com/problems/find-the-original-array-of-prefix-xor
-MEDIUM,Longest Consecutive Sequence,51.7,0.4763405982461466,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Subarray Product Less Than K,51.7,0.5216856344843862,https://leetcode.com/problems/subarray-product-less-than-k
-MEDIUM,Subarray Sum Equals K,45.2,0.4459580699414255,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Maximum Subarray,45.2,0.5151959743274421,https://leetcode.com/problems/maximum-subarray
-EASY,Backspace String Compare,45.2,0.49343738797121034,https://leetcode.com/problems/backspace-string-compare
-EASY,Intersection of Two Arrays,45.2,0.7572260106539129,https://leetcode.com/problems/intersection-of-two-arrays
-MEDIUM,Single-Threaded CPU,45.2,0.46006211828776317,https://leetcode.com/problems/single-threaded-cpu
-HARD,Trapping Rain Water,45.2,0.6378150452531621,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Number of Operations to Make Network Connected,45.2,0.6382012553208998,https://leetcode.com/problems/number-of-operations-to-make-network-connected
-EASY,Climbing Stairs,45.2,0.532783569636165,https://leetcode.com/problems/climbing-stairs
-HARD,Merge k Sorted Lists,45.2,0.5516027006155346,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Next Permutation,45.2,0.4188306679693526,https://leetcode.com/problems/next-permutation
-EASY,Find the Index of the First Occurrence in a String,45.2,0.44113988653777514,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
-MEDIUM,Count Vowel Strings in Ranges,45.2,0.6820913722410548,https://leetcode.com/problems/count-vowel-strings-in-ranges
-MEDIUM,Longest Increasing Subsequence,45.2,0.5686115474063062,https://leetcode.com/problems/longest-increasing-subsequence
-MEDIUM,Spiral Matrix,45.2,0.523048002877333,https://leetcode.com/problems/spiral-matrix
-EASY,Flipping an Image,45.2,0.8261335206074705,https://leetcode.com/problems/flipping-an-image
-MEDIUM,Rotate Array,45.2,0.42103975402439064,https://leetcode.com/problems/rotate-array
-HARD,Median of Two Sorted Arrays,45.2,0.4236992514224023,https://leetcode.com/problems/median-of-two-sorted-arrays
-MEDIUM,Merge Intervals,45.2,0.4847554991051325,https://leetcode.com/problems/merge-intervals
-MEDIUM,LRU Cache,45.2,0.4397791356700012,https://leetcode.com/problems/lru-cache
-MEDIUM,Flip String to Monotone Increasing,45.2,0.6155374786420028,https://leetcode.com/problems/flip-string-to-monotone-increasing
-MEDIUM,Minimum Number of Flips to Make the Binary String Alternating,36.1,0.40331362484568906,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating
-HARD,Find All Possible Stable Binary Arrays II,36.1,0.26815818496927685,https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii
-MEDIUM,Minimum Swaps to Group All 1's Together II,36.1,0.6553756298300472,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
-MEDIUM,Generate Parentheses,36.1,0.7612845756748805,https://leetcode.com/problems/generate-parentheses
-MEDIUM,Rearrange Array to Maximize Prefix Score,36.1,0.4115380623735146,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score
-HARD,N-Queens,36.1,0.7099636716938348,https://leetcode.com/problems/n-queens
-EASY,Palindrome Number,36.1,0.5822327279518452,https://leetcode.com/problems/palindrome-number
-MEDIUM,Find Minimum in Rotated Sorted Array,36.1,0.5184058510149611,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
-MEDIUM,Increasing Triplet Subsequence,36.1,0.39244167302206345,https://leetcode.com/problems/increasing-triplet-subsequence
-MEDIUM,Word Break,36.1,0.4764144222245887,https://leetcode.com/problems/word-break
-MEDIUM,Subsets,36.1,0.7986289200591394,https://leetcode.com/problems/subsets
-EASY,Happy Number,36.1,0.5727289089331387,https://leetcode.com/problems/happy-number
-MEDIUM,Find Longest Calls,36.1,0.6254826254826255,https://leetcode.com/problems/find-longest-calls
-MEDIUM,Find the Duplicate Number,36.1,0.6204385773245555,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,Partition Equal Subset Sum,36.1,0.4702869829335731,https://leetcode.com/problems/partition-equal-subset-sum
-MEDIUM,132 Pattern,36.1,0.33795304330548837,https://leetcode.com/problems/132-pattern
-MEDIUM,Add Two Numbers,36.1,0.4493695694863362,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Maximal Square,36.1,0.47897302530635044,https://leetcode.com/problems/maximal-square
-MEDIUM,Range Product Queries of Powers,36.1,0.4124377878040839,https://leetcode.com/problems/range-product-queries-of-powers
-MEDIUM,Count Number of Teams,36.1,0.7009328806541255,https://leetcode.com/problems/count-number-of-teams
-EASY,Majority Element,36.1,0.6539911372234684,https://leetcode.com/problems/majority-element
-MEDIUM,Least Number of Unique Integers after K Removals,36.1,0.6322408256318486,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
-MEDIUM,Task Scheduler,36.1,0.6075148809523809,https://leetcode.com/problems/task-scheduler
-MEDIUM,Minimum Operations to Reduce an Integer to 0,36.1,0.5628462306024843,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
-EASY,Prime In Diagonal,36.1,0.3524539172064969,https://leetcode.com/problems/prime-in-diagonal
-MEDIUM,Group Anagrams,36.1,0.699762286154963,https://leetcode.com/problems/group-anagrams
-EASY,Degree of an Array,36.1,0.5699902867726395,https://leetcode.com/problems/degree-of-an-array
-EASY,The Employee That Worked on the Longest Task,36.1,0.5043022175009959,https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task
+MEDIUM,Exclusive Time of Functions,100.0,0.6367789089010703,https://leetcode.com/problems/exclusive-time-of-functions
+MEDIUM,Integer to Roman,89.6,0.6736951941440882,https://leetcode.com/problems/integer-to-roman
+EASY,Fizz Buzz,88.5,0.7363859825057569,https://leetcode.com/problems/fizz-buzz
+EASY,Roman to Integer,87.3,0.6373313125063368,https://leetcode.com/problems/roman-to-integer
+EASY,Best Time to Buy and Sell Stock,87.3,0.5457833274345565,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Two Sum,83.4,0.5468040960684,https://leetcode.com/problems/two-sum
+EASY,Minimum Absolute Difference,81.9,0.7014719323634702,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Meeting Rooms II,81.9,0.5181631673232779,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Number of Divisible Triplet Sums,81.9,0.6425576519916143,https://leetcode.com/problems/number-of-divisible-triplet-sums
+MEDIUM,Rotate Image,76.7,0.7679935544269757,https://leetcode.com/problems/rotate-image
+MEDIUM,Minimum Operations to Make Median of Array Equal to K,76.7,0.4798290287377228,https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k
+MEDIUM,Minimum Operations to Make All Array Elements Equal,76.7,0.36476001154253107,https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal
+MEDIUM,Activity Participants,74.7,0.7235488653210173,https://leetcode.com/problems/activity-participants
+EASY,Find the Array Concatenation Value,74.7,0.7061829395723425,https://leetcode.com/problems/find-the-array-concatenation-value
+MEDIUM,Maximum Profitable Triplets With Increasing Prices I,74.7,0.5543056633048875,https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i
+EASY,Valid Parentheses,74.7,0.4160094936718361,https://leetcode.com/problems/valid-parentheses
+MEDIUM,The kth Factor of n,72.6,0.6898560593608378,https://leetcode.com/problems/the-kth-factor-of-n
+HARD,Maximum Profitable Triplets With Increasing Prices II,72.6,0.4557069846678024,https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii
+MEDIUM,Find Occurrences of an Element in an Array,72.6,0.7326379649832365,https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array
+MEDIUM,Taking Maximum Energy From the Mystic Dungeon,72.6,0.408717975862799,https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon
+MEDIUM,Minimum Levels to Gain More Points,72.6,0.400336774786114,https://leetcode.com/problems/minimum-levels-to-gain-more-points
+EASY,Type of Triangle,72.6,0.38372674368221416,https://leetcode.com/problems/type-of-triangle
+EASY,Average Value of Even Numbers That Are Divisible by Three,72.6,0.6117570425362946,https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three
+MEDIUM,Sort the Students by Their Kth Score,72.6,0.8562405225012238,https://leetcode.com/problems/sort-the-students-by-their-kth-score
+HARD,Find Products of Elements of Big Array,72.6,0.22343780800315396,https://leetcode.com/problems/find-products-of-elements-of-big-array
+MEDIUM,Minimum Length of String After Operations,72.6,0.7524477423974912,https://leetcode.com/problems/minimum-length-of-string-after-operations
+MEDIUM,Find The First Player to win K Games in a Row,72.6,0.39412051125989045,https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row
+HARD,Count the Number of Incremovable Subarrays II,72.6,0.3992767211358157,https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii
+MEDIUM,String Compression,70.1,0.5683430516703462,https://leetcode.com/problems/string-compression
+MEDIUM,Longest Substring Without Repeating Characters,70.1,0.36045592946834204,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Maximum Units on a Truck,70.1,0.7396779290065301,https://leetcode.com/problems/maximum-units-on-a-truck
+EASY,Longest Common Prefix,70.1,0.4456151514403801,https://leetcode.com/problems/longest-common-prefix
+EASY,Count Binary Substrings,67.4,0.6574163018836694,https://leetcode.com/problems/count-binary-substrings
+MEDIUM,Letter Combinations of a Phone Number,67.4,0.6268934616995981,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Get Equal Substrings Within Budget,67.4,0.5860313249324014,https://leetcode.com/problems/get-equal-substrings-within-budget
+MEDIUM,Minimum Suffix Flips,64.4,0.7341240486966989,https://leetcode.com/problems/minimum-suffix-flips
+EASY,Merge Sorted Array,64.4,0.5190069499846385,https://leetcode.com/problems/merge-sorted-array
+HARD,Numbers With Repeated Digits,64.4,0.4280273502750618,https://leetcode.com/problems/numbers-with-repeated-digits
+MEDIUM,Count Ways to Group Overlapping Ranges,64.4,0.37132219029503427,https://leetcode.com/problems/count-ways-to-group-overlapping-ranges
+MEDIUM,Maximum Sum of Distinct Subarrays With Length K,64.4,0.42820567966540674,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+MEDIUM,Lexicographically Smallest String After Substring Operation,60.8,0.3234359235834626,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
+MEDIUM,Number of Divisible Substrings,56.7,0.7364341085271318,https://leetcode.com/problems/number-of-divisible-substrings
+EASY,Count Pairs Of Similar Strings,56.7,0.718358256442889,https://leetcode.com/problems/count-pairs-of-similar-strings
+MEDIUM,Longest Palindromic Substring,56.7,0.3504763981588621,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Longest Consecutive Sequence,56.7,0.4750203579525561,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,56.7,0.3953860896179865,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
+MEDIUM,Validate Binary Search Tree,51.6,0.3380904948160822,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,Smallest Missing Non-negative Integer After Operations,51.6,0.39617395909181174,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
+MEDIUM,Find The Original Array of Prefix Xor,51.6,0.8804186331061004,https://leetcode.com/problems/find-the-original-array-of-prefix-xor
+MEDIUM,Product of Array Except Self,51.6,0.6720158756801279,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Subarray Product Less Than K,51.6,0.5221941512687742,https://leetcode.com/problems/subarray-product-less-than-k
+MEDIUM,Merge Intervals,51.6,0.4854565671751092,https://leetcode.com/problems/merge-intervals
+MEDIUM,Divide Players Into Teams of Equal Skill,51.6,0.689806124106256,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
+HARD,Merge k Sorted Lists,45.1,0.55292004507692,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Single-Threaded CPU,45.1,0.45961074485577735,https://leetcode.com/problems/single-threaded-cpu
+EASY,Backspace String Compare,45.1,0.49354576222049945,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Maximum Subarray,45.1,0.5156266082911528,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Count Vowel Strings in Ranges,45.1,0.6802464752436692,https://leetcode.com/problems/count-vowel-strings-in-ranges
+EASY,Climbing Stairs,45.1,0.5329293426012751,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Number of Operations to Make Network Connected,45.1,0.6387750658194271,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Subsets,45.1,0.7994382661712258,https://leetcode.com/problems/subsets
+MEDIUM,Next Permutation,45.1,0.4196813365721105,https://leetcode.com/problems/next-permutation
+HARD,Trapping Rain Water,45.1,0.639106634398673,https://leetcode.com/problems/trapping-rain-water
+EASY,Intersection of Two Arrays,45.1,0.757841687380219,https://leetcode.com/problems/intersection-of-two-arrays
+MEDIUM,Find Minimum in Rotated Sorted Array,45.1,0.5190303755995493,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+EASY,Find the Index of the First Occurrence in a String,45.1,0.4419041741964188,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+MEDIUM,Spiral Matrix,45.1,0.5243060510137313,https://leetcode.com/problems/spiral-matrix
+EASY,Flipping an Image,45.1,0.8265161781033895,https://leetcode.com/problems/flipping-an-image
+MEDIUM,Rotate Array,45.1,0.42181209244990436,https://leetcode.com/problems/rotate-array
+HARD,Median of Two Sorted Arrays,45.1,0.4247990270547279,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Flip String to Monotone Increasing,45.1,0.6158400182161132,https://leetcode.com/problems/flip-string-to-monotone-increasing
+MEDIUM,Longest Increasing Subsequence,45.1,0.5692998748449849,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Subarray Sum Equals K,45.1,0.44664966029783026,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Palindrome Number,36.0,0.5831333721513123,https://leetcode.com/problems/palindrome-number
+MEDIUM,Generate Parentheses,36.0,0.7621018182357718,https://leetcode.com/problems/generate-parentheses
+HARD,N-Queens,36.0,0.7111791881450068,https://leetcode.com/problems/n-queens
+MEDIUM,Rearrange Array to Maximize Prefix Score,36.0,0.4120174997096287,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score
+MEDIUM,Minimum Number of Flips to Make the Binary String Alternating,36.0,0.4040379313010539,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating
+MEDIUM,Minimum Swaps to Group All 1's Together II,36.0,0.6554507824331146,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
+HARD,Find All Possible Stable Binary Arrays II,36.0,0.2680484943292921,https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii
+MEDIUM,Word Break,36.0,0.4769039123534231,https://leetcode.com/problems/word-break
+EASY,Happy Number,36.0,0.5733799653122513,https://leetcode.com/problems/happy-number
+MEDIUM,Maximal Square,36.0,0.4795492325403397,https://leetcode.com/problems/maximal-square
+MEDIUM,Find Longest Calls,36.0,0.6208316179497736,https://leetcode.com/problems/find-longest-calls
+MEDIUM,Partition Equal Subset Sum,36.0,0.4706594803529976,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,Find the Duplicate Number,36.0,0.6211181009284465,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,132 Pattern,36.0,0.3379618035152103,https://leetcode.com/problems/132-pattern
+MEDIUM,Add Two Numbers,36.0,0.45044679822331146,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Range Product Queries of Powers,36.0,0.4135966841873712,https://leetcode.com/problems/range-product-queries-of-powers
+MEDIUM,Count Number of Teams,36.0,0.7008119733011127,https://leetcode.com/problems/count-number-of-teams
+MEDIUM,Least Number of Unique Integers after K Removals,36.0,0.6321777543092806,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+EASY,Degree of an Array,36.0,0.570402575469192,https://leetcode.com/problems/degree-of-an-array
+EASY,Majority Element,36.0,0.654232133999309,https://leetcode.com/problems/majority-element
+MEDIUM,Task Scheduler,36.0,0.6080405305564733,https://leetcode.com/problems/task-scheduler
+MEDIUM,LRU Cache,36.0,0.44062681329691705,https://leetcode.com/problems/lru-cache
+MEDIUM,Minimum Operations to Reduce an Integer to 0,36.0,0.5634320700506226,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
+EASY,Prime In Diagonal,36.0,0.35368276487372996,https://leetcode.com/problems/prime-in-diagonal
+MEDIUM,Group Anagrams,36.0,0.7004726727547534,https://leetcode.com/problems/group-anagrams
+MEDIUM,Increasing Triplet Subsequence,36.0,0.3921860871157846,https://leetcode.com/problems/increasing-triplet-subsequence
+EASY,The Employee That Worked on the Longest Task,36.0,0.5051663389593423,https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task

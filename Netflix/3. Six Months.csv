@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Meeting Rooms II,100.0,0.517840795999009,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Merge Intervals,87.1,0.48475613742340373,https://leetcode.com/problems/merge-intervals
-EASY,Summary Ranges,87.1,0.5224315991862934,https://leetcode.com/problems/summary-ranges
-EASY,Logger Rate Limiter,80.4,0.7625936052134716,https://leetcode.com/problems/logger-rate-limiter
-HARD,First Missing Positive,80.4,0.4033943163004326,https://leetcode.com/problems/first-missing-positive
-MEDIUM,LRU Cache,71.1,0.43978018245161965,https://leetcode.com/problems/lru-cache
+MEDIUM,Meeting Rooms II,100.0,0.5181634190506144,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Merge Intervals,87.1,0.4854560538552939,https://leetcode.com/problems/merge-intervals
+EASY,Summary Ranges,87.1,0.5231200260225402,https://leetcode.com/problems/summary-ranges
+EASY,Logger Rate Limiter,80.4,0.7628058154346203,https://leetcode.com/problems/logger-rate-limiter
+HARD,First Missing Positive,80.4,0.40391634754353384,https://leetcode.com/problems/first-missing-positive
+MEDIUM,LRU Cache,71.1,0.4406273547692645,https://leetcode.com/problems/lru-cache

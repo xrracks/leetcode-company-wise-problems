@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Integer to Roman,100.0,0.6724962372537239,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Valid Sudoku,87.1,0.6123432819129065,https://leetcode.com/problems/valid-sudoku
-HARD,First Missing Positive,71.1,0.4033975447835923,https://leetcode.com/problems/first-missing-positive
-HARD,Count of Smaller Numbers After Self,71.1,0.4266832182870327,https://leetcode.com/problems/count-of-smaller-numbers-after-self
-MEDIUM,Rotate Array,71.1,0.4210425292504837,https://leetcode.com/problems/rotate-array
-MEDIUM,Path with Maximum Gold,71.1,0.6806181775919563,https://leetcode.com/problems/path-with-maximum-gold
-MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,71.1,0.6143436800940516,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
-MEDIUM,Boundary of Binary Tree,71.1,0.46476830484532156,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Integer to Roman,100.0,0.6736980543067302,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Valid Sudoku,87.0,0.6132863163628225,https://leetcode.com/problems/valid-sudoku
+HARD,First Missing Positive,71.0,0.4039185936237652,https://leetcode.com/problems/first-missing-positive
+HARD,Count of Smaller Numbers After Self,71.0,0.42667131824820437,https://leetcode.com/problems/count-of-smaller-numbers-after-self
+MEDIUM,Rotate Array,71.0,0.42181575987337333,https://leetcode.com/problems/rotate-array
+MEDIUM,Path with Maximum Gold,71.0,0.6806452475697715,https://leetcode.com/problems/path-with-maximum-gold
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,71.0,0.6143394197597742,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
+MEDIUM,Boundary of Binary Tree,71.0,0.4656287133808023,https://leetcode.com/problems/boundary-of-binary-tree

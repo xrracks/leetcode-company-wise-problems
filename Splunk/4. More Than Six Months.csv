@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Koko Eating Bananas,100.0,0.48695317146164124,https://leetcode.com/problems/koko-eating-bananas
-MEDIUM,Group Anagrams,100.0,0.6997629441362002,https://leetcode.com/problems/group-anagrams
-MEDIUM,Min Stack,88.0,0.5555556492435165,https://leetcode.com/problems/min-stack
-MEDIUM,Decode String,88.0,0.6039238302333305,https://leetcode.com/problems/decode-string
-MEDIUM,Number of Distinct Islands,88.0,0.6186028104818212,https://leetcode.com/problems/number-of-distinct-islands
+MEDIUM,Koko Eating Bananas,100.0,0.48715449061416566,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Group Anagrams,100.0,0.7004728909800515,https://leetcode.com/problems/group-anagrams
+MEDIUM,Min Stack,88.0,0.5561974081346174,https://leetcode.com/problems/min-stack
+MEDIUM,Decode String,88.0,0.6045200942824364,https://leetcode.com/problems/decode-string
+MEDIUM,Number of Distinct Islands,88.0,0.6186561684073107,https://leetcode.com/problems/number-of-distinct-islands

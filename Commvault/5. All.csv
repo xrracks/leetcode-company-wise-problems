@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Count Vowel Substrings of a String,100.0,0.6929325059286292,https://leetcode.com/problems/count-vowel-substrings-of-a-string
-MEDIUM,Decode Ways,95.5,0.3586432953677389,https://leetcode.com/problems/decode-ways
-MEDIUM,Reach a Number,92.9,0.43547160428824244,https://leetcode.com/problems/reach-a-number
-MEDIUM,Longest Increasing Subsequence,86.5,0.5686143966487037,https://leetcode.com/problems/longest-increasing-subsequence
-MEDIUM,Number of Longest Increasing Subsequence,82.5,0.49144561175385154,https://leetcode.com/problems/number-of-longest-increasing-subsequence
-HARD,Reverse Nodes in k-Group,77.5,0.6142047774601879,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Count Unreachable Pairs of Nodes in an Undirected Graph,77.5,0.49228599005122875,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph
-MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,62.1,0.4360319101787561,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating
-MEDIUM,Rotating the Box,62.1,0.7920106774323422,https://leetcode.com/problems/rotating-the-box
-MEDIUM,Longest Palindromic Substring,62.1,0.34984326770486374,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Find Peak Element,62.1,0.4624650842729735,https://leetcode.com/problems/find-peak-element
+EASY,Count Vowel Substrings of a String,100.0,0.6943077807213043,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+MEDIUM,Decode Ways,95.5,0.3591394549424322,https://leetcode.com/problems/decode-ways
+MEDIUM,Reach a Number,92.9,0.43580906302144434,https://leetcode.com/problems/reach-a-number
+MEDIUM,Longest Increasing Subsequence,86.5,0.5693004761253007,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Number of Longest Increasing Subsequence,82.5,0.49192455566832455,https://leetcode.com/problems/number-of-longest-increasing-subsequence
+HARD,Reverse Nodes in k-Group,77.5,0.6153412892352833,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Count Unreachable Pairs of Nodes in an Undirected Graph,77.5,0.4924632271471554,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph
+MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,62.1,0.43616146185258087,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating
+MEDIUM,Rotating the Box,62.1,0.7910352703474327,https://leetcode.com/problems/rotating-the-box
+MEDIUM,Longest Palindromic Substring,62.1,0.3504779909262439,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Find Peak Element,62.1,0.4626231294123329,https://leetcode.com/problems/find-peak-element

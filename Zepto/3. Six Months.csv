@@ -1,15 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Merge Intervals,100.0,0.48475805286283913,https://leetcode.com/problems/merge-intervals
-MEDIUM,Koko Eating Bananas,91.9,0.48695401024836504,https://leetcode.com/problems/koko-eating-bananas
-MEDIUM,Longest Consecutive Sequence,91.9,0.47633997683255574,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Minimum Cost For Tickets,91.9,0.6741643541668048,https://leetcode.com/problems/minimum-cost-for-tickets
-EASY,Find the Distance Value Between Two Arrays,80.4,0.6948584314407548,https://leetcode.com/problems/find-the-distance-value-between-two-arrays
-HARD,Make Array Empty,80.4,0.2524666156332398,https://leetcode.com/problems/make-array-empty
-MEDIUM,Count Sub Islands,80.4,0.7280939110741833,https://leetcode.com/problems/count-sub-islands
-MEDIUM,Search in Rotated Sorted Array,80.4,0.4201718311903022,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Unique Paths II,80.4,0.4254166889205216,https://leetcode.com/problems/unique-paths-ii
-MEDIUM,Longest Repeating Character Replacement,80.4,0.5599282621057696,https://leetcode.com/problems/longest-repeating-character-replacement
-MEDIUM,Find Peak Element,80.4,0.4624652506313068,https://leetcode.com/problems/find-peak-element
-MEDIUM,Maximum Width Ramp,80.4,0.5553592407241242,https://leetcode.com/problems/maximum-width-ramp
-MEDIUM,Divide Two Integers,80.4,0.1799273700817997,https://leetcode.com/problems/divide-two-integers
-MEDIUM,Rotting Oranges,80.4,0.5557400548774875,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Longest Univalue Path,100.0,0.4219439449570919,https://leetcode.com/problems/longest-univalue-path
+MEDIUM,Merge Intervals,94.0,0.485457540766359,https://leetcode.com/problems/merge-intervals
+MEDIUM,Koko Eating Bananas,86.3,0.4871551760695556,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Longest Consecutive Sequence,86.3,0.47501424104341955,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Minimum Cost For Tickets,86.3,0.674167099015558,https://leetcode.com/problems/minimum-cost-for-tickets
+MEDIUM,Find Peak Element,86.3,0.4626228573007873,https://leetcode.com/problems/find-peak-element
+EASY,Find the Distance Value Between Two Arrays,75.5,0.6958296150871557,https://leetcode.com/problems/find-the-distance-value-between-two-arrays
+HARD,Make Array Empty,75.5,0.2533648868510575,https://leetcode.com/problems/make-array-empty
+MEDIUM,Count Sub Islands,75.5,0.7282433971314641,https://leetcode.com/problems/count-sub-islands
+MEDIUM,Search in Rotated Sorted Array,75.5,0.42078589834106295,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Unique Paths II,75.5,0.4259035679453056,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Longest Repeating Character Replacement,75.5,0.5608932904743094,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Maximum Width Ramp,75.5,0.5554573330754993,https://leetcode.com/problems/maximum-width-ramp
+MEDIUM,Divide Two Integers,75.5,0.18011837682457038,https://leetcode.com/problems/divide-two-integers
+MEDIUM,Rotting Oranges,75.5,0.5565967416698725,https://leetcode.com/problems/rotting-oranges

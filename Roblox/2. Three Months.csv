@@ -1,10 +1,1 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Task Scheduler,100.0,0.6075155371931227,https://leetcode.com/problems/task-scheduler
-MEDIUM,Maximize Distance to Closest Person,96.9,0.48552935108964645,https://leetcode.com/problems/maximize-distance-to-closest-person
-MEDIUM,Reorganize String,93.4,0.5552020455865202,https://leetcode.com/problems/reorganize-string
-MEDIUM,Design Hit Counter,84.1,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
-HARD,Integer to English Words,77.5,0.34172421038619005,https://leetcode.com/problems/integer-to-english-words
-MEDIUM,Rotate Image,68.2,0.7669481396654567,https://leetcode.com/problems/rotate-image
-HARD,Subarrays with K Different Integers,68.2,0.6475431420395695,https://leetcode.com/problems/subarrays-with-k-different-integers
-EASY,Valid Parentheses,68.2,0.41538857821344394,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Longest Substring Without Repeating Characters,68.2,0.3597420946649905,https://leetcode.com/problems/longest-substring-without-repeating-characters

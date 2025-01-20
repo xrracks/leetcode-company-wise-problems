@@ -1,13 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Find the Index of the First Occurrence in a String,100.0,0.44113935766149687,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
-EASY,Palindrome Number,100.0,0.5822327097999119,https://leetcode.com/problems/palindrome-number
-EASY,Two Sum,87.1,0.5456830149516421,https://leetcode.com/problems/two-sum
-MEDIUM,K-diff Pairs in an Array,87.1,0.4391632380456205,https://leetcode.com/problems/k-diff-pairs-in-an-array
-MEDIUM,3Sum,87.1,0.3600888480908331,https://leetcode.com/problems/3sum
-EASY,Valid Parentheses,87.1,0.41538852467116927,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Reverse Words in a String,87.1,0.48644614949828013,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,Maximum Sum of Distinct Subarrays With Length K,87.1,0.42837108327431883,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
-MEDIUM,Subarray Sum Equals K,87.1,0.445958038600034,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Unique Paths,87.1,0.651854440457584,https://leetcode.com/problems/unique-paths
-EASY,Valid Palindrome,87.1,0.49597136719718016,https://leetcode.com/problems/valid-palindrome
-EASY,Majority Element,87.1,0.6539912386801353,https://leetcode.com/problems/majority-element
+EASY,Zigzag Grid Traversal With Skip,100.0,0.6264393870704507,https://leetcode.com/problems/zigzag-grid-traversal-with-skip
+EASY,Palindrome Number,78.6,0.5831333294663725,https://leetcode.com/problems/palindrome-number
+EASY,Find the Index of the First Occurrence in a String,71.9,0.4419042184615133,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+EASY,Majority Element,71.9,0.6542322084677389,https://leetcode.com/problems/majority-element
+EASY,Two Sum,62.5,0.5468039374273372,https://leetcode.com/problems/two-sum
+MEDIUM,3Sum,62.5,0.3609276739515293,https://leetcode.com/problems/3sum
+EASY,Valid Parentheses,62.5,0.4160094738732607,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Maximum Sum of Distinct Subarrays With Length K,62.5,0.42820306315293344,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+MEDIUM,Subarray Sum Equals K,62.5,0.4466488728768351,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Unique Paths,62.5,0.652271801567689,https://leetcode.com/problems/unique-paths
+EASY,Valid Palindrome,62.5,0.49718250811289666,https://leetcode.com/problems/valid-palindrome
+EASY,Running Sum of 1d Array,62.5,0.869248829472081,https://leetcode.com/problems/running-sum-of-1d-array

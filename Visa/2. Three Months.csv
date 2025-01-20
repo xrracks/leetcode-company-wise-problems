@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Trapping Rain Water,100.0,0.6378148838713318,https://leetcode.com/problems/trapping-rain-water
-EASY,Two Sum,81.4,0.5456836056827106,https://leetcode.com/problems/two-sum
-MEDIUM,Rotating the Box,81.4,0.7920106774323422,https://leetcode.com/problems/rotating-the-box
-MEDIUM,LRU Cache,81.4,0.4397797378133028,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,100.0,0.546804482898145,https://leetcode.com/problems/two-sum
+HARD,Trapping Rain Water,100.0,0.6391068358772355,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,LRU Cache,100.0,0.44062681329691705,https://leetcode.com/problems/lru-cache
+MEDIUM,Rotating the Box,81.0,0.7910341230406017,https://leetcode.com/problems/rotating-the-box
+EASY,Valid Parentheses,81.0,0.41601012648575714,https://leetcode.com/problems/valid-parentheses

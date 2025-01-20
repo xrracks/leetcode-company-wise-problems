@@ -1,25 +1,31 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Trapping Rain Water,100.0,0.6378144954056015,https://leetcode.com/problems/trapping-rain-water
-EASY,High Five,85.5,0.7444723398240572,https://leetcode.com/problems/high-five
-EASY,First Unique Character in a String,78.8,0.6296193862459657,https://leetcode.com/problems/first-unique-character-in-a-string
-MEDIUM,Fraction to Recurring Decimal,76.0,0.25684346113847406,https://leetcode.com/problems/fraction-to-recurring-decimal
-MEDIUM,Decode Ways,64.3,0.35864181673321727,https://leetcode.com/problems/decode-ways
-MEDIUM,Robot Bounded In Circle,64.3,0.5604165403708719,https://leetcode.com/problems/robot-bounded-in-circle
-EASY,Design HashMap,64.3,0.6561979461638405,https://leetcode.com/problems/design-hashmap
-MEDIUM,Find the Winner of the Circular Game,58.3,0.8193028500586892,https://leetcode.com/problems/find-the-winner-of-the-circular-game
-EASY,Backspace String Compare,58.3,0.4934371085884282,https://leetcode.com/problems/backspace-string-compare
-MEDIUM,Palindromic Substrings,58.3,0.7102990810770861,https://leetcode.com/problems/palindromic-substrings
-MEDIUM,Group Anagrams,58.3,0.6997623065189625,https://leetcode.com/problems/group-anagrams
-MEDIUM,String to Integer (atoi),58.3,0.18419985372835834,https://leetcode.com/problems/string-to-integer-atoi
-HARD,Median of Two Sorted Arrays,58.3,0.42369869027978296,https://leetcode.com/problems/median-of-two-sorted-arrays
-MEDIUM,Longest Substring Without Repeating Characters,58.3,0.35974138514426585,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Open the Lock,58.3,0.6051160318866253,https://leetcode.com/problems/open-the-lock
-EASY,Two Sum,58.3,0.5456827401061671,https://leetcode.com/problems/two-sum
-MEDIUM,Kth Largest Element in an Array,58.3,0.6738410481008086,https://leetcode.com/problems/kth-largest-element-in-an-array
-EASY,Minimum Value to Get Positive Step by Step Sum,58.3,0.6500190650793223,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
-HARD,Sliding Window Maximum,49.9,0.47090576442150506,https://leetcode.com/problems/sliding-window-maximum
-MEDIUM,Maximum Sum Circular Subarray,49.9,0.46420360451079473,https://leetcode.com/problems/maximum-sum-circular-subarray
-MEDIUM,Maximum Subarray,49.9,0.5151959364662207,https://leetcode.com/problems/maximum-subarray
-MEDIUM,Longest Palindromic Substring,49.9,0.3498424342062239,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Merge Intervals,49.9,0.4847548814927024,https://leetcode.com/problems/merge-intervals
-MEDIUM,Construct Smallest Number From DI String,49.9,0.7629823919320077,https://leetcode.com/problems/construct-smallest-number-from-di-string
+HARD,Trapping Rain Water,100.0,0.6391050074471679,https://leetcode.com/problems/trapping-rain-water
+EASY,High Five,85.5,0.7444491301350148,https://leetcode.com/problems/high-five
+EASY,First Unique Character in a String,79.5,0.6301566751952941,https://leetcode.com/problems/first-unique-character-in-a-string
+MEDIUM,Fraction to Recurring Decimal,67.3,0.2572144951222389,https://leetcode.com/problems/fraction-to-recurring-decimal
+MEDIUM,Robot Bounded In Circle,67.3,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle
+MEDIUM,Longest Substring Without Repeating Characters,62.6,0.36045554796921764,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Design HashMap,62.6,0.6563047181191721,https://leetcode.com/problems/design-hashmap
+EASY,Two Sum,62.6,0.5468037944294455,https://leetcode.com/problems/two-sum
+HARD,Median of Two Sorted Arrays,62.6,0.4247985636641918,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Group Anagrams,56.6,0.7004721245196645,https://leetcode.com/problems/group-anagrams
+MEDIUM,Kth Largest Element in an Array,56.6,0.674274688150647,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Merge Intervals,56.6,0.48545728802259924,https://leetcode.com/problems/merge-intervals
+MEDIUM,String to Integer (atoi),56.6,0.18477587779014,https://leetcode.com/problems/string-to-integer-atoi
+EASY,Minimum Value to Get Positive Step by Step Sum,56.6,0.6498229681266569,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
+MEDIUM,Palindromic Substrings,56.6,0.7108307592062486,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Decode Ways,56.6,0.35913809246600775,https://leetcode.com/problems/decode-ways
+MEDIUM,Find the Winner of the Circular Game,56.6,0.8194868485935811,https://leetcode.com/problems/find-the-winner-of-the-circular-game
+EASY,Best Time to Buy and Sell Stock,56.6,0.5457831051589838,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Best Time to Buy and Sell Stock II,48.2,0.6850363573607936,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Top K Frequent Elements,48.2,0.6385665482184751,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Spiral Matrix II,48.2,0.7267694288633685,https://leetcode.com/problems/spiral-matrix-ii
+EASY,Third Maximum Number,48.2,0.3635572202022731,https://leetcode.com/problems/third-maximum-number
+MEDIUM,Find Peak Element,48.2,0.4626278033139167,https://leetcode.com/problems/find-peak-element
+MEDIUM,Open the Lock,48.2,0.6053096658353411,https://leetcode.com/problems/open-the-lock
+MEDIUM,Number of Islands,48.2,0.612095300167789,https://leetcode.com/problems/number-of-islands
+HARD,Sliding Window Maximum,48.2,0.4711559760271694,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Maximum Sum Circular Subarray,48.2,0.46529553310629923,https://leetcode.com/problems/maximum-sum-circular-subarray
+MEDIUM,Longest Palindromic Substring,48.2,0.3504762071733898,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Backspace String Compare,48.2,0.49354629710972503,https://leetcode.com/problems/backspace-string-compare
+EASY,Linked List Cycle,48.2,0.5170554762099521,https://leetcode.com/problems/linked-list-cycle

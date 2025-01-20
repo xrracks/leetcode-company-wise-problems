@@ -1,41 +1,40 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Operations to Form Subsequence With Target Sum,100.0,0.3203128994324863,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum
-MEDIUM,Count the Number of Square-Free Subsets,94.5,0.23945930008391733,https://leetcode.com/problems/count-the-number-of-square-free-subsets
-HARD,Scramble String,90.5,0.4129387021503661,https://leetcode.com/problems/scramble-string
-HARD,Maximum Genetic Difference Query,85.5,0.4330222440530489,https://leetcode.com/problems/maximum-genetic-difference-query
-MEDIUM,Furthest Building You Can Reach,83.5,0.5004226947519219,https://leetcode.com/problems/furthest-building-you-can-reach
-EASY,Minimum Time Visiting All Points,83.5,0.8237832548880679,https://leetcode.com/problems/minimum-time-visiting-all-points
-HARD,Maximum XOR of Two Non-Overlapping Subtrees,81.4,0.48157894736842105,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees
-MEDIUM,Queens That Can Attack the King,81.4,0.7204973850942473,https://leetcode.com/problems/queens-that-can-attack-the-king
-EASY,Maximum Value of an Ordered Triplet I,81.4,0.4611193161475116,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i
-MEDIUM,Maximum Value of an Ordered Triplet II,81.4,0.40934503043484605,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii
-MEDIUM,Sum of Remoteness of All Cells,81.4,0.6390004462293619,https://leetcode.com/problems/sum-of-remoteness-of-all-cells
-HARD,Make the XOR of All Segments Equal to Zero,81.4,0.3972042277531538,https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero
-MEDIUM,Minimum Cost to Buy Apples,81.4,0.6735592179342818,https://leetcode.com/problems/minimum-cost-to-buy-apples
-HARD,Minimum XOR Sum of Two Arrays,81.4,0.48483119067643876,https://leetcode.com/problems/minimum-xor-sum-of-two-arrays
-MEDIUM,Minimum Total Space Wasted With K Resizing Operations,81.4,0.43149844207345855,https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations
-HARD,Difference Between Maximum and Minimum Price Sum,81.4,0.32123051558752996,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum
-EASY,Best Time to Buy and Sell Stock,76.4,0.5452646665802087,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Substring with Concatenation of All Words,73.4,0.3264692862504447,https://leetcode.com/problems/substring-with-concatenation-of-all-words
-MEDIUM,Flatten Binary Tree to Linked List,73.4,0.6721728939402031,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
-EASY,Merge Two Sorted Lists,70.0,0.6590071447269081,https://leetcode.com/problems/merge-two-sorted-lists
-HARD,Painting the Walls,65.9,0.503438367542409,https://leetcode.com/problems/painting-the-walls
-MEDIUM,Jump Game,61.0,0.38978823457298456,https://leetcode.com/problems/jump-game
-MEDIUM,Binary Search Tree Iterator,61.0,0.7385685035621968,https://leetcode.com/problems/binary-search-tree-iterator
-EASY,Fizz Buzz,61.0,0.7356991867062205,https://leetcode.com/problems/fizz-buzz
-MEDIUM,Longest Palindromic Substring,54.6,0.34984287105438694,https://leetcode.com/problems/longest-palindromic-substring
-EASY,Valid Phone Numbers,54.6,0.26724963082387687,https://leetcode.com/problems/valid-phone-numbers
-HARD,Number of Submatrices That Sum to Target,54.6,0.7436849891036021,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
-MEDIUM,LRU Cache,54.6,0.4397817756218925,https://leetcode.com/problems/lru-cache
-MEDIUM,Best Time to Buy and Sell Stock II,54.6,0.6840513376025722,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-MEDIUM,Recover Binary Search Tree,54.6,0.5501671587356721,https://leetcode.com/problems/recover-binary-search-tree
-HARD,The Number of Good Subsets,54.6,0.3543918648410601,https://leetcode.com/problems/the-number-of-good-subsets
-MEDIUM,Valid Sudoku,54.6,0.6123434212270676,https://leetcode.com/problems/valid-sudoku
-EASY,Majority Element,45.6,0.6539918487806085,https://leetcode.com/problems/majority-element
-HARD,Sum of Distances in Tree,45.6,0.652757256565464,https://leetcode.com/problems/sum-of-distances-in-tree
-MEDIUM,Interleaving String,45.6,0.41092824244556075,https://leetcode.com/problems/interleaving-string
-HARD,Trapping Rain Water,45.6,0.6378165074614706,https://leetcode.com/problems/trapping-rain-water
-HARD,All O`one Data Structure,45.6,0.45013874980558655,https://leetcode.com/problems/all-oone-data-structure
-MEDIUM,Search in Rotated Sorted Array,45.6,0.4201707021217656,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Merge Intervals,45.6,0.48475790325910956,https://leetcode.com/problems/merge-intervals
-HARD,Sliding Window Maximum,45.6,0.4709095871134858,https://leetcode.com/problems/sliding-window-maximum
+HARD,Minimum Operations to Form Subsequence With Target Sum,100.0,0.32072582497511676,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum
+MEDIUM,Count the Number of Square-Free Subsets,93.3,0.24134373878722643,https://leetcode.com/problems/count-the-number-of-square-free-subsets
+HARD,Scramble String,88.9,0.4134369042799235,https://leetcode.com/problems/scramble-string
+HARD,Maximum Genetic Difference Query,85.5,0.4337374581939799,https://leetcode.com/problems/maximum-genetic-difference-query
+MEDIUM,Furthest Building You Can Reach,83.6,0.5006029685563833,https://leetcode.com/problems/furthest-building-you-can-reach
+EASY,Minimum Time Visiting All Points,83.6,0.8236960327407253,https://leetcode.com/problems/minimum-time-visiting-all-points
+MEDIUM,Minimum Total Space Wasted With K Resizing Operations,81.4,0.43176271822789564,https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations
+MEDIUM,Sum of Remoteness of All Cells,81.4,0.6395918367346939,https://leetcode.com/problems/sum-of-remoteness-of-all-cells
+MEDIUM,Queens That Can Attack the King,81.4,0.7208770768309215,https://leetcode.com/problems/queens-that-can-attack-the-king
+HARD,Minimum XOR Sum of Two Arrays,81.4,0.4859293780247356,https://leetcode.com/problems/minimum-xor-sum-of-two-arrays
+HARD,Make the XOR of All Segments Equal to Zero,81.4,0.3977844229985048,https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero
+MEDIUM,Maximum Value of an Ordered Triplet II,81.4,0.40991742733169834,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii
+EASY,Maximum Value of an Ordered Triplet I,81.4,0.4616249930389264,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i
+HARD,Difference Between Maximum and Minimum Price Sum,81.4,0.3206578359874982,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum
+HARD,Maximum XOR of Two Non-Overlapping Subtrees,81.4,0.48194353250164146,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees
+MEDIUM,Minimum Cost to Buy Apples,81.4,0.6732844634493993,https://leetcode.com/problems/minimum-cost-to-buy-apples
+EASY,Best Time to Buy and Sell Stock,76.5,0.5457852653722504,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Flatten Binary Tree to Linked List,73.5,0.6730442332632381,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+HARD,Substring with Concatenation of All Words,73.5,0.3266853887625565,https://leetcode.com/problems/substring-with-concatenation-of-all-words
+EASY,Merge Two Sorted Lists,70.1,0.659812555902815,https://leetcode.com/problems/merge-two-sorted-lists
+HARD,Painting the Walls,66.0,0.5033547029278086,https://leetcode.com/problems/painting-the-walls
+MEDIUM,Binary Search Tree Iterator,61.0,0.739365002359666,https://leetcode.com/problems/binary-search-tree-iterator
+EASY,Fizz Buzz,61.0,0.7363865366202491,https://leetcode.com/problems/fizz-buzz
+MEDIUM,Jump Game,61.0,0.39004655878986705,https://leetcode.com/problems/jump-game
+EASY,Valid Phone Numbers,54.7,0.2677397708352636,https://leetcode.com/problems/valid-phone-numbers
+MEDIUM,Valid Sudoku,54.7,0.6132866034478458,https://leetcode.com/problems/valid-sudoku
+MEDIUM,LRU Cache,54.7,0.4406267788067009,https://leetcode.com/problems/lru-cache
+MEDIUM,Best Time to Buy and Sell Stock II,54.7,0.6850411116587778,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+HARD,The Number of Good Subsets,54.7,0.35516432857767355,https://leetcode.com/problems/the-number-of-good-subsets
+HARD,Number of Submatrices That Sum to Target,54.7,0.7437267809424494,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
+HARD,All O`one Data Structure,45.7,0.4496284298004998,https://leetcode.com/problems/all-oone-data-structure
+MEDIUM,Merge Intervals,45.7,0.4854561156601843,https://leetcode.com/problems/merge-intervals
+MEDIUM,Longest Palindromic Substring,45.7,0.3504776485533736,https://leetcode.com/problems/longest-palindromic-substring
+HARD,Sum of Distances in Tree,45.7,0.6527191679049034,https://leetcode.com/problems/sum-of-distances-in-tree
+EASY,Majority Element,45.7,0.6542277333104499,https://leetcode.com/problems/majority-element
+MEDIUM,Interleaving String,45.7,0.41157741868496983,https://leetcode.com/problems/interleaving-string
+HARD,Trapping Rain Water,45.7,0.6391104002933209,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Search in Rotated Sorted Array,45.7,0.42078538916570013,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Sliding Window Maximum,45.7,0.4711572779727559,https://leetcode.com/problems/sliding-window-maximum

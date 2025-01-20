@@ -1,9 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Max Consecutive Ones III,100.0,0.648177391391177,https://leetcode.com/problems/max-consecutive-ones-iii
-HARD,All O`one Data Structure,94.3,0.450142434594689,https://leetcode.com/problems/all-oone-data-structure
-MEDIUM,Nested List Weight Sum II,86.9,0.64552513719519,https://leetcode.com/problems/nested-list-weight-sum-ii
-HARD,Max Stack,86.9,0.4516542825373975,https://leetcode.com/problems/max-stack
-MEDIUM,Maximum Subarray,86.9,0.5151959364662207,https://leetcode.com/problems/maximum-subarray
-MEDIUM,Find Leaves of Binary Tree,76.4,0.8086605635376805,https://leetcode.com/problems/find-leaves-of-binary-tree
-MEDIUM,Longest Palindromic Subsequence,76.4,0.6345694175339353,https://leetcode.com/problems/longest-palindromic-subsequence
-EASY,Long Pressed Name,76.4,0.3229293241833789,https://leetcode.com/problems/long-pressed-name
+MEDIUM,Max Consecutive Ones III,100.0,0.6489520278121621,https://leetcode.com/problems/max-consecutive-ones-iii
+HARD,Word Ladder,100.0,0.41384471631108566,https://leetcode.com/problems/word-ladder
+MEDIUM,Nested List Weight Sum II,100.0,0.6462878986787473,https://leetcode.com/problems/nested-list-weight-sum-ii
+HARD,All O`one Data Structure,88.4,0.449628556389427,https://leetcode.com/problems/all-oone-data-structure
+MEDIUM,Number of Islands,88.4,0.6120952252355103,https://leetcode.com/problems/number-of-islands
+MEDIUM,Find the Celebrity,88.4,0.4805436818913428,https://leetcode.com/problems/find-the-celebrity

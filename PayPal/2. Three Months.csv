@@ -1,13 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Minimum Absolute Difference,100.0,0.7011629694144168,https://leetcode.com/problems/minimum-absolute-difference
-MEDIUM,Zigzag Conversion,100.0,0.5021523073000012,https://leetcode.com/problems/zigzag-conversion
-MEDIUM,Maximal Square,100.0,0.47897302530635044,https://leetcode.com/problems/maximal-square
-MEDIUM,Random Pick with Weight,87.3,0.4788248424792372,https://leetcode.com/problems/random-pick-with-weight
-MEDIUM,Product of Array Except Self,87.3,0.6713949965251057,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Find Peak Element,87.3,0.46246462193057397,https://leetcode.com/problems/find-peak-element
-HARD,Find Median from Data Stream,87.3,0.5271740260940913,https://leetcode.com/problems/find-median-from-data-stream
-MEDIUM,Coin Change,87.3,0.4544094607113951,https://leetcode.com/problems/coin-change
-MEDIUM,Spiral Matrix,87.3,0.5230483209213309,https://leetcode.com/problems/spiral-matrix
-EASY,Best Time to Buy and Sell Stock,87.3,0.5452634977734246,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,LRU Cache,87.3,0.4397787188983983,https://leetcode.com/problems/lru-cache
-MEDIUM,Longest Increasing Subsequence,87.3,0.5686115868881382,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Minimum Absolute Difference,100.0,0.7014719323634702,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Random Pick with Weight,100.0,0.4795103627188698,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Maximal Square,100.0,0.4795492325403397,https://leetcode.com/problems/maximal-square
+MEDIUM,Product of Array Except Self,87.2,0.6720157445329433,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Find Peak Element,87.2,0.4626281719462332,https://leetcode.com/problems/find-peak-element
+HARD,Find Median from Data Stream,87.2,0.5275403780379277,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Coin Change,87.2,0.4551646150408125,https://leetcode.com/problems/coin-change
+MEDIUM,Spiral Matrix,87.2,0.5243062531788999,https://leetcode.com/problems/spiral-matrix
+EASY,Best Time to Buy and Sell Stock,87.2,0.5457834397702002,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,LRU Cache,87.2,0.44062642765812127,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Increasing Subsequence,87.2,0.56930020019099,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Flatten Deeply Nested Array,87.2,0.6363795825293808,https://leetcode.com/problems/flatten-deeply-nested-array

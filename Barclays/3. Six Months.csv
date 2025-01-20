@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Double Modular Exponentiation,100.0,0.4801617169523237,https://leetcode.com/problems/double-modular-exponentiation
-MEDIUM,Count Submatrices with Top-Left Element and Sum Less Than k,100.0,0.5830406852248394,https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k
-EASY,Furthest Point From Origin,100.0,0.6472005492790713,https://leetcode.com/problems/furthest-point-from-origin
-MEDIUM,Mark Elements on Array by Performing Queries,100.0,0.49257052249303085,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries
-MEDIUM,Lexicographical Numbers,100.0,0.7286123223663119,https://leetcode.com/problems/lexicographical-numbers
+MEDIUM,Double Modular Exponentiation,100.0,0.48045878443563084,https://leetcode.com/problems/double-modular-exponentiation
+MEDIUM,Count Submatrices with Top-Left Element and Sum Less Than k,100.0,0.5835465711361311,https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k
+EASY,Furthest Point From Origin,100.0,0.6479090287702728,https://leetcode.com/problems/furthest-point-from-origin
+MEDIUM,Mark Elements on Array by Performing Queries,100.0,0.4928992121567528,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries
+MEDIUM,Lexicographical Numbers,100.0,0.7287883323824963,https://leetcode.com/problems/lexicographical-numbers

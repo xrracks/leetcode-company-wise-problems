@@ -1,37 +1,37 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Remove All Adjacent Duplicates In String,100.0,0.7068937637540627,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
-EASY,Number of Unequal Triplets in Array,97.6,0.718416033423148,https://leetcode.com/problems/number-of-unequal-triplets-in-array
-MEDIUM,Minimize Maximum of Array,97.6,0.46406619007255534,https://leetcode.com/problems/minimize-maximum-of-array
-MEDIUM,Longest Nice Subarray,97.6,0.5215291694500112,https://leetcode.com/problems/longest-nice-subarray
-EASY,Find Indices With Index and Value Difference I,97.6,0.6116252979946711,https://leetcode.com/problems/find-indices-with-index-and-value-difference-i
-MEDIUM,Find Indices With Index and Value Difference II,97.6,0.31972360768198316,https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii
-MEDIUM,Min Stack,91.9,0.5555556492435165,https://leetcode.com/problems/min-stack
-MEDIUM,Next Permutation,80.0,0.4188331705852196,https://leetcode.com/problems/next-permutation
-MEDIUM,Number of Divisible Substrings,80.0,0.7365250475586557,https://leetcode.com/problems/number-of-divisible-substrings
-MEDIUM,Linked List Cycle II,80.0,0.5343413113722799,https://leetcode.com/problems/linked-list-cycle-ii
-EASY,Valid Parentheses,67.1,0.4153887970419571,https://leetcode.com/problems/valid-parentheses
-EASY,Move Zeroes,67.1,0.6237768500280827,https://leetcode.com/problems/move-zeroes
-MEDIUM,Find Minimum in Rotated Sorted Array,67.1,0.5184073380086123,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
-MEDIUM,Find the Duplicate Number,67.1,0.6204375580532749,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,Longest Consecutive Sequence,67.1,0.4763404140960878,https://leetcode.com/problems/longest-consecutive-sequence
-HARD,Trapping Rain Water,67.1,0.6378163939221194,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,3Sum,67.1,0.36009028000842386,https://leetcode.com/problems/3sum
-MEDIUM,Coin Change II,56.8,0.6364255717498992,https://leetcode.com/problems/coin-change-ii
-MEDIUM,Execute Asynchronous Functions in Parallel,56.8,0.7637943900618935,https://leetcode.com/problems/execute-asynchronous-functions-in-parallel
-MEDIUM,Validate Binary Search Tree,56.8,0.3376474471780538,https://leetcode.com/problems/validate-binary-search-tree
-EASY,Two Sum,56.8,0.5456850517426157,https://leetcode.com/problems/two-sum
-MEDIUM,Longest Palindromic Substring,56.8,0.34984279650701183,https://leetcode.com/problems/longest-palindromic-substring
-EASY,Reverse Linked List,56.8,0.7827335572877682,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,Largest Number,56.8,0.4053564184928138,https://leetcode.com/problems/largest-number
-MEDIUM,Second Highest Salary,56.8,0.4248119818403285,https://leetcode.com/problems/second-highest-salary
-EASY,Palindrome Number,56.8,0.5822341690407853,https://leetcode.com/problems/palindrome-number
-MEDIUM,Number of Operations to Make Network Connected,56.8,0.6382005660636135,https://leetcode.com/problems/number-of-operations-to-make-network-connected
-MEDIUM,Coin Change,56.8,0.4544101653307745,https://leetcode.com/problems/coin-change
-EASY,Unique Number of Occurrences,56.8,0.7785043323760417,https://leetcode.com/problems/unique-number-of-occurrences
-MEDIUM,Container With Most Water,56.8,0.5676715847511995,https://leetcode.com/problems/container-with-most-water
-MEDIUM,Product of Array Except Self,56.8,0.6713958378457364,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Reverse Words in a String,56.8,0.48645000785691067,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,LRU Cache,56.8,0.4397816362793662,https://leetcode.com/problems/lru-cache
-MEDIUM,Word Search,56.8,0.4422559096672082,https://leetcode.com/problems/word-search
-MEDIUM,Permutations,56.8,0.7980257842836552,https://leetcode.com/problems/permutations
-MEDIUM,Best Time to Buy and Sell Stock II,56.8,0.6840508639630045,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Remove All Adjacent Duplicates In String,100.0,0.707596401055611,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+EASY,Number of Unequal Triplets in Array,97.6,0.7185570263082771,https://leetcode.com/problems/number-of-unequal-triplets-in-array
+MEDIUM,Minimize Maximum of Array,97.6,0.46410446968892666,https://leetcode.com/problems/minimize-maximum-of-array
+MEDIUM,Longest Nice Subarray,97.6,0.5218527841553484,https://leetcode.com/problems/longest-nice-subarray
+EASY,Find Indices With Index and Value Difference I,97.6,0.6110470046851757,https://leetcode.com/problems/find-indices-with-index-and-value-difference-i
+MEDIUM,Find Indices With Index and Value Difference II,97.6,0.31978306381154903,https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii
+MEDIUM,Min Stack,91.9,0.5561973768053488,https://leetcode.com/problems/min-stack
+MEDIUM,Next Permutation,80.0,0.41968352023093514,https://leetcode.com/problems/next-permutation
+MEDIUM,Number of Divisible Substrings,80.0,0.7364341085271318,https://leetcode.com/problems/number-of-divisible-substrings
+MEDIUM,Linked List Cycle II,80.0,0.5355536116415027,https://leetcode.com/problems/linked-list-cycle-ii
+MEDIUM,Find Minimum in Rotated Sorted Array,67.0,0.5190311882837784,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+EASY,Two Sum,67.0,0.5468064505183576,https://leetcode.com/problems/two-sum
+EASY,Move Zeroes,67.0,0.6240696343894067,https://leetcode.com/problems/move-zeroes
+MEDIUM,Find the Duplicate Number,67.0,0.6211216315090703,https://leetcode.com/problems/find-the-duplicate-number
+EASY,Valid Parentheses,67.0,0.4160112911464377,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Consecutive Sequence,67.0,0.4750166584908914,https://leetcode.com/problems/longest-consecutive-sequence
+HARD,Trapping Rain Water,67.0,0.6391102553648047,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,3Sum,67.0,0.3609294985196199,https://leetcode.com/problems/3sum
+MEDIUM,Coin Change II,56.8,0.6353059805881899,https://leetcode.com/problems/coin-change-ii
+MEDIUM,Execute Asynchronous Functions in Parallel,56.8,0.7658219679043152,https://leetcode.com/problems/execute-asynchronous-functions-in-parallel
+MEDIUM,Validate Binary Search Tree,56.8,0.33809142938372844,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,Longest Palindromic Substring,56.8,0.3504775661980798,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Reverse Linked List,56.8,0.7835435351511186,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Largest Number,56.8,0.40598523379819523,https://leetcode.com/problems/largest-number
+MEDIUM,Second Highest Salary,56.8,0.4257945256281746,https://leetcode.com/problems/second-highest-salary
+EASY,Palindrome Number,56.8,0.5831344470962609,https://leetcode.com/problems/palindrome-number
+MEDIUM,Number of Operations to Make Network Connected,56.8,0.6387689505942203,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Coin Change,56.8,0.45516454883823876,https://leetcode.com/problems/coin-change
+EASY,Unique Number of Occurrences,56.8,0.7788411480752986,https://leetcode.com/problems/unique-number-of-occurrences
+MEDIUM,Container With Most Water,56.8,0.5685258931988777,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Product of Array Except Self,56.8,0.6720177723491595,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Reverse Words in a String,56.8,0.48960426307377264,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,LRU Cache,56.8,0.44062645924411614,https://leetcode.com/problems/lru-cache
+MEDIUM,Word Search,56.8,0.4430739006049392,https://leetcode.com/problems/word-search
+MEDIUM,Permutations,56.8,0.7986481947162557,https://leetcode.com/problems/permutations
+MEDIUM,Best Time to Buy and Sell Stock II,56.8,0.6850402689611645,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii

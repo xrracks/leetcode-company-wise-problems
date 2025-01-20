@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Additive Number,100.0,0.32125163057445016,https://leetcode.com/problems/additive-number
-MEDIUM,Letter Combinations of a Phone Number,98.9,0.6258640826068714,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-EASY,Self Dividing Numbers,91.2,0.7923871427299438,https://leetcode.com/problems/self-dividing-numbers
-MEDIUM,Stepping Numbers,87.7,0.47569265388401855,https://leetcode.com/problems/stepping-numbers
-EASY,Valid Parentheses,83.6,0.4153896282310238,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Spiral Matrix,83.6,0.5230463054283042,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Word Search,67.0,0.442256837633968,https://leetcode.com/problems/word-search
-MEDIUM,Angle Between Hands of a Clock,67.0,0.6407787530504605,https://leetcode.com/problems/angle-between-hands-of-a-clock
-MEDIUM,Longest Substring Without Repeating Characters,52.9,0.35974325907435367,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Bulls and Cows,52.9,0.5092737223321415,https://leetcode.com/problems/bulls-and-cows
-EASY,Two Sum,52.9,0.5456858380460469,https://leetcode.com/problems/two-sum
+MEDIUM,Additive Number,100.0,0.3213844772888562,https://leetcode.com/problems/additive-number
+MEDIUM,Letter Combinations of a Phone Number,97.8,0.6268951969714549,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Self Dividing Numbers,91.2,0.792764790696575,https://leetcode.com/problems/self-dividing-numbers
+MEDIUM,Stepping Numbers,87.7,0.4751272829183988,https://leetcode.com/problems/stepping-numbers
+EASY,Valid Parentheses,83.6,0.41601202715987506,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Spiral Matrix,83.6,0.5243051480958033,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Word Search,67.0,0.4430755675280021,https://leetcode.com/problems/word-search
+MEDIUM,Angle Between Hands of a Clock,67.0,0.6409846359123286,https://leetcode.com/problems/angle-between-hands-of-a-clock
+EASY,Two Sum,61.1,0.5468077237120085,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Substring Without Repeating Characters,52.9,0.36045859379993944,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Bulls and Cows,52.9,0.5096380335923906,https://leetcode.com/problems/bulls-and-cows

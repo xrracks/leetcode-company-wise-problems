@@ -1,20 +1,20 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Minimize the Difference Between Target and Chosen Elements,100.0,0.3547380633243599,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements
-MEDIUM,Boats to Save People,97.1,0.5976050661444536,https://leetcode.com/problems/boats-to-save-people
-HARD,Robot Collisions,93.7,0.5684231362676628,https://leetcode.com/problems/robot-collisions
-MEDIUM,Koko Eating Bananas,93.7,0.4869541028910771,https://leetcode.com/problems/koko-eating-bananas
-HARD,Smallest K-Length Subsequence With Occurrences of a Letter,89.9,0.39447781114447783,https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter
-MEDIUM,Asteroid Collision,79.8,0.44952725259597204,https://leetcode.com/problems/asteroid-collision
-EASY,Best Time to Buy and Sell Stock,72.7,0.5452645882571674,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Best Time to Buy and Sell Stock II,72.7,0.6840511481469156,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-HARD,Maximum Fruits Harvested After at Most K Steps,72.7,0.36297341095972624,https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps
-EASY,Reverse Linked List,72.7,0.7827339447458995,https://leetcode.com/problems/reverse-linked-list
-EASY,Longest Common Prefix,62.6,0.4447198682878873,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Validate IP Address,62.6,0.27627272924297264,https://leetcode.com/problems/validate-ip-address
-MEDIUM,Fruit Into Baskets,62.6,0.4531329121584005,https://leetcode.com/problems/fruit-into-baskets
-MEDIUM,Rotting Oranges,62.6,0.5557402854758154,https://leetcode.com/problems/rotting-oranges
-HARD,Minimize Manhattan Distances,62.6,0.3158333622876203,https://leetcode.com/problems/minimize-manhattan-distances
-MEDIUM,Frequency of the Most Frequent Element,62.6,0.4401568283414738,https://leetcode.com/problems/frequency-of-the-most-frequent-element
-EASY,Reverse String,62.6,0.7932258419766662,https://leetcode.com/problems/reverse-string
-MEDIUM,Kth Largest Element in an Array,62.6,0.6738416420832206,https://leetcode.com/problems/kth-largest-element-in-an-array
-EASY,Two Sum,62.6,0.5456854970122665,https://leetcode.com/problems/two-sum
+MEDIUM,Minimize the Difference Between Target and Chosen Elements,100.0,0.355165761966713,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements
+MEDIUM,Boats to Save People,97.1,0.5980279935473223,https://leetcode.com/problems/boats-to-save-people
+HARD,Robot Collisions,93.8,0.5683120752823849,https://leetcode.com/problems/robot-collisions
+MEDIUM,Koko Eating Bananas,93.8,0.4871540746651085,https://leetcode.com/problems/koko-eating-bananas
+HARD,Smallest K-Length Subsequence With Occurrences of a Letter,89.9,0.3952406661406205,https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter
+MEDIUM,Asteroid Collision,79.9,0.4495667805616322,https://leetcode.com/problems/asteroid-collision
+EASY,Best Time to Buy and Sell Stock,72.8,0.5457853686961134,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Best Time to Buy and Sell Stock II,72.8,0.6850410180259323,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+HARD,Maximum Fruits Harvested After at Most K Steps,72.8,0.3635194929442717,https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps
+EASY,Reverse Linked List,72.8,0.7835440926851759,https://leetcode.com/problems/reverse-linked-list
+EASY,Longest Common Prefix,62.8,0.4456167872131751,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Validate IP Address,62.8,0.276399284401149,https://leetcode.com/problems/validate-ip-address
+MEDIUM,Fruit Into Baskets,62.8,0.4536375808971212,https://leetcode.com/problems/fruit-into-baskets
+MEDIUM,Rotting Oranges,62.8,0.5565965199274743,https://leetcode.com/problems/rotting-oranges
+HARD,Minimize Manhattan Distances,62.8,0.31640354521534414,https://leetcode.com/problems/minimize-manhattan-distances
+MEDIUM,Frequency of the Most Frequent Element,62.8,0.43996921934132305,https://leetcode.com/problems/frequency-of-the-most-frequent-element
+EASY,Reverse String,62.8,0.793677009658025,https://leetcode.com/problems/reverse-string
+MEDIUM,Kth Largest Element in an Array,62.8,0.6742762751255185,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Two Sum,62.8,0.5468070213129421,https://leetcode.com/problems/two-sum

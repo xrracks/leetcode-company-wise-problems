@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Cheapest Flights Within K Stops,100.0,0.3989768226292789,https://leetcode.com/problems/cheapest-flights-within-k-stops
-HARD,First Missing Positive,92.6,0.4033966647529274,https://leetcode.com/problems/first-missing-positive
-HARD,Sum Of Special Evenly-Spaced Elements In Array,82.2,0.4909735654416505,https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array
-MEDIUM,Length of Longest Subarray With at Most K Frequency,82.2,0.5584304665896601,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
-MEDIUM,Longest Ideal Subsequence,82.2,0.47062941258825175,https://leetcode.com/problems/longest-ideal-subsequence
-MEDIUM,Reachable Nodes With Restrictions,82.2,0.5925020150948926,https://leetcode.com/problems/reachable-nodes-with-restrictions
-HARD,Longest Valid Parentheses,82.2,0.35296074376842557,https://leetcode.com/problems/longest-valid-parentheses
+MEDIUM,Cheapest Flights Within K Stops,100.0,0.39931816871360204,https://leetcode.com/problems/cheapest-flights-within-k-stops
+HARD,First Missing Positive,92.6,0.40391707312755054,https://leetcode.com/problems/first-missing-positive
+HARD,Sum Of Special Evenly-Spaced Elements In Array,82.2,0.4913294797687861,https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array
+MEDIUM,Length of Longest Subarray With at Most K Frequency,82.2,0.5586618627399788,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
+MEDIUM,Longest Ideal Subsequence,82.2,0.47046398338923495,https://leetcode.com/problems/longest-ideal-subsequence
+MEDIUM,Reachable Nodes With Restrictions,82.2,0.5926446580808997,https://leetcode.com/problems/reachable-nodes-with-restrictions
+HARD,Longest Valid Parentheses,82.2,0.35358988051419493,https://leetcode.com/problems/longest-valid-parentheses

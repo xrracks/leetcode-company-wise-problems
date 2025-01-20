@@ -1,16 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Minimum Total Space Wasted With K Resizing Operations,100.0,0.43149844207345855,https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations
-MEDIUM,Furthest Building You Can Reach,100.0,0.5004226947519219,https://leetcode.com/problems/furthest-building-you-can-reach
-HARD,Difference Between Maximum and Minimum Price Sum,100.0,0.32123051558752996,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum
-HARD,Minimum XOR Sum of Two Arrays,100.0,0.48483119067643876,https://leetcode.com/problems/minimum-xor-sum-of-two-arrays
-MEDIUM,Sum of Remoteness of All Cells,100.0,0.6390004462293619,https://leetcode.com/problems/sum-of-remoteness-of-all-cells
-MEDIUM,Maximum Value of an Ordered Triplet II,100.0,0.40934503043484605,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii
-HARD,Minimum Operations to Form Subsequence With Target Sum,100.0,0.3203128994324863,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum
-EASY,Maximum Value of an Ordered Triplet I,100.0,0.4611193161475116,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i
-EASY,Minimum Time Visiting All Points,100.0,0.8237832548880679,https://leetcode.com/problems/minimum-time-visiting-all-points
-HARD,Maximum Genetic Difference Query,100.0,0.4330222440530489,https://leetcode.com/problems/maximum-genetic-difference-query
-MEDIUM,Minimum Cost to Buy Apples,100.0,0.6735592179342818,https://leetcode.com/problems/minimum-cost-to-buy-apples
-MEDIUM,Count the Number of Square-Free Subsets,100.0,0.23945930008391733,https://leetcode.com/problems/count-the-number-of-square-free-subsets
-HARD,Make the XOR of All Segments Equal to Zero,100.0,0.3972042277531538,https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero
-MEDIUM,Queens That Can Attack the King,100.0,0.7204973850942473,https://leetcode.com/problems/queens-that-can-attack-the-king
-HARD,Maximum XOR of Two Non-Overlapping Subtrees,100.0,0.48157894736842105,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees
+MEDIUM,Minimum Total Space Wasted With K Resizing Operations,100.0,0.43176271822789564,https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations
+MEDIUM,Furthest Building You Can Reach,100.0,0.5006029685563833,https://leetcode.com/problems/furthest-building-you-can-reach
+HARD,Difference Between Maximum and Minimum Price Sum,100.0,0.3206578359874982,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum
+HARD,Minimum XOR Sum of Two Arrays,100.0,0.4859293780247356,https://leetcode.com/problems/minimum-xor-sum-of-two-arrays
+MEDIUM,Sum of Remoteness of All Cells,100.0,0.6395918367346939,https://leetcode.com/problems/sum-of-remoteness-of-all-cells
+MEDIUM,Maximum Value of an Ordered Triplet II,100.0,0.40991742733169834,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii
+HARD,Minimum Operations to Form Subsequence With Target Sum,100.0,0.32072582497511676,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum
+EASY,Maximum Value of an Ordered Triplet I,100.0,0.4616249930389264,https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i
+EASY,Minimum Time Visiting All Points,100.0,0.8236960327407253,https://leetcode.com/problems/minimum-time-visiting-all-points
+HARD,Maximum Genetic Difference Query,100.0,0.4337374581939799,https://leetcode.com/problems/maximum-genetic-difference-query
+MEDIUM,Minimum Cost to Buy Apples,100.0,0.6732844634493993,https://leetcode.com/problems/minimum-cost-to-buy-apples
+MEDIUM,Count the Number of Square-Free Subsets,100.0,0.24134373878722643,https://leetcode.com/problems/count-the-number-of-square-free-subsets
+HARD,Make the XOR of All Segments Equal to Zero,100.0,0.3977844229985048,https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero
+MEDIUM,Queens That Can Attack the King,100.0,0.7208770768309215,https://leetcode.com/problems/queens-that-can-attack-the-king
+HARD,Maximum XOR of Two Non-Overlapping Subtrees,100.0,0.48194353250164146,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees

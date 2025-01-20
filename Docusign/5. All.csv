@@ -1,31 +1,31 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Copy List with Random Pointer,100.0,0.5882846041118327,https://leetcode.com/problems/copy-list-with-random-pointer
-MEDIUM,Rotting Oranges,94.9,0.5557391367752484,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Merge Intervals,94.9,0.48475698177745385,https://leetcode.com/problems/merge-intervals
-MEDIUM,Product of Array Except Self,88.6,0.6713959118362745,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Implement Trie (Prefix Tree),88.6,0.6704758589804415,https://leetcode.com/problems/implement-trie-prefix-tree
-MEDIUM,Design Authentication Manager,80.6,0.5804434149569822,https://leetcode.com/problems/design-authentication-manager
-HARD,Find Median from Data Stream,80.6,0.5271724088518268,https://leetcode.com/problems/find-median-from-data-stream
-MEDIUM,Top K Frequent Elements,80.6,0.6378660195176844,https://leetcode.com/problems/top-k-frequent-elements
-HARD,Reaching Points,80.6,0.33463824516319873,https://leetcode.com/problems/reaching-points
-EASY,Excel Sheet Column Number,80.6,0.6502523757715802,https://leetcode.com/problems/excel-sheet-column-number
-MEDIUM,Sort Colors,80.6,0.6582513695138581,https://leetcode.com/problems/sort-colors
-EASY,Valid Parentheses,80.6,0.41538868179580407,https://leetcode.com/problems/valid-parentheses
-MEDIUM,3Sum,80.6,0.36009011334026136,https://leetcode.com/problems/3sum
-MEDIUM,Peak Index in a Mountain Array,69.3,0.6793274206226644,https://leetcode.com/problems/peak-index-in-a-mountain-array
-MEDIUM,Shortest Bridge,69.3,0.5818587752740233,https://leetcode.com/problems/shortest-bridge
-MEDIUM,Course Schedule,69.3,0.48080608267815966,https://leetcode.com/problems/course-schedule
-MEDIUM,Inorder Successor in BST,69.3,0.5037053586972922,https://leetcode.com/problems/inorder-successor-in-bst
-MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,69.3,0.6464944344059919,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
-MEDIUM,LRU Cache,69.3,0.4397813770147365,https://leetcode.com/problems/lru-cache
-EASY,Two Sum,69.3,0.5456848212078474,https://leetcode.com/problems/two-sum
-MEDIUM,Boats to Save People,69.3,0.597605866069851,https://leetcode.com/problems/boats-to-save-people
-EASY,Palindrome Permutation,69.3,0.6801397440115305,https://leetcode.com/problems/palindrome-permutation
-MEDIUM,Binary Tree Level Order Traversal,69.3,0.6931594888973582,https://leetcode.com/problems/binary-tree-level-order-traversal
-HARD,IPO,69.3,0.5301691310961139,https://leetcode.com/problems/ipo
-MEDIUM,Optimal Partition of String,69.3,0.7805102136620304,https://leetcode.com/problems/optimal-partition-of-string
-MEDIUM,Longest Substring Without Repeating Characters,69.3,0.3597431237350228,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Clone Graph,69.3,0.6043647469495445,https://leetcode.com/problems/clone-graph
-MEDIUM,Binary Tree Zigzag Level Order Traversal,69.3,0.6062053561852464,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-MEDIUM,Minesweeper,69.3,0.6752538322166138,https://leetcode.com/problems/minesweeper
-MEDIUM,Insert Delete GetRandom O(1),69.3,0.5480517888294897,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Copy List with Random Pointer,100.0,0.5897090429922982,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Rotting Oranges,90.9,0.5565969825637326,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Merge Intervals,90.9,0.48545537371896785,https://leetcode.com/problems/merge-intervals
+MEDIUM,Product of Array Except Self,84.9,0.6720177117124908,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Implement Trie (Prefix Tree),84.9,0.6714364830180127,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Design Authentication Manager,77.2,0.5799790218958961,https://leetcode.com/problems/design-authentication-manager
+HARD,Find Median from Data Stream,77.2,0.5275407172291284,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Top K Frequent Elements,77.2,0.6385667464154816,https://leetcode.com/problems/top-k-frequent-elements
+HARD,Reaching Points,77.2,0.33484273481414534,https://leetcode.com/problems/reaching-points
+EASY,Excel Sheet Column Number,77.2,0.6508191228292319,https://leetcode.com/problems/excel-sheet-column-number
+MEDIUM,Sort Colors,77.2,0.6593354224324538,https://leetcode.com/problems/sort-colors
+EASY,Valid Parentheses,77.2,0.4160109525349126,https://leetcode.com/problems/valid-parentheses
+MEDIUM,3Sum,77.2,0.3609293576323418,https://leetcode.com/problems/3sum
+MEDIUM,Peak Index in a Mountain Array,66.3,0.6788956648914153,https://leetcode.com/problems/peak-index-in-a-mountain-array
+MEDIUM,Shortest Bridge,66.3,0.5822199370270346,https://leetcode.com/problems/shortest-bridge
+MEDIUM,Course Schedule,66.3,0.4815997877473693,https://leetcode.com/problems/course-schedule
+MEDIUM,Inorder Successor in BST,66.3,0.504013691727625,https://leetcode.com/problems/inorder-successor-in-bst
+MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,66.3,0.6466426956498053,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
+MEDIUM,LRU Cache,66.3,0.44062666175808896,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,66.3,0.5468061408853269,https://leetcode.com/problems/two-sum
+MEDIUM,Boats to Save People,66.3,0.5980269234967005,https://leetcode.com/problems/boats-to-save-people
+EASY,Palindrome Permutation,66.3,0.6802921578677601,https://leetcode.com/problems/palindrome-permutation
+MEDIUM,Binary Tree Level Order Traversal,66.3,0.6941514687704394,https://leetcode.com/problems/binary-tree-level-order-traversal
+HARD,IPO,66.3,0.530118614170853,https://leetcode.com/problems/ipo
+MEDIUM,Optimal Partition of String,66.3,0.7807073379348757,https://leetcode.com/problems/optimal-partition-of-string
+MEDIUM,Longest Substring Without Repeating Characters,66.3,0.3604578578288786,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Clone Graph,66.3,0.6059709795943786,https://leetcode.com/problems/clone-graph
+MEDIUM,Binary Tree Zigzag Level Order Traversal,66.3,0.6069310461360692,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Minesweeper,66.3,0.6756187568831268,https://leetcode.com/problems/minesweeper
+MEDIUM,Insert Delete GetRandom O(1),66.3,0.5482858097233609,https://leetcode.com/problems/insert-delete-getrandom-o1

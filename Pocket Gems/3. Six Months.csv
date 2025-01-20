@@ -1,16 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Clone Graph,100.0,0.6043659821057403,https://leetcode.com/problems/clone-graph
-MEDIUM,Longest Repeating Character Replacement,100.0,0.5599280054404184,https://leetcode.com/problems/longest-repeating-character-replacement
-MEDIUM,Word Break,100.0,0.4764132654961562,https://leetcode.com/problems/word-break
-MEDIUM,Sort Colors,100.0,0.6582541631464344,https://leetcode.com/problems/sort-colors
-EASY,Find the Index of the First Occurrence in a String,100.0,0.44114274362279693,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
-HARD,Alien Dictionary,100.0,0.3628547654055201,https://leetcode.com/problems/alien-dictionary
-HARD,Basic Calculator III,100.0,0.5159796499120629,https://leetcode.com/problems/basic-calculator-iii
-MEDIUM,Top K Frequent Words,100.0,0.5872263710896447,https://leetcode.com/problems/top-k-frequent-words
-HARD,Shortest Palindrome,100.0,0.4005636833164557,https://leetcode.com/problems/shortest-palindrome
-MEDIUM,Kth Largest Element in an Array,100.0,0.6738425108664827,https://leetcode.com/problems/kth-largest-element-in-an-array
-HARD,Non-negative Integers without Consecutive Ones,100.0,0.40011486461040185,https://leetcode.com/problems/non-negative-integers-without-consecutive-ones
-MEDIUM,Find All Duplicates in an Array,100.0,0.7613617688105799,https://leetcode.com/problems/find-all-duplicates-in-an-array
-MEDIUM,Top K Frequent Elements,100.0,0.6378683162090599,https://leetcode.com/problems/top-k-frequent-elements
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5480533067426245,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,Inorder Successor in BST,100.0,0.5037053586972922,https://leetcode.com/problems/inorder-successor-in-bst
+MEDIUM,Clone Graph,100.0,0.6059723638984481,https://leetcode.com/problems/clone-graph
+MEDIUM,Longest Repeating Character Replacement,100.0,0.5608928548805615,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Word Break,100.0,0.476905120676528,https://leetcode.com/problems/word-break
+MEDIUM,Sort Colors,100.0,0.65933775499924,https://leetcode.com/problems/sort-colors
+EASY,Find the Index of the First Occurrence in a String,100.0,0.4419091424629344,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+HARD,Alien Dictionary,100.0,0.36313880463516235,https://leetcode.com/problems/alien-dictionary
+HARD,Basic Calculator III,100.0,0.5166181086821676,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,Top K Frequent Words,100.0,0.587761935101171,https://leetcode.com/problems/top-k-frequent-words
+HARD,Shortest Palindrome,100.0,0.4010050306196778,https://leetcode.com/problems/shortest-palindrome
+MEDIUM,Kth Largest Element in an Array,100.0,0.6742748978545773,https://leetcode.com/problems/kth-largest-element-in-an-array
+HARD,Non-negative Integers without Consecutive Ones,100.0,0.40046567960116797,https://leetcode.com/problems/non-negative-integers-without-consecutive-ones
+MEDIUM,Find All Duplicates in an Array,100.0,0.7615736833314037,https://leetcode.com/problems/find-all-duplicates-in-an-array
+MEDIUM,Top K Frequent Elements,100.0,0.6385650121305156,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.548285549585223,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Inorder Successor in BST,100.0,0.504013691727625,https://leetcode.com/problems/inorder-successor-in-bst

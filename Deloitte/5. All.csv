@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5468067807164381,https://leetcode.com/problems/two-sum
+MEDIUM,Change Null Values in a Table to the Previous Value,97.7,0.5128855915657946,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value
+EASY,Palindrome Number,81.1,0.5831344307485462,https://leetcode.com/problems/palindrome-number
+HARD,Merge k Sorted Lists,75.7,0.5529227261202538,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Longest Palindromic Substring,68.9,0.3504777673101082,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Best Time to Buy and Sell Stock,68.9,0.5457855240266022,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Valid Palindrome,68.9,0.49718461684916465,https://leetcode.com/problems/valid-palindrome
+EASY,Reverse Linked List,59.2,0.7835438487643792,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Maximum Subarray,59.2,0.5156267511045396,https://leetcode.com/problems/maximum-subarray
+EASY,Longest Common Prefix,59.2,0.44561671627774013,https://leetcode.com/problems/longest-common-prefix
+EASY,Article Views I,59.2,0.770021572220547,https://leetcode.com/problems/article-views-i
+EASY,Find Customer Referee,59.2,0.7141497179474253,https://leetcode.com/problems/find-customer-referee
+EASY,Majority Element,59.2,0.6542277221144943,https://leetcode.com/problems/majority-element
+MEDIUM,Managers with at Least 5 Direct Reports,59.2,0.49295231450356797,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+MEDIUM,Reverse Integer,59.2,0.29654565288751983,https://leetcode.com/problems/reverse-integer
+MEDIUM,Consecutive Numbers,59.2,0.45004268032437045,https://leetcode.com/problems/consecutive-numbers
+EASY,Pascal's Triangle,59.2,0.7612265647777438,https://leetcode.com/problems/pascals-triangle
+EASY,Climbing Stairs,59.2,0.5329286987649744,https://leetcode.com/problems/climbing-stairs
+EASY,Valid Parentheses,59.2,0.41601156189530847,https://leetcode.com/problems/valid-parentheses
+HARD,Department Top Three Salaries,59.2,0.5630795371366208,https://leetcode.com/problems/department-top-three-salaries

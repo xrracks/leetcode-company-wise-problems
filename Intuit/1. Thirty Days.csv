@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Valid Parentheses,100.0,0.4153885526029335,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Word Break,90.1,0.4764143031307191,https://leetcode.com/problems/word-break
+EASY,Valid Parentheses,100.0,0.41601006463313106,https://leetcode.com/problems/valid-parentheses
+MEDIUM,LRU Cache,100.0,0.4406269691313738,https://leetcode.com/problems/lru-cache
+MEDIUM,Minimum Limit of Balls in a Bag,100.0,0.6791986758631794,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag

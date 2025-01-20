@@ -1,59 +1,60 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Zigzag Conversion,100.0,0.5021523073000012,https://leetcode.com/problems/zigzag-conversion
-HARD,Minimum Replacements to Sort the Array,77.5,0.5336927641312852,https://leetcode.com/problems/minimum-replacements-to-sort-the-array
-MEDIUM,Group Anagrams,72.8,0.699762286154963,https://leetcode.com/problems/group-anagrams
-EASY,Best Time to Buy and Sell Stock,70.0,0.5452635412649736,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Merge Sorted Array,66.7,0.5180354324969245,https://leetcode.com/problems/merge-sorted-array
-EASY,Two Sum,66.7,0.5456831002122435,https://leetcode.com/problems/two-sum
-MEDIUM,LRU Cache,62.9,0.4397787188983983,https://leetcode.com/problems/lru-cache
-MEDIUM,Reorganize String,62.9,0.5552027228975924,https://leetcode.com/problems/reorganize-string
-MEDIUM,Pairs of Songs With Total Durations Divisible by 60,62.9,0.5309203670741869,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
-HARD,Trapping Rain Water,62.9,0.6378148619708275,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Subarray Sum Equals K,58.2,0.44595819925714764,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Top K Frequent Elements,58.2,0.6378660755014516,https://leetcode.com/problems/top-k-frequent-elements
-MEDIUM,Merge Intervals,58.2,0.4847550616516687,https://leetcode.com/problems/merge-intervals
-MEDIUM,Longest Substring Without Repeating Characters,58.2,0.3597416407908085,https://leetcode.com/problems/longest-substring-without-repeating-characters
-HARD,Meeting Rooms III,58.2,0.4408588665943601,https://leetcode.com/problems/meeting-rooms-iii
-MEDIUM,Number of Islands,58.2,0.6112260291537752,https://leetcode.com/problems/number-of-islands
-EASY,First Unique Character in a String,52.1,0.6296195102612627,https://leetcode.com/problems/first-unique-character-in-a-string
-HARD,Maximum Frequency Stack,52.1,0.6659123578554859,https://leetcode.com/problems/maximum-frequency-stack
-MEDIUM,Longest Increasing Subsequence,52.1,0.5686115868881382,https://leetcode.com/problems/longest-increasing-subsequence
-EASY,Reverse Linked List,52.1,0.782732345683816,https://leetcode.com/problems/reverse-linked-list
-HARD,Word Search II,52.1,0.3685621560603923,https://leetcode.com/problems/word-search-ii
-MEDIUM,Maximum Product Subarray,52.1,0.34327914889020905,https://leetcode.com/problems/maximum-product-subarray
-MEDIUM,Sort Colors,52.1,0.6582489556785391,https://leetcode.com/problems/sort-colors
-MEDIUM,Find First and Last Position of Element in Sorted Array,52.1,0.457531331513451,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-MEDIUM,Min Stack,52.1,0.5555547123589297,https://leetcode.com/problems/min-stack
-MEDIUM,3Sum,43.6,0.36008889571125335,https://leetcode.com/problems/3sum
-EASY,Count Vowel Substrings of a String,43.6,0.6929118202604633,https://leetcode.com/problems/count-vowel-substrings-of-a-string
-MEDIUM,Delete Node in a Linked List,43.6,0.8136644881334547,https://leetcode.com/problems/delete-node-in-a-linked-list
-MEDIUM,Process Tasks Using Servers,43.6,0.4072609477584452,https://leetcode.com/problems/process-tasks-using-servers
-MEDIUM,Remove Nth Node From End of List,43.6,0.4758413007258322,https://leetcode.com/problems/remove-nth-node-from-end-of-list
-MEDIUM,Loud and Rich,43.6,0.6063236752230914,https://leetcode.com/problems/loud-and-rich
-MEDIUM,Invalid Transactions,43.6,0.31156023929782684,https://leetcode.com/problems/invalid-transactions
-MEDIUM,Subarray Sums Divisible by K,43.6,0.554995397021465,https://leetcode.com/problems/subarray-sums-divisible-by-k
-MEDIUM,Word Search,43.6,0.44225371166528654,https://leetcode.com/problems/word-search
-EASY,Valid Palindrome,43.6,0.4959713033678931,https://leetcode.com/problems/valid-palindrome
-MEDIUM,Maximum Value at a Given Index in a Bounded Array,43.6,0.38980882912158193,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
-MEDIUM,Subarray Product Less Than K,43.6,0.5216856344843862,https://leetcode.com/problems/subarray-product-less-than-k
-EASY,Count the Number of Vowel Strings in Range,43.6,0.7436606633870321,https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range
-EASY,Valid Anagram,43.6,0.6581682842082812,https://leetcode.com/problems/valid-anagram
-MEDIUM,Find K Closest Elements,43.6,0.48165652229431044,https://leetcode.com/problems/find-k-closest-elements
-HARD,Minimum Window Substring,43.6,0.442918373343981,https://leetcode.com/problems/minimum-window-substring
-HARD,Median of Two Sorted Arrays,43.6,0.42369899190027754,https://leetcode.com/problems/median-of-two-sorted-arrays
-MEDIUM,Longest Palindromic Substring,43.6,0.349842786068863,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Container With Most Water,43.6,0.5676695648874673,https://leetcode.com/problems/container-with-most-water
-EASY,Valid Parentheses,43.6,0.4153885886975731,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Search in Rotated Sorted Array,43.6,0.42017019912538395,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Count and Say,43.6,0.5735437796275727,https://leetcode.com/problems/count-and-say
-MEDIUM,Combination Sum,43.6,0.7346528254376576,https://leetcode.com/problems/combination-sum
-HARD,Largest Rectangle in Histogram,43.6,0.46159670344185744,https://leetcode.com/problems/largest-rectangle-in-histogram
-EASY,Reverse Words in a String III,43.6,0.8344890722712912,https://leetcode.com/problems/reverse-words-in-a-string-iii
-MEDIUM,Find Minimum in Rotated Sorted Array,43.6,0.518405745424262,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
-MEDIUM,Minimum Swaps to Group All 1's Together II,43.6,0.6553756298300472,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
-MEDIUM,Break a Palindrome,43.6,0.5157598765271226,https://leetcode.com/problems/break-a-palindrome
-MEDIUM,Lowest Common Ancestor of a Binary Tree,43.6,0.6499501992868336,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-MEDIUM,Product of Array Except Self,43.6,0.6713949965251057,https://leetcode.com/problems/product-of-array-except-self
-EASY,Reverse String,43.6,0.7932257326483496,https://leetcode.com/problems/reverse-string
-MEDIUM,Amount of Time for Binary Tree to Be Infected,43.6,0.6289680633804288,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
-EASY,Maximum Population Year,43.6,0.6191901188930696,https://leetcode.com/problems/maximum-population-year
+MEDIUM,Zigzag Conversion,100.0,0.5032814860113997,https://leetcode.com/problems/zigzag-conversion
+HARD,Minimum Replacements to Sort the Array,77.5,0.5337110788163631,https://leetcode.com/problems/minimum-replacements-to-sort-the-array
+MEDIUM,Group Anagrams,72.8,0.7004725509249073,https://leetcode.com/problems/group-anagrams
+EASY,Best Time to Buy and Sell Stock,69.9,0.5457833881073118,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Two Sum,66.7,0.5468040749874233,https://leetcode.com/problems/two-sum
+EASY,Merge Sorted Array,66.7,0.5190066555313381,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,LRU Cache,62.8,0.4406266847507109,https://leetcode.com/problems/lru-cache
+MEDIUM,Reorganize String,62.8,0.5556516166477231,https://leetcode.com/problems/reorganize-string
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,62.8,0.530986099877874,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+HARD,Trapping Rain Water,62.8,0.6391060920831345,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Longest Substring Without Repeating Characters,58.1,0.36045577343000934,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Top K Frequent Elements,58.1,0.6385663408244531,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Merge Intervals,58.1,0.48545673062759076,https://leetcode.com/problems/merge-intervals
+MEDIUM,Number of Islands,58.1,0.6120953084280082,https://leetcode.com/problems/number-of-islands
+MEDIUM,Subarray Sum Equals K,58.1,0.44664925129475835,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Meeting Rooms III,58.1,0.44072004338584775,https://leetcode.com/problems/meeting-rooms-iii
+MEDIUM,Min Stack,52.1,0.5561972330376377,https://leetcode.com/problems/min-stack
+HARD,Maximum Frequency Stack,52.1,0.6660695319691282,https://leetcode.com/problems/maximum-frequency-stack
+EASY,Reverse Linked List,52.1,0.7835416353080098,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Maximum Product Subarray,52.1,0.3437476879111223,https://leetcode.com/problems/maximum-product-subarray
+HARD,Word Search II,52.1,0.3689282463837565,https://leetcode.com/problems/word-search-ii
+EASY,First Unique Character in a String,52.1,0.6301569217497852,https://leetcode.com/problems/first-unique-character-in-a-string
+MEDIUM,Longest Increasing Subsequence,52.1,0.569300037517941,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Find First and Last Position of Element in Sorted Array,52.1,0.458349935250165,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Sort Colors,52.1,0.6593318136559725,https://leetcode.com/problems/sort-colors
+MEDIUM,Find Minimum in Rotated Sorted Array,43.6,0.5190302892809184,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,Word Search,43.6,0.4430727942411496,https://leetcode.com/problems/word-search
+MEDIUM,Container With Most Water,43.6,0.5685241227995292,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Loud and Rich,43.6,0.6070083099468208,https://leetcode.com/problems/loud-and-rich
+EASY,Count the Number of Vowel Strings in Range,43.6,0.744200161150236,https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range
+EASY,Count Vowel Substrings of a String,43.6,0.6943034958369545,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+MEDIUM,Longest Palindromic Substring,43.6,0.35047634431531255,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Subarray Sums Divisible by K,43.6,0.555005597869909,https://leetcode.com/problems/subarray-sums-divisible-by-k
+MEDIUM,Remove Nth Node From End of List,43.6,0.47691673991420197,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+MEDIUM,Process Tasks Using Servers,43.6,0.4068008043962189,https://leetcode.com/problems/process-tasks-using-servers
+HARD,Median of Two Sorted Arrays,43.6,0.42479908167290065,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Invalid Transactions,43.6,0.3116159466809005,https://leetcode.com/problems/invalid-transactions
+MEDIUM,3Sum,43.6,0.3609278592905176,https://leetcode.com/problems/3sum
+EASY,Valid Palindrome,43.6,0.4971825095968216,https://leetcode.com/problems/valid-palindrome
+EASY,Maximum Population Year,43.6,0.6197999099740086,https://leetcode.com/problems/maximum-population-year
+MEDIUM,Koko Eating Bananas,43.6,0.48715502662401244,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Delete Node in a Linked List,43.6,0.8144127503281365,https://leetcode.com/problems/delete-node-in-a-linked-list
+EASY,Valid Parentheses,43.6,0.4160095807383749,https://leetcode.com/problems/valid-parentheses
+HARD,Largest Rectangle in Histogram,43.6,0.4624600033167197,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Maximum Value at a Given Index in a Bounded Array,43.6,0.3892905558065973,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
+MEDIUM,Search in Rotated Sorted Array,43.6,0.42078478692719445,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Subarray Product Less Than K,43.6,0.522193607029238,https://leetcode.com/problems/subarray-product-less-than-k
+MEDIUM,Find K Closest Elements,43.6,0.48192801984806183,https://leetcode.com/problems/find-k-closest-elements
+EASY,Reverse Words in a String III,43.6,0.8347056063403123,https://leetcode.com/problems/reverse-words-in-a-string-iii
+MEDIUM,Amount of Time for Binary Tree to Be Infected,43.6,0.62984068348318,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+MEDIUM,Count and Say,43.6,0.5746382268203247,https://leetcode.com/problems/count-and-say
+MEDIUM,Combination Sum,43.6,0.7356022114464678,https://leetcode.com/problems/combination-sum
+EASY,Reverse String,43.6,0.7936745226924112,https://leetcode.com/problems/reverse-string
+HARD,Minimum Window Substring,43.6,0.44366978618373876,https://leetcode.com/problems/minimum-window-substring
+EASY,Valid Anagram,43.6,0.6589720422311564,https://leetcode.com/problems/valid-anagram
+MEDIUM,Product of Array Except Self,43.6,0.6720158117509724,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Lowest Common Ancestor of a Binary Tree,43.6,0.6513882125346052,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Break a Palindrome,43.6,0.5155400177831153,https://leetcode.com/problems/break-a-palindrome
+MEDIUM,All Nodes Distance K in Binary Tree,43.6,0.6560864113748572,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree

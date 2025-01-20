@@ -1,20 +1,21 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Simple Bank System,100.0,0.6364081191894309,https://leetcode.com/problems/simple-bank-system
-HARD,Block Placement Queries,100.0,0.152011778619874,https://leetcode.com/problems/block-placement-queries
-MEDIUM,Spiral Matrix,91.8,0.5230483209213309,https://leetcode.com/problems/spiral-matrix
-HARD,Text Justification,86.2,0.4632742352690355,https://leetcode.com/problems/text-justification
-MEDIUM,Rotate Image,82.7,0.7669476465694077,https://leetcode.com/problems/rotate-image
-MEDIUM,Simplify Path,78.6,0.45695846056904654,https://leetcode.com/problems/simplify-path
-MEDIUM,Minimum Operations to Write the Letter Y on a Grid,67.2,0.6221289426231931,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid
-MEDIUM,Count Alternating Subarrays,67.2,0.5718483912289956,https://leetcode.com/problems/count-alternating-subarrays
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,67.2,0.5664732639332009,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
-EASY,Best Time to Buy and Sell Stock,67.2,0.5452634891153141,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Meeting Rooms II,58.2,0.5178402898285993,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Number of Islands,58.2,0.6112260291537752,https://leetcode.com/problems/number-of-islands
-HARD,Largest Rectangle in Histogram,58.2,0.46159670344185744,https://leetcode.com/problems/largest-rectangle-in-histogram
-MEDIUM,Find the Length of the Longest Common Prefix,58.2,0.5621293753558577,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
-MEDIUM,Non-overlapping Intervals,58.2,0.5462370870827298,https://leetcode.com/problems/non-overlapping-intervals
-HARD,Remove Boxes,58.2,0.4810799988559334,https://leetcode.com/problems/remove-boxes
-MEDIUM,Four Divisors,58.2,0.44047505333205966,https://leetcode.com/problems/four-divisors
-HARD,Number of Flowers in Full Bloom,58.2,0.5698214878565774,https://leetcode.com/problems/number-of-flowers-in-full-bloom
-EASY,Palindrome Number,58.2,0.5822326593921145,https://leetcode.com/problems/palindrome-number
+MEDIUM,Simple Bank System,100.0,0.6365813772939758,https://leetcode.com/problems/simple-bank-system
+HARD,Block Placement Queries,98.5,0.15384978297792037,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Spiral Matrix,93.2,0.5243063820184993,https://leetcode.com/problems/spiral-matrix
+HARD,Text Justification,83.3,0.46463350588941404,https://leetcode.com/problems/text-justification
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,80.0,0.5665658299331127,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+MEDIUM,Rotate Image,80.0,0.7679934691501147,https://leetcode.com/problems/rotate-image
+MEDIUM,Simplify Path,76.0,0.45876941184948533,https://leetcode.com/problems/simplify-path
+EASY,Best Time to Buy and Sell Stock,71.1,0.5457833881073118,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Count Alternating Subarrays,64.8,0.5722097378277153,https://leetcode.com/problems/count-alternating-subarrays
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,64.8,0.6222541572572368,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid
+MEDIUM,Find the Length of the Longest Common Prefix,56.0,0.562112327038217,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Candy Crush,56.0,0.7712595762720418,https://leetcode.com/problems/candy-crush
+EASY,Palindrome Number,56.0,0.5831331694499974,https://leetcode.com/problems/palindrome-number
+MEDIUM,Number of Islands,56.0,0.6120953084280082,https://leetcode.com/problems/number-of-islands
+HARD,Remove Boxes,56.0,0.481066610975575,https://leetcode.com/problems/remove-boxes
+HARD,Largest Rectangle in Histogram,56.0,0.4624600033167197,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Meeting Rooms II,56.0,0.5181631673232779,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Non-overlapping Intervals,56.0,0.5469633587916621,https://leetcode.com/problems/non-overlapping-intervals
+MEDIUM,Four Divisors,56.0,0.4412018795170568,https://leetcode.com/problems/four-divisors
+EASY,Add Strings,56.0,0.5166924048283024,https://leetcode.com/problems/add-strings

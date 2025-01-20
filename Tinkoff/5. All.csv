@@ -1,37 +1,36 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3597433839341713,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Min Stack,88.2,0.5555560552232766,https://leetcode.com/problems/min-stack
-EASY,Two Sum,85.5,0.545685380156736,https://leetcode.com/problems/two-sum
-MEDIUM,Keys and Rooms,82.4,0.7396657324955929,https://leetcode.com/problems/keys-and-rooms
-MEDIUM,Rotate Image,78.8,0.7669498670471496,https://leetcode.com/problems/rotate-image
-EASY,Backspace String Compare,78.8,0.4934366149798832,https://leetcode.com/problems/backspace-string-compare
-MEDIUM,Longest Palindromic Substring,74.6,0.3498427471202673,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Find First and Last Position of Element in Sorted Array,74.6,0.45753305126492205,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-MEDIUM,Simplify Path,74.6,0.45696041537008925,https://leetcode.com/problems/simplify-path
-EASY,Form Smallest Number From Two Digit Arrays,69.4,0.5434506036609114,https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays
-MEDIUM,Number of Islands,69.4,0.6112279831268782,https://leetcode.com/problems/number-of-islands
-MEDIUM,Battleships in a Board,69.4,0.760310960181116,https://leetcode.com/problems/battleships-in-a-board
-EASY,Find All Numbers Disappeared in an Array,69.4,0.6172733564356865,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
-MEDIUM,Search a 2D Matrix,69.4,0.5149904928783038,https://leetcode.com/problems/search-a-2d-matrix
-MEDIUM,Longest Subarray of 1's After Deleting One Element,69.4,0.6842374169040837,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
-MEDIUM,Search in Rotated Sorted Array,62.8,0.4201706063083935,https://leetcode.com/problems/search-in-rotated-sorted-array
-EASY,Best Time to Buy and Sell Stock,62.8,0.5452646750386264,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Maximize Distance to Closest Person,62.8,0.48552935108964645,https://leetcode.com/problems/maximize-distance-to-closest-person
-MEDIUM,Daily Temperatures,62.8,0.6673114373167369,https://leetcode.com/problems/daily-temperatures
-MEDIUM,Event Emitter,62.8,0.7406397630855289,https://leetcode.com/problems/event-emitter
-MEDIUM,Subarray Sums Divisible by K,62.8,0.5549958850134374,https://leetcode.com/problems/subarray-sums-divisible-by-k
-EASY,Squares of a Sorted Array,62.8,0.7303121626946126,https://leetcode.com/problems/squares-of-a-sorted-array
-MEDIUM,Count Square Submatrices with All Ones,62.8,0.7844807495660032,https://leetcode.com/problems/count-square-submatrices-with-all-ones
-MEDIUM,Decode String,62.8,0.6039238302333305,https://leetcode.com/problems/decode-string
-EASY,Minimum Difference Between Highest and Lowest of K Scores,53.5,0.5787711782975531,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores
-MEDIUM,Paint House,53.5,0.6321986610333256,https://leetcode.com/problems/paint-house
-MEDIUM,Subarray Sum Equals K,53.5,0.445959468695368,https://leetcode.com/problems/subarray-sum-equals-k
-EASY,Isomorphic Strings,53.5,0.4612701730263194,https://leetcode.com/problems/isomorphic-strings
-MEDIUM,Line Reflection,53.5,0.3583586600691567,https://leetcode.com/problems/line-reflection
-EASY,Is Subsequence,53.5,0.48149424817125236,https://leetcode.com/problems/is-subsequence
-MEDIUM,Remove Nth Node From End of List,53.5,0.4758423523933361,https://leetcode.com/problems/remove-nth-node-from-end-of-list
-EASY,Valid Parentheses,53.5,0.4153888436002984,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Meeting Rooms II,53.5,0.5178399618294366,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Department Highest Salary,53.5,0.5347723178777666,https://leetcode.com/problems/department-highest-salary
-EASY,Monotonic Array,53.5,0.6149258522180138,https://leetcode.com/problems/monotonic-array
-EASY,Merge Sorted Array,53.5,0.5180377841235684,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36045853603697836,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Two Sum,89.6,0.5468068400577674,https://leetcode.com/problems/two-sum
+MEDIUM,Min Stack,89.6,0.5561976226082181,https://leetcode.com/problems/min-stack
+MEDIUM,Keys and Rooms,83.7,0.7402392625236132,https://leetcode.com/problems/keys-and-rooms
+EASY,Backspace String Compare,80.1,0.49354551249635553,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Rotate Image,80.1,0.7679944837340357,https://leetcode.com/problems/rotate-image
+MEDIUM,Find First and Last Position of Element in Sorted Array,75.8,0.4583507607146309,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Simplify Path,75.8,0.458774867047469,https://leetcode.com/problems/simplify-path
+MEDIUM,Longest Palindromic Substring,75.8,0.35047779676403634,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Number of Islands,70.6,0.6120966036132185,https://leetcode.com/problems/number-of-islands
+EASY,Find All Numbers Disappeared in an Array,70.6,0.6176127761708413,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+MEDIUM,Battleships in a Board,70.6,0.7606903862717815,https://leetcode.com/problems/battleships-in-a-board
+EASY,Form Smallest Number From Two Digit Arrays,70.6,0.5440298988336877,https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays
+MEDIUM,Search a 2D Matrix,70.6,0.5155353707852233,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Longest Subarray of 1's After Deleting One Element,70.6,0.6850457607276834,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+MEDIUM,Search in Rotated Sorted Array,63.9,0.4207850976711897,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Count Square Submatrices with All Ones,63.9,0.7844933235669908,https://leetcode.com/problems/count-square-submatrices-with-all-ones
+EASY,Best Time to Buy and Sell Stock,63.9,0.5457855410175183,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Maximize Distance to Closest Person,63.9,0.48579244546736006,https://leetcode.com/problems/maximize-distance-to-closest-person
+MEDIUM,Daily Temperatures,63.9,0.6677638793742617,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Event Emitter,63.9,0.740793724042455,https://leetcode.com/problems/event-emitter
+MEDIUM,Subarray Sums Divisible by K,63.9,0.555005278789707,https://leetcode.com/problems/subarray-sums-divisible-by-k
+EASY,Squares of a Sorted Array,63.9,0.7303734919592257,https://leetcode.com/problems/squares-of-a-sorted-array
+MEDIUM,Decode String,63.9,0.6045181326322964,https://leetcode.com/problems/decode-string
+MEDIUM,Subarray Sum Equals K,54.4,0.4466509640970693,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Isomorphic Strings,54.4,0.46192581881528144,https://leetcode.com/problems/isomorphic-strings
+EASY,Minimum Difference Between Highest and Lowest of K Scores,54.4,0.579597236513303,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores
+MEDIUM,Paint House,54.4,0.6327293856938182,https://leetcode.com/problems/paint-house
+MEDIUM,Line Reflection,54.4,0.3585277796349536,https://leetcode.com/problems/line-reflection
+MEDIUM,Department Highest Salary,54.4,0.5356829174315001,https://leetcode.com/problems/department-highest-salary
+MEDIUM,Remove Nth Node From End of List,54.4,0.4769193155856692,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+MEDIUM,Meeting Rooms II,54.4,0.5181634000723047,https://leetcode.com/problems/meeting-rooms-ii
+EASY,Monotonic Array,54.4,0.6150597388872651,https://leetcode.com/problems/monotonic-array
+EASY,Is Subsequence,54.4,0.4815795644629262,https://leetcode.com/problems/is-subsequence
+EASY,Merge Sorted Array,54.4,0.5190100382347534,https://leetcode.com/problems/merge-sorted-array

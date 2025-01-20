@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5456848495394592,https://leetcode.com/problems/two-sum
-MEDIUM,3Sum,81.4,0.36009034811849916,https://leetcode.com/problems/3sum
-MEDIUM,Next Permutation,81.4,0.4188331705852196,https://leetcode.com/problems/next-permutation
-MEDIUM,Search a 2D Matrix,81.4,0.5149909027332426,https://leetcode.com/problems/search-a-2d-matrix
-MEDIUM,Longest Substring Without Repeating Characters,81.4,0.3597431451524734,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Longest Palindromic Substring,81.4,0.349842870743004,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,LRU Cache,81.4,0.4397815066470813,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,100.0,0.5468063755336181,https://leetcode.com/problems/two-sum
+MEDIUM,3Sum,81.4,0.36092940459479955,https://leetcode.com/problems/3sum
+MEDIUM,Next Permutation,81.4,0.4196839074961958,https://leetcode.com/problems/next-permutation
+MEDIUM,Search a 2D Matrix,81.4,0.5155352843952067,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Longest Substring Without Repeating Characters,81.4,0.3604581551547817,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Palindromic Substring,81.4,0.3504776403035458,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,LRU Cache,81.4,0.44062656050107935,https://leetcode.com/problems/lru-cache

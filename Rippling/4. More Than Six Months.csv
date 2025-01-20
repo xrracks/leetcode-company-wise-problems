@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Design Excel Sum Formula,100.0,0.438960986210118,https://leetcode.com/problems/design-excel-sum-formula
-HARD,Median of Two Sorted Arrays,75.8,0.42369959290596504,https://leetcode.com/problems/median-of-two-sorted-arrays
-MEDIUM,Evaluate Division,75.8,0.6253629692807333,https://leetcode.com/problems/evaluate-division
-MEDIUM,Employee Importance,69.9,0.6779720311354924,https://leetcode.com/problems/employee-importance
-MEDIUM,Synonymous Sentences,61.6,0.5649063796389729,https://leetcode.com/problems/synonymous-sentences
-MEDIUM,Maximum Subarray,61.6,0.5151962739246845,https://leetcode.com/problems/maximum-subarray
-HARD,Text Justification,61.6,0.46327524791330205,https://leetcode.com/problems/text-justification
-HARD,Longest Duplicate Substring,61.6,0.306121589406205,https://leetcode.com/problems/longest-duplicate-substring
+HARD,Design Excel Sum Formula,100.0,0.43964549246069934,https://leetcode.com/problems/design-excel-sum-formula
+HARD,Median of Two Sorted Arrays,74.7,0.42480070839738526,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Evaluate Division,74.7,0.6258574597576929,https://leetcode.com/problems/evaluate-division
+MEDIUM,Employee Importance,68.8,0.6784040383377355,https://leetcode.com/problems/employee-importance
+MEDIUM,Synonymous Sentences,60.6,0.5628610790151987,https://leetcode.com/problems/synonymous-sentences
+MEDIUM,Maximum Subarray,60.6,0.515627283677897,https://leetcode.com/problems/maximum-subarray
+HARD,Text Justification,60.6,0.4646346426890088,https://leetcode.com/problems/text-justification
+HARD,Longest Duplicate Substring,60.6,0.3058928204202742,https://leetcode.com/problems/longest-duplicate-substring

@@ -1,38 +1,40 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Special Binary String,100.0,0.6273377833904624,https://leetcode.com/problems/special-binary-string
-MEDIUM,Longest Substring Without Repeating Characters,81.3,0.3597414299168415,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Group Anagrams,81.3,0.6997623065189625,https://leetcode.com/problems/group-anagrams
-MEDIUM,Dot Product of Two Sparse Vectors,71.5,0.8989055194650575,https://leetcode.com/problems/dot-product-of-two-sparse-vectors
-MEDIUM,Rectangle Area,71.5,0.4699249080255898,https://leetcode.com/problems/rectangle-area
-HARD,Merge k Sorted Lists,71.5,0.5516021598969107,https://leetcode.com/problems/merge-k-sorted-lists
-EASY,Best Time to Buy and Sell Stock,71.5,0.545263506230555,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Number of Islands,71.5,0.6112258779762396,https://leetcode.com/problems/number-of-islands
-EASY,Reverse Bits,71.5,0.6145757368555567,https://leetcode.com/problems/reverse-bits
-MEDIUM,Task Scheduler II,71.5,0.5336462456647753,https://leetcode.com/problems/task-scheduler-ii
-EASY,Fibonacci Number,64.5,0.7222476764083872,https://leetcode.com/problems/fibonacci-number
-MEDIUM,Reverse Words in a String,64.5,0.48644602629249944,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,Remove Stones to Minimize the Total,64.5,0.6378965169244197,https://leetcode.com/problems/remove-stones-to-minimize-the-total
-EASY,Two Sum,64.5,0.5456828285441653,https://leetcode.com/problems/two-sum
-MEDIUM,Course Schedule II,64.5,0.5218083591079278,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Insert Delete GetRandom O(1),64.5,0.5480519507056787,https://leetcode.com/problems/insert-delete-getrandom-o1
-EASY,Last Stone Weight,64.5,0.6572259056404345,https://leetcode.com/problems/last-stone-weight
-MEDIUM,Minimum Operations to Reduce an Integer to 0,64.5,0.5628462306024843,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
-EASY,Reverse Linked List,64.5,0.7827322047879308,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,String Compression,54.8,0.5672144884218164,https://leetcode.com/problems/string-compression
-MEDIUM,Minimum Path Sum,54.8,0.6549980032072442,https://leetcode.com/problems/minimum-path-sum
-MEDIUM,Find the Duplicate Number,54.8,0.6204385773245555,https://leetcode.com/problems/find-the-duplicate-number
-EASY,Valid Parentheses,54.8,0.41538853049350605,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Rotate Image,54.8,0.7669474738288244,https://leetcode.com/problems/rotate-image
-MEDIUM,H-Index,54.8,0.3972954339418533,https://leetcode.com/problems/h-index
-MEDIUM,The Maze,54.8,0.5889552608907129,https://leetcode.com/problems/the-maze
-EASY,Move Zeroes,54.8,0.6237773713181372,https://leetcode.com/problems/move-zeroes
-MEDIUM,Maximize Greatness of an Array,54.8,0.5839763106310214,https://leetcode.com/problems/maximize-greatness-of-an-array
-MEDIUM,Count the Number of Good Subsequences,54.8,0.5250573833205815,https://leetcode.com/problems/count-the-number-of-good-subsequences
-MEDIUM,Minimum Knight Moves,54.8,0.41038796670398675,https://leetcode.com/problems/minimum-knight-moves
-MEDIUM,LRU Cache,54.8,0.4397787927921382,https://leetcode.com/problems/lru-cache
-EASY,Remove Duplicates from Sorted List,54.8,0.540005460251135,https://leetcode.com/problems/remove-duplicates-from-sorted-list
-HARD,Serialize and Deserialize Binary Tree,54.8,0.5802163472522505,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-EASY,Missing Number,54.8,0.6884040915073415,https://leetcode.com/problems/missing-number
-HARD,Maximum Number of Visible Points,54.8,0.3742272499851598,https://leetcode.com/problems/maximum-number-of-visible-points
-MEDIUM,Maximum Sum of Distinct Subarrays With Length K,54.8,0.4283720779039853,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
-MEDIUM,Asteroid Collision,54.8,0.44952838377020865,https://leetcode.com/problems/asteroid-collision
+HARD,Special Binary String,100.0,0.6293315912937614,https://leetcode.com/problems/special-binary-string
+MEDIUM,Longest Substring Without Repeating Characters,81.1,0.3604556407327617,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Group Anagrams,81.1,0.7004723072649172,https://leetcode.com/problems/group-anagrams
+MEDIUM,Dot Product of Two Sparse Vectors,81.1,0.8988587735752627,https://leetcode.com/problems/dot-product-of-two-sparse-vectors
+EASY,Reverse Bits,76.7,0.6161601246217813,https://leetcode.com/problems/reverse-bits
+MEDIUM,Rectangle Area,71.3,0.4703193306278497,https://leetcode.com/problems/rectangle-area
+EASY,Two Sum,71.3,0.546803859722265,https://leetcode.com/problems/two-sum
+EASY,Best Time to Buy and Sell Stock,71.3,0.5457832424707283,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Merge k Sorted Lists,71.3,0.5529198813682755,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Number of Islands,71.3,0.6120952568604953,https://leetcode.com/problems/number-of-islands
+MEDIUM,Course Schedule II,64.3,0.5227067222467434,https://leetcode.com/problems/course-schedule-ii
+EASY,Valid Parentheses,64.3,0.41600937360756374,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Reverse Words in a String,64.3,0.48959655682321374,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Last Stone Weight,64.3,0.6574062607499142,https://leetcode.com/problems/last-stone-weight
+EASY,Reverse Linked List,64.3,0.78354156561462,https://leetcode.com/problems/reverse-linked-list
+EASY,Fibonacci Number,64.3,0.7229367812547458,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Minimum Operations to Reduce an Integer to 0,64.3,0.5634320700506226,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
+MEDIUM,Task Scheduler II,64.3,0.5340377725147264,https://leetcode.com/problems/task-scheduler-ii
+MEDIUM,Remove Stones to Minimize the Total,64.3,0.638483980795358,https://leetcode.com/problems/remove-stones-to-minimize-the-total
+MEDIUM,Rotate Image,54.5,0.7679932985962042,https://leetcode.com/problems/rotate-image
+MEDIUM,The Maze,54.5,0.5894961365610005,https://leetcode.com/problems/the-maze
+MEDIUM,Asteroid Collision,54.5,0.4495641863489999,https://leetcode.com/problems/asteroid-collision
+MEDIUM,H-Index,54.5,0.39758561934207753,https://leetcode.com/problems/h-index
+MEDIUM,4Sum,54.5,0.37302506396106544,https://leetcode.com/problems/4sum
+MEDIUM,Find the Duplicate Number,54.5,0.6211173543970145,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,String Compression,54.5,0.5683429329308454,https://leetcode.com/problems/string-compression
+HARD,Find Median from Data Stream,54.5,0.527541286109208,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Minimum Path Sum,54.5,0.6557731682549344,https://leetcode.com/problems/minimum-path-sum
+EASY,Move Zeroes,54.5,0.6240689349260936,https://leetcode.com/problems/move-zeroes
+MEDIUM,Maximize Greatness of an Array,54.5,0.5847619047619048,https://leetcode.com/problems/maximize-greatness-of-an-array
+MEDIUM,Count the Number of Good Subsequences,54.5,0.5255805172739286,https://leetcode.com/problems/count-the-number-of-good-subsequences
+MEDIUM,Minimum Knight Moves,54.5,0.41064898786603166,https://leetcode.com/problems/minimum-knight-moves
+MEDIUM,LRU Cache,54.5,0.4406258861833756,https://leetcode.com/problems/lru-cache
+EASY,Remove Duplicates from Sorted List,54.5,0.540641033580179,https://leetcode.com/problems/remove-duplicates-from-sorted-list
+HARD,Serialize and Deserialize Binary Tree,54.5,0.5809253744206535,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Insert Delete GetRandom O(1),54.5,0.5482798324750421,https://leetcode.com/problems/insert-delete-getrandom-o1
+EASY,Missing Number,54.5,0.6894107668048057,https://leetcode.com/problems/missing-number
+HARD,Maximum Number of Visible Points,54.5,0.3741547074992833,https://leetcode.com/problems/maximum-number-of-visible-points
+MEDIUM,Maximal Square,54.5,0.4795492325403397,https://leetcode.com/problems/maximal-square

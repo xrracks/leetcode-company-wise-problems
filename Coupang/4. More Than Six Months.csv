@@ -1,22 +1,22 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Possible Bipartition,100.0,0.5102296507801045,https://leetcode.com/problems/possible-bipartition
-HARD,Design In-Memory File System,100.0,0.4805465892878937,https://leetcode.com/problems/design-in-memory-file-system
-MEDIUM,Unique Paths II,95.9,0.4254157737624125,https://leetcode.com/problems/unique-paths-ii
-MEDIUM,LRU Cache,95.9,0.4397805713502933,https://leetcode.com/problems/lru-cache
-MEDIUM,Unique Paths,85.3,0.651855332749779,https://leetcode.com/problems/unique-paths
-MEDIUM,Design Twitter,85.3,0.4130408563524122,https://leetcode.com/problems/design-twitter
-HARD,Regular Expression Matching,85.3,0.28739784127268586,https://leetcode.com/problems/regular-expression-matching
-MEDIUM,Number of Islands,77.7,0.6112264176072274,https://leetcode.com/problems/number-of-islands
-MEDIUM,Search a 2D Matrix,77.7,0.5149913488429455,https://leetcode.com/problems/search-a-2d-matrix
-HARD,LFU Cache,77.7,0.4546345668090843,https://leetcode.com/problems/lfu-cache
-MEDIUM,Course Schedule,67.1,0.4808059192003688,https://leetcode.com/problems/course-schedule
-HARD,Bus Routes,67.1,0.47166685122929153,https://leetcode.com/problems/bus-routes
-HARD,Maximum Number of Tasks You Can Assign,67.1,0.33717189912506434,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign
-HARD,Number of Atoms,67.1,0.6503555051780103,https://leetcode.com/problems/number-of-atoms
-MEDIUM,Decode String,67.1,0.6039237081260408,https://leetcode.com/problems/decode-string
-MEDIUM,Search a 2D Matrix II,67.1,0.5406368044585885,https://leetcode.com/problems/search-a-2d-matrix-ii
-MEDIUM,Basic Calculator II,67.1,0.44895408364935213,https://leetcode.com/problems/basic-calculator-ii
-MEDIUM,Cheapest Flights Within K Stops,67.1,0.39897730258259245,https://leetcode.com/problems/cheapest-flights-within-k-stops
-MEDIUM,Subsets,67.1,0.7986298407049146,https://leetcode.com/problems/subsets
-MEDIUM,Word Break,67.1,0.47641408852713013,https://leetcode.com/problems/word-break
-HARD,Basic Calculator,67.1,0.44446517335588637,https://leetcode.com/problems/basic-calculator
+MEDIUM,Possible Bipartition,100.0,0.5105433708485124,https://leetcode.com/problems/possible-bipartition
+MEDIUM,LRU Cache,100.0,0.4406274912094561,https://leetcode.com/problems/lru-cache
+HARD,Design In-Memory File System,100.0,0.48070331291222834,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Unique Paths II,95.9,0.4259046773209036,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Unique Paths,85.3,0.6522729887037252,https://leetcode.com/problems/unique-paths
+HARD,LFU Cache,85.3,0.4552123016577045,https://leetcode.com/problems/lfu-cache
+MEDIUM,Design Twitter,85.3,0.41367310736413754,https://leetcode.com/problems/design-twitter
+HARD,Regular Expression Matching,85.3,0.287740160193903,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Number of Islands,77.7,0.6120957429135486,https://leetcode.com/problems/number-of-islands
+MEDIUM,Search a 2D Matrix,77.7,0.515534392057244,https://leetcode.com/problems/search-a-2d-matrix
+HARD,Bus Routes,67.1,0.47123164892072,https://leetcode.com/problems/bus-routes
+MEDIUM,Course Schedule,67.1,0.48160008179331854,https://leetcode.com/problems/course-schedule
+HARD,Number of Atoms,67.1,0.6503483917414443,https://leetcode.com/problems/number-of-atoms
+MEDIUM,Decode String,67.1,0.6045197339771752,https://leetcode.com/problems/decode-string
+HARD,Maximum Number of Tasks You Can Assign,67.1,0.3377170582226762,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign
+MEDIUM,Search a 2D Matrix II,67.1,0.5414007817145524,https://leetcode.com/problems/search-a-2d-matrix-ii
+MEDIUM,Basic Calculator II,67.1,0.449669171966339,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Cheapest Flights Within K Stops,67.1,0.39931911990120755,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Subsets,67.1,0.7994397362166977,https://leetcode.com/problems/subsets
+MEDIUM,Word Break,67.1,0.47690411120934845,https://leetcode.com/problems/word-break
+HARD,Basic Calculator,67.1,0.4451540275773926,https://leetcode.com/problems/basic-calculator

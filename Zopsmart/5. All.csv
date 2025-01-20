@@ -1,13 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Zigzag Conversion,100.0,0.5021552753706362,https://leetcode.com/problems/zigzag-conversion
-MEDIUM,Reverse Nodes in Even Length Groups,87.2,0.5975676646933101,https://leetcode.com/problems/reverse-nodes-in-even-length-groups
-HARD,Minimum Window Substring,75.3,0.4429193822811273,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Fraction Addition and Subtraction,71.7,0.6609754979135778,https://leetcode.com/problems/fraction-addition-and-subtraction
-HARD,Trapping Rain Water,67.3,0.6378168002360172,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Remove K Digits,67.3,0.3422148720984499,https://leetcode.com/problems/remove-k-digits
-MEDIUM,Bulls and Cows,61.6,0.5092749840906607,https://leetcode.com/problems/bulls-and-cows
-MEDIUM,Group Anagrams,53.6,0.6997635618642186,https://leetcode.com/problems/group-anagrams
-EASY,Best Time to Buy and Sell Stock,53.6,0.5452646766366142,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,3Sum,53.6,0.36009182450013055,https://leetcode.com/problems/3sum
-MEDIUM,Container With Most Water,53.6,0.567672389262572,https://leetcode.com/problems/container-with-most-water
-MEDIUM,Add Two Numbers,53.6,0.44937255807205095,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Zigzag Conversion,100.0,0.503285661249927,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Reverse Nodes in Even Length Groups,84.5,0.5986089760413933,https://leetcode.com/problems/reverse-nodes-in-even-length-groups
+HARD,Minimum Window Substring,74.5,0.4436726489326956,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Fraction Addition and Subtraction,70.9,0.6613410255498732,https://leetcode.com/problems/fraction-addition-and-subtraction
+HARD,Trapping Rain Water,66.5,0.6391114414720586,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Remove K Digits,66.5,0.342640446043766,https://leetcode.com/problems/remove-k-digits
+MEDIUM,Bulls and Cows,66.5,0.50963929112262,https://leetcode.com/problems/bulls-and-cows
+MEDIUM,Group Anagrams,53.0,0.7004750190959385,https://leetcode.com/problems/group-anagrams
+EASY,Best Time to Buy and Sell Stock,53.0,0.5457863551423454,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,3Sum,53.0,0.3609298783833752,https://leetcode.com/problems/3sum
+MEDIUM,Container With Most Water,53.0,0.5685277572733983,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Add Two Numbers,53.0,0.45044956802897657,https://leetcode.com/problems/add-two-numbers

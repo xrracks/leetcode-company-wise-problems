@@ -1,8 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Koko Eating Bananas,100.0,0.48695355609850977,https://leetcode.com/problems/koko-eating-bananas
-EASY,Valid Parentheses,94.4,0.4153888436002984,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Longest Substring Without Repeating Characters,94.4,0.3597433456561283,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Minimum Cost For Tickets,87.2,0.6741649309062491,https://leetcode.com/problems/minimum-cost-for-tickets
-EASY,Partition Array Into Three Parts With Equal Sum,77.0,0.4202958756483371,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum
-EASY,Best Time to Buy and Sell Stock,77.0,0.5452646228898111,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Minimum Length of Anagram Concatenation,77.0,0.4142022687510582,https://leetcode.com/problems/minimum-length-of-anagram-concatenation
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.360458569823108,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Valid Parentheses,92.4,0.4160114934437147,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Koko Eating Bananas,92.4,0.4871540612140187,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Minimum Cost For Tickets,92.4,0.6741660660251432,https://leetcode.com/problems/minimum-cost-for-tickets
+EASY,Best Time to Buy and Sell Stock,81.8,0.5457854806877719,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Minimum Length of Anagram Concatenation,81.8,0.41389728096676737,https://leetcode.com/problems/minimum-length-of-anagram-concatenation

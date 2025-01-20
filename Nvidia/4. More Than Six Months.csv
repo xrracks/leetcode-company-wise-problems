@@ -1,90 +1,92 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Last Stone Weight,100.0,0.6572259056404345,https://leetcode.com/problems/last-stone-weight
-MEDIUM,LRU Cache,85.3,0.4397787927921382,https://leetcode.com/problems/lru-cache
-EASY,Best Time to Buy and Sell Stock,74.5,0.545263506230555,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Add Two Numbers,71.5,0.44936937766042073,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Group Anagrams,71.5,0.6997623065189625,https://leetcode.com/problems/group-anagrams
-EASY,Missing Number,71.5,0.6884040915073415,https://leetcode.com/problems/missing-number
-EASY,Two Sum,71.5,0.5456828443428963,https://leetcode.com/problems/two-sum
-HARD,Trapping Rain Water,63.9,0.6378146786883072,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Copy List with Random Pointer,63.9,0.5882843199455384,https://leetcode.com/problems/copy-list-with-random-pointer
-MEDIUM,Merge Intervals,63.9,0.4847550564743571,https://leetcode.com/problems/merge-intervals
-MEDIUM,Validate Binary Search Tree,63.9,0.3376477200178653,https://leetcode.com/problems/validate-binary-search-tree
-MEDIUM,Number of Islands,63.9,0.6112258779762396,https://leetcode.com/problems/number-of-islands
-MEDIUM,Minimum Operations to Reduce an Integer to 0,59.0,0.5628462306024843,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
-HARD,Find Median from Data Stream,59.0,0.5271734796822942,https://leetcode.com/problems/find-median-from-data-stream
-EASY,Reverse Bits,59.0,0.6145757368555567,https://leetcode.com/problems/reverse-bits
-EASY,Intersection of Two Linked Lists,59.0,0.5973626417077587,https://leetcode.com/problems/intersection-of-two-linked-lists
-HARD,Binary Tree Maximum Path Sum,59.0,0.4071195744440043,https://leetcode.com/problems/binary-tree-maximum-path-sum
-EASY,Move Zeroes,59.0,0.6237773713181372,https://leetcode.com/problems/move-zeroes
-MEDIUM,Single Element in a Sorted Array,59.0,0.5923523550377496,https://leetcode.com/problems/single-element-in-a-sorted-array
-MEDIUM,Longest Substring Without Repeating Characters,59.0,0.3597414299168415,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Climbing Stairs,59.0,0.5327835878145134,https://leetcode.com/problems/climbing-stairs
-MEDIUM,Rotate Image,59.0,0.766947560199148,https://leetcode.com/problems/rotate-image
-EASY,Valid Parentheses,59.0,0.41538853049350605,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Search in Rotated Sorted Array,59.0,0.4201701033105128,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Minimum Add to Make Parentheses Valid,52.5,0.7467715438639396,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
-MEDIUM,Break a Palindrome,52.5,0.5157598765271226,https://leetcode.com/problems/break-a-palindrome
-MEDIUM,Reverse Integer,52.5,0.29599194477945207,https://leetcode.com/problems/reverse-integer
-EASY,Is Subsequence,52.5,0.48149678031017873,https://leetcode.com/problems/is-subsequence
-EASY,Design HashMap,52.5,0.6561972630121441,https://leetcode.com/problems/design-hashmap
-MEDIUM,String to Integer (atoi),52.5,0.18419979707737708,https://leetcode.com/problems/string-to-integer-atoi
-EASY,Fibonacci Number,52.5,0.7222476764083872,https://leetcode.com/problems/fibonacci-number
-EASY,Single Number,52.5,0.7487552355923764,https://leetcode.com/problems/single-number
-MEDIUM,Find the Duplicate Number,52.5,0.6204385773245555,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,Snapshot Array,52.5,0.3676601089248457,https://leetcode.com/problems/snapshot-array
-MEDIUM,Implement Trie (Prefix Tree),52.5,0.6704749584446694,https://leetcode.com/problems/implement-trie-prefix-tree
-MEDIUM,Find The Original Array of Prefix Xor,52.5,0.8802914337795251,https://leetcode.com/problems/find-the-original-array-of-prefix-xor
-MEDIUM,Kth Largest Element in an Array,52.5,0.6738410481008086,https://leetcode.com/problems/kth-largest-element-in-an-array
-EASY,Find Pivot Index,52.5,0.5942464917575779,https://leetcode.com/problems/find-pivot-index
-HARD,Best Time to Buy and Sell Stock IV,52.5,0.454677492886184,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
-MEDIUM,Reverse Linked List II,52.5,0.48791271353734095,https://leetcode.com/problems/reverse-linked-list-ii
-HARD,Max Points on a Line,52.5,0.2806522813205072,https://leetcode.com/problems/max-points-on-a-line
-EASY,Majority Element,52.5,0.6539912860708269,https://leetcode.com/problems/majority-element
-MEDIUM,Linked List Cycle II,43.6,0.5343387955328254,https://leetcode.com/problems/linked-list-cycle-ii
-MEDIUM,Subarray Product Less Than K,43.6,0.5216856344843862,https://leetcode.com/problems/subarray-product-less-than-k
-HARD,Sliding Puzzle,43.6,0.7291815218498523,https://leetcode.com/problems/sliding-puzzle
-MEDIUM,Maximum Subarray,43.6,0.5151959916129452,https://leetcode.com/problems/maximum-subarray
-MEDIUM,Insert Interval,43.6,0.4266956893762568,https://leetcode.com/problems/insert-interval
-MEDIUM,Verify Preorder Sequence in Binary Search Tree,43.6,0.5050684402743549,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
-HARD,Delete Duplicate Folders in System,43.6,0.5482625482625483,https://leetcode.com/problems/delete-duplicate-folders-in-system
-MEDIUM,Spiral Matrix,43.6,0.5230483209213309,https://leetcode.com/problems/spiral-matrix
-EASY,Fizz Buzz,43.6,0.7356985723088217,https://leetcode.com/problems/fizz-buzz
-MEDIUM,Keys and Rooms,43.6,0.7396662344156559,https://leetcode.com/problems/keys-and-rooms
-EASY,Number of 1 Bits,43.6,0.7326495140210444,https://leetcode.com/problems/number-of-1-bits
-EASY,Monotonic Array,43.6,0.6149267375751755,https://leetcode.com/problems/monotonic-array
-MEDIUM,Delete Node in a Linked List,43.6,0.8136642972981414,https://leetcode.com/problems/delete-node-in-a-linked-list
-MEDIUM,Sort Colors,43.6,0.6582487788102324,https://leetcode.com/problems/sort-colors
-MEDIUM,Beautiful Arrangement,43.6,0.6440137330694645,https://leetcode.com/problems/beautiful-arrangement
-MEDIUM,Linked List Random Node,43.6,0.6366050378458866,https://leetcode.com/problems/linked-list-random-node
-EASY,Intersection of Two Arrays,43.6,0.7572272433267784,https://leetcode.com/problems/intersection-of-two-arrays
-MEDIUM,Valid Sudoku,43.6,0.6123406824336131,https://leetcode.com/problems/valid-sudoku
-EASY,Merge Sorted Array,43.6,0.5180354509476554,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,Convert Binary Search Tree to Sorted Doubly Linked List,43.6,0.652614073585704,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
-EASY,Counting Bits,43.6,0.7917147540696635,https://leetcode.com/problems/counting-bits
-MEDIUM,Robot Bounded In Circle,43.6,0.5604165403708719,https://leetcode.com/problems/robot-bounded-in-circle
-EASY,Longest Common Prefix,43.6,0.44471889661308084,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Min Stack,43.6,0.5555546186696257,https://leetcode.com/problems/min-stack
-MEDIUM,Find Peak Element,43.6,0.4624651242870744,https://leetcode.com/problems/find-peak-element
-MEDIUM,Course Schedule,43.6,0.4808050570422261,https://leetcode.com/problems/course-schedule
-MEDIUM,Maximal Square,43.6,0.4789733266230498,https://leetcode.com/problems/maximal-square
-MEDIUM,Meeting Rooms II,43.6,0.5178400367429958,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,H-Index,43.6,0.3972954339418533,https://leetcode.com/problems/h-index
-MEDIUM,Range Sum Query 2D - Immutable,43.6,0.5567117673834585,https://leetcode.com/problems/range-sum-query-2d-immutable
-HARD,Longest Increasing Path in a Matrix,43.6,0.5462635639278677,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
-MEDIUM,Top K Frequent Elements,43.6,0.637866305495731,https://leetcode.com/problems/top-k-frequent-elements
-MEDIUM,Shuffle an Array,43.6,0.5872315386878494,https://leetcode.com/problems/shuffle-an-array
-MEDIUM,Number of Operations to Make Network Connected,43.6,0.6382012553208998,https://leetcode.com/problems/number-of-operations-to-make-network-connected
-MEDIUM,Sort Characters By Frequency,43.6,0.7340488054395266,https://leetcode.com/problems/sort-characters-by-frequency
-MEDIUM,Swapping Nodes in a Linked List,43.6,0.6817095900004013,https://leetcode.com/problems/swapping-nodes-in-a-linked-list
-MEDIUM,Generate Parentheses,43.6,0.7612845756748805,https://leetcode.com/problems/generate-parentheses
-MEDIUM,Ways to Make a Fair Array,43.6,0.6393695081076184,https://leetcode.com/problems/ways-to-make-a-fair-array
-MEDIUM,Double a Number Represented as a Linked List,43.6,0.6141811196792962,https://leetcode.com/problems/double-a-number-represented-as-a-linked-list
-MEDIUM,All Possible Full Binary Trees,43.6,0.8278237031865896,https://leetcode.com/problems/all-possible-full-binary-trees
-MEDIUM,Remove Nth Node From End of List,43.6,0.4758412862378458,https://leetcode.com/problems/remove-nth-node-from-end-of-list
-EASY,Rectangle Overlap,43.6,0.453938227603407,https://leetcode.com/problems/rectangle-overlap
-MEDIUM,House Robber,43.6,0.5181551810917336,https://leetcode.com/problems/house-robber
-MEDIUM,3Sum,43.6,0.3600888480908331,https://leetcode.com/problems/3sum
-MEDIUM,Set Matrix Zeroes,43.6,0.5837198348432614,https://leetcode.com/problems/set-matrix-zeroes
-MEDIUM,Dot Product of Two Sparse Vectors,43.6,0.8989055194650575,https://leetcode.com/problems/dot-product-of-two-sparse-vectors
-MEDIUM,Task Scheduler II,43.6,0.5336462456647753,https://leetcode.com/problems/task-scheduler-ii
+EASY,Last Stone Weight,100.0,0.6574062607499142,https://leetcode.com/problems/last-stone-weight
+MEDIUM,LRU Cache,86.1,0.4406258861833756,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,72.1,0.546803859722265,https://leetcode.com/problems/two-sum
+EASY,Missing Number,72.1,0.6894105932828364,https://leetcode.com/problems/missing-number
+MEDIUM,Group Anagrams,72.1,0.7004723072649172,https://leetcode.com/problems/group-anagrams
+EASY,Best Time to Buy and Sell Stock,72.1,0.5457832424707283,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Add Two Numbers,72.1,0.4504463767763496,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Copy List with Random Pointer,64.5,0.5897069186502275,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Number of Islands,64.5,0.6120952568604953,https://leetcode.com/problems/number-of-islands
+MEDIUM,Merge Intervals,64.5,0.4854569611166554,https://leetcode.com/problems/merge-intervals
+HARD,Trapping Rain Water,64.5,0.6391056401522741,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Single Element in a Sorted Array,59.5,0.5919784527897917,https://leetcode.com/problems/single-element-in-a-sorted-array
+HARD,Find Median from Data Stream,59.5,0.527541286109208,https://leetcode.com/problems/find-median-from-data-stream
+EASY,Reverse Bits,59.5,0.6161601246217813,https://leetcode.com/problems/reverse-bits
+EASY,Intersection of Two Linked Lists,59.5,0.5984514814444759,https://leetcode.com/problems/intersection-of-two-linked-lists
+HARD,Binary Tree Maximum Path Sum,59.5,0.4074720245707934,https://leetcode.com/problems/binary-tree-maximum-path-sum
+EASY,Move Zeroes,59.5,0.6240689991109788,https://leetcode.com/problems/move-zeroes
+MEDIUM,Minimum Operations to Reduce an Integer to 0,59.5,0.5634320700506226,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
+MEDIUM,Validate Binary Search Tree,59.5,0.3380902860658509,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,Longest Substring Without Repeating Characters,59.5,0.36045567451964927,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Climbing Stairs,59.5,0.5329291861399258,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Rotate Image,59.5,0.7679932985962042,https://leetcode.com/problems/rotate-image
+MEDIUM,Search in Rotated Sorted Array,59.5,0.42078461062393224,https://leetcode.com/problems/search-in-rotated-sorted-array
+EASY,Valid Parentheses,59.5,0.41600937360756374,https://leetcode.com/problems/valid-parentheses
+EASY,Single Number,53.0,0.7497348420550872,https://leetcode.com/problems/single-number
+MEDIUM,Break a Palindrome,53.0,0.5155400177831153,https://leetcode.com/problems/break-a-palindrome
+EASY,Design HashMap,53.0,0.6563047181191721,https://leetcode.com/problems/design-hashmap
+MEDIUM,Find The Original Array of Prefix Xor,53.0,0.8804186331061004,https://leetcode.com/problems/find-the-original-array-of-prefix-xor
+MEDIUM,Generate Parentheses,53.0,0.7621018353365432,https://leetcode.com/problems/generate-parentheses
+EASY,Majority Element,53.0,0.6542323621228067,https://leetcode.com/problems/majority-element
+MEDIUM,Minimum Add to Make Parentheses Valid,53.0,0.7468108042571809,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+EASY,Fibonacci Number,53.0,0.7229367812547458,https://leetcode.com/problems/fibonacci-number
+EASY,Is Subsequence,53.0,0.4815802995135952,https://leetcode.com/problems/is-subsequence
+MEDIUM,String to Integer (atoi),53.0,0.1847757835387666,https://leetcode.com/problems/string-to-integer-atoi
+MEDIUM,Implement Trie (Prefix Tree),53.0,0.6714332461632803,https://leetcode.com/problems/implement-trie-prefix-tree
+EASY,Find Pivot Index,53.0,0.5953695332452847,https://leetcode.com/problems/find-pivot-index
+HARD,Max Points on a Line,53.0,0.28139611882053805,https://leetcode.com/problems/max-points-on-a-line
+MEDIUM,Reverse Integer,53.0,0.2965441500909434,https://leetcode.com/problems/reverse-integer
+MEDIUM,Kth Largest Element in an Array,53.0,0.6742746825367935,https://leetcode.com/problems/kth-largest-element-in-an-array
+HARD,Best Time to Buy and Sell Stock IV,53.0,0.4559505865363309,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+MEDIUM,Find the Duplicate Number,53.0,0.6211173543970145,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,Reverse Linked List II,53.0,0.4883984952597384,https://leetcode.com/problems/reverse-linked-list-ii
+MEDIUM,Snapshot Array,53.0,0.36772315398424804,https://leetcode.com/problems/snapshot-array
+MEDIUM,Task Scheduler II,53.0,0.5340377725147264,https://leetcode.com/problems/task-scheduler-ii
+MEDIUM,Insert Interval,44.0,0.4271851898028867,https://leetcode.com/problems/insert-interval
+MEDIUM,Maximum Sum of Distinct Subarrays With Length K,44.0,0.42820306315293344,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+MEDIUM,Maximum Subarray,44.0,0.5156266506190753,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Verify Preorder Sequence in Binary Search Tree,44.0,0.5053848112207743,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+MEDIUM,Subarray Product Less Than K,44.0,0.5221942018288432,https://leetcode.com/problems/subarray-product-less-than-k
+HARD,Sliding Puzzle,44.0,0.7293936983890619,https://leetcode.com/problems/sliding-puzzle
+MEDIUM,Spiral Matrix,44.0,0.524305535653358,https://leetcode.com/problems/spiral-matrix
+EASY,Monotonic Array,44.0,0.6150592475736829,https://leetcode.com/problems/monotonic-array
+EASY,Merge Sorted Array,44.0,0.519006173831456,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Delete Node in a Linked List,44.0,0.8144125613506303,https://leetcode.com/problems/delete-node-in-a-linked-list
+MEDIUM,Valid Sudoku,44.0,0.6132869261330715,https://leetcode.com/problems/valid-sudoku
+EASY,Fizz Buzz,44.0,0.7363859825057569,https://leetcode.com/problems/fizz-buzz
+MEDIUM,Keys and Rooms,44.0,0.7402345336354393,https://leetcode.com/problems/keys-and-rooms
+EASY,Intersection of Two Arrays,44.0,0.7578415568695105,https://leetcode.com/problems/intersection-of-two-arrays
+MEDIUM,Linked List Random Node,44.0,0.6367925695981305,https://leetcode.com/problems/linked-list-random-node
+HARD,Delete Duplicate Folders in System,44.0,0.5485665137614679,https://leetcode.com/problems/delete-duplicate-folders-in-system
+MEDIUM,Beautiful Arrangement,44.0,0.6441346183410828,https://leetcode.com/problems/beautiful-arrangement
+MEDIUM,Sort Colors,44.0,0.6593313769940343,https://leetcode.com/problems/sort-colors
+EASY,Number of 1 Bits,44.0,0.7337897491821156,https://leetcode.com/problems/number-of-1-bits
+EASY,Counting Bits,44.0,0.7921858580491707,https://leetcode.com/problems/counting-bits
+MEDIUM,Convert Binary Search Tree to Sorted Doubly Linked List,44.0,0.6529101854043701,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+MEDIUM,Sort Characters By Frequency,44.0,0.7344642156483187,https://leetcode.com/problems/sort-characters-by-frequency
+MEDIUM,Min Stack,44.0,0.5561966458209349,https://leetcode.com/problems/min-stack
+MEDIUM,Find Peak Element,44.0,0.46262840017785967,https://leetcode.com/problems/find-peak-element
+MEDIUM,Course Schedule,44.0,0.4815995714000531,https://leetcode.com/problems/course-schedule
+MEDIUM,Maximal Square,44.0,0.4795492325403397,https://leetcode.com/problems/maximal-square
+MEDIUM,Meeting Rooms II,44.0,0.5181624121396905,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,H-Index,44.0,0.39758599630058844,https://leetcode.com/problems/h-index
+MEDIUM,Range Sum Query 2D - Immutable,44.0,0.5573204313323354,https://leetcode.com/problems/range-sum-query-2d-immutable
+HARD,Longest Increasing Path in a Matrix,44.0,0.5469390364106631,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+MEDIUM,Top K Frequent Elements,44.0,0.6385662296350492,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Shuffle an Array,44.0,0.587435054923558,https://leetcode.com/problems/shuffle-an-array
+MEDIUM,Number of Operations to Make Network Connected,44.0,0.6387750658194271,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Swapping Nodes in a Linked List,44.0,0.6817146347077063,https://leetcode.com/problems/swapping-nodes-in-a-linked-list
+MEDIUM,Robot Bounded In Circle,44.0,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle
+MEDIUM,Ways to Make a Fair Array,44.0,0.6401914737173812,https://leetcode.com/problems/ways-to-make-a-fair-array
+MEDIUM,Double a Number Represented as a Linked List,44.0,0.6141304536236155,https://leetcode.com/problems/double-a-number-represented-as-a-linked-list
+MEDIUM,All Possible Full Binary Trees,44.0,0.8274300604332179,https://leetcode.com/problems/all-possible-full-binary-trees
+MEDIUM,Remove Nth Node From End of List,44.0,0.4769164211083087,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+MEDIUM,Linked List Cycle II,44.0,0.5355511986719954,https://leetcode.com/problems/linked-list-cycle-ii
+EASY,Rectangle Overlap,44.0,0.4540056372240109,https://leetcode.com/problems/rectangle-overlap
+MEDIUM,House Robber,44.0,0.5185570970047476,https://leetcode.com/problems/house-robber
+MEDIUM,3Sum,44.0,0.36092732675497435,https://leetcode.com/problems/3sum
+MEDIUM,Set Matrix Zeroes,44.0,0.5848598278783776,https://leetcode.com/problems/set-matrix-zeroes
+MEDIUM,Dot Product of Two Sparse Vectors,44.0,0.8988587735752627,https://leetcode.com/problems/dot-product-of-two-sparse-vectors
+EASY,Longest Common Prefix,44.0,0.4456146952896588,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Insert Delete GetRandom O(1),44.0,0.5482798324750421,https://leetcode.com/problems/insert-delete-getrandom-o1

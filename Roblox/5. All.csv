@@ -1,44 +1,45 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Design Browser History,100.0,0.7781480565216757,https://leetcode.com/problems/design-browser-history
-MEDIUM,Reorganize String,93.3,0.5552020455865202,https://leetcode.com/problems/reorganize-string
-MEDIUM,Design Hit Counter,83.3,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
-MEDIUM,Merge Intervals,77.9,0.4847562145598502,https://leetcode.com/problems/merge-intervals
-MEDIUM,Task Scheduler,77.9,0.6075155371931227,https://leetcode.com/problems/task-scheduler
-MEDIUM,Minimum Number of Frogs Croaking,74.5,0.505288642995885,https://leetcode.com/problems/minimum-number-of-frogs-croaking
-MEDIUM,Maximize Distance to Closest Person,74.5,0.48552935108964645,https://leetcode.com/problems/maximize-distance-to-closest-person
-HARD,Text Justification,74.5,0.4632747415916464,https://leetcode.com/problems/text-justification
-MEDIUM,Maximum Number of Occurrences of a Substring,72.6,0.5263496358655709,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
-MEDIUM,Subdomain Visit Count,72.6,0.7662976395591983,https://leetcode.com/problems/subdomain-visit-count
-MEDIUM,Group the People Given the Group Size They Belong To,72.6,0.8741065042931259,https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
-EASY,Students and Examinations,72.6,0.5988843991567112,https://leetcode.com/problems/students-and-examinations
-EASY,Convert Binary Number in a Linked List to Integer,72.6,0.8117448401150305,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
-MEDIUM,Number of Trusted Contacts of a Customer,72.6,0.7494039185873734,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer
-MEDIUM,Magnetic Force Between Two Balls,72.6,0.711158535380481,https://leetcode.com/problems/magnetic-force-between-two-balls
-MEDIUM,Count Number of Nice Subarrays,72.6,0.720375921613138,https://leetcode.com/problems/count-number-of-nice-subarrays
-HARD,Integer to English Words,70.5,0.34172421038619005,https://leetcode.com/problems/integer-to-english-words
-HARD,Number of Flowers in Full Bloom,58.7,0.5698214878565774,https://leetcode.com/problems/number-of-flowers-in-full-bloom
-MEDIUM,Rotate Image,58.7,0.7669481396654567,https://leetcode.com/problems/rotate-image
-HARD,Split Message Based on Limit,54.2,0.43385097592249605,https://leetcode.com/problems/split-message-based-on-limit
-MEDIUM,Implement Trie (Prefix Tree),54.2,0.6704749457801041,https://leetcode.com/problems/implement-trie-prefix-tree
-EASY,Valid Parentheses,54.2,0.4153885595858561,https://leetcode.com/problems/valid-parentheses
-HARD,Largest Rectangle in Histogram,48.4,0.4615969690076107,https://leetcode.com/problems/largest-rectangle-in-histogram
-MEDIUM,Find the Length of the Longest Common Prefix,48.4,0.5621293753558577,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
-HARD,Subarrays with K Different Integers,48.4,0.6475431420395695,https://leetcode.com/problems/subarrays-with-k-different-integers
-HARD,Minimum Falling Path Sum II,48.4,0.6421953203337822,https://leetcode.com/problems/minimum-falling-path-sum-ii
-MEDIUM,Spiral Matrix II,40.4,0.726219415302745,https://leetcode.com/problems/spiral-matrix-ii
-HARD,Block Placement Queries,40.4,0.152011778619874,https://leetcode.com/problems/block-placement-queries
-MEDIUM,Brightest Position on Street,40.4,0.6161968832495955,https://leetcode.com/problems/brightest-position-on-street
-MEDIUM,Rotting Oranges,40.4,0.5557381033644647,https://leetcode.com/problems/rotting-oranges
-HARD,Employee Free Time,40.4,0.724126764032439,https://leetcode.com/problems/employee-free-time
-EASY,Two Sum,40.4,0.5456839057694428,https://leetcode.com/problems/two-sum
-MEDIUM,Spiral Matrix,40.4,0.5230484378990381,https://leetcode.com/problems/spiral-matrix
-HARD,Word Search II,40.4,0.3685624720107479,https://leetcode.com/problems/word-search-ii
-EASY,Longest Common Prefix,40.4,0.4447192126946441,https://leetcode.com/problems/longest-common-prefix
-HARD,First Missing Positive,40.4,0.40339443598997016,https://leetcode.com/problems/first-missing-positive
-MEDIUM,Unique Paths,40.4,0.6518554120209518,https://leetcode.com/problems/unique-paths
-MEDIUM,Word Search,40.4,0.44225397373589814,https://leetcode.com/problems/word-search
-EASY,Best Time to Buy and Sell Stock,40.4,0.5452641420885054,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,40.4,0.6282830324544891,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
-MEDIUM,Minimum Absolute Difference Between Elements With Constraint,40.4,0.3454806798004566,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint
-MEDIUM,Accounts Merge,40.4,0.5854930611831443,https://leetcode.com/problems/accounts-merge
-MEDIUM,Longest Substring Without Repeating Characters,40.4,0.3597421287281472,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Design Browser History,100.0,0.778405594890416,https://leetcode.com/problems/design-browser-history
+MEDIUM,Reorganize String,95.0,0.5556521539356316,https://leetcode.com/problems/reorganize-string
+MEDIUM,Design Hit Counter,84.2,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Merge Intervals,78.7,0.48545621240990416,https://leetcode.com/problems/merge-intervals
+MEDIUM,Task Scheduler,78.7,0.6080405305564733,https://leetcode.com/problems/task-scheduler
+MEDIUM,Maximize Distance to Closest Person,75.3,0.48579404046558117,https://leetcode.com/problems/maximize-distance-to-closest-person
+HARD,Text Justification,75.3,0.464634007958204,https://leetcode.com/problems/text-justification
+MEDIUM,Minimum Number of Frogs Croaking,75.3,0.5053256824389976,https://leetcode.com/problems/minimum-number-of-frogs-croaking
+MEDIUM,Group the People Given the Group Size They Belong To,73.4,0.8742029624786833,https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
+MEDIUM,Magnetic Force Between Two Balls,73.4,0.7106723904770891,https://leetcode.com/problems/magnetic-force-between-two-balls
+MEDIUM,Number of Trusted Contacts of a Customer,73.4,0.7501719631311048,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer
+MEDIUM,Maximum Number of Occurrences of a Substring,73.4,0.5271595858090854,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+EASY,Convert Binary Number in a Linked List to Integer,73.4,0.8117521935655411,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+MEDIUM,Subdomain Visit Count,73.4,0.7664859352533935,https://leetcode.com/problems/subdomain-visit-count
+MEDIUM,Count Number of Nice Subarrays,73.4,0.7208809609637545,https://leetcode.com/problems/count-number-of-nice-subarrays
+EASY,Students and Examinations,73.4,0.5996748884217636,https://leetcode.com/problems/students-and-examinations
+HARD,Integer to English Words,71.2,0.3418809308953978,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,Rotate Image,63.0,0.767993389785778,https://leetcode.com/problems/rotate-image
+HARD,Number of Flowers in Full Bloom,59.3,0.5698667512690355,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+HARD,Block Placement Queries,54.7,0.15385885460892537,https://leetcode.com/problems/block-placement-queries
+HARD,Split Message Based on Limit,54.7,0.43246884472886493,https://leetcode.com/problems/split-message-based-on-limit
+MEDIUM,Implement Trie (Prefix Tree),54.7,0.6714345110686293,https://leetcode.com/problems/implement-trie-prefix-tree
+EASY,Valid Parentheses,54.7,0.41601025915519424,https://leetcode.com/problems/valid-parentheses
+HARD,Subarrays with K Different Integers,48.9,0.6484135679627931,https://leetcode.com/problems/subarrays-with-k-different-integers
+HARD,Minimum Falling Path Sum II,48.9,0.6417737541029327,https://leetcode.com/problems/minimum-falling-path-sum-ii
+HARD,Largest Rectangle in Histogram,48.9,0.4624616478977049,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Find the Length of the Longest Common Prefix,48.9,0.562112327038217,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+HARD,Word Search II,40.8,0.3689284541356077,https://leetcode.com/problems/word-search-ii
+EASY,Two Sum,40.8,0.5468047634541262,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Substring Without Repeating Characters,40.8,0.360456420320539,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Spiral Matrix II,40.8,0.726770041779996,https://leetcode.com/problems/spiral-matrix-ii
+MEDIUM,Brightest Position on Street,40.8,0.6161565056075554,https://leetcode.com/problems/brightest-position-on-street
+MEDIUM,Rotting Oranges,40.8,0.5565938158740409,https://leetcode.com/problems/rotting-oranges
+HARD,Employee Free Time,40.8,0.7243460032648682,https://leetcode.com/problems/employee-free-time
+HARD,First Missing Positive,40.8,0.40391634754353384,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Spiral Matrix,40.8,0.5243056026918841,https://leetcode.com/problems/spiral-matrix
+EASY,Longest Common Prefix,40.8,0.44561583566237156,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Unique Paths,40.8,0.652272553444887,https://leetcode.com/problems/unique-paths
+MEDIUM,Word Search,40.8,0.4430728987402767,https://leetcode.com/problems/word-search
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,40.8,0.6283199233233284,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+EASY,Best Time to Buy and Sell Stock,40.8,0.5457834723855067,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Minimum Absolute Difference Between Elements With Constraint,40.8,0.3459549183285621,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint
+MEDIUM,Accounts Merge,40.8,0.5860350441345303,https://leetcode.com/problems/accounts-merge
+EASY,Image Smoother,40.8,0.6797782854174147,https://leetcode.com/problems/image-smoother

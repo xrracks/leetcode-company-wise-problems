@@ -1,9 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Number of Islands,100.0,0.6112267846348662,https://leetcode.com/problems/number-of-islands
-MEDIUM,Heaters,87.6,0.3903633342368567,https://leetcode.com/problems/heaters
-MEDIUM,Daily Temperatures,77.8,0.667310493697497,https://leetcode.com/problems/daily-temperatures
-MEDIUM,Course Schedule,77.8,0.48080581507960274,https://leetcode.com/problems/course-schedule
-HARD,Find Median from Data Stream,77.8,0.5271724088518268,https://leetcode.com/problems/find-median-from-data-stream
-EASY,Move Zeroes,77.8,0.6237768483396334,https://leetcode.com/problems/move-zeroes
-MEDIUM,Find the Duplicate Number,77.8,0.6204376331329962,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,Group Anagrams,77.8,0.6997627797633867,https://leetcode.com/problems/group-anagrams
+MEDIUM,Number of Islands,100.0,0.6120964372371565,https://leetcode.com/problems/number-of-islands
+MEDIUM,Heaters,82.7,0.39086069600668727,https://leetcode.com/problems/heaters
+MEDIUM,Find the Duplicate Number,82.7,0.6211208099574409,https://leetcode.com/problems/find-the-duplicate-number
+MEDIUM,Group Anagrams,82.7,0.7004739294084342,https://leetcode.com/problems/group-anagrams
+MEDIUM,Daily Temperatures,82.7,0.667763324819432,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Insert into a Sorted Circular Linked List,82.7,0.3741938651020634,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
+MEDIUM,Course Schedule II,82.7,0.5227090845594887,https://leetcode.com/problems/course-schedule-ii

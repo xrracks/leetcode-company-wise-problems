@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Count and Say,100.0,0.5735455684709283,https://leetcode.com/problems/count-and-say
-EASY,Valid Parentheses,77.6,0.4153889693304967,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Minimum Processing Time,77.6,0.6938238170465658,https://leetcode.com/problems/minimum-processing-time
-HARD,Max Points on a Line,77.6,0.2806532321368333,https://leetcode.com/problems/max-points-on-a-line
-MEDIUM,Palindromic Substrings,68.4,0.7102989803027911,https://leetcode.com/problems/palindromic-substrings
-MEDIUM,Binary Tree Right Side View,68.4,0.6474092627018976,https://leetcode.com/problems/binary-tree-right-side-view
-EASY,Flood Fill,68.4,0.6546433423426844,https://leetcode.com/problems/flood-fill
-HARD,Distance to a Cycle in Undirected Graph,68.4,0.7341158458790509,https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph
-MEDIUM,Number of Islands,68.4,0.6112279075392251,https://leetcode.com/problems/number-of-islands
+MEDIUM,Count and Say,100.0,0.574640930584824,https://leetcode.com/problems/count-and-say
+EASY,Valid Parentheses,77.6,0.41601157450196297,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Minimum Processing Time,77.6,0.6942264573991033,https://leetcode.com/problems/minimum-processing-time
+HARD,Max Points on a Line,77.6,0.2813969620581937,https://leetcode.com/problems/max-points-on-a-line
+MEDIUM,Palindromic Substrings,68.4,0.7108296446302986,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Binary Tree Right Side View,68.4,0.6492539868994762,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Flood Fill,68.4,0.655353874737855,https://leetcode.com/problems/flood-fill
+HARD,Distance to a Cycle in Undirected Graph,68.4,0.7341435624762628,https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph
+MEDIUM,Number of Islands,68.4,0.6120968084654286,https://leetcode.com/problems/number-of-islands

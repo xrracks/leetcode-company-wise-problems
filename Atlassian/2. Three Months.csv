@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Rank Teams by Votes,100.0,0.5882525508378769,https://leetcode.com/problems/rank-teams-by-votes
-MEDIUM,Design Snake Game,91.4,0.38985130804688417,https://leetcode.com/problems/design-snake-game
-HARD,All O`one Data Structure,71.6,0.450142434594689,https://leetcode.com/problems/all-oone-data-structure
-MEDIUM,Stock Price Fluctuation ,65.9,0.48608868055829096,https://leetcode.com/problems/stock-price-fluctuation
-EASY,Logger Rate Limiter,65.9,0.7625936052134716,https://leetcode.com/problems/logger-rate-limiter
-MEDIUM,High-Access Employees,58.0,0.4471941700884104,https://leetcode.com/problems/high-access-employees
-MEDIUM,Jump Game II,58.0,0.40963706600788613,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Rank Teams by Votes,100.0,0.5882625064943383,https://leetcode.com/problems/rank-teams-by-votes
+MEDIUM,Design Snake Game,93.8,0.38982237780370804,https://leetcode.com/problems/design-snake-game
+MEDIUM,Stock Price Fluctuation ,68.0,0.48628502113006733,https://leetcode.com/problems/stock-price-fluctuation
+MEDIUM,High-Access Employees,60.0,0.4485670419651996,https://leetcode.com/problems/high-access-employees
+HARD,All O`one Data Structure,60.0,0.449628556389427,https://leetcode.com/problems/all-oone-data-structure
+EASY,Logger Rate Limiter,60.0,0.7628052945168325,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,Jump Game II,60.0,0.4098935601586369,https://leetcode.com/problems/jump-game-ii

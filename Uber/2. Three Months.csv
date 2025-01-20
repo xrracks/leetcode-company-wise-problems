@@ -1,45 +1,43 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Bus Routes,100.0,0.47166685122929153,https://leetcode.com/problems/bus-routes
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,86.4,0.5664732639332009,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
-HARD,Text Justification,86.4,0.463272716295471,https://leetcode.com/problems/text-justification
-MEDIUM,Maximize Amount After Two Days of Conversions,84.3,0.5777921587661112,https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions
-MEDIUM,Find Minimum Time to Reach Last Room II,84.3,0.4955162513734803,https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii
-MEDIUM,Find Minimum Time to Reach Last Room I,84.3,0.3465748587570621,https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i
-MEDIUM,Number of Islands,84.3,0.6112258133005242,https://leetcode.com/problems/number-of-islands
-HARD,Number of Islands II,76.2,0.39953814794746756,https://leetcode.com/problems/number-of-islands-ii
-EASY,Squares of a Sorted Array,76.2,0.7303110567347716,https://leetcode.com/problems/squares-of-a-sorted-array
-HARD,Alien Dictionary,76.2,0.36285318041709963,https://leetcode.com/problems/alien-dictionary
-HARD,Find the Closest Palindrome,72.7,0.3161273800993815,https://leetcode.com/problems/find-the-closest-palindrome
-HARD,Block Placement Queries,72.7,0.152011778619874,https://leetcode.com/problems/block-placement-queries
-MEDIUM,Design Hit Counter,72.7,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
-MEDIUM,Word Search,72.7,0.44225363167827686,https://leetcode.com/problems/word-search
-MEDIUM,Shortest Bridge,68.5,0.5818606842377473,https://leetcode.com/problems/shortest-bridge
-MEDIUM,Subarray Sums Divisible by K,68.5,0.554995397021465,https://leetcode.com/problems/subarray-sums-divisible-by-k
-MEDIUM,Kth Smallest Element in a BST,68.5,0.7432393754413248,https://leetcode.com/problems/kth-smallest-element-in-a-bst
-MEDIUM,Evaluate Division,63.5,0.6253636895140489,https://leetcode.com/problems/evaluate-division
-MEDIUM,Rotate Image,63.5,0.7669467828639303,https://leetcode.com/problems/rotate-image
-MEDIUM,Spiral Matrix,63.5,0.5230480729502208,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Top K Frequent Elements,63.5,0.6378660319988964,https://leetcode.com/problems/top-k-frequent-elements
-HARD,Design In-Memory File System,63.5,0.48054440320177766,https://leetcode.com/problems/design-in-memory-file-system
-HARD,Word Search II,63.5,0.3685615770399129,https://leetcode.com/problems/word-search-ii
-HARD,Split Message Based on Limit,63.5,0.4338348435630022,https://leetcode.com/problems/split-message-based-on-limit
-MEDIUM,Insert Delete GetRandom O(1),57.0,0.5480510272055188,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,Design Memory Allocator,57.0,0.5342293262065066,https://leetcode.com/problems/design-memory-allocator
-HARD,Optimal Account Balancing,57.0,0.4966668503112776,https://leetcode.com/problems/optimal-account-balancing
-MEDIUM,Construct Quad Tree,57.0,0.7639399869536857,https://leetcode.com/problems/construct-quad-tree
-MEDIUM,Longest Consecutive Sequence,57.0,0.4763415391107905,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,My Calendar I,57.0,0.5837312934964518,https://leetcode.com/problems/my-calendar-i
-MEDIUM,Boundary of Binary Tree,57.0,0.4647632531068114,https://leetcode.com/problems/boundary-of-binary-tree
-MEDIUM,House Robber,47.8,0.5181554215689856,https://leetcode.com/problems/house-robber
-MEDIUM,Random Pick with Weight,47.8,0.4788248424792372,https://leetcode.com/problems/random-pick-with-weight
-MEDIUM,Binary Tree Right Side View,47.8,0.6474059158985157,https://leetcode.com/problems/binary-tree-right-side-view
-MEDIUM,Meeting Scheduler,47.8,0.5526197249150001,https://leetcode.com/problems/meeting-scheduler
-HARD,Find Median from Data Stream,47.8,0.5271732692804393,https://leetcode.com/problems/find-median-from-data-stream
-MEDIUM,Subarray Sum Equals K,47.8,0.4459581052330617,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Get Biggest Three Rhombus Sums in a Grid,47.8,0.48734071559735137,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid
-MEDIUM,Valid Sudoku,47.8,0.6123404188779249,https://leetcode.com/problems/valid-sudoku
-HARD,Count Subarrays With Fixed Bounds,47.8,0.6777196096629151,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
-MEDIUM,Letter Combinations of a Phone Number,47.8,0.6258609868464979,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-EASY,Best Time to Buy and Sell Stock,47.8,0.5452636709363301,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,LRU Cache,47.8,0.43977852380674703,https://leetcode.com/problems/lru-cache
-MEDIUM,Meeting Rooms II,47.8,0.5178400367429958,https://leetcode.com/problems/meeting-rooms-ii
+HARD,Bus Routes,100.0,0.47123458198906604,https://leetcode.com/problems/bus-routes
+MEDIUM,Find Minimum Time to Reach Last Room I,86.6,0.35030493598935747,https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i
+MEDIUM,Maximize Amount After Two Days of Conversions,86.6,0.5826498904793439,https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions
+MEDIUM,Number of Islands,86.6,0.6120947756412299,https://leetcode.com/problems/number-of-islands
+MEDIUM,Find Minimum Time to Reach Last Room II,86.6,0.49742597519262,https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii
+HARD,Block Placement Queries,78.4,0.15383345128568057,https://leetcode.com/problems/block-placement-queries
+HARD,Text Justification,78.4,0.4646319333405232,https://leetcode.com/problems/text-justification
+EASY,Squares of a Sorted Array,78.4,0.7303718368897079,https://leetcode.com/problems/squares-of-a-sorted-array
+MEDIUM,Spiral Matrix,74.9,0.5243052224537091,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Word Search,74.9,0.4430726141997624,https://leetcode.com/problems/word-search
+HARD,Number of Islands II,70.7,0.39959328927300464,https://leetcode.com/problems/number-of-islands-ii
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,70.7,0.5665651499541476,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+HARD,Find the Closest Palindrome,70.7,0.31601159014528857,https://leetcode.com/problems/find-the-closest-palindrome
+HARD,Alien Dictionary,70.7,0.3631396657719283,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Design Memory Allocator,70.7,0.5347749559969827,https://leetcode.com/problems/design-memory-allocator
+MEDIUM,Design Hit Counter,70.7,0.6894671539842355,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Top K Frequent Elements,65.6,0.6385661875767222,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Kth Smallest Element in a BST,65.6,0.7440403394395028,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+HARD,Design In-Memory File System,59.1,0.48070331291222834,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Boundary of Binary Tree,59.1,0.4656704034335835,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Rotate Image,59.1,0.767992104711811,https://leetcode.com/problems/rotate-image
+MEDIUM,Evaluate Division,59.1,0.6258583266214353,https://leetcode.com/problems/evaluate-division
+MEDIUM,Construct Quad Tree,59.1,0.764673955183376,https://leetcode.com/problems/construct-quad-tree
+HARD,Split Message Based on Limit,59.1,0.432480983523732,https://leetcode.com/problems/split-message-based-on-limit
+HARD,Word Search II,59.1,0.36892785504827563,https://leetcode.com/problems/word-search-ii
+MEDIUM,My Calendar I,59.1,0.5836693061486576,https://leetcode.com/problems/my-calendar-i
+MEDIUM,Random Pick with Weight,59.1,0.47950991397371096,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,House Robber,49.9,0.5185578516006483,https://leetcode.com/problems/house-robber
+HARD,Longest Path With Different Adjacent Characters,49.9,0.5409852813970754,https://leetcode.com/problems/longest-path-with-different-adjacent-characters
+MEDIUM,Candy Crush,49.9,0.7712595762720418,https://leetcode.com/problems/candy-crush
+MEDIUM,Open the Lock,49.9,0.6053096658353411,https://leetcode.com/problems/open-the-lock
+HARD,Basic Calculator,49.9,0.44515385217180053,https://leetcode.com/problems/basic-calculator
+MEDIUM,Find All Possible Recipes from Given Supplies,49.9,0.5051600261267145,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
+MEDIUM,Insert Delete GetRandom O(1),49.9,0.5482799302163506,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Letter Combinations of a Phone Number,49.9,0.6268924711084868,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Best Time to Buy and Sell Stock,49.9,0.5457832528495884,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,LRU Cache,49.9,0.44062497845575443,https://leetcode.com/problems/lru-cache
+HARD,Optimal Account Balancing,49.9,0.4967677201319869,https://leetcode.com/problems/optimal-account-balancing
+HARD,Find Median from Data Stream,49.9,0.527541286109208,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Meeting Scheduler,49.9,0.5525053075950765,https://leetcode.com/problems/meeting-scheduler
+MEDIUM,Binary Tree Right Side View,49.9,0.6492517254931787,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Add Digits,49.9,0.6746686439892483,https://leetcode.com/problems/add-digits

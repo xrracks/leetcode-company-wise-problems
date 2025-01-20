@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Maximum Spending After Buying Items,100.0,0.6120902906617193,https://leetcode.com/problems/maximum-spending-after-buying-items
-MEDIUM,Bitwise OR of All Subsequence Sums,100.0,0.6633976063829787,https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums
-HARD,Split the Array to Make Coprime Products,100.0,0.23481592225752196,https://leetcode.com/problems/split-the-array-to-make-coprime-products
-HARD,Number of Ways to Divide a Long Corridor,100.0,0.4909295695329273,https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor
-HARD,Shortest Cycle in a Graph,100.0,0.36638292556703606,https://leetcode.com/problems/shortest-cycle-in-a-graph
-HARD,First Missing Positive,100.0,0.4033966647529274,https://leetcode.com/problems/first-missing-positive
-HARD,LFU Cache,100.0,0.4546345668090843,https://leetcode.com/problems/lfu-cache
-MEDIUM,3Sum,100.0,0.3600912905459811,https://leetcode.com/problems/3sum
-MEDIUM,Number of Islands,100.0,0.6112280477993457,https://leetcode.com/problems/number-of-islands
+HARD,Maximum Spending After Buying Items,100.0,0.6135812449474535,https://leetcode.com/problems/maximum-spending-after-buying-items
+MEDIUM,Bitwise OR of All Subsequence Sums,100.0,0.6541857423152387,https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums
+HARD,Split the Array to Make Coprime Products,100.0,0.23479654195856312,https://leetcode.com/problems/split-the-array-to-make-coprime-products
+HARD,Number of Ways to Divide a Long Corridor,100.0,0.4904053713100278,https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor
+HARD,Shortest Cycle in a Graph,100.0,0.3677079279725475,https://leetcode.com/problems/shortest-cycle-in-a-graph
+HARD,First Missing Positive,100.0,0.40391689724046176,https://leetcode.com/problems/first-missing-positive
+HARD,LFU Cache,100.0,0.455214058992026,https://leetcode.com/problems/lfu-cache
+MEDIUM,3Sum,100.0,0.360928932155025,https://leetcode.com/problems/3sum
+MEDIUM,Number of Islands,100.0,0.612096943215414,https://leetcode.com/problems/number-of-islands

@@ -1,10 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Optimal Account Balancing,100.0,0.4966668503112776,https://leetcode.com/problems/optimal-account-balancing
-HARD,Shortest Path in a Grid with Obstacles Elimination,94.5,0.454177350790342,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
-HARD,Count Subarrays With Score Less Than K,94.5,0.5551549450047921,https://leetcode.com/problems/count-subarrays-with-score-less-than-k
-HARD,Maximum Profit in Job Scheduling,87.4,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,Count and Say,87.4,0.5735442469899159,https://leetcode.com/problems/count-and-say
-HARD,Design Search Autocomplete System,87.4,0.49216482688591173,https://leetcode.com/problems/design-search-autocomplete-system
-HARD,Expression Add Operators,77.3,0.40765804241109566,https://leetcode.com/problems/expression-add-operators
-HARD,Find Median from Data Stream,77.3,0.5271736586803338,https://leetcode.com/problems/find-median-from-data-stream
-HARD,Employee Free Time,77.3,0.724126764032439,https://leetcode.com/problems/employee-free-time
+HARD,Optimal Account Balancing,100.0,0.4967677201319869,https://leetcode.com/problems/optimal-account-balancing
+HARD,Maximum Profit in Job Scheduling,87.8,0.5431856967415748,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Design Search Autocomplete System,87.8,0.492178873156612,https://leetcode.com/problems/design-search-autocomplete-system
+HARD,Shortest Path in a Grid with Obstacles Elimination,78.1,0.45425840519213856,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+HARD,Count Subarrays With Score Less Than K,78.1,0.5554835793913829,https://leetcode.com/problems/count-subarrays-with-score-less-than-k
+MEDIUM,Count and Say,78.1,0.5746389231290546,https://leetcode.com/problems/count-and-say

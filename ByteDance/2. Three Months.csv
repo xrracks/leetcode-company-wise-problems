@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,LRU Cache,100.0,0.43977986744656694,https://leetcode.com/problems/lru-cache
-MEDIUM,Minimum Area Rectangle,76.9,0.5463287526754971,https://leetcode.com/problems/minimum-area-rectangle
-MEDIUM,Rotting Oranges,76.9,0.5557378736220349,https://leetcode.com/problems/rotting-oranges
+MEDIUM,LRU Cache,100.0,0.44062707038915216,https://leetcode.com/problems/lru-cache
+MEDIUM,Rotting Oranges,88.3,0.5565929675557699,https://leetcode.com/problems/rotting-oranges

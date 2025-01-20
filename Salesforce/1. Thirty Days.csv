@@ -1,7 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Smallest Substring With Identical Characters I,100.0,0.18043035766211107,https://leetcode.com/problems/smallest-substring-with-identical-characters-i
-HARD,Smallest Substring With Identical Characters II,100.0,0.44192156126853066,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii
-HARD,LFU Cache,73.4,0.45463368319404796,https://leetcode.com/problems/lfu-cache
-MEDIUM,Subarray Product Less Than K,64.5,0.5216856344843862,https://leetcode.com/problems/subarray-product-less-than-k
-MEDIUM,Game of Life,64.5,0.7057855001783594,https://leetcode.com/problems/game-of-life
-MEDIUM,String Compression,64.5,0.5672144884218164,https://leetcode.com/problems/string-compression
+HARD,Smallest Substring With Identical Characters I,100.0,0.18554326201528742,https://leetcode.com/problems/smallest-substring-with-identical-characters-i
+HARD,Smallest Substring With Identical Characters II,100.0,0.4450182530495949,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii
+MEDIUM,Subarray Product Less Than K,94.9,0.5221947966298035,https://leetcode.com/problems/subarray-product-less-than-k
+MEDIUM,String Compression,84.3,0.5683420640237292,https://leetcode.com/problems/string-compression
+HARD,Distinct Subsequences,79.3,0.49099205719062444,https://leetcode.com/problems/distinct-subsequences
+MEDIUM,Maximum Number of Occurrences of a Substring,79.3,0.5271556782308315,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+HARD,LFU Cache,63.6,0.4552123016577045,https://leetcode.com/problems/lfu-cache
+HARD,Minimum Window Substring,63.6,0.4436698783546044,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Path Sum III,63.6,0.4604014789307833,https://leetcode.com/problems/path-sum-iii

@@ -1,8 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Trapping Rain Water,100.0,0.6378144954056015,https://leetcode.com/problems/trapping-rain-water
-EASY,High Five,84.9,0.7444723398240572,https://leetcode.com/problems/high-five
-EASY,Design HashMap,73.7,0.6561979461638405,https://leetcode.com/problems/design-hashmap
-MEDIUM,Group Anagrams,73.7,0.6997623065189625,https://leetcode.com/problems/group-anagrams
-MEDIUM,Robot Bounded In Circle,73.7,0.5604165403708719,https://leetcode.com/problems/robot-bounded-in-circle
-MEDIUM,Fraction to Recurring Decimal,64.9,0.25684346113847406,https://leetcode.com/problems/fraction-to-recurring-decimal
-MEDIUM,Maximum Sum Circular Subarray,64.9,0.46420360451079473,https://leetcode.com/problems/maximum-sum-circular-subarray
+HARD,Trapping Rain Water,100.0,0.6391050074471679,https://leetcode.com/problems/trapping-rain-water
+EASY,High Five,96.2,0.7444491301350148,https://leetcode.com/problems/high-five
+MEDIUM,Robot Bounded In Circle,79.2,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle
+EASY,First Unique Character in a String,79.2,0.6301566751952941,https://leetcode.com/problems/first-unique-character-in-a-string
+MEDIUM,Find Peak Element,69.2,0.4626278033139167,https://leetcode.com/problems/find-peak-element
+EASY,Third Maximum Number,69.2,0.3635572202022731,https://leetcode.com/problems/third-maximum-number
+HARD,Median of Two Sorted Arrays,69.2,0.42479854304443276,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,Best Time to Buy and Sell Stock,69.2,0.545783062163483,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Spiral Matrix II,69.2,0.7267694288633685,https://leetcode.com/problems/spiral-matrix-ii
+MEDIUM,Longest Substring Without Repeating Characters,69.2,0.36045551418230554,https://leetcode.com/problems/longest-substring-without-repeating-characters

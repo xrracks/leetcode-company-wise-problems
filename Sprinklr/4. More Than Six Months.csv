@@ -1,34 +1,32 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Edge Weight Equilibrium Queries in a Tree,100.0,0.44255042290175667,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree
-MEDIUM,Asteroid Collision,100.0,0.4495272219362587,https://leetcode.com/problems/asteroid-collision
-HARD,Robot Collisions,90.6,0.5684231362676628,https://leetcode.com/problems/robot-collisions
-MEDIUM,Minimize the Difference Between Target and Chosen Elements,84.3,0.3547380633243599,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements
-HARD,Russian Doll Envelopes,84.3,0.37126341866226265,https://leetcode.com/problems/russian-doll-envelopes
-MEDIUM,Insert Delete GetRandom O(1),84.3,0.5480533067426245,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,84.3,0.46931941298138485,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
-MEDIUM,Number of Provinces,84.3,0.6767881907244253,https://leetcode.com/problems/number-of-provinces
-HARD,Count Valid Paths in a Tree,76.3,0.3520476476291611,https://leetcode.com/problems/count-valid-paths-in-a-tree
-HARD,Serialize and Deserialize Binary Tree,76.3,0.580218113955794,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-MEDIUM,Set Matrix Zeroes,76.3,0.5837231372672158,https://leetcode.com/problems/set-matrix-zeroes
-HARD,Max Points on a Line,76.3,0.28065379805171226,https://leetcode.com/problems/max-points-on-a-line
-MEDIUM,Validate IP Address,76.3,0.2762710185176585,https://leetcode.com/problems/validate-ip-address
-MEDIUM,Partition Labels,76.3,0.8011386222368329,https://leetcode.com/problems/partition-labels
-HARD,Count of Smaller Numbers After Self,76.3,0.4266832182870327,https://leetcode.com/problems/count-of-smaller-numbers-after-self
-HARD,Maximum Profit in Job Scheduling,76.3,0.5432060956094807,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-HARD,Odd Even Jump,65.0,0.4041448744769875,https://leetcode.com/problems/odd-even-jump
-MEDIUM,Increasing Triplet Subsequence,65.0,0.3924397372373457,https://leetcode.com/problems/increasing-triplet-subsequence
-EASY,Next Greater Element I,65.0,0.7361297059381274,https://leetcode.com/problems/next-greater-element-i
-MEDIUM,Sort Colors,65.0,0.6582538978544011,https://leetcode.com/problems/sort-colors
-EASY,Best Time to Buy and Sell Stock,65.0,0.5452647632178377,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Trapping Rain Water,65.0,0.6378165731586546,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Reach a Number,65.0,0.43547160428824244,https://leetcode.com/problems/reach-a-number
-MEDIUM,Sum of Matrix After Queries,65.0,0.3109195240640207,https://leetcode.com/problems/sum-of-matrix-after-queries
-MEDIUM,Container With Most Water,65.0,0.5676723427018329,https://leetcode.com/problems/container-with-most-water
-MEDIUM,Longest Univalue Path,65.0,0.42169138560901165,https://leetcode.com/problems/longest-univalue-path
-MEDIUM,LRU Cache,65.0,0.43978156364793336,https://leetcode.com/problems/lru-cache
-HARD,Apply Operations on Array to Maximize Sum of Squares,65.0,0.4540409079570965,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares
-HARD,Student Attendance Record II,65.0,0.5549380126322596,https://leetcode.com/problems/student-attendance-record-ii
-HARD,Longest Valid Parentheses,65.0,0.3529605445528003,https://leetcode.com/problems/longest-valid-parentheses
-MEDIUM,Single Element in a Sorted Array,65.0,0.5923470132259105,https://leetcode.com/problems/single-element-in-a-sorted-array
-MEDIUM,3Sum,65.0,0.36009160338599666,https://leetcode.com/problems/3sum
-MEDIUM,House Robber II,65.0,0.4289896299902166,https://leetcode.com/problems/house-robber-ii
+HARD,Minimum Edge Weight Equilibrium Queries in a Tree,100.0,0.4421412889061088,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree
+MEDIUM,Asteroid Collision,100.0,0.44956813854461797,https://leetcode.com/problems/asteroid-collision
+HARD,Robot Collisions,90.6,0.5683120752823849,https://leetcode.com/problems/robot-collisions
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,84.4,0.46962474744502636,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
+MEDIUM,Number of Provinces,84.4,0.6775545863484502,https://leetcode.com/problems/number-of-provinces
+MEDIUM,Minimize the Difference Between Target and Chosen Elements,84.4,0.355165761966713,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements
+MEDIUM,Insert Delete GetRandom O(1),84.4,0.5482853698457091,https://leetcode.com/problems/insert-delete-getrandom-o1
+HARD,Serialize and Deserialize Binary Tree,76.4,0.5809253917144465,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Partition Labels,76.4,0.8013026327859829,https://leetcode.com/problems/partition-labels
+HARD,Russian Doll Envelopes,76.4,0.37139129976729557,https://leetcode.com/problems/russian-doll-envelopes
+MEDIUM,Validate IP Address,76.4,0.276398857760284,https://leetcode.com/problems/validate-ip-address
+HARD,Max Points on a Line,76.4,0.28139641933210924,https://leetcode.com/problems/max-points-on-a-line
+HARD,Count of Smaller Numbers After Self,76.4,0.4266718517694163,https://leetcode.com/problems/count-of-smaller-numbers-after-self
+HARD,Maximum Profit in Job Scheduling,76.4,0.5431787661204661,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Set Matrix Zeroes,76.4,0.5848612414586055,https://leetcode.com/problems/set-matrix-zeroes
+HARD,Count Valid Paths in a Tree,76.4,0.3529114389448044,https://leetcode.com/problems/count-valid-paths-in-a-tree
+MEDIUM,Sort Colors,65.2,0.6593374000496292,https://leetcode.com/problems/sort-colors
+EASY,Best Time to Buy and Sell Stock,65.2,0.5457859688888094,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Increasing Triplet Subsequence,65.2,0.3921838603971732,https://leetcode.com/problems/increasing-triplet-subsequence
+HARD,Trapping Rain Water,65.2,0.6391112682779495,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,3Sum,65.2,0.36092927290701277,https://leetcode.com/problems/3sum
+MEDIUM,Reach a Number,65.2,0.43580906302144434,https://leetcode.com/problems/reach-a-number
+MEDIUM,Sum of Matrix After Queries,65.2,0.31116819674892615,https://leetcode.com/problems/sum-of-matrix-after-queries
+MEDIUM,Single Element in a Sorted Array,65.2,0.5919820691763028,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Container With Most Water,65.2,0.568527105722772,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Longest Univalue Path,65.2,0.4219439449570919,https://leetcode.com/problems/longest-univalue-path
+MEDIUM,LRU Cache,65.2,0.4406273906376283,https://leetcode.com/problems/lru-cache
+HARD,Apply Operations on Array to Maximize Sum of Squares,65.2,0.4545850170966739,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares
+HARD,Student Attendance Record II,65.2,0.5551735661633369,https://leetcode.com/problems/student-attendance-record-ii
+HARD,Longest Valid Parentheses,65.2,0.35359027606105004,https://leetcode.com/problems/longest-valid-parentheses
+HARD,Remove Boxes,65.2,0.481066610975575,https://leetcode.com/problems/remove-boxes

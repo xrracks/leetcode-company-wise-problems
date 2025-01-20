@@ -1,13 +1,14 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Shortest and Lexicographically Smallest Beautiful String,100.0,0.3951127765574077,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
-HARD,Verbal Arithmetic Puzzle,83.9,0.34684406647920807,https://leetcode.com/problems/verbal-arithmetic-puzzle
-MEDIUM,Find the Safest Path in a Grid,72.0,0.4858397912615192,https://leetcode.com/problems/find-the-safest-path-in-a-grid
-MEDIUM,Minimizing Array After Replacing Pairs With Their Product,72.0,0.4081237911025145,https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product
-MEDIUM,Count and Say,62.6,0.5735454878712344,https://leetcode.com/problems/count-and-say
-MEDIUM,Best Time to Buy and Sell Stock II,62.6,0.6840517008760726,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-MEDIUM,LRU Cache,62.6,0.4397818410688584,https://leetcode.com/problems/lru-cache
-MEDIUM,Maximum Number of Weeks for Which You Can Work,62.6,0.41025722806066306,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
-MEDIUM,Water and Jug Problem,62.6,0.42185597526921703,https://leetcode.com/problems/water-and-jug-problem
-MEDIUM,Product of Array Except Self,62.6,0.6713970432175735,https://leetcode.com/problems/product-of-array-except-self
-EASY,Rotate String,62.6,0.6331421803539413,https://leetcode.com/problems/rotate-string
-EASY,Merge Strings Alternately,62.6,0.8142582745705207,https://leetcode.com/problems/merge-strings-alternately
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,100.0,0.3953860896179865,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
+HARD,Verbal Arithmetic Puzzle,83.9,0.34701033744706045,https://leetcode.com/problems/verbal-arithmetic-puzzle
+MEDIUM,Find the Safest Path in a Grid,72.0,0.4858440066959941,https://leetcode.com/problems/find-the-safest-path-in-a-grid
+MEDIUM,Minimizing Array After Replacing Pairs With Their Product,72.0,0.4076069730586371,https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product
+MEDIUM,Count and Say,62.6,0.5746416268838086,https://leetcode.com/problems/count-and-say
+MEDIUM,Best Time to Buy and Sell Stock II,62.6,0.6850422024719779,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,LRU Cache,62.6,0.4406272814868452,https://leetcode.com/problems/lru-cache
+MEDIUM,Maximum Number of Weeks for Which You Can Work,62.6,0.41041077612224797,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
+MEDIUM,Water and Jug Problem,62.6,0.4224669811492049,https://leetcode.com/problems/water-and-jug-problem
+MEDIUM,Product of Array Except Self,62.6,0.6720174574262101,https://leetcode.com/problems/product-of-array-except-self
+EASY,Rotate String,62.6,0.6336074956641508,https://leetcode.com/problems/rotate-string
+EASY,Merge Strings Alternately,62.6,0.8152043824033116,https://leetcode.com/problems/merge-strings-alternately
+EASY,Kth Largest Element in a Stream,62.6,0.5956428843055235,https://leetcode.com/problems/kth-largest-element-in-a-stream

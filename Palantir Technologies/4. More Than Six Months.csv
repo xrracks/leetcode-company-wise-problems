@@ -1,14 +1,14 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Integer to English Words,100.0,0.34172421038619005,https://leetcode.com/problems/integer-to-english-words
-HARD,Merge k Sorted Lists,77.6,0.5516029005912945,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Number of Islands,77.6,0.611226460858263,https://leetcode.com/problems/number-of-islands
-MEDIUM,Merge Intervals,71.3,0.48475658005109046,https://leetcode.com/problems/merge-intervals
-MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,71.3,0.36065437536357486,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
-EASY,Best Time to Buy and Sell Stock,62.3,0.5452642816208702,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Flood Fill,62.3,0.654642890037863,https://leetcode.com/problems/flood-fill
-MEDIUM,Lowest Common Ancestor of a Binary Tree,62.3,0.64995103926097,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-MEDIUM,Construct Quad Tree,62.3,0.7639412188325175,https://leetcode.com/problems/construct-quad-tree
-MEDIUM,Shortest Word Distance III,62.3,0.58789585766298,https://leetcode.com/problems/shortest-word-distance-iii
-MEDIUM,LRU Cache,62.3,0.4397805713502933,https://leetcode.com/problems/lru-cache
-MEDIUM,All Ancestors of a Node in a Directed Acyclic Graph,62.3,0.6207966199141608,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
-HARD,Trapping Rain Water II,62.3,0.4867211258738774,https://leetcode.com/problems/trapping-rain-water-ii
+HARD,Integer to English Words,100.0,0.3418807086253269,https://leetcode.com/problems/integer-to-english-words
+HARD,Merge k Sorted Lists,77.6,0.5529212247399484,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Number of Islands,77.6,0.6120957862206956,https://leetcode.com/problems/number-of-islands
+MEDIUM,Merge Intervals,71.3,0.4854555307467409,https://leetcode.com/problems/merge-intervals
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,71.3,0.36125327232848276,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
+EASY,Best Time to Buy and Sell Stock,62.3,0.5457841506087739,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Flood Fill,62.3,0.6553523206503297,https://leetcode.com/problems/flood-fill
+MEDIUM,Lowest Common Ancestor of a Binary Tree,62.3,0.6513900882520006,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Construct Quad Tree,62.3,0.7646751716152509,https://leetcode.com/problems/construct-quad-tree
+MEDIUM,Shortest Word Distance III,62.3,0.5880111568747045,https://leetcode.com/problems/shortest-word-distance-iii
+MEDIUM,LRU Cache,62.3,0.4406274912094561,https://leetcode.com/problems/lru-cache
+MEDIUM,All Ancestors of a Node in a Directed Acyclic Graph,62.3,0.6208053840246117,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
+HARD,Trapping Rain Water II,62.3,0.5837801120787948,https://leetcode.com/problems/trapping-rain-water-ii

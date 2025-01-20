@@ -1,23 +1,23 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Min Stack,100.0,0.5555556492435165,https://leetcode.com/problems/min-stack
-MEDIUM,Next Permutation,94.9,0.4188331705852196,https://leetcode.com/problems/next-permutation
-MEDIUM,Linked List Cycle II,88.7,0.5343413113722799,https://leetcode.com/problems/linked-list-cycle-ii
-EASY,Move Zeroes,80.7,0.6237768500280827,https://leetcode.com/problems/move-zeroes
-MEDIUM,3Sum,80.7,0.36009028000842386,https://leetcode.com/problems/3sum
-HARD,Trapping Rain Water,80.7,0.6378163939221194,https://leetcode.com/problems/trapping-rain-water
-EASY,Reverse Linked List,69.4,0.782733684185611,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,Largest Number,69.4,0.4053564184928138,https://leetcode.com/problems/largest-number
-MEDIUM,Coin Change II,69.4,0.6364255717498992,https://leetcode.com/problems/coin-change-ii
-MEDIUM,Number of Operations to Make Network Connected,69.4,0.6382005660636135,https://leetcode.com/problems/number-of-operations-to-make-network-connected
-MEDIUM,Coin Change,69.4,0.4544101653307745,https://leetcode.com/problems/coin-change
-EASY,Unique Number of Occurrences,69.4,0.7785043323760417,https://leetcode.com/problems/unique-number-of-occurrences
-MEDIUM,Find the Duplicate Number,69.4,0.6204375580532749,https://leetcode.com/problems/find-the-duplicate-number
-EASY,Palindrome Number,69.4,0.5822341263601974,https://leetcode.com/problems/palindrome-number
-MEDIUM,Product of Array Except Self,69.4,0.6713958378457364,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Container With Most Water,69.4,0.5676715847511995,https://leetcode.com/problems/container-with-most-water
-MEDIUM,Find Minimum in Rotated Sorted Array,69.4,0.5184074610765251,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
-MEDIUM,LRU Cache,69.4,0.4397816362793662,https://leetcode.com/problems/lru-cache
-MEDIUM,Longest Consecutive Sequence,69.4,0.4763405152119432,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Word Search,69.4,0.4422559096672082,https://leetcode.com/problems/word-search
-MEDIUM,Permutations,69.4,0.7980257842836552,https://leetcode.com/problems/permutations
-MEDIUM,Reverse Words in a String,69.4,0.48645000785691067,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Min Stack,100.0,0.5561973768053488,https://leetcode.com/problems/min-stack
+MEDIUM,Next Permutation,94.9,0.41968352023093514,https://leetcode.com/problems/next-permutation
+MEDIUM,Linked List Cycle II,88.7,0.5355536116415027,https://leetcode.com/problems/linked-list-cycle-ii
+EASY,Move Zeroes,80.7,0.6240696343894067,https://leetcode.com/problems/move-zeroes
+MEDIUM,3Sum,80.7,0.3609294985196199,https://leetcode.com/problems/3sum
+HARD,Trapping Rain Water,80.7,0.6391102553648047,https://leetcode.com/problems/trapping-rain-water
+EASY,Reverse Linked List,69.4,0.7835435351511186,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Largest Number,69.4,0.40598523379819523,https://leetcode.com/problems/largest-number
+MEDIUM,Coin Change II,69.4,0.6353059805881899,https://leetcode.com/problems/coin-change-ii
+MEDIUM,Number of Operations to Make Network Connected,69.4,0.6387689505942203,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Coin Change,69.4,0.45516454883823876,https://leetcode.com/problems/coin-change
+EASY,Unique Number of Occurrences,69.4,0.7788411480752986,https://leetcode.com/problems/unique-number-of-occurrences
+MEDIUM,Find the Duplicate Number,69.4,0.6211215141447699,https://leetcode.com/problems/find-the-duplicate-number
+EASY,Palindrome Number,69.4,0.5831344048981036,https://leetcode.com/problems/palindrome-number
+MEDIUM,Product of Array Except Self,69.4,0.6720177723491595,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Container With Most Water,69.4,0.5685258262306252,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Find Minimum in Rotated Sorted Array,69.4,0.5190311882837784,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,LRU Cache,69.4,0.44062645924411614,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Consecutive Sequence,69.4,0.4750166584908914,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Word Search,69.4,0.4430739006049392,https://leetcode.com/problems/word-search
+MEDIUM,Permutations,69.4,0.7986481947162557,https://leetcode.com/problems/permutations
+MEDIUM,Reverse Words in a String,69.4,0.48960426307377264,https://leetcode.com/problems/reverse-words-in-a-string

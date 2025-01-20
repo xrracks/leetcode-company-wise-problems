@@ -1,40 +1,41 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Group Anagrams,100.0,0.6997629649866244,https://leetcode.com/problems/group-anagrams
-EASY,Valid Parentheses,100.0,0.41538877957485293,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Minimum Operations to Make a Uni-Value Grid,100.0,0.536532359716608,https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid
-MEDIUM,Longest Substring Without Repeating Characters,97.3,0.3597433583016933,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Two Sum,90.8,0.5456853264949495,https://leetcode.com/problems/two-sum
-EASY,Valid Anagram,82.1,0.6581701447496332,https://leetcode.com/problems/valid-anagram
-EASY,Valid Palindrome,82.1,0.4959740183385879,https://leetcode.com/problems/valid-palindrome
-EASY,Longest Common Prefix,76.4,0.44471995370947165,https://leetcode.com/problems/longest-common-prefix
-EASY,Best Time to Buy and Sell Stock,76.4,0.5452647010131764,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Merge Sorted Array,76.4,0.5180376038420205,https://leetcode.com/problems/merge-sorted-array
-HARD,Trapping Rain Water,76.4,0.6378163939221194,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Longest Palindromic Substring,76.4,0.34984275202777554,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Maximum Difference Between Node and Ancestor,69.0,0.7806469192429524,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor
-EASY,Merge Two Sorted Lists,69.0,0.6590073618521067,https://leetcode.com/problems/merge-two-sorted-lists
-MEDIUM,Gas Station,69.0,0.458005300763769,https://leetcode.com/problems/gas-station
-EASY,Isomorphic Strings,69.0,0.4612701730263194,https://leetcode.com/problems/isomorphic-strings
-EASY,Palindrome Number,69.0,0.5822341703883225,https://leetcode.com/problems/palindrome-number
-MEDIUM,Longest Consecutive Sequence,58.6,0.4763405754800089,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Reverse Integer,58.6,0.2959931362602769,https://leetcode.com/problems/reverse-integer
-EASY,Remove Duplicates from Sorted Array,58.6,0.5877198526510008,https://leetcode.com/problems/remove-duplicates-from-sorted-array
-MEDIUM,String Compression,58.6,0.5672179200223446,https://leetcode.com/problems/string-compression
-EASY,Binary Search,58.6,0.5887509078330563,https://leetcode.com/problems/binary-search
-MEDIUM,Kth Largest Element in an Array,58.6,0.6738415611604448,https://leetcode.com/problems/kth-largest-element-in-an-array
-MEDIUM,Partition Equal Subset Sum,58.6,0.4702885338849077,https://leetcode.com/problems/partition-equal-subset-sum
-MEDIUM,Managers with at Least 5 Direct Reports,58.6,0.49337420407020866,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
-MEDIUM,House Robber,58.6,0.5181559747896156,https://leetcode.com/problems/house-robber
-EASY,Linked List Cycle,58.6,0.5163147618929406,https://leetcode.com/problems/linked-list-cycle
-MEDIUM,Coin Change,58.6,0.4544104000962143,https://leetcode.com/problems/coin-change
-MEDIUM,Ugly Number II,58.6,0.49139363716504875,https://leetcode.com/problems/ugly-number-ii
-EASY,To Be Or Not To Be,58.6,0.6260346789572411,https://leetcode.com/problems/to-be-or-not-to-be
-MEDIUM,Asteroid Collision,58.6,0.449527184939086,https://leetcode.com/problems/asteroid-collision
-EASY,Contains Duplicate,58.6,0.6257627716083917,https://leetcode.com/problems/contains-duplicate
-MEDIUM,Add Two Numbers,58.6,0.44937101327759926,https://leetcode.com/problems/add-two-numbers
-EASY,Pascal's Triangle,58.6,0.7603641887098527,https://leetcode.com/problems/pascals-triangle
-HARD,Maximal Rectangle,58.6,0.5245239535071973,https://leetcode.com/problems/maximal-rectangle
-MEDIUM,Edit Distance,58.6,0.5787095158606974,https://leetcode.com/problems/edit-distance
-MEDIUM,Search in Rotated Sorted Array,58.6,0.4201706193756463,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,3Sum,58.6,0.36009058621517076,https://leetcode.com/problems/3sum
-MEDIUM,Reverse Linked List II,58.6,0.48791276075171297,https://leetcode.com/problems/reverse-linked-list-ii
+MEDIUM,Minimum Operations to Make a Uni-Value Grid,100.0,0.5369488001386121,https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid
+EASY,Valid Parentheses,100.0,0.4160114616320142,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Group Anagrams,100.0,0.7004731542996315,https://leetcode.com/problems/group-anagrams
+MEDIUM,Longest Substring Without Repeating Characters,97.3,0.3604585722754157,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Two Sum,94.2,0.5468067057319128,https://leetcode.com/problems/two-sum
+EASY,Valid Anagram,82.1,0.6589742222137996,https://leetcode.com/problems/valid-anagram
+EASY,Valid Palindrome,82.1,0.49718474777544186,https://leetcode.com/problems/valid-palindrome
+EASY,Merge Sorted Array,82.1,0.5190098798350601,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Longest Palindromic Substring,76.3,0.3504778018298911,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Longest Common Prefix,76.3,0.445616849766682,https://leetcode.com/problems/longest-common-prefix
+HARD,Trapping Rain Water,76.3,0.6391103174772126,https://leetcode.com/problems/trapping-rain-water
+EASY,Best Time to Buy and Sell Stock,76.3,0.5457854810323479,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Maximum Difference Between Node and Ancestor,68.9,0.7806801926593876,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor
+MEDIUM,Gas Station,68.9,0.45821280302921935,https://leetcode.com/problems/gas-station
+EASY,Isomorphic Strings,68.9,0.4619256439801067,https://leetcode.com/problems/isomorphic-strings
+EASY,Palindrome Number,68.9,0.5831344897774909,https://leetcode.com/problems/palindrome-number
+EASY,Merge Two Sorted Lists,68.9,0.6598121811083026,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Pascal's Triangle,58.5,0.7612263793856456,https://leetcode.com/problems/pascals-triangle
+MEDIUM,House Robber,58.5,0.5185592363519416,https://leetcode.com/problems/house-robber
+MEDIUM,Reverse Linked List II,58.5,0.4883986527937072,https://leetcode.com/problems/reverse-linked-list-ii
+EASY,Binary Search,58.5,0.5893500212623926,https://leetcode.com/problems/binary-search
+MEDIUM,String Compression,58.5,0.5683480598703304,https://leetcode.com/problems/string-compression
+MEDIUM,Longest Consecutive Sequence,58.5,0.4750168206422503,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Reverse Integer,58.5,0.2965456762987335,https://leetcode.com/problems/reverse-integer
+MEDIUM,Kth Largest Element in an Array,58.5,0.6742762807404518,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,3Sum,58.5,0.36092958097958566,https://leetcode.com/problems/3sum
+MEDIUM,Partition Equal Subset Sum,58.5,0.4706596163603104,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,Managers with at Least 5 Direct Reports,58.5,0.49295231450356797,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+EASY,Remove Duplicates from Sorted Array,58.5,0.5892779160511528,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+HARD,Maximal Rectangle,58.5,0.5252889365050771,https://leetcode.com/problems/maximal-rectangle
+MEDIUM,Coin Change,58.5,0.4551645679956588,https://leetcode.com/problems/coin-change
+MEDIUM,Ugly Number II,58.5,0.4914344903965931,https://leetcode.com/problems/ugly-number-ii
+EASY,To Be Or Not To Be,58.5,0.6262292001056503,https://leetcode.com/problems/to-be-or-not-to-be
+MEDIUM,Asteroid Collision,58.5,0.4495670110178727,https://leetcode.com/problems/asteroid-collision
+EASY,Contains Duplicate,58.5,0.6263056776831873,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Add Two Numbers,58.5,0.45044797965217287,https://leetcode.com/problems/add-two-numbers
+EASY,Linked List Cycle,58.5,0.5170590386469052,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Search in Rotated Sorted Array,58.5,0.42078513775231774,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Edit Distance,58.5,0.579388686202062,https://leetcode.com/problems/edit-distance
+MEDIUM,Rotate Array,58.5,0.42181390861873674,https://leetcode.com/problems/rotate-array

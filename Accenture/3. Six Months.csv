@@ -1,58 +1,58 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Smallest Divisible Digit Product II,100.0,0.09036068870177201,https://leetcode.com/problems/smallest-divisible-digit-product-ii
-EASY,Smallest Divisible Digit Product I,100.0,0.6514156385905743,https://leetcode.com/problems/smallest-divisible-digit-product-i
-MEDIUM,Delete and Earn,97.2,0.5658226195816723,https://leetcode.com/problems/delete-and-earn
-EASY,Climbing Stairs,90.4,0.5327837275812657,https://leetcode.com/problems/climbing-stairs
-HARD,Shortest Palindrome,90.4,0.40056341043063987,https://leetcode.com/problems/shortest-palindrome
-MEDIUM,Maximum Subarray,86.3,0.5151961051961051,https://leetcode.com/problems/maximum-subarray
-EASY,Two Sum,81.4,0.5456841204200802,https://leetcode.com/problems/two-sum
-MEDIUM,Longest Substring Without Repeating Characters,81.4,0.35974219913341055,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Longest Palindromic Substring,81.4,0.34984302412281026,https://leetcode.com/problems/longest-palindromic-substring
-EASY,Happy Number,81.4,0.5727302922309815,https://leetcode.com/problems/happy-number
-EASY,Water Bottles,81.4,0.7092127881916813,https://leetcode.com/problems/water-bottles
-EASY,Longest Common Prefix,75.4,0.4447192733228581,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Maximum Width Ramp,75.4,0.5553599235287769,https://leetcode.com/problems/maximum-width-ramp
-EASY,Best Time to Buy and Sell Stock,75.4,0.5452643162537032,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Merge Sorted Array,75.4,0.5180369364068788,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,Rotate Array,75.4,0.4210403332068963,https://leetcode.com/problems/rotate-array
-MEDIUM,Reverse Words in a String,75.4,0.4864467850354332,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,Nth Digit,75.4,0.352733377518647,https://leetcode.com/problems/nth-digit
-MEDIUM,Bulb Switcher,75.4,0.5351330657118452,https://leetcode.com/problems/bulb-switcher
-MEDIUM,Integer Break,67.8,0.6080259825697067,https://leetcode.com/problems/integer-break
-MEDIUM,Find the Winner of the Circular Game,67.8,0.8192999577970036,https://leetcode.com/problems/find-the-winner-of-the-circular-game
-MEDIUM,Coin Change,67.8,0.45440932403259426,https://leetcode.com/problems/coin-change
-MEDIUM,Letter Combinations of a Phone Number,67.8,0.6258620514674972,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,Largest Number,67.8,0.40535500934124735,https://leetcode.com/problems/largest-number
-EASY,Roman to Integer,67.8,0.6361659502347233,https://leetcode.com/problems/roman-to-integer
-EASY,Assign Cookies,67.8,0.5333057358409363,https://leetcode.com/problems/assign-cookies
-MEDIUM,Add Two Numbers,57.0,0.4493706285632007,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Find All Anagrams in a String,57.0,0.5163214158009103,https://leetcode.com/problems/find-all-anagrams-in-a-string
-MEDIUM,Maximum Number of Moves in a Grid,57.0,0.5910396865020677,https://leetcode.com/problems/maximum-number-of-moves-in-a-grid
-MEDIUM,Product of Array Except Self,57.0,0.6713949107743941,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Find Peak Element,57.0,0.4624648257950144,https://leetcode.com/problems/find-peak-element
-EASY,Ant on the Boundary,57.0,0.7469365513941681,https://leetcode.com/problems/ant-on-the-boundary
-EASY,Minimum Right Shifts to Sort the Array,57.0,0.5777586476756926,https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array
-MEDIUM,Peak Index in a Mountain Array,57.0,0.679327213723306,https://leetcode.com/problems/peak-index-in-a-mountain-array
-EASY,Fibonacci Number,57.0,0.7222476762550465,https://leetcode.com/problems/fibonacci-number
-EASY,Maximum Area of Longest Diagonal Rectangle,57.0,0.3647258201186297,https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
-MEDIUM,Daily Temperatures,57.0,0.6673108757676431,https://leetcode.com/problems/daily-temperatures
-EASY,Single Number,57.0,0.7487550150928055,https://leetcode.com/problems/single-number
-EASY,Number of Good Pairs,57.0,0.8939925973197193,https://leetcode.com/problems/number-of-good-pairs
-EASY,Search Insert Position,57.0,0.4790887325271862,https://leetcode.com/problems/search-insert-position
-EASY,Max Consecutive Ones,57.0,0.6129626007981239,https://leetcode.com/problems/max-consecutive-ones
-EASY,Remove Duplicates from Sorted Array,57.0,0.5877185690553309,https://leetcode.com/problems/remove-duplicates-from-sorted-array
-EASY,Maximum Number of Balls in a Box,57.0,0.7373937677053825,https://leetcode.com/problems/maximum-number-of-balls-in-a-box
-MEDIUM,Koko Eating Bananas,57.0,0.4869541260154369,https://leetcode.com/problems/koko-eating-bananas
-EASY,Permutation Difference between Two Strings,57.0,0.879328290144321,https://leetcode.com/problems/permutation-difference-between-two-strings
-MEDIUM,Separate Black and White Balls,57.0,0.6476829642933101,https://leetcode.com/problems/separate-black-and-white-balls
-EASY,Sum of Values at Indices With K Set Bits,57.0,0.8600210346414251,https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits
-MEDIUM,Integer to Roman,57.0,0.6724934671984596,https://leetcode.com/problems/integer-to-roman
-EASY,Count Tested Devices After Test Operations,57.0,0.7961450849833538,https://leetcode.com/problems/count-tested-devices-after-test-operations
-EASY,Find Subsequence of Length K With the Largest Sum,57.0,0.4465822746680924,https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum
-MEDIUM,Perfect Squares,57.0,0.5528656659722704,https://leetcode.com/problems/perfect-squares
-HARD,Department Top Three Salaries,57.0,0.5619960700135628,https://leetcode.com/problems/department-top-three-salaries
-MEDIUM,House Robber,57.0,0.5181555922825849,https://leetcode.com/problems/house-robber
-EASY,Plus One,57.0,0.4672875347194413,https://leetcode.com/problems/plus-one
-EASY,Majority Element,57.0,0.6539911973030155,https://leetcode.com/problems/majority-element
-MEDIUM,Reverse Integer,57.0,0.2959928579059256,https://leetcode.com/problems/reverse-integer
-EASY,Contains Duplicate II,57.0,0.47491309177500474,https://leetcode.com/problems/contains-duplicate-ii
+HARD,Smallest Divisible Digit Product II,100.0,0.09259791798470123,https://leetcode.com/problems/smallest-divisible-digit-product-ii
+EASY,Smallest Divisible Digit Product I,100.0,0.6513333042377689,https://leetcode.com/problems/smallest-divisible-digit-product-i
+MEDIUM,Delete and Earn,97.2,0.5660279647850854,https://leetcode.com/problems/delete-and-earn
+MEDIUM,Maximum Subarray,90.4,0.5156270879456241,https://leetcode.com/problems/maximum-subarray
+HARD,Shortest Palindrome,90.4,0.40100832572556266,https://leetcode.com/problems/shortest-palindrome
+EASY,Climbing Stairs,90.4,0.5329290791299001,https://leetcode.com/problems/climbing-stairs
+EASY,Happy Number,81.4,0.5733807684204535,https://leetcode.com/problems/happy-number
+EASY,Two Sum,81.4,0.5468052846091406,https://leetcode.com/problems/two-sum
+EASY,Water Bottles,81.4,0.7090999811127681,https://leetcode.com/problems/water-bottles
+EASY,Longest Common Prefix,75.5,0.44561670180685076,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Bulb Switcher,75.5,0.5354326716412975,https://leetcode.com/problems/bulb-switcher
+MEDIUM,Maximum Width Ramp,75.5,0.5554573330754993,https://leetcode.com/problems/maximum-width-ramp
+MEDIUM,Longest Palindromic Substring,75.5,0.3504770664177784,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Reverse Words in a String,75.5,0.48960081503108327,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Best Time to Buy and Sell Stock,75.5,0.5457836520053406,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Merge Sorted Array,75.5,0.5190073675319078,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Rotate Array,75.5,0.4218125412882274,https://leetcode.com/problems/rotate-array
+MEDIUM,Longest Substring Without Repeating Characters,75.5,0.36045669430940985,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Nth Digit,75.5,0.3530357914771985,https://leetcode.com/problems/nth-digit
+MEDIUM,Largest Number,67.8,0.40598381620420004,https://leetcode.com/problems/largest-number
+MEDIUM,Coin Change,67.8,0.45516439848740575,https://leetcode.com/problems/coin-change
+MEDIUM,Letter Combinations of a Phone Number,67.8,0.6268934219773282,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Integer Break,67.8,0.6083279901866415,https://leetcode.com/problems/integer-break
+MEDIUM,Find the Winner of the Circular Game,67.8,0.8194877955378829,https://leetcode.com/problems/find-the-winner-of-the-circular-game
+EASY,Roman to Integer,67.8,0.6373320300274512,https://leetcode.com/problems/roman-to-integer
+EASY,Assign Cookies,67.8,0.533556715030063,https://leetcode.com/problems/assign-cookies
+MEDIUM,Koko Eating Bananas,57.0,0.48715603391269885,https://leetcode.com/problems/koko-eating-bananas
+EASY,Fibonacci Number,57.0,0.7229374717744637,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Product of Array Except Self,57.0,0.6720167166175901,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Find Peak Element,57.0,0.4626265868046229,https://leetcode.com/problems/find-peak-element
+EASY,Ant on the Boundary,57.0,0.7465313295040261,https://leetcode.com/problems/ant-on-the-boundary
+EASY,Minimum Right Shifts to Sort the Array,57.0,0.5780695197159409,https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array
+MEDIUM,Find All Anagrams in a String,57.0,0.5167444610756735,https://leetcode.com/problems/find-all-anagrams-in-a-string
+MEDIUM,Daily Temperatures,57.0,0.6677638942218509,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Peak Index in a Mountain Array,57.0,0.6788955649184572,https://leetcode.com/problems/peak-index-in-a-mountain-array
+EASY,Max Consecutive Ones,57.0,0.6140192569230641,https://leetcode.com/problems/max-consecutive-ones
+EASY,Single Number,57.0,0.7497356808148435,https://leetcode.com/problems/single-number
+EASY,Number of Good Pairs,57.0,0.8941339692702706,https://leetcode.com/problems/number-of-good-pairs
+EASY,Search Insert Position,57.0,0.47999403549569125,https://leetcode.com/problems/search-insert-position
+EASY,Contains Duplicate II,57.0,0.4762093860361587,https://leetcode.com/problems/contains-duplicate-ii
+MEDIUM,Maximum Number of Moves in a Grid,57.0,0.5910520485185324,https://leetcode.com/problems/maximum-number-of-moves-in-a-grid
+EASY,Maximum Number of Balls in a Box,57.0,0.7377870040996861,https://leetcode.com/problems/maximum-number-of-balls-in-a-box
+EASY,Maximum Area of Longest Diagonal Rectangle,57.0,0.3651729050641109,https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
+MEDIUM,Add Two Numbers,57.0,0.45044745930274827,https://leetcode.com/problems/add-two-numbers
+EASY,Remove Duplicates from Sorted Array,57.0,0.5892754654776817,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Permutation Difference between Two Strings,57.0,0.8792334029404594,https://leetcode.com/problems/permutation-difference-between-two-strings
+MEDIUM,Separate Black and White Balls,57.0,0.6476311585755945,https://leetcode.com/problems/separate-black-and-white-balls
+EASY,Sum of Values at Indices With K Set Bits,57.0,0.8602190297006014,https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits
+MEDIUM,Integer to Roman,57.0,0.6736956117404757,https://leetcode.com/problems/integer-to-roman
+EASY,Count Tested Devices After Test Operations,57.0,0.7957686490621143,https://leetcode.com/problems/count-tested-devices-after-test-operations
+EASY,Find Subsequence of Length K With the Largest Sum,57.0,0.44820894856582055,https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum
+MEDIUM,Perfect Squares,57.0,0.5532322704303886,https://leetcode.com/problems/perfect-squares
+HARD,Department Top Three Salaries,57.0,0.5630779719600607,https://leetcode.com/problems/department-top-three-salaries
+EASY,Plus One,57.0,0.46787135527729684,https://leetcode.com/problems/plus-one
+MEDIUM,Reverse Integer,57.0,0.2965447686400639,https://leetcode.com/problems/reverse-integer
+EASY,Majority Element,57.0,0.6542313980066268,https://leetcode.com/problems/majority-element
+EASY,Reverse String,57.0,0.7936755074264874,https://leetcode.com/problems/reverse-string

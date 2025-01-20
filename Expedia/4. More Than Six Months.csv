@@ -1,29 +1,28 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5456844298615855,https://leetcode.com/problems/two-sum
-MEDIUM,Find the City With the Smallest Number of Neighbors at a Threshold Distance,94.9,0.6902182666324663,https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,88.6,0.780226432499045,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
-MEDIUM,Number of Islands,88.6,0.6112266011212253,https://leetcode.com/problems/number-of-islands
-MEDIUM,Capacity To Ship Packages Within D Days,88.6,0.7099161213502216,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
-EASY,Valid Parentheses,80.5,0.41538847575232146,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Search in Rotated Sorted Array,80.5,0.42017094167702995,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Jump Game II,80.5,0.4096377313650723,https://leetcode.com/problems/jump-game-ii
-MEDIUM,Set Matrix Zeroes,80.5,0.5837215851296138,https://leetcode.com/problems/set-matrix-zeroes
-MEDIUM,Max Consecutive Ones III,69.2,0.6481753329527163,https://leetcode.com/problems/max-consecutive-ones-iii
-EASY,Design HashMap,69.2,0.6561959621176553,https://leetcode.com/problems/design-hashmap
-MEDIUM,Keys and Rooms,69.2,0.7396653063646034,https://leetcode.com/problems/keys-and-rooms
-EASY,Reverse Linked List,69.2,0.7827330501605005,https://leetcode.com/problems/reverse-linked-list
-EASY,Count Number of Pairs With Absolute Difference K,69.2,0.8442122010355685,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
-MEDIUM,Least Number of Unique Integers after K Removals,69.2,0.6322408256318486,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
-MEDIUM,Subarray Sums Divisible by K,69.2,0.5549945885948263,https://leetcode.com/problems/subarray-sums-divisible-by-k
-MEDIUM,Permutation in String,69.2,0.46622044819343356,https://leetcode.com/problems/permutation-in-string
-HARD,Palindrome Pairs,69.2,0.35856414457656205,https://leetcode.com/problems/palindrome-pairs
-EASY,Find Pivot Index,69.2,0.5942470864341163,https://leetcode.com/problems/find-pivot-index
-MEDIUM,Add Two Numbers,69.2,0.44937065435341056,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Minimum Size Subarray Sum,69.2,0.48399165272320505,https://leetcode.com/problems/minimum-size-subarray-sum
-EASY,Best Time to Buy and Sell Stock,69.2,0.545263864626785,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Climbing Stairs,69.2,0.5327838207587776,https://leetcode.com/problems/climbing-stairs
-MEDIUM,Group Anagrams,69.2,0.6997629227994676,https://leetcode.com/problems/group-anagrams
-EASY,Merge Two Sorted Lists,69.2,0.6590070139480136,https://leetcode.com/problems/merge-two-sorted-lists
-MEDIUM,Rotting Oranges,69.2,0.5557382178105179,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Longest Substring Without Repeating Characters,69.2,0.3597424398540324,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,House Robber,69.2,0.5181555420934033,https://leetcode.com/problems/house-robber
+EASY,Two Sum,100.0,0.5468058214052065,https://leetcode.com/problems/two-sum
+MEDIUM,Capacity To Ship Packages Within D Days,93.4,0.7108313036418464,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+MEDIUM,Number of Islands,93.4,0.6120961925024523,https://leetcode.com/problems/number-of-islands
+EASY,Valid Parentheses,93.4,0.4160105875269938,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,93.4,0.7804122269364158,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+MEDIUM,Find the City With the Smallest Number of Neighbors at a Threshold Distance,93.4,0.6910289761141643,https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+MEDIUM,Search in Rotated Sorted Array,84.9,0.420785161859879,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Jump Game II,84.9,0.40989310501195964,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Set Matrix Zeroes,84.9,0.5848606907624032,https://leetcode.com/problems/set-matrix-zeroes
+MEDIUM,Permutation in String,73.0,0.46666149349902963,https://leetcode.com/problems/permutation-in-string
+MEDIUM,Subarray Sums Divisible by K,73.0,0.5550039881081865,https://leetcode.com/problems/subarray-sums-divisible-by-k
+MEDIUM,Least Number of Unique Integers after K Removals,73.0,0.6321777543092806,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+EASY,Count Number of Pairs With Absolute Difference K,73.0,0.8444171663283132,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
+EASY,Reverse Linked List,73.0,0.7835427768897693,https://leetcode.com/problems/reverse-linked-list
+EASY,Design HashMap,73.0,0.6563030674541704,https://leetcode.com/problems/design-hashmap
+MEDIUM,Max Consecutive Ones III,73.0,0.6489474054221003,https://leetcode.com/problems/max-consecutive-ones-iii
+MEDIUM,Minimum Size Subarray Sum,73.0,0.48467726000972683,https://leetcode.com/problems/minimum-size-subarray-sum
+EASY,Find Pivot Index,73.0,0.5953694771010671,https://leetcode.com/problems/find-pivot-index
+HARD,Palindrome Pairs,73.0,0.3587971625406571,https://leetcode.com/problems/palindrome-pairs
+MEDIUM,Add Two Numbers,73.0,0.45044777956911936,https://leetcode.com/problems/add-two-numbers
+EASY,Best Time to Buy and Sell Stock,73.0,0.5457847091970196,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Climbing Stairs,73.0,0.5329285208530408,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Group Anagrams,73.0,0.7004736464267048,https://leetcode.com/problems/group-anagrams
+EASY,Merge Two Sorted Lists,73.0,0.6598117867828553,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Rotting Oranges,73.0,0.5565962499240042,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Longest Substring Without Repeating Characters,73.0,0.36045694495600705,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,House Robber,73.0,0.5185578148363019,https://leetcode.com/problems/house-robber

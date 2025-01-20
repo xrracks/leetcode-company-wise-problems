@@ -1,44 +1,45 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Integer to Roman,100.0,0.6724955560216337,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Decode String,85.4,0.6039238302333305,https://leetcode.com/problems/decode-string
-HARD,Median of Two Sorted Arrays,85.4,0.4237004346103135,https://leetcode.com/problems/median-of-two-sorted-arrays
-EASY,Roman to Integer,85.4,0.6361683730638843,https://leetcode.com/problems/roman-to-integer
-MEDIUM,Merge Intervals,77.9,0.48475775933883336,https://leetcode.com/problems/merge-intervals
-MEDIUM,Number of Islands,77.9,0.6112279289604896,https://leetcode.com/problems/number-of-islands
-HARD,Word Search II,77.9,0.36856255066198323,https://leetcode.com/problems/word-search-ii
-MEDIUM,Longest String Chain,67.4,0.6155304295544125,https://leetcode.com/problems/longest-string-chain
-HARD,Palindrome Pairs,67.4,0.35856414457656205,https://leetcode.com/problems/palindrome-pairs
-EASY,Power of Four,67.4,0.48819030425122906,https://leetcode.com/problems/power-of-four
-EASY,Intersection of Two Arrays,67.4,0.757221707337719,https://leetcode.com/problems/intersection-of-two-arrays
-EASY,Verifying an Alien Dictionary,67.4,0.5537333859827208,https://leetcode.com/problems/verifying-an-alien-dictionary
-MEDIUM,Validate Binary Search Tree,67.4,0.3376475249380838,https://leetcode.com/problems/validate-binary-search-tree
-MEDIUM,Lowest Common Ancestor of a Binary Tree,67.4,0.6499525008599563,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-MEDIUM,Binary Tree Right Side View,67.4,0.6474103945348942,https://leetcode.com/problems/binary-tree-right-side-view
-MEDIUM,Search Suggestions System,67.4,0.6506310799049616,https://leetcode.com/problems/search-suggestions-system
-MEDIUM,K Closest Points to Origin,67.4,0.6732888132270126,https://leetcode.com/problems/k-closest-points-to-origin
-MEDIUM,Invalid Transactions,67.4,0.3115627444915485,https://leetcode.com/problems/invalid-transactions
-MEDIUM,Group Shifted Strings,67.4,0.6668292262410561,https://leetcode.com/problems/group-shifted-strings
-HARD,Binary Tree Maximum Path Sum,67.4,0.40711981929955665,https://leetcode.com/problems/binary-tree-maximum-path-sum
-MEDIUM,All Nodes Distance K in Binary Tree,67.4,0.6553694621432001,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
-EASY,Shortest Word Distance,67.4,0.6565283351992541,https://leetcode.com/problems/shortest-word-distance
-MEDIUM,Subdomain Visit Count,67.4,0.7662976395591983,https://leetcode.com/problems/subdomain-visit-count
-EASY,Unique Email Addresses,67.4,0.674092649454535,https://leetcode.com/problems/unique-email-addresses
-EASY,Unique Morse Code Words,67.4,0.8306210516651028,https://leetcode.com/problems/unique-morse-code-words
-MEDIUM,Add Two Numbers,67.4,0.4493715839107823,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Longest Palindromic Substring,67.4,0.34984299008080966,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Clone Graph,67.4,0.6043657387233179,https://leetcode.com/problems/clone-graph
-EASY,Is Subsequence,67.4,0.48149407215399653,https://leetcode.com/problems/is-subsequence
-MEDIUM,Copy List with Random Pointer,67.4,0.5882846277078058,https://leetcode.com/problems/copy-list-with-random-pointer
-MEDIUM,Container With Most Water,67.4,0.5676722242385808,https://leetcode.com/problems/container-with-most-water
-HARD,Alien Dictionary,67.4,0.3628542114095418,https://leetcode.com/problems/alien-dictionary
-MEDIUM,3Sum,67.4,0.36009122243577724,https://leetcode.com/problems/3sum
-EASY,Merge Two Sorted Lists,67.4,0.6590074272405709,https://leetcode.com/problems/merge-two-sorted-lists
-EASY,Move Zeroes,67.4,0.6237762981053855,https://leetcode.com/problems/move-zeroes
-EASY,Minimum Distance Between BST Nodes,67.4,0.6001326930090117,https://leetcode.com/problems/minimum-distance-between-bst-nodes
-EASY,Diameter of Binary Tree,67.4,0.62258747396983,https://leetcode.com/problems/diameter-of-binary-tree
-HARD,Trapping Rain Water,67.4,0.6378164377204921,https://leetcode.com/problems/trapping-rain-water
-EASY,Design HashSet,67.4,0.6722488737225296,https://leetcode.com/problems/design-hashset
-MEDIUM,"Pow(x, n)",67.4,0.3614481997067396,https://leetcode.com/problems/powx-n
-MEDIUM,Maximum Subarray,67.4,0.5151971044034543,https://leetcode.com/problems/maximum-subarray
-EASY,Employees Earning More Than Their Managers,67.4,0.7076961436170213,https://leetcode.com/problems/employees-earning-more-than-their-managers
-MEDIUM,Find Peak Element,67.4,0.46246537949021127,https://leetcode.com/problems/find-peak-element
+MEDIUM,Integer to Roman,100.0,0.6736963929514187,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Decode String,85.4,0.6045192717734257,https://leetcode.com/problems/decode-string
+HARD,Word Search II,77.9,0.3689270338428099,https://leetcode.com/problems/word-search-ii
+MEDIUM,Number of Islands,77.9,0.612096943215414,https://leetcode.com/problems/number-of-islands
+MEDIUM,Merge Intervals,77.9,0.4854562267651891,https://leetcode.com/problems/merge-intervals
+HARD,Median of Two Sorted Arrays,77.9,0.4248021762904382,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,Roman to Integer,77.9,0.637333999997978,https://leetcode.com/problems/roman-to-integer
+MEDIUM,All Nodes Distance K in Binary Tree,67.4,0.6560872790021797,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+MEDIUM,Validate Binary Search Tree,67.4,0.33809145775042965,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,Find Peak Element,67.4,0.4626265526429478,https://leetcode.com/problems/find-peak-element
+HARD,Palindrome Pairs,67.4,0.35880033366193975,https://leetcode.com/problems/palindrome-pairs
+EASY,Power of Four,67.4,0.4887479355501515,https://leetcode.com/problems/power-of-four
+EASY,Intersection of Two Arrays,67.4,0.7578425333240637,https://leetcode.com/problems/intersection-of-two-arrays
+EASY,Verifying an Alien Dictionary,67.4,0.5538959445554518,https://leetcode.com/problems/verifying-an-alien-dictionary
+MEDIUM,Longest String Chain,67.4,0.6157793901955511,https://leetcode.com/problems/longest-string-chain
+HARD,Binary Tree Maximum Path Sum,67.4,0.40746991092375034,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Lowest Common Ancestor of a Binary Tree,67.4,0.6513914437093604,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+EASY,Shortest Word Distance,67.4,0.6567651954882178,https://leetcode.com/problems/shortest-word-distance
+MEDIUM,Binary Tree Right Side View,67.4,0.6492548248834494,https://leetcode.com/problems/binary-tree-right-side-view
+MEDIUM,K Closest Points to Origin,67.4,0.6738315053610523,https://leetcode.com/problems/k-closest-points-to-origin
+MEDIUM,Invalid Transactions,67.4,0.31162114693143006,https://leetcode.com/problems/invalid-transactions
+MEDIUM,Group Shifted Strings,67.4,0.6672839400470171,https://leetcode.com/problems/group-shifted-strings
+MEDIUM,Search Suggestions System,67.4,0.6505744866396127,https://leetcode.com/problems/search-suggestions-system
+EASY,Unique Email Addresses,67.4,0.674233447612957,https://leetcode.com/problems/unique-email-addresses
+MEDIUM,Subdomain Visit Count,67.4,0.7664859352533935,https://leetcode.com/problems/subdomain-visit-count
+EASY,Unique Morse Code Words,67.4,0.8308482486796709,https://leetcode.com/problems/unique-morse-code-words
+MEDIUM,Add Two Numbers,67.4,0.450448519002792,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Longest Palindromic Substring,67.4,0.35047772171761954,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Clone Graph,67.4,0.605971709546025,https://leetcode.com/problems/clone-graph
+EASY,Is Subsequence,67.4,0.48157987300776706,https://leetcode.com/problems/is-subsequence
+MEDIUM,Copy List with Random Pointer,67.4,0.5897091047616608,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Container With Most Water,67.4,0.5685258301887173,https://leetcode.com/problems/container-with-most-water
+HARD,Alien Dictionary,67.4,0.3631394334964919,https://leetcode.com/problems/alien-dictionary
+MEDIUM,3Sum,67.4,0.36092887121481054,https://leetcode.com/problems/3sum
+EASY,Merge Two Sorted Lists,67.4,0.659812390823148,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Move Zeroes,67.4,0.6240697485621427,https://leetcode.com/problems/move-zeroes
+EASY,Minimum Distance Between BST Nodes,67.4,0.6003434584294981,https://leetcode.com/problems/minimum-distance-between-bst-nodes
+EASY,Diameter of Binary Tree,67.4,0.6236335153032604,https://leetcode.com/problems/diameter-of-binary-tree
+HARD,Trapping Rain Water,67.4,0.639111234440855,https://leetcode.com/problems/trapping-rain-water
+EASY,Design HashSet,67.4,0.6721100664719144,https://leetcode.com/problems/design-hashset
+MEDIUM,"Pow(x, n)",67.4,0.3620296302441605,https://leetcode.com/problems/powx-n
+MEDIUM,Maximum Subarray,67.4,0.5156266664499752,https://leetcode.com/problems/maximum-subarray
+EASY,Employees Earning More Than Their Managers,67.4,0.7082035365471682,https://leetcode.com/problems/employees-earning-more-than-their-managers
+MEDIUM,Count and Say,67.4,0.5746416268838086,https://leetcode.com/problems/count-and-say

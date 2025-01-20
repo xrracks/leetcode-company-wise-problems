@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,LFU Cache,100.0,0.4546345668090843,https://leetcode.com/problems/lfu-cache
-MEDIUM,Single Element in a Sorted Array,89.2,0.5923489188962113,https://leetcode.com/problems/single-element-in-a-sorted-array
-MEDIUM,Course Schedule,89.2,0.4808059192003688,https://leetcode.com/problems/course-schedule
-MEDIUM,Open the Lock,89.2,0.6051160318866253,https://leetcode.com/problems/open-the-lock
-MEDIUM,Number of Distinct Islands,89.2,0.6186023185518262,https://leetcode.com/problems/number-of-distinct-islands
+HARD,LFU Cache,100.0,0.4552123016577045,https://leetcode.com/problems/lfu-cache
+MEDIUM,Single Element in a Sorted Array,100.0,0.5919792217772541,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Course Schedule,100.0,0.48160008179331854,https://leetcode.com/problems/course-schedule
+MEDIUM,Open the Lock,100.0,0.6053096658353411,https://leetcode.com/problems/open-the-lock
+MEDIUM,Number of Distinct Islands,100.0,0.6186561684073107,https://leetcode.com/problems/number-of-distinct-islands

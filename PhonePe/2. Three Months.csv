@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.3537855333520968,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
-MEDIUM,Maximal Square,73.2,0.4789715451859829,https://leetcode.com/problems/maximal-square
-MEDIUM,Most Stones Removed with Same Row or Column,73.2,0.6211582093712976,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
-HARD,Apply Operations to Maximize Frequency Score,64.2,0.3718631568165523,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score
-MEDIUM,Make Sum Divisible by P,64.2,0.3962464661404576,https://leetcode.com/problems/make-sum-divisible-by-p
-HARD,Candy,64.2,0.4413100310094837,https://leetcode.com/problems/candy
-MEDIUM,House Robber,64.2,0.5181553231274719,https://leetcode.com/problems/house-robber
-HARD,Burst Balloons,64.2,0.6032279930854962,https://leetcode.com/problems/burst-balloons
-MEDIUM,Queue Reconstruction by Height,64.2,0.739039607365178,https://leetcode.com/problems/queue-reconstruction-by-height
+HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.36043668122270744,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
+MEDIUM,Maximum Amount of Money Robot Can Earn,100.0,0.29445955572825594,https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn
+MEDIUM,Most Stones Removed with Same Row or Column,73.0,0.6212364535434527,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+HARD,Apply Operations to Maximize Frequency Score,63.9,0.37209538305428713,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score
+MEDIUM,Make Sum Divisible by P,63.9,0.39598306215377477,https://leetcode.com/problems/make-sum-divisible-by-p
+MEDIUM,Maximal Square,63.9,0.4795506133124887,https://leetcode.com/problems/maximal-square
+MEDIUM,House Robber,63.9,0.5185590188924778,https://leetcode.com/problems/house-robber
+HARD,Burst Balloons,63.9,0.604018135821533,https://leetcode.com/problems/burst-balloons
+MEDIUM,Queue Reconstruction by Height,63.9,0.739219544761678,https://leetcode.com/problems/queue-reconstruction-by-height

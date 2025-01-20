@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Sum of Distances,100.0,0.3111558099953582,https://leetcode.com/problems/sum-of-distances
-MEDIUM,Minimize Length of Array Using Operations,100.0,0.34774089710993444,https://leetcode.com/problems/minimize-length-of-array-using-operations
-HARD,Count Visited Nodes in a Directed Graph,100.0,0.32671221080429413,https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph
-MEDIUM,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,100.0,0.41153435902893504,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
-HARD,Find the Count of Monotonic Pairs II,100.0,0.22959420393304544,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii
-MEDIUM,3Sum,100.0,0.36009160006817337,https://leetcode.com/problems/3sum
-MEDIUM,Group Anagrams,100.0,0.6997639507293039,https://leetcode.com/problems/group-anagrams
+MEDIUM,Sum of Distances,100.0,0.3117639663048489,https://leetcode.com/problems/sum-of-distances
+MEDIUM,Minimize Length of Array Using Operations,100.0,0.34802202141745453,https://leetcode.com/problems/minimize-length-of-array-using-operations
+HARD,Count Visited Nodes in a Directed Graph,100.0,0.3272888228910846,https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph
+MEDIUM,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,100.0,0.41152589556711194,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+HARD,Find the Count of Monotonic Pairs II,100.0,0.22969376530286365,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii
+MEDIUM,3Sum,100.0,0.36092891621657536,https://leetcode.com/problems/3sum
+MEDIUM,Group Anagrams,100.0,0.7004743509831216,https://leetcode.com/problems/group-anagrams

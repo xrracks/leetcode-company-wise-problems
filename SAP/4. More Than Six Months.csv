@@ -1,23 +1,24 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5456844330388876,https://leetcode.com/problems/two-sum
-EASY,Valid Parentheses,100.0,0.41538846294710013,https://leetcode.com/problems/valid-parentheses
-EASY,Longest Common Prefix,95.9,0.44471949239778963,https://leetcode.com/problems/longest-common-prefix
-EASY,Maximum Depth of Binary Tree,85.2,0.7652406358623933,https://leetcode.com/problems/maximum-depth-of-binary-tree
-MEDIUM,Container With Most Water,85.2,0.5676701572322311,https://leetcode.com/problems/container-with-most-water
-MEDIUM,Maximum Number of Weeks for Which You Can Work,77.6,0.41025722806066306,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
-EASY,Sqrt(x),77.6,0.3977898178720723,https://leetcode.com/problems/sqrtx
-EASY,Valid Palindrome,66.9,0.49597206657466375,https://leetcode.com/problems/valid-palindrome
-HARD,Trapping Rain Water,66.9,0.6378152025949972,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Number of Islands,66.9,0.6112266011212253,https://leetcode.com/problems/number-of-islands
-MEDIUM,Longest Consecutive Sequence,66.9,0.47634093039102576,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Maximal Square,66.9,0.47897184650042424,https://leetcode.com/problems/maximal-square
-EASY,Valid Perfect Square,66.9,0.4398262594880144,https://leetcode.com/problems/valid-perfect-square
-EASY,Fibonacci Number,66.9,0.7222479922783542,https://leetcode.com/problems/fibonacci-number
-EASY,Reverse Linked List,66.9,0.7827330501605005,https://leetcode.com/problems/reverse-linked-list
-EASY,Rotate String,66.9,0.6331426829580438,https://leetcode.com/problems/rotate-string
-MEDIUM,Daily Temperatures,66.9,0.6673108746674834,https://leetcode.com/problems/daily-temperatures
-HARD,Maximum Employees to Be Invited to a Meeting,66.9,0.3765952016334865,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
-EASY,Majority Element,66.9,0.6539904877749493,https://leetcode.com/problems/majority-element
-EASY,Best Time to Buy and Sell Stock,66.9,0.5452639340922719,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Remove Duplicates from Sorted Array,66.9,0.5877189919109147,https://leetcode.com/problems/remove-duplicates-from-sorted-array
-MEDIUM,Maximum Subarray,66.9,0.515195977617638,https://leetcode.com/problems/maximum-subarray
+EASY,Two Sum,100.0,0.5468057620633385,https://leetcode.com/problems/two-sum
+EASY,Valid Parentheses,93.7,0.4160105749200937,https://leetcode.com/problems/valid-parentheses
+EASY,Longest Common Prefix,89.9,0.44561695352329184,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Container With Most Water,85.3,0.5685255181617158,https://leetcode.com/problems/container-with-most-water
+EASY,Maximum Depth of Binary Tree,79.8,0.7657501815319734,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,Maximum Number of Weeks for Which You Can Work,72.6,0.41041077612224797,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
+EASY,Sqrt(x),72.6,0.39826872040768146,https://leetcode.com/problems/sqrtx
+EASY,Fibonacci Number,62.5,0.7229375435608811,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Maximum Subarray,62.5,0.5156272748675399,https://leetcode.com/problems/maximum-subarray
+HARD,Trapping Rain Water,62.5,0.6391086360183599,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Number of Islands,62.5,0.6120960426396002,https://leetcode.com/problems/number-of-islands
+MEDIUM,Longest Consecutive Sequence,62.5,0.475018829922531,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Maximal Square,62.5,0.4795506133124887,https://leetcode.com/problems/maximal-square
+EASY,Valid Perfect Square,62.5,0.4399329151447027,https://leetcode.com/problems/valid-perfect-square
+EASY,Reverse Linked List,62.5,0.7835427420434994,https://leetcode.com/problems/reverse-linked-list
+EASY,Valid Palindrome,62.5,0.4971848527553103,https://leetcode.com/problems/valid-palindrome
+EASY,Rotate String,62.5,0.6336106523676919,https://leetcode.com/problems/rotate-string
+MEDIUM,Daily Temperatures,62.5,0.6677640796925965,https://leetcode.com/problems/daily-temperatures
+HARD,Maximum Employees to Be Invited to a Meeting,62.5,0.3780524875873949,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
+EASY,Majority Element,62.5,0.6542317423017825,https://leetcode.com/problems/majority-element
+EASY,Best Time to Buy and Sell Stock,62.5,0.5457847608593875,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Remove Duplicates from Sorted Array,62.5,0.5892759862803651,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Sort Array by Increasing Frequency,62.5,0.8001799517402152,https://leetcode.com/problems/sort-array-by-increasing-frequency

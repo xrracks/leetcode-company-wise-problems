@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Count Paths That Can Form a Palindrome in a Tree,100.0,0.47421731123388583,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree
-MEDIUM,Interleaving String,82.7,0.4109290143070608,https://leetcode.com/problems/interleaving-string
-HARD,Minimum Window Substring,82.7,0.4429195666449641,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,82.7,0.5636371258489142,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network
+HARD,Count Paths That Can Form a Palindrome in a Tree,100.0,0.47485007954962666,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree
+MEDIUM,Interleaving String,82.6,0.4115768168569404,https://leetcode.com/problems/interleaving-string
+HARD,Minimum Window Substring,82.6,0.44367264699854764,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,82.6,0.563912282164596,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network

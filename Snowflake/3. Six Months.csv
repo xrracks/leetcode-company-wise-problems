@@ -1,26 +1,23 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,String Transformation,100.0,0.30123974588293345,https://leetcode.com/problems/string-transformation
-HARD,Trapping Rain Water,100.0,0.637814836031229,https://leetcode.com/problems/trapping-rain-water
-HARD,Number of Ways to Form a Target String Given a Dictionary,92.7,0.5745819366896173,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
-HARD,Painting the Walls,92.7,0.5034421347221598,https://leetcode.com/problems/painting-the-walls
-EASY,Happy Number,88.1,0.5727302922309815,https://leetcode.com/problems/happy-number
-MEDIUM,Maximum Number of Upgradable Servers,88.1,0.44606580829756803,https://leetcode.com/problems/maximum-number-of-upgradable-servers
-HARD,Maximum Profit in Job Scheduling,88.1,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-EASY,Count Vowel Substrings of a String,75.1,0.692901979719942,https://leetcode.com/problems/count-vowel-substrings-of-a-string
-EASY,Design HashMap,75.1,0.6561972957103653,https://leetcode.com/problems/design-hashmap
-MEDIUM,Find the Maximum Length of a Good Subsequence I,75.1,0.30814865105151706,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i
-MEDIUM,Course Schedule II,75.1,0.5218092987271744,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Course Schedule,75.1,0.48080578540084135,https://leetcode.com/problems/course-schedule
-MEDIUM,Container With Most Water,64.8,0.567669835420664,https://leetcode.com/problems/container-with-most-water
-MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,64.8,0.656861903027458,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
-EASY,Calculate Amount Paid in Taxes,64.8,0.6660115141760553,https://leetcode.com/problems/calculate-amount-paid-in-taxes
-HARD,Merge k Sorted Lists,64.8,0.5516026843047759,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Min Stack,64.8,0.5555546186719956,https://leetcode.com/problems/min-stack
-HARD,Regular Expression Matching,64.8,0.2873979179161774,https://leetcode.com/problems/regular-expression-matching
-MEDIUM,Minimum Array Length After Pair Removals,64.8,0.23663355180378975,https://leetcode.com/problems/minimum-array-length-after-pair-removals
-MEDIUM,Random Pick with Weight,64.8,0.47882321317191184,https://leetcode.com/problems/random-pick-with-weight
-EASY,Leaf-Similar Trees,64.8,0.7002813553106606,https://leetcode.com/problems/leaf-similar-trees
-HARD,Word Search II,64.8,0.3685624720107479,https://leetcode.com/problems/word-search-ii
-MEDIUM,Maximum Number of Removable Characters,64.8,0.44840084179895556,https://leetcode.com/problems/maximum-number-of-removable-characters
-HARD,Find the Maximum Length of a Good Subsequence II,64.8,0.23996225678401772,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii
-MEDIUM,Time Based Key-Value Store,64.8,0.4930010025287666,https://leetcode.com/problems/time-based-key-value-store
+HARD,String Transformation,100.0,0.3012378803585585,https://leetcode.com/problems/string-transformation
+HARD,Trapping Rain Water,100.0,0.6391078018500639,https://leetcode.com/problems/trapping-rain-water
+HARD,Number of Ways to Form a Target String Given a Dictionary,92.7,0.573745551109226,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
+HARD,Painting the Walls,92.7,0.5033547029278086,https://leetcode.com/problems/painting-the-walls
+EASY,Happy Number,88.2,0.5733809104125507,https://leetcode.com/problems/happy-number
+HARD,Maximum Profit in Job Scheduling,88.2,0.5431856967415748,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Maximum Number of Upgradable Servers,82.5,0.44688443590447435,https://leetcode.com/problems/maximum-number-of-upgradable-servers
+EASY,Count Vowel Substrings of a String,75.3,0.6943034958369545,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+EASY,Design HashMap,75.3,0.6563026793739154,https://leetcode.com/problems/design-hashmap
+MEDIUM,Find the Maximum Length of a Good Subsequence I,75.3,0.3086175884884692,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i
+MEDIUM,Course Schedule,65.1,0.4816000723871239,https://leetcode.com/problems/course-schedule
+MEDIUM,Construct Binary Tree from Preorder and Inorder Traversal,65.1,0.6577038114040011,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+EASY,Calculate Amount Paid in Taxes,65.1,0.6669128735419938,https://leetcode.com/problems/calculate-amount-paid-in-taxes
+HARD,Merge k Sorted Lists,65.1,0.5529209030142853,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Container With Most Water,65.1,0.5685251982802775,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Minimum Array Length After Pair Removals,65.1,0.23818345121814302,https://leetcode.com/problems/minimum-array-length-after-pair-removals
+MEDIUM,Random Pick with Weight,65.1,0.4795112955358428,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Course Schedule II,65.1,0.5227087975710409,https://leetcode.com/problems/course-schedule-ii
+EASY,Leaf-Similar Trees,65.1,0.7003308726766846,https://leetcode.com/problems/leaf-similar-trees
+MEDIUM,Maximum Number of Removable Characters,65.1,0.4482051678786941,https://leetcode.com/problems/maximum-number-of-removable-characters
+HARD,Find the Maximum Length of a Good Subsequence II,65.1,0.24011244668476153,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii
+MEDIUM,Time Based Key-Value Store,65.1,0.4930683734641277,https://leetcode.com/problems/time-based-key-value-store

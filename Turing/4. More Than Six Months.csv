@@ -1,23 +1,23 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Valid Parentheses,100.0,0.4153888436002984,https://leetcode.com/problems/valid-parentheses
-EASY,Baseball Game,80.4,0.7785519243905896,https://leetcode.com/problems/baseball-game
-MEDIUM,Longest Substring Without Repeating Characters,76.0,0.3597433456561283,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Climbing Stairs,66.7,0.532783315141405,https://leetcode.com/problems/climbing-stairs
-EASY,Two Sum,62.3,0.5456854433505468,https://leetcode.com/problems/two-sum
-MEDIUM,Longest Consecutive Sequence,62.3,0.47634028217807595,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Number of Islands,62.3,0.6112279831268782,https://leetcode.com/problems/number-of-islands
-EASY,Maximum Depth of Binary Tree,56.6,0.7652390718758406,https://leetcode.com/problems/maximum-depth-of-binary-tree
-MEDIUM,Merge Intervals,56.6,0.48475789808283415,https://leetcode.com/problems/merge-intervals
-MEDIUM,Longest Repeating Character Replacement,56.6,0.5599277946755864,https://leetcode.com/problems/longest-repeating-character-replacement
-MEDIUM,Maximum Number of Vowels in a Substring of Given Length,56.6,0.5948707611887148,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
-EASY,Find the Town Judge,56.6,0.4982377989580912,https://leetcode.com/problems/find-the-town-judge
-EASY,Longest Common Prefix,56.6,0.4447198682878873,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Find Duplicate File in System,56.6,0.6757432787931584,https://leetcode.com/problems/find-duplicate-file-in-system
-MEDIUM,Maximum Subarray,56.6,0.5151971320620107,https://leetcode.com/problems/maximum-subarray
-MEDIUM,House Robber,48.7,0.5181560699325609,https://leetcode.com/problems/house-robber
-EASY,Degree of an Array,48.7,0.5699871551776867,https://leetcode.com/problems/degree-of-an-array
-HARD,Regular Expression Matching,48.7,0.28739783498710336,https://leetcode.com/problems/regular-expression-matching
-EASY,Valid Palindrome,48.7,0.4959740875239078,https://leetcode.com/problems/valid-palindrome
-MEDIUM,Consecutive Numbers,48.7,0.44902122247774395,https://leetcode.com/problems/consecutive-numbers
-MEDIUM,Product of Array Except Self,48.7,0.671396643389864,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Minimum Cost For Tickets,48.7,0.6741649309062491,https://leetcode.com/problems/minimum-cost-for-tickets
+EASY,Valid Parentheses,100.0,0.4160114622220911,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,78.3,0.3604585507805595,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Baseball Game,78.3,0.7793765206868166,https://leetcode.com/problems/baseball-game
+EASY,Longest Common Prefix,66.6,0.44561670330836134,https://leetcode.com/problems/longest-common-prefix
+EASY,Climbing Stairs,66.6,0.5329287358243848,https://leetcode.com/problems/climbing-stairs
+EASY,Two Sum,62.2,0.5468069026303994,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Consecutive Sequence,62.2,0.47501624509638757,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Number of Islands,62.2,0.6120965603061489,https://leetcode.com/problems/number-of-islands
+EASY,Find the Town Judge,62.2,0.4984453424141122,https://leetcode.com/problems/find-the-town-judge
+MEDIUM,Longest Repeating Character Replacement,56.5,0.5608936964661466,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Merge Intervals,56.5,0.4854561729007134,https://leetcode.com/problems/merge-intervals
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,56.5,0.5955971547028053,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
+MEDIUM,Find Duplicate File in System,56.5,0.6756676481223204,https://leetcode.com/problems/find-duplicate-file-in-system
+MEDIUM,Maximum Subarray,56.5,0.5156266752741665,https://leetcode.com/problems/maximum-subarray
+EASY,Maximum Depth of Binary Tree,48.6,0.7657509074940474,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,House Robber,48.6,0.5185595192417112,https://leetcode.com/problems/house-robber
+EASY,Degree of an Array,48.6,0.5704036224149108,https://leetcode.com/problems/degree-of-an-array
+HARD,Regular Expression Matching,48.6,0.2877415917924784,https://leetcode.com/problems/regular-expression-matching
+EASY,Valid Palindrome,48.6,0.49718462129749563,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Consecutive Numbers,48.6,0.45004268032437045,https://leetcode.com/problems/consecutive-numbers
+MEDIUM,Product of Array Except Self,48.6,0.6720174165278717,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Minimum Cost For Tickets,48.6,0.6741660660251432,https://leetcode.com/problems/minimum-cost-for-tickets

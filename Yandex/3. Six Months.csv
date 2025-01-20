@@ -1,58 +1,59 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.6842320191608213,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
-MEDIUM,Maximize Distance to Closest Person,86.7,0.48552935108964645,https://leetcode.com/problems/maximize-distance-to-closest-person
-MEDIUM,One Edit Distance,83.4,0.3442395196767636,https://leetcode.com/problems/one-edit-distance
-MEDIUM,Find K Closest Elements,81.6,0.4816557901121402,https://leetcode.com/problems/find-k-closest-elements
-EASY,Summary Ranges,81.6,0.5224319877661283,https://leetcode.com/problems/summary-ranges
-MEDIUM,Merge Intervals,77.2,0.48475559177286065,https://leetcode.com/problems/merge-intervals
-EASY,Isomorphic Strings,77.2,0.4612705886677537,https://leetcode.com/problems/isomorphic-strings
-EASY,Two Sum,74.7,0.5456835330438695,https://leetcode.com/problems/two-sum
-MEDIUM,Permutation in String,74.7,0.4662203917364067,https://leetcode.com/problems/permutation-in-string
-MEDIUM,Line Reflection,71.9,0.3583586600691567,https://leetcode.com/problems/line-reflection
-MEDIUM,String Compression,71.9,0.5672151453902512,https://leetcode.com/problems/string-compression
-EASY,Valid Palindrome II,68.6,0.4209100382411943,https://leetcode.com/problems/valid-palindrome-ii
-MEDIUM,Number of Islands,64.7,0.611226212668793,https://leetcode.com/problems/number-of-islands
-MEDIUM,Find All Anagrams in a String,64.7,0.5163208940774703,https://leetcode.com/problems/find-all-anagrams-in-a-string
-EASY,Move Zeroes,64.7,0.6237767699133369,https://leetcode.com/problems/move-zeroes
-MEDIUM,Subarray Sum Equals K,64.7,0.44595823059843687,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Find the Prefix Common Array of Two Arrays,64.7,0.7972099069968999,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
-HARD,Trapping Rain Water,59.9,0.6378148838713318,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Design an ATM Machine,59.9,0.4337607576124149,https://leetcode.com/problems/design-an-atm-machine
-MEDIUM,Longest Substring Without Repeating Characters,59.9,0.3597421050310278,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Find Duplicate Subtrees,59.9,0.5984043458285832,https://leetcode.com/problems/find-duplicate-subtrees
-MEDIUM,Generate Parentheses,59.9,0.7612848307413402,https://leetcode.com/problems/generate-parentheses
-EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,59.9,0.5676285877406966,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray
-EASY,Squares of a Sorted Array,59.9,0.730311534100383,https://leetcode.com/problems/squares-of-a-sorted-array
-MEDIUM,Interval List Intersections,59.9,0.7227889167277138,https://leetcode.com/problems/interval-list-intersections
-MEDIUM,Letter Combinations of a Phone Number,53.7,0.6258614519290862,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,LRU Cache,53.7,0.4397796081799788,https://leetcode.com/problems/lru-cache
-MEDIUM,Binary Tree Right Side View,53.7,0.6474073307219251,https://leetcode.com/problems/binary-tree-right-side-view
-EASY,Symmetric Tree,53.7,0.5822621554290848,https://leetcode.com/problems/symmetric-tree
-MEDIUM,Longest Increasing Subsequence,53.7,0.5686115474063062,https://leetcode.com/problems/longest-increasing-subsequence
-EASY,Is Subsequence,53.7,0.4814969562343879,https://leetcode.com/problems/is-subsequence
-EASY,Merge Two Sorted Lists,53.7,0.659006678593067,https://leetcode.com/problems/merge-two-sorted-lists
-EASY,Merge Sorted Array,53.7,0.5180359117201968,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,4Sum,53.7,0.37237932211874747,https://leetcode.com/problems/4sum
-MEDIUM,Perfect Squares,53.7,0.5528656659722704,https://leetcode.com/problems/perfect-squares
-MEDIUM,Insert Delete GetRandom O(1),53.7,0.548051621643574,https://leetcode.com/problems/insert-delete-getrandom-o1
-EASY,Longest Continuous Increasing Subsequence,45.1,0.5074366605283599,https://leetcode.com/problems/longest-continuous-increasing-subsequence
-MEDIUM,Simplify Path,45.1,0.45695854401910907,https://leetcode.com/problems/simplify-path
-HARD,Reconstruct Itinerary,45.1,0.433767564606974,https://leetcode.com/problems/reconstruct-itinerary
-MEDIUM,Add Two Numbers,45.1,0.4493698499741441,https://leetcode.com/problems/add-two-numbers
-EASY,Majority Element,45.1,0.6539911438990018,https://leetcode.com/problems/majority-element
-MEDIUM,Min Stack,45.1,0.5555546499009386,https://leetcode.com/problems/min-stack
-EASY,Valid Parentheses,45.1,0.41538855842526856,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Reverse Integer,45.1,0.2959922218362052,https://leetcode.com/problems/reverse-integer
-MEDIUM,Design Hit Counter,45.1,0.6893546800209268,https://leetcode.com/problems/design-hit-counter
-MEDIUM,Longest Substring with At Least K Repeating Characters,45.1,0.4528778894683946,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
-MEDIUM,Longest Palindromic Substring,45.1,0.34984291000350365,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Binary Tree Zigzag Level Order Traversal,45.1,0.6062053028579805,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-HARD,Merge k Sorted Lists,45.1,0.5516027006155346,https://leetcode.com/problems/merge-k-sorted-lists
-EASY,Destination City,45.1,0.7947036915324789,https://leetcode.com/problems/destination-city
-MEDIUM,Count Substrings Without Repeating Character,45.1,0.7677059673755936,https://leetcode.com/problems/count-substrings-without-repeating-character
-EASY,Range Sum of BST,45.1,0.8725360475737081,https://leetcode.com/problems/range-sum-of-bst
-EASY,Palindrome Linked List,45.1,0.5476094018273582,https://leetcode.com/problems/palindrome-linked-list
-EASY,Monotonic Array,45.1,0.614927231990961,https://leetcode.com/problems/monotonic-array
-MEDIUM,Longest Substring with At Most K Distinct Characters,45.1,0.49214165006451893,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
-MEDIUM,Group Anagrams,45.1,0.6997623477344687,https://leetcode.com/problems/group-anagrams
-EASY,Remove Duplicates from Sorted Array,45.1,0.5877184544126018,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.6850411518400977,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+MEDIUM,Maximize Distance to Closest Person,86.8,0.4857959749289201,https://leetcode.com/problems/maximize-distance-to-closest-person
+EASY,Summary Ranges,83.7,0.5231193241194566,https://leetcode.com/problems/summary-ranges
+MEDIUM,One Edit Distance,82.0,0.34428263925496405,https://leetcode.com/problems/one-edit-distance
+MEDIUM,Find K Closest Elements,80.2,0.48192843791158313,https://leetcode.com/problems/find-k-closest-elements
+EASY,Isomorphic Strings,75.9,0.4619235907132917,https://leetcode.com/problems/isomorphic-strings
+MEDIUM,Merge Intervals,75.9,0.4854565099327514,https://leetcode.com/problems/merge-intervals
+EASY,Two Sum,73.4,0.5468043798565809,https://leetcode.com/problems/two-sum
+MEDIUM,Permutation in String,73.4,0.46666138282549674,https://leetcode.com/problems/permutation-in-string
+MEDIUM,String Compression,73.4,0.5683440231049098,https://leetcode.com/problems/string-compression
+MEDIUM,Find the Prefix Common Array of Two Arrays,70.6,0.8767975776394852,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
+MEDIUM,Line Reflection,70.6,0.3585277796349536,https://leetcode.com/problems/line-reflection
+EASY,Valid Palindrome II,67.4,0.421745605426717,https://leetcode.com/problems/valid-palindrome-ii
+MEDIUM,Number of Islands,63.5,0.6120953716776739,https://leetcode.com/problems/number-of-islands
+MEDIUM,Subarray Sum Equals K,63.5,0.4466500998851371,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Move Zeroes,63.5,0.6240681710696376,https://leetcode.com/problems/move-zeroes
+MEDIUM,Interval List Intersections,58.8,0.7232047610168819,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Design an ATM Machine,58.8,0.4349991413360811,https://leetcode.com/problems/design-an-atm-machine
+MEDIUM,Longest Substring Without Repeating Characters,58.8,0.36045609595186684,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Trapping Rain Water,58.8,0.639106815170157,https://leetcode.com/problems/trapping-rain-water
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,58.8,0.5678708546986524,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray
+MEDIUM,Generate Parentheses,58.8,0.7621019022775896,https://leetcode.com/problems/generate-parentheses
+EASY,Squares of a Sorted Array,58.8,0.7303728126470338,https://leetcode.com/problems/squares-of-a-sorted-array
+MEDIUM,Find All Anagrams in a String,58.8,0.5167447565893072,https://leetcode.com/problems/find-all-anagrams-in-a-string
+MEDIUM,Find Duplicate Subtrees,58.8,0.5987111271278062,https://leetcode.com/problems/find-duplicate-subtrees
+EASY,Symmetric Tree,52.7,0.5830279913081783,https://leetcode.com/problems/symmetric-tree
+MEDIUM,LRU Cache,52.7,0.44062681329691705,https://leetcode.com/problems/lru-cache
+MEDIUM,4Sum,52.7,0.3730247565884469,https://leetcode.com/problems/4sum
+MEDIUM,Binary Tree Right Side View,52.7,0.6492528636311871,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Merge Two Sorted Lists,52.7,0.6598107924700113,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Longest Increasing Subsequence,52.7,0.5693003671209579,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Is Subsequence,52.7,0.4815797201177393,https://leetcode.com/problems/is-subsequence
+MEDIUM,Letter Combinations of a Phone Number,52.7,0.6268934616995981,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Longest Palindromic Substring,52.7,0.3504763880278834,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Insert Delete GetRandom O(1),52.7,0.5482806492249092,https://leetcode.com/problems/insert-delete-getrandom-o1
+EASY,Merge Sorted Array,52.7,0.5190072444372688,https://leetcode.com/problems/merge-sorted-array
+HARD,Reconstruct Itinerary,44.2,0.4338544648166776,https://leetcode.com/problems/reconstruct-itinerary
+MEDIUM,Simplify Path,44.2,0.4587704519129928,https://leetcode.com/problems/simplify-path
+EASY,Remove Duplicates from Sorted Array,44.2,0.5892742231394266,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Number of Recent Calls,44.2,0.7682063940337578,https://leetcode.com/problems/number-of-recent-calls
+MEDIUM,Add Two Numbers,44.2,0.4504470933863482,https://leetcode.com/problems/add-two-numbers
+EASY,Majority Element,44.2,0.6542320935382009,https://leetcode.com/problems/majority-element
+MEDIUM,Design Hit Counter,44.2,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
+EASY,Valid Parentheses,44.2,0.4160101451006975,https://leetcode.com/problems/valid-parentheses
+EASY,Max Consecutive Ones,44.2,0.614017932086353,https://leetcode.com/problems/max-consecutive-ones
+MEDIUM,Reverse Integer,44.2,0.2965442486644125,https://leetcode.com/problems/reverse-integer
+MEDIUM,Longest Substring with At Most K Distinct Characters,44.2,0.4923737277208133,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+MEDIUM,Longest Substring with At Least K Repeating Characters,44.2,0.4530421364639183,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+HARD,Merge k Sorted Lists,44.2,0.5529201523192708,https://leetcode.com/problems/merge-k-sorted-lists
+EASY,Destination City,44.2,0.7948855600458904,https://leetcode.com/problems/destination-city
+MEDIUM,Count Substrings Without Repeating Character,44.2,0.7679411163361276,https://leetcode.com/problems/count-substrings-without-repeating-character
+EASY,Palindrome Linked List,44.2,0.5483742622298572,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Binary Tree Zigzag Level Order Traversal,44.2,0.6069289668543961,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+EASY,Longest Continuous Increasing Subsequence,44.2,0.5077245616200458,https://leetcode.com/problems/longest-continuous-increasing-subsequence
+EASY,Monotonic Array,44.2,0.6150592475736829,https://leetcode.com/problems/monotonic-array
+EASY,Range Sum of BST,44.2,0.8726718844712268,https://leetcode.com/problems/range-sum-of-bst
+MEDIUM,Min Stack,44.2,0.5561976652134646,https://leetcode.com/problems/min-stack
+EASY,Valid Palindrome,44.2,0.4971829819428807,https://leetcode.com/problems/valid-palindrome

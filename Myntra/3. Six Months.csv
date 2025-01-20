@@ -1,6 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximum Earnings From Taxi,100.0,0.44554744155383136,https://leetcode.com/problems/maximum-earnings-from-taxi
-MEDIUM,Largest Number,100.0,0.4053566453259674,https://leetcode.com/problems/largest-number
-EASY,Repeated Substring Pattern,100.0,0.4647001449453246,https://leetcode.com/problems/repeated-substring-pattern
-HARD,Largest Rectangle in Histogram,100.0,0.46159799811017044,https://leetcode.com/problems/largest-rectangle-in-histogram
-HARD,First Missing Positive,100.0,0.4033966074277459,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Maximum Earnings From Taxi,100.0,0.4456555942955681,https://leetcode.com/problems/maximum-earnings-from-taxi
+MEDIUM,Largest Number,100.0,0.4059853459791532,https://leetcode.com/problems/largest-number
+EASY,Repeated Substring Pattern,100.0,0.4649719936251713,https://leetcode.com/problems/repeated-substring-pattern
+HARD,Largest Rectangle in Histogram,100.0,0.4624632821622548,https://leetcode.com/problems/largest-rectangle-in-histogram
+HARD,First Missing Positive,100.0,0.403916488762926,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Wiggle Sort,100.0,0.6804267988712606,https://leetcode.com/problems/wiggle-sort
+MEDIUM,Rotting Oranges,100.0,0.5565969729867808,https://leetcode.com/problems/rotting-oranges

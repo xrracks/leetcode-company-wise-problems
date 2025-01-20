@@ -1,34 +1,35 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,LRU Cache,100.0,0.43977821851460275,https://leetcode.com/problems/lru-cache
-EASY,Two Sum,97.6,0.5456826769984632,https://leetcode.com/problems/two-sum
-EASY,Valid Parentheses,88.8,0.41538852933288856,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Number of Islands,84.9,0.6112259212272336,https://leetcode.com/problems/number-of-islands
-MEDIUM,Rotate Array,80.4,0.42103814526465755,https://leetcode.com/problems/rotate-array
-EASY,Longest Common Prefix,74.8,0.44471868993301783,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Course Schedule,74.8,0.4808050273621167,https://leetcode.com/problems/course-schedule
-EASY,Reverse String,67.7,0.7932255672359492,https://leetcode.com/problems/reverse-string
-MEDIUM,Subarray Sum Equals K,67.7,0.445958297231685,https://leetcode.com/problems/subarray-sum-equals-k
-HARD,Word Ladder,67.7,0.4126808994430609,https://leetcode.com/problems/word-ladder
-MEDIUM,Top K Frequent Elements,67.7,0.6378661231645538,https://leetcode.com/problems/top-k-frequent-elements
-MEDIUM,Design Circular Queue,67.7,0.5214239924657725,https://leetcode.com/problems/design-circular-queue
-EASY,Reverse Bits,67.7,0.6145757368555567,https://leetcode.com/problems/reverse-bits
-HARD,Sliding Window Maximum,57.7,0.4709053470838301,https://leetcode.com/problems/sliding-window-maximum
-EASY,Fibonacci Number,57.7,0.7222474533398171,https://leetcode.com/problems/fibonacci-number
-HARD,Text Justification,57.7,0.463272716295471,https://leetcode.com/problems/text-justification
-MEDIUM,String Compression,57.7,0.5672141599368511,https://leetcode.com/problems/string-compression
-HARD,Employee Free Time,57.7,0.724126764032439,https://leetcode.com/problems/employee-free-time
-MEDIUM,Valid Sudoku,57.7,0.6123404188779249,https://leetcode.com/problems/valid-sudoku
-MEDIUM,Longest Substring Without Repeating Characters,57.7,0.3597413595107801,https://leetcode.com/problems/longest-substring-without-repeating-characters
-HARD,Integer to English Words,57.7,0.3417227151501547,https://leetcode.com/problems/integer-to-english-words
-EASY,Design HashMap,57.7,0.6561979461638405,https://leetcode.com/problems/design-hashmap
-MEDIUM,Merge Intervals,57.7,0.4847551232559806,https://leetcode.com/problems/merge-intervals
-MEDIUM,Design Tic-Tac-Toe,57.7,0.5834831827582454,https://leetcode.com/problems/design-tic-tac-toe
-MEDIUM,Product of the Last K Numbers,57.7,0.5230740048234561,https://leetcode.com/problems/product-of-the-last-k-numbers
-MEDIUM,Generate Parentheses,57.7,0.7612842355854197,https://leetcode.com/problems/generate-parentheses
-MEDIUM,Search in Rotated Sorted Array,57.7,0.4201699791886016,https://leetcode.com/problems/search-in-rotated-sorted-array
-HARD,Merge k Sorted Lists,57.7,0.5516022096782557,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Interleaving String,57.7,0.4109284774536173,https://leetcode.com/problems/interleaving-string
-MEDIUM,Group Anagrams,57.7,0.6997621833598086,https://leetcode.com/problems/group-anagrams
-EASY,Valid Palindrome,57.7,0.49597129586546707,https://leetcode.com/problems/valid-palindrome
-EASY,Valid Anagram,57.7,0.6581682763388986,https://leetcode.com/problems/valid-anagram
-MEDIUM,3Sum,57.7,0.36008885160029885,https://leetcode.com/problems/3sum
+MEDIUM,LRU Cache,100.0,0.44062554722283115,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,95.0,0.5468036929240495,https://leetcode.com/problems/two-sum
+EASY,Valid Parentheses,92.1,0.41600870897544584,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Number of Islands,74.8,0.612095075370866,https://leetcode.com/problems/number-of-islands
+EASY,Longest Common Prefix,74.8,0.4456145770570986,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Course Schedule,74.8,0.48159979878673925,https://leetcode.com/problems/course-schedule
+MEDIUM,Rotate Array,74.8,0.42181083604740344,https://leetcode.com/problems/rotate-array
+MEDIUM,Design Circular Queue,74.8,0.5218940172435155,https://leetcode.com/problems/design-circular-queue
+EASY,Valid Palindrome,67.7,0.49718249995128166,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Top K Frequent Elements,67.7,0.6385663678976886,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Valid Sudoku,67.7,0.613287155244331,https://leetcode.com/problems/valid-sudoku
+HARD,Word Ladder,67.7,0.4138440715232947,https://leetcode.com/problems/word-ladder
+MEDIUM,Subarray Sum Equals K,67.7,0.4466491346354507,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Reverse String,67.7,0.7936743501828363,https://leetcode.com/problems/reverse-string
+HARD,Trapping Rain Water,57.7,0.6391044237086883,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Course Schedule II,57.7,0.5227069612913758,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,String Compression,57.7,0.5683418427436959,https://leetcode.com/problems/string-compression
+MEDIUM,Design Tic-Tac-Toe,57.7,0.5837778114777183,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Kth Smallest Element in a Sorted Matrix,57.7,0.6308960173359162,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+MEDIUM,Meeting Rooms II,57.7,0.5181621604113019,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Permutations,57.7,0.7986464525226079,https://leetcode.com/problems/permutations
+MEDIUM,3Sum,57.7,0.36092699800777944,https://leetcode.com/problems/3sum
+HARD,Text Justification,57.7,0.46463293748481926,https://leetcode.com/problems/text-justification
+EASY,Fibonacci Number,57.7,0.7229358625601656,https://leetcode.com/problems/fibonacci-number
+HARD,Employee Free Time,57.7,0.7243460032648682,https://leetcode.com/problems/employee-free-time
+HARD,Integer to English Words,57.7,0.34188159770734444,https://leetcode.com/problems/integer-to-english-words
+EASY,Design HashMap,57.7,0.6563047181191721,https://leetcode.com/problems/design-hashmap
+MEDIUM,Generate Parentheses,57.7,0.7621019535803865,https://leetcode.com/problems/generate-parentheses
+HARD,Merge k Sorted Lists,57.7,0.552919345154782,https://leetcode.com/problems/merge-k-sorted-lists
+EASY,Valid Anagram,57.7,0.6589722604935356,https://leetcode.com/problems/valid-anagram
+MEDIUM,Merge Intervals,57.7,0.48545742209688003,https://leetcode.com/problems/merge-intervals
+MEDIUM,Longest Substring Without Repeating Characters,57.7,0.36045520640262646,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Reverse Bits,57.7,0.6161601246217813,https://leetcode.com/problems/reverse-bits
+MEDIUM,Robot Bounded In Circle,57.7,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle

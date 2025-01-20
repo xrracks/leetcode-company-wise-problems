@@ -1,46 +1,46 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Rank Teams by Votes,100.0,0.5882525508378769,https://leetcode.com/problems/rank-teams-by-votes
-MEDIUM,Design Snake Game,90.7,0.38985130804688417,https://leetcode.com/problems/design-snake-game
-EASY,Logger Rate Limiter,81.8,0.7625936052134716,https://leetcode.com/problems/logger-rate-limiter
-MEDIUM,Design File System,72.5,0.6359286071600487,https://leetcode.com/problems/design-file-system
-HARD,Cherry Pickup,70.4,0.3742077405434563,https://leetcode.com/problems/cherry-pickup
-HARD,All O`one Data Structure,70.4,0.450142434594689,https://leetcode.com/problems/all-oone-data-structure
-MEDIUM,Longest String Chain,65.4,0.6155300025330338,https://leetcode.com/problems/longest-string-chain
-MEDIUM,Longest Increasing Subsequence,62.3,0.5686115474063062,https://leetcode.com/problems/longest-increasing-subsequence
-MEDIUM,Majority Element II,62.3,0.5325410971723437,https://leetcode.com/problems/majority-element-ii
-MEDIUM,Stock Price Fluctuation ,62.3,0.48608868055829096,https://leetcode.com/problems/stock-price-fluctuation
-MEDIUM,Online Election,58.7,0.5232965344332565,https://leetcode.com/problems/online-election
-HARD,String Transformation,58.7,0.30123974588293345,https://leetcode.com/problems/string-transformation
-MEDIUM,Merge Intervals,58.7,0.48475558659573614,https://leetcode.com/problems/merge-intervals
-MEDIUM,Group Anagrams,58.7,0.699762286154963,https://leetcode.com/problems/group-anagrams
-MEDIUM,Integer to Roman,54.3,0.672493379028993,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Unique Paths II,48.6,0.4254159298611458,https://leetcode.com/problems/unique-paths-ii
-EASY,Best Time to Buy and Sell Stock,48.6,0.5452636371070286,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Design Tic-Tac-Toe,48.6,0.5834831827582454,https://leetcode.com/problems/design-tic-tac-toe
-EASY,Crawler Log Folder,48.6,0.716525729592943,https://leetcode.com/problems/crawler-log-folder
-MEDIUM,Koko Eating Bananas,48.6,0.4869548488932445,https://leetcode.com/problems/koko-eating-bananas
-MEDIUM,Maximum Number of Occurrences of a Substring,48.6,0.5263456800434292,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
-HARD,Count Vowels Permutation,48.6,0.616183140931002,https://leetcode.com/problems/count-vowels-permutation
-MEDIUM,Container With Most Water,40.7,0.5676695224500002,https://leetcode.com/problems/container-with-most-water
-EASY,Kth Largest Element in a Stream,40.7,0.5953065625962822,https://leetcode.com/problems/kth-largest-element-in-a-stream
-EASY,Lemonade Change,40.7,0.5828476233431785,https://leetcode.com/problems/lemonade-change
-MEDIUM,Meeting Rooms II,40.7,0.5178402898285993,https://leetcode.com/problems/meeting-rooms-ii
-HARD,Basic Calculator,40.7,0.4444669239277701,https://leetcode.com/problems/basic-calculator
-EASY,Two Sum,40.7,0.5456832834421814,https://leetcode.com/problems/two-sum
-MEDIUM,Longest Substring Without Repeating Characters,40.7,0.35974198791732825,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Assign Cookies,40.7,0.5333058573155809,https://leetcode.com/problems/assign-cookies
-MEDIUM,Coin Change,40.7,0.45440948032892,https://leetcode.com/problems/coin-change
-HARD,Split Array Largest Sum,40.7,0.5702340436176498,https://leetcode.com/problems/split-array-largest-sum
-MEDIUM,Find K Pairs with Smallest Sums,40.7,0.40300065032481025,https://leetcode.com/problems/find-k-pairs-with-smallest-sums
-EASY,Add Two Integers,40.7,0.880615414262557,https://leetcode.com/problems/add-two-integers
-HARD,Number of Digit One,40.7,0.35286108984388,https://leetcode.com/problems/number-of-digit-one
-MEDIUM,Basic Calculator II,40.7,0.44895369248542727,https://leetcode.com/problems/basic-calculator-ii
-MEDIUM,Repeated DNA Sequences,40.7,0.5031976147393449,https://leetcode.com/problems/repeated-dna-sequences
-HARD,Maximum Path Quality of a Graph,40.7,0.5925691930114451,https://leetcode.com/problems/maximum-path-quality-of-a-graph
-EASY,Last Stone Weight,40.7,0.6572259056404345,https://leetcode.com/problems/last-stone-weight
-EASY,Merge Sorted Array,40.7,0.5180356698024079,https://leetcode.com/problems/merge-sorted-array
-MEDIUM,Subsets,40.7,0.7986290616974989,https://leetcode.com/problems/subsets
-HARD,Text Justification,40.7,0.4632742352690355,https://leetcode.com/problems/text-justification
-HARD,Trapping Rain Water,40.7,0.6378150452531621,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,3Sum,40.7,0.360088946652005,https://leetcode.com/problems/3sum
-MEDIUM,Single Element in a Sorted Array,40.7,0.5923513457740043,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Rank Teams by Votes,100.0,0.5882625064943383,https://leetcode.com/problems/rank-teams-by-votes
+MEDIUM,Design Snake Game,90.7,0.38982237780370804,https://leetcode.com/problems/design-snake-game
+EASY,Logger Rate Limiter,81.8,0.7628052945168325,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,Design File System,72.5,0.6362458696305197,https://leetcode.com/problems/design-file-system
+HARD,All O`one Data Structure,70.4,0.449628556389427,https://leetcode.com/problems/all-oone-data-structure
+HARD,Cherry Pickup,70.4,0.37427317654363457,https://leetcode.com/problems/cherry-pickup
+MEDIUM,Longest String Chain,65.4,0.6157788575508252,https://leetcode.com/problems/longest-string-chain
+MEDIUM,Longest Increasing Subsequence,62.3,0.5692999979140837,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Majority Element II,62.3,0.5334291371628771,https://leetcode.com/problems/majority-element-ii
+MEDIUM,Online Election,62.3,0.52329962643308,https://leetcode.com/problems/online-election
+MEDIUM,Stock Price Fluctuation ,62.3,0.48628502113006733,https://leetcode.com/problems/stock-price-fluctuation
+HARD,String Transformation,58.7,0.3012378803585585,https://leetcode.com/problems/string-transformation
+MEDIUM,Merge Intervals,58.7,0.4854567453176654,https://leetcode.com/problems/merge-intervals
+MEDIUM,Group Anagrams,58.7,0.7004728554993374,https://leetcode.com/problems/group-anagrams
+MEDIUM,Integer to Roman,54.3,0.6736951941440882,https://leetcode.com/problems/integer-to-roman
+EASY,Best Time to Buy and Sell Stock,48.6,0.5457832154414554,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Crawler Log Folder,48.6,0.7165087882604172,https://leetcode.com/problems/crawler-log-folder
+MEDIUM,Koko Eating Bananas,48.6,0.48715533549012346,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Unique Paths II,48.6,0.42590477683138245,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Maximum Number of Occurrences of a Substring,48.6,0.5271556782308315,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+HARD,Count Vowels Permutation,48.6,0.6160908603543952,https://leetcode.com/problems/count-vowels-permutation
+MEDIUM,Design Tic-Tac-Toe,48.6,0.5837778114777183,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Meeting Rooms II,40.6,0.5181631673232779,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Longest Substring Without Repeating Characters,40.6,0.3604559061270047,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Single Element in a Sorted Array,40.6,0.5919776203582547,https://leetcode.com/problems/single-element-in-a-sorted-array
+EASY,Kth Largest Element in a Stream,40.6,0.5956399795822516,https://leetcode.com/problems/kth-largest-element-in-a-stream
+HARD,Basic Calculator,40.6,0.4451539372458467,https://leetcode.com/problems/basic-calculator
+EASY,Lemonade Change,40.6,0.5824680794880663,https://leetcode.com/problems/lemonade-change
+EASY,Two Sum,40.6,0.5468041737732183,https://leetcode.com/problems/two-sum
+MEDIUM,Container With Most Water,40.6,0.5685245947439328,https://leetcode.com/problems/container-with-most-water
+EASY,Add Two Integers,40.6,0.8808808598241983,https://leetcode.com/problems/add-two-integers
+EASY,Assign Cookies,40.6,0.5335577350237501,https://leetcode.com/problems/assign-cookies
+HARD,Split Array Largest Sum,40.6,0.5710194715477631,https://leetcode.com/problems/split-array-largest-sum
+MEDIUM,Find K Pairs with Smallest Sums,40.6,0.40327190887741926,https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+MEDIUM,Coin Change,40.6,0.4551646533560707,https://leetcode.com/problems/coin-change
+HARD,Number of Digit One,40.6,0.35356385565284704,https://leetcode.com/problems/number-of-digit-one
+MEDIUM,Basic Calculator II,40.6,0.4496686650063733,https://leetcode.com/problems/basic-calculator-ii
+HARD,Maximum Path Quality of a Graph,40.6,0.5936579950769825,https://leetcode.com/problems/maximum-path-quality-of-a-graph
+EASY,Last Stone Weight,40.6,0.6574062607499142,https://leetcode.com/problems/last-stone-weight
+EASY,Merge Sorted Array,40.6,0.5190070619983169,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Subsets,40.6,0.7994384761790411,https://leetcode.com/problems/subsets
+HARD,Text Justification,40.6,0.46463350588941404,https://leetcode.com/problems/text-justification
+HARD,Trapping Rain Water,40.6,0.639106634398673,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,3Sum,40.6,0.36092777039405816,https://leetcode.com/problems/3sum
+MEDIUM,Boats to Save People,40.6,0.598035653200549,https://leetcode.com/problems/boats-to-save-people

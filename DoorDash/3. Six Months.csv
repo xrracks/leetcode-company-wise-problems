@@ -1,46 +1,48 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Walls and Gates,100.0,0.6228685071380634,https://leetcode.com/problems/walls-and-gates
-HARD,Binary Tree Maximum Path Sum,98.9,0.407119459249771,https://leetcode.com/problems/binary-tree-maximum-path-sum
-HARD,Longest Increasing Path in a Matrix,93.6,0.5462630552102105,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
-HARD,Maximum Profit in Job Scheduling,84.3,0.5432046307282814,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-EASY,Buddy Strings,78.9,0.3338539108546169,https://leetcode.com/problems/buddy-strings
-EASY,Check if One String Swap Can Make Strings Equal,78.9,0.4603533278553821,https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal
-MEDIUM,Find K Closest Elements,77.3,0.48165652229431044,https://leetcode.com/problems/find-k-closest-elements
-MEDIUM,Single-Threaded CPU,75.5,0.46006211828776317,https://leetcode.com/problems/single-threaded-cpu
-MEDIUM,Most Profit Assigning Work,75.5,0.5585144659416259,https://leetcode.com/problems/most-profit-assigning-work
-MEDIUM,Koko Eating Bananas,73.6,0.4869548488932445,https://leetcode.com/problems/koko-eating-bananas
-MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,69.1,0.821093304863005,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
-MEDIUM,Implement Trie (Prefix Tree),66.4,0.6704749521123763,https://leetcode.com/problems/implement-trie-prefix-tree
-MEDIUM,Search Suggestions System,63.3,0.6506314564076575,https://leetcode.com/problems/search-suggestions-system
-HARD,Vertical Order Traversal of a Binary Tree,63.3,0.4979740998818544,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
-MEDIUM,Next Greater Element III,59.6,0.3435254180159141,https://leetcode.com/problems/next-greater-element-iii
-HARD,Count All Valid Pickup and Delivery Options,55.1,0.6488582244474295,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options
-MEDIUM,Max Area of Island,55.1,0.7271220989228963,https://leetcode.com/problems/max-area-of-island
-MEDIUM,Longest Common Subsequence,55.1,0.5786707840249089,https://leetcode.com/problems/longest-common-subsequence
-MEDIUM,Course Schedule II,55.1,0.5218087460511524,https://leetcode.com/problems/course-schedule-ii
-HARD,Basic Calculator III,55.1,0.5159796499120629,https://leetcode.com/problems/basic-calculator-iii
-EASY,Two Sum,55.1,0.5456831602298353,https://leetcode.com/problems/two-sum
-MEDIUM,Count Nodes With the Highest Score,55.1,0.5063522337880649,https://leetcode.com/problems/count-nodes-with-the-highest-score
-EASY,Find Nearest Point That Has the Same X or Y Coordinate,55.1,0.690723577927047,https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate
-HARD,Making A Large Island,55.1,0.49581520371102883,https://leetcode.com/problems/making-a-large-island
-HARD,Best Meeting Point,55.1,0.6113317701105422,https://leetcode.com/problems/best-meeting-point
-HARD,Basic Calculator,49.4,0.4444669239277701,https://leetcode.com/problems/basic-calculator
-HARD,Serialize and Deserialize Binary Tree,49.4,0.5802165996393814,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-HARD,Shortest Distance from All Buildings,49.4,0.43683609563682924,https://leetcode.com/problems/shortest-distance-from-all-buildings
-MEDIUM,Next Permutation,49.4,0.41883073391582293,https://leetcode.com/problems/next-permutation
-MEDIUM,01 Matrix,49.4,0.5012716897971436,https://leetcode.com/problems/01-matrix
-HARD,Word Search II,41.3,0.3685621560603923,https://leetcode.com/problems/word-search-ii
-MEDIUM,Ways to Make a Fair Array,41.3,0.6393695081076184,https://leetcode.com/problems/ways-to-make-a-fair-array
-MEDIUM,Number of Islands,41.3,0.6112260291537752,https://leetcode.com/problems/number-of-islands
-MEDIUM,Interval List Intersections,41.3,0.7227889167277138,https://leetcode.com/problems/interval-list-intersections
-MEDIUM,Group Anagrams,41.3,0.699762286154963,https://leetcode.com/problems/group-anagrams
-MEDIUM,Design Add and Search Words Data Structure,41.3,0.4640784712368792,https://leetcode.com/problems/design-add-and-search-words-data-structure
-MEDIUM,Design Browser History,41.3,0.7781474108223899,https://leetcode.com/problems/design-browser-history
-HARD,Subsequence With the Minimum Score,41.3,0.322906233145851,https://leetcode.com/problems/subsequence-with-the-minimum-score
-MEDIUM,Immediate Food Delivery II,41.3,0.5329351839351647,https://leetcode.com/problems/immediate-food-delivery-ii
-EASY,Immediate Food Delivery I,41.3,0.8083962000558816,https://leetcode.com/problems/immediate-food-delivery-i
-MEDIUM,Mice and Cheese,41.3,0.4670829919774937,https://leetcode.com/problems/mice-and-cheese
-HARD,Number of Visible People in a Queue,41.3,0.7036126308887113,https://leetcode.com/problems/number-of-visible-people-in-a-queue
-MEDIUM,Count Sub Islands,41.3,0.7280939110741833,https://leetcode.com/problems/count-sub-islands
-MEDIUM,Design File System,41.3,0.6359286071600487,https://leetcode.com/problems/design-file-system
-MEDIUM,Jump Game II,41.3,0.4096367510080468,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Walls and Gates,100.0,0.6233819024291526,https://leetcode.com/problems/walls-and-gates
+HARD,Binary Tree Maximum Path Sum,97.3,0.40747173317782787,https://leetcode.com/problems/binary-tree-maximum-path-sum
+HARD,Longest Increasing Path in a Matrix,91.4,0.5469390364106631,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+HARD,Maximum Profit in Job Scheduling,85.1,0.5431849681573361,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+EASY,Buddy Strings,79.0,0.3339787879560462,https://leetcode.com/problems/buddy-strings
+EASY,Check if One String Swap Can Make Strings Equal,77.5,0.46041773182601453,https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal
+MEDIUM,Find K Closest Elements,75.9,0.48192841064758096,https://leetcode.com/problems/find-k-closest-elements
+MEDIUM,Single-Threaded CPU,74.2,0.45961074485577735,https://leetcode.com/problems/single-threaded-cpu
+MEDIUM,Koko Eating Bananas,74.2,0.48715529513893435,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Most Profit Assigning Work,74.2,0.558448854868683,https://leetcode.com/problems/most-profit-assigning-work
+MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,67.9,0.8211528067330708,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+MEDIUM,Next Greater Element III,67.9,0.34353649138079057,https://leetcode.com/problems/next-greater-element-iii
+MEDIUM,Search Suggestions System,65.2,0.6505752316310943,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Implement Trie (Prefix Tree),65.2,0.6714334268646407,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Vertical Order Traversal of a Binary Tree,62.1,0.49916728858910014,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+HARD,Making A Large Island,58.5,0.4966909508179222,https://leetcode.com/problems/making-a-large-island
+MEDIUM,01 Matrix,58.5,0.5021986826712208,https://leetcode.com/problems/01-matrix
+HARD,Count All Valid Pickup and Delivery Options,54.0,0.6487369713699978,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options
+HARD,Serialize and Deserialize Binary Tree,54.0,0.5809253744206535,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Longest Common Subsequence,54.0,0.57880592383454,https://leetcode.com/problems/longest-common-subsequence
+EASY,Two Sum,54.0,0.5468040243134453,https://leetcode.com/problems/two-sum
+MEDIUM,Max Area of Island,54.0,0.7275369253249023,https://leetcode.com/problems/max-area-of-island
+HARD,Basic Calculator III,54.0,0.5166181086821676,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,Count Nodes With the Highest Score,54.0,0.5074183499791258,https://leetcode.com/problems/count-nodes-with-the-highest-score
+EASY,Find Nearest Point That Has the Same X or Y Coordinate,54.0,0.6907218825231416,https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate
+HARD,Shortest Distance from All Buildings,54.0,0.43710291957399927,https://leetcode.com/problems/shortest-distance-from-all-buildings
+HARD,Best Meeting Point,54.0,0.6112822330044159,https://leetcode.com/problems/best-meeting-point
+HARD,Basic Calculator,48.3,0.4451539372458467,https://leetcode.com/problems/basic-calculator
+MEDIUM,Course Schedule II,48.3,0.5227068848574203,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Design File System,48.3,0.6362458696305197,https://leetcode.com/problems/design-file-system
+MEDIUM,Next Permutation,48.3,0.41968129559315875,https://leetcode.com/problems/next-permutation
+MEDIUM,Number of Islands,40.3,0.6120953084280082,https://leetcode.com/problems/number-of-islands
+HARD,Word Search II,40.3,0.3689288744361482,https://leetcode.com/problems/word-search-ii
+MEDIUM,Ways to Make a Fair Array,40.3,0.6401914737173812,https://leetcode.com/problems/ways-to-make-a-fair-array
+MEDIUM,Jump Game II,40.3,0.4098932486354181,https://leetcode.com/problems/jump-game-ii
+HARD,Largest Rectangle in Histogram,40.3,0.4624600033167197,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Mice and Cheese,40.3,0.46721638719980346,https://leetcode.com/problems/mice-and-cheese
+MEDIUM,Group Anagrams,40.3,0.7004726118398428,https://leetcode.com/problems/group-anagrams
+MEDIUM,Design Add and Search Words Data Structure,40.3,0.46465750856605775,https://leetcode.com/problems/design-add-and-search-words-data-structure
+MEDIUM,Design Browser History,40.3,0.778405594890416,https://leetcode.com/problems/design-browser-history
+HARD,Subsequence With the Minimum Score,40.3,0.32282293731889583,https://leetcode.com/problems/subsequence-with-the-minimum-score
+MEDIUM,Immediate Food Delivery II,40.3,0.534019530661128,https://leetcode.com/problems/immediate-food-delivery-ii
+EASY,Immediate Food Delivery I,40.3,0.808559700231585,https://leetcode.com/problems/immediate-food-delivery-i
+HARD,Number of Visible People in a Queue,40.3,0.7043291838158706,https://leetcode.com/problems/number-of-visible-people-in-a-queue
+MEDIUM,Interval List Intersections,40.3,0.7232047610168819,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Count Sub Islands,40.3,0.7282437548975811,https://leetcode.com/problems/count-sub-islands
+HARD,Design In-Memory File System,40.3,0.48070331291222834,https://leetcode.com/problems/design-in-memory-file-system

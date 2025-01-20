@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,LRU Cache,100.0,0.43978176591159096,https://leetcode.com/problems/lru-cache
-EASY,Merge Two Binary Trees,92.5,0.7922291113309394,https://leetcode.com/problems/merge-two-binary-trees
-MEDIUM,Insert Interval,81.9,0.4266964838019114,https://leetcode.com/problems/insert-interval
-EASY,Two Sum,81.9,0.545685203372787,https://leetcode.com/problems/two-sum
-MEDIUM,Valid Sudoku,81.9,0.6123433868084935,https://leetcode.com/problems/valid-sudoku
-MEDIUM,Web Crawler Multithreaded,81.9,0.4957749541768927,https://leetcode.com/problems/web-crawler-multithreaded
+EASY,Merge Two Binary Trees,100.0,0.7922761701301223,https://leetcode.com/problems/merge-two-binary-trees
+MEDIUM,LRU Cache,100.0,0.4406266150776352,https://leetcode.com/problems/lru-cache
+MEDIUM,Insert Interval,88.6,0.4271862192976875,https://leetcode.com/problems/insert-interval
+EASY,Two Sum,88.6,0.5468066161309199,https://leetcode.com/problems/two-sum
+MEDIUM,Valid Sudoku,88.6,0.6132875290672493,https://leetcode.com/problems/valid-sudoku
+MEDIUM,Web Crawler Multithreaded,88.6,0.49538770874263266,https://leetcode.com/problems/web-crawler-multithreaded

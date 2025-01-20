@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximum Number of Potholes That Can Be Fixed,100.0,0.5493060628195763,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed
-MEDIUM,Largest Palindromic Number,89.6,0.3605601027122452,https://leetcode.com/problems/largest-palindromic-number
-MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,89.6,0.6143436800940516,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
-MEDIUM,Number of Spaces Cleaning Robot Cleaned,84.6,0.6254426229508196,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned
-MEDIUM,Best Time to Buy and Sell Stock II,69.3,0.6840520641480482,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Largest Palindromic Number,100.0,0.3609534982084001,https://leetcode.com/problems/largest-palindromic-number
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,100.0,0.6143394197597742,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
+MEDIUM,Number of Spaces Cleaning Robot Cleaned,100.0,0.6248780804993823,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned
+MEDIUM,Maximum Number of Potholes That Can Be Fixed,92.7,0.5508771929824562,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed
+MEDIUM,Best Time to Buy and Sell Stock II,82.3,0.6850427642629296,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii

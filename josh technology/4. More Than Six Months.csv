@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Add Two Numbers,100.0,0.44937202666068077,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Remove Zero Sum Consecutive Nodes from Linked List,100.0,0.5275093736554183,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list
-MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,92.3,0.6962321169000076,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points
-MEDIUM,Number of Good Leaf Nodes Pairs,92.3,0.718618763153176,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
-EASY,Best Time to Buy and Sell Stock,92.3,0.5452646587211125,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Longest Substring Without Repeating Characters,81.4,0.35974357019539527,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Move Zeroes,81.4,0.6237760640172052,https://leetcode.com/problems/move-zeroes
+MEDIUM,Add Two Numbers,100.0,0.45044887273704926,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Remove Zero Sum Consecutive Nodes from Linked List,100.0,0.5274501144010354,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list
+MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,92.3,0.6962289837055793,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points
+MEDIUM,Number of Good Leaf Nodes Pairs,92.3,0.71852036543944,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+EASY,Best Time to Buy and Sell Stock,92.3,0.5457859089043945,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Longest Substring Without Repeating Characters,81.3,0.3604588481325121,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Move Zeroes,81.3,0.6240694969132762,https://leetcode.com/problems/move-zeroes

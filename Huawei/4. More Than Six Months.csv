@@ -1,9 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Valid Parentheses,100.0,0.41538846526843665,https://leetcode.com/problems/valid-parentheses
-EASY,Two Sum,94.0,0.5456847329474651,https://leetcode.com/problems/two-sum
-MEDIUM,Decode String,94.0,0.6039233163498977,https://leetcode.com/problems/decode-string
-MEDIUM,Number of Islands,86.2,0.6112267522977448,https://leetcode.com/problems/number-of-islands
-MEDIUM,Largest Number,75.3,0.40535630507582915,https://leetcode.com/problems/largest-number
-HARD,24 Game,75.3,0.4967073486794053,https://leetcode.com/problems/24-game
-MEDIUM,Combination Sum,75.3,0.7346526036925706,https://leetcode.com/problems/combination-sum
-MEDIUM,Daily Temperatures,75.3,0.667310493697497,https://leetcode.com/problems/daily-temperatures
+EASY,Valid Parentheses,100.0,0.4160108516803923,https://leetcode.com/problems/valid-parentheses
+EASY,Two Sum,94.0,0.546805979016715,https://leetcode.com/problems/two-sum
+MEDIUM,Number of Islands,86.2,0.6120962873747173,https://leetcode.com/problems/number-of-islands
+MEDIUM,Decode String,86.2,0.6045193299981834,https://leetcode.com/problems/decode-string
+HARD,24 Game,75.3,0.49692433331179087,https://leetcode.com/problems/24-game
+MEDIUM,Combination Sum,75.3,0.7356048140496786,https://leetcode.com/problems/combination-sum
+MEDIUM,Daily Temperatures,75.3,0.6677642670191016,https://leetcode.com/problems/daily-temperatures
