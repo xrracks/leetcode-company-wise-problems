@@ -1,6 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Word Ladder,100.0,0.4138456143866152,https://leetcode.com/problems/word-ladder
-MEDIUM,LRU Cache,100.0,0.4406270976773964,https://leetcode.com/problems/lru-cache
-MEDIUM,Number of Islands,100.0,0.6120955098590548,https://leetcode.com/problems/number-of-islands
-EASY,Valid Parentheses,100.0,0.4160102087271318,https://leetcode.com/problems/valid-parentheses
-HARD,Reconstruct Itinerary,100.0,0.4338544648166776,https://leetcode.com/problems/reconstruct-itinerary
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Spiral Matrix,100.0,0.5271678092625995,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

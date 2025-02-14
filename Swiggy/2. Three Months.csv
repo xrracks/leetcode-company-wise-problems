@@ -1,7 +1,8 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Integer to Roman,100.0,0.6736960113438727,https://leetcode.com/problems/integer-to-roman
-EASY,Next Greater Element I,100.0,0.7367201882104558,https://leetcode.com/problems/next-greater-element-i
-EASY,Happy Number,100.0,0.5733815226772045,https://leetcode.com/problems/happy-number
-MEDIUM,Count Good Meals,88.3,0.3095283844659365,https://leetcode.com/problems/count-good-meals
-MEDIUM,Immediate Food Delivery II,88.3,0.5340225784298946,https://leetcode.com/problems/immediate-food-delivery-ii
-MEDIUM,Daily Temperatures,88.3,0.667763324819432,https://leetcode.com/problems/daily-temperatures
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Integer to Roman,100.0,0.6765165039175172,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+EASY,Next Greater Element I,100.0,0.7381261065558333,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+EASY,Happy Number,100.0,0.5746137760215781,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+EASY,Fair Candy Swap,100.0,0.627596472529894,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
+MEDIUM,Count Good Meals,88.1,0.3104479717813051,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+MEDIUM,Immediate Food Delivery II,88.1,0.5359700293069877,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+MEDIUM,Daily Temperatures,88.1,0.6687772844895019,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"

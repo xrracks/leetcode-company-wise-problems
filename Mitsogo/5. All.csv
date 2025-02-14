@@ -1,17 +1,17 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Find the Integer Added to Array I,100.0,0.8193377415943636,https://leetcode.com/problems/find-the-integer-added-to-array-i
-MEDIUM,Find the Integer Added to Array II,100.0,0.3152798497154539,https://leetcode.com/problems/find-the-integer-added-to-array-ii
-MEDIUM,Minimum Substring Partition of Equal Character Frequency,100.0,0.4005071075985218,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency
-HARD,Construct String with Minimum Cost,100.0,0.19701536789049762,https://leetcode.com/problems/construct-string-with-minimum-cost
-MEDIUM,Maximum Total Reward Using Operations I,100.0,0.29719624094353647,https://leetcode.com/problems/maximum-total-reward-using-operations-i
-HARD,Maximum Total Reward Using Operations II,100.0,0.20739849279348982,https://leetcode.com/problems/maximum-total-reward-using-operations-ii
-MEDIUM,Shortest Subarray With OR at Least K II,100.0,0.5054739036077268,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii
-EASY,Shortest Subarray With OR at Least K I,100.0,0.42547493403693937,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i
-MEDIUM,Right Triangles,100.0,0.47027898499929904,https://leetcode.com/problems/right-triangles
-MEDIUM,Symmetric Coordinates,100.0,0.4108921381648654,https://leetcode.com/problems/symmetric-coordinates
-EASY,Pascal's Triangle,71.1,0.7612279781622721,https://leetcode.com/problems/pascals-triangle
-MEDIUM,Next Permutation,71.1,0.41968673344026913,https://leetcode.com/problems/next-permutation
-MEDIUM,Next Greater Element III,61.3,0.34354697663646566,https://leetcode.com/problems/next-greater-element-iii
-MEDIUM,Zigzag Conversion,61.3,0.5032855073023662,https://leetcode.com/problems/zigzag-conversion
-MEDIUM,Jump Game II,61.3,0.40989527162388373,https://leetcode.com/problems/jump-game-ii
-EASY,Valid Parentheses,61.3,0.41601259869182905,https://leetcode.com/problems/valid-parentheses
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Find the Integer Added to Array I,100.0,0.8200271647705325,https://leetcode.com/problems/find-the-integer-added-to-array-i,Array
+MEDIUM,Find the Integer Added to Array II,100.0,0.3162141024409654,https://leetcode.com/problems/find-the-integer-added-to-array-ii,"Array, Two Pointers, Sorting, Enumeration"
+MEDIUM,Minimum Substring Partition of Equal Character Frequency,100.0,0.4016439379787035,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency,"Hash Table, String, Dynamic Programming, Counting"
+HARD,Construct String with Minimum Cost,100.0,0.19657756804859333,https://leetcode.com/problems/construct-string-with-minimum-cost,"Array, String, Dynamic Programming, Suffix Array"
+MEDIUM,Maximum Total Reward Using Operations I,100.0,0.298475233562489,https://leetcode.com/problems/maximum-total-reward-using-operations-i,"Array, Dynamic Programming"
+HARD,Maximum Total Reward Using Operations II,100.0,0.2078014184397163,https://leetcode.com/problems/maximum-total-reward-using-operations-ii,"Array, Dynamic Programming, Bit Manipulation"
+MEDIUM,Shortest Subarray With OR at Least K II,100.0,0.5051888883547779,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii,"Array, Bit Manipulation, Sliding Window"
+EASY,Shortest Subarray With OR at Least K I,100.0,0.42677183894513776,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i,"Array, Bit Manipulation, Sliding Window"
+MEDIUM,Right Triangles,100.0,0.47006969123551945,https://leetcode.com/problems/right-triangles,"Array, Hash Table, Math, Combinatorics, Counting"
+MEDIUM,Symmetric Coordinates,100.0,0.41092247903456747,https://leetcode.com/problems/symmetric-coordinates,Database
+EASY,Pascal's Triangle,71.1,0.7629544728296955,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+MEDIUM,Next Permutation,71.1,0.4217872641704839,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Next Greater Element III,61.3,0.34383864286418775,https://leetcode.com/problems/next-greater-element-iii,"Math, Two Pointers, String"
+MEDIUM,Zigzag Conversion,61.3,0.506014939915557,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Jump Game II,61.3,0.4107466441283907,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+EASY,Valid Parentheses,61.3,0.4173938518133343,https://leetcode.com/problems/valid-parentheses,"String, Stack"

@@ -1,9 +1,11 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Palindromic Substring,100.0,0.3504766094056425,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,House Robber,92.1,0.5185577280155941,https://leetcode.com/problems/house-robber
-EASY,Lucky Numbers in a Matrix,79.6,0.7990262424038732,https://leetcode.com/problems/lucky-numbers-in-a-matrix
-MEDIUM,Maximum Subarray,79.6,0.515627017412385,https://leetcode.com/problems/maximum-subarray
-MEDIUM,Rotate Image,73.2,0.7679933045092013,https://leetcode.com/problems/rotate-image
-MEDIUM,Spiral Matrix,64.2,0.5243059483590042,https://leetcode.com/problems/spiral-matrix
-EASY,Remove Duplicates from Sorted Array,64.2,0.5892746397738533,https://leetcode.com/problems/remove-duplicates-from-sorted-array
-EASY,Fizz Buzz,64.2,0.7363863947081613,https://leetcode.com/problems/fizz-buzz
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Palindromic Substring,100.0,0.35189252464415055,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,House Robber,93.1,0.5192202991962157,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Spiral Matrix,77.9,0.5271676849865256,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Maximum Subarray,71.7,0.5164876602591336,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Fizz Buzz,71.7,0.7378271794549779,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+EASY,Lucky Numbers in a Matrix,62.9,0.7989748523156011,https://leetcode.com/problems/lucky-numbers-in-a-matrix,"Array, Matrix"
+EASY,Remove Duplicates from Sorted Array,62.9,0.5922426492674056,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,62.9,0.36201665021041846,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Rotate Image,62.9,0.770166088442466,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+EASY,Merge Sorted Array,62.9,0.5209804096808299,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

@@ -1,32 +1,40 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5468037204676567,https://leetcode.com/problems/two-sum
-MEDIUM,Group Anagrams,100.0,0.7004721245196645,https://leetcode.com/problems/group-anagrams
-MEDIUM,LRU Cache,94.7,0.4406256018009331,https://leetcode.com/problems/lru-cache
-EASY,Reverse Linked List,88.2,0.783541461074451,https://leetcode.com/problems/reverse-linked-list
-EASY,Minimum Absolute Difference,88.2,0.7014709849410495,https://leetcode.com/problems/minimum-absolute-difference
-MEDIUM,3Sum,79.8,0.3609269535598786,https://leetcode.com/problems/3sum
-MEDIUM,Number of Islands,79.8,0.6120952252355103,https://leetcode.com/problems/number-of-islands
-MEDIUM,Top K Frequent Elements,79.8,0.6385663678976886,https://leetcode.com/problems/top-k-frequent-elements
-MEDIUM,Coin Change,79.8,0.45516471373945505,https://leetcode.com/problems/coin-change
-MEDIUM,Simplify Path,79.8,0.45876599199619505,https://leetcode.com/problems/simplify-path
-EASY,Move Zeroes,68.1,0.6240691467565603,https://leetcode.com/problems/move-zeroes
-EASY,Longest Common Prefix,68.1,0.4456146243501844,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Merge Intervals,68.1,0.48545735505966064,https://leetcode.com/problems/merge-intervals
-MEDIUM,Next Permutation,68.1,0.4196805395124062,https://leetcode.com/problems/next-permutation
-EASY,Design HashMap,68.1,0.6563047181191721,https://leetcode.com/problems/design-hashmap
-EASY,Count Vowel Substrings of a String,68.1,0.6943034958369545,https://leetcode.com/problems/count-vowel-substrings-of-a-string
-EASY,Roman to Integer,68.1,0.6373308680503602,https://leetcode.com/problems/roman-to-integer
-MEDIUM,Search a 2D Matrix II,68.1,0.5413994160144676,https://leetcode.com/problems/search-a-2d-matrix-ii
-HARD,Sliding Window Maximum,68.1,0.4711555395186798,https://leetcode.com/problems/sliding-window-maximum
-MEDIUM,Jump Game,68.1,0.3900465431515571,https://leetcode.com/problems/jump-game
-MEDIUM,Longest Palindromic Substring,68.1,0.3504762173042906,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Binary Tree Right Side View,68.1,0.6492518859641264,https://leetcode.com/problems/binary-tree-right-side-view
-EASY,Valid Palindrome,68.1,0.49718250217718135,https://leetcode.com/problems/valid-palindrome
-MEDIUM,Fraction to Recurring Decimal,68.1,0.25721371292576467,https://leetcode.com/problems/fraction-to-recurring-decimal
-MEDIUM,Maximum Number of Events That Can Be Attended,68.1,0.3266772246321926,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
-MEDIUM,Product of Array Except Self,68.1,0.6720163790965674,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Meeting Rooms II,68.1,0.5181621604113019,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Kth Largest Element in an Array,68.1,0.6742748539967888,https://leetcode.com/problems/kth-largest-element-in-an-array
-HARD,Median of Two Sorted Arrays,68.1,0.4247985224246625,https://leetcode.com/problems/median-of-two-sorted-arrays
-HARD,Merge k Sorted Lists,68.1,0.5529194523975836,https://leetcode.com/problems/merge-k-sorted-lists
-EASY,Valid Anagram,68.1,0.6589722675491704,https://leetcode.com/problems/valid-anagram
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Find Valid Pair of Adjacent Digits in String,100.0,0.6106394491817961,https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string,"Hash Table, String, Counting"
+MEDIUM,Group Anagrams,90.8,0.7021298733874869,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Two Sum,82.1,0.5490429737340515,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,LRU Cache,82.1,0.4426505653707288,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Merge Intervals,76.3,0.4869510270547918,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,3Sum,76.3,0.36278818658133544,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Minimum Absolute Difference,76.3,0.7022436857342518,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
+MEDIUM,Number of Islands,76.3,0.6142362554665136,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Sliding Window Maximum,76.3,0.471908049198206,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Binary Tree Right Side View,76.3,0.6531792836052933,https://leetcode.com/problems/binary-tree-right-side-view,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Longest Substring Without Repeating Characters,68.9,0.36201640949939906,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Anagram,68.9,0.6604121729864367,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Maximum Number of Events That Can Be Attended,68.9,0.3268697343677681,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Simplify Path,68.9,0.46275179912117403,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Design Authentication Manager,58.5,0.5809360858371844,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Invert Binary Tree,58.5,0.7849367853000662,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Remove All Adjacent Duplicates in String II,58.5,0.590142248316445,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Maximal Square,58.5,0.48086851385890717,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+HARD,Binary Tree Maximum Path Sum,58.5,0.4084018547824836,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+EASY,Valid Parentheses,58.5,0.4173934217092469,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,N-Queens,58.5,0.714337295856016,https://leetcode.com/problems/n-queens,"Array, Backtracking"
+MEDIUM,Top K Frequent Elements,58.5,0.6397486656736986,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Longest Palindromic Substring,58.5,0.35189249777564363,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Palindromic Substrings,58.5,0.7118585303435221,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,My Calendar I,58.5,0.5836307369258841,https://leetcode.com/problems/my-calendar-i,"Array, Binary Search, Design, Segment Tree, Ordered Set"
+EASY,Roman to Integer,58.5,0.6397784051345318,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+HARD,First Missing Positive,58.5,0.4052979398682367,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Longest Increasing Subsequence,58.5,0.5706148118901235,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+EASY,Design HashMap,58.5,0.6565192682814444,https://leetcode.com/problems/design-hashmap,"Array, Hash Table, Linked List, Design, Hash Function"
+MEDIUM,Next Permutation,58.5,0.42178893681039603,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+EASY,Longest Common Prefix,58.5,0.4474553250277243,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Move Zeroes,58.5,0.6247983176292334,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Jump Game,58.5,0.3905643788936521,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+EASY,Valid Palindrome,58.5,0.4996625670802713,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Coin Change,58.5,0.45679227217636237,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Product of Array Except Self,58.5,0.673121547952623,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+EASY,Reverse Linked List,58.5,0.785241384541823,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+HARD,Median of Two Sorted Arrays,58.5,0.42747204356394725,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,String Compression,58.5,0.570725602777312,https://leetcode.com/problems/string-compression,"Two Pointers, String"

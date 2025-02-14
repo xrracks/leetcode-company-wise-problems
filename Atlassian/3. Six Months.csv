@@ -1,25 +1,17 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Rank Teams by Votes,100.0,0.5882625064943383,https://leetcode.com/problems/rank-teams-by-votes
-MEDIUM,Design Snake Game,88.3,0.38982237780370804,https://leetcode.com/problems/design-snake-game
-EASY,Maximum Area of Longest Diagonal Rectangle,79.1,0.3651729050641109,https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
-MEDIUM,Maximum Square Area by Removing Fences From a Field,79.1,0.23755308018955013,https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field
-MEDIUM,Stock Price Fluctuation ,72.1,0.48628502113006733,https://leetcode.com/problems/stock-price-fluctuation
-HARD,All O`one Data Structure,69.1,0.449628556389427,https://leetcode.com/problems/all-oone-data-structure
-MEDIUM,High-Access Employees,69.1,0.4485670419651996,https://leetcode.com/problems/high-access-employees
-MEDIUM,Merge Intervals,65.5,0.485456658694776,https://leetcode.com/problems/merge-intervals
-MEDIUM,Group Anagrams,61.2,0.7004728554993374,https://leetcode.com/problems/group-anagrams
-EASY,Logger Rate Limiter,55.5,0.7628052945168325,https://leetcode.com/problems/logger-rate-limiter
-MEDIUM,Longest String Chain,47.6,0.6157788575508252,https://leetcode.com/problems/longest-string-chain
-HARD,Text Justification,47.6,0.46463350588941404,https://leetcode.com/problems/text-justification
-MEDIUM,Find K Closest Elements,47.6,0.4819280471126741,https://leetcode.com/problems/find-k-closest-elements
-MEDIUM,Word Search,47.6,0.44307294815739445,https://leetcode.com/problems/word-search
-MEDIUM,Design Hit Counter,47.6,0.6894679583484432,https://leetcode.com/problems/design-hit-counter
-MEDIUM,Make Lexicographically Smallest Array by Swapping Elements,47.6,0.39408734430262954,https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements
-HARD,Minimum Time to Visit a Cell In a Grid,47.6,0.5736642235159833,https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid
-HARD,Verbal Arithmetic Puzzle,47.6,0.34701033744706045,https://leetcode.com/problems/verbal-arithmetic-puzzle
-HARD,Number of Possible Sets of Closing Branches,47.6,0.5066888561735903,https://leetcode.com/problems/number-of-possible-sets-of-closing-branches
-HARD,Minimum Cost to Convert String II,47.6,0.2555591966668227,https://leetcode.com/problems/minimum-cost-to-convert-string-ii
-MEDIUM,Smallest Missing Non-negative Integer After Operations,47.6,0.39617395909181174,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
-MEDIUM,Minimum Cost to Convert String I,47.6,0.5806834177537878,https://leetcode.com/problems/minimum-cost-to-convert-string-i
-MEDIUM,Maximum Good Subarray Sum,47.6,0.19789768397336072,https://leetcode.com/problems/maximum-good-subarray-sum
-MEDIUM,Jump Game II,47.6,0.4098934519652234,https://leetcode.com/problems/jump-game-ii
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Rank Teams by Votes,100.0,0.5887300193219743,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
+MEDIUM,Design Snake Game,88.1,0.38984997364575613,https://leetcode.com/problems/design-snake-game,"Array, Hash Table, Design, Queue, Simulation"
+HARD,All O`one Data Structure,71.3,0.44904876099120705,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,High-Access Employees,68.4,0.4517921595254262,https://leetcode.com/problems/high-access-employees,"Array, Hash Table, String, Sorting"
+MEDIUM,Stock Price Fluctuation ,65.0,0.4863141914276341,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+MEDIUM,Merge Intervals,55.4,0.48695114210994406,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Logger Rate Limiter,55.4,0.7632108059071362,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Word Search,55.4,0.44488197984694117,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Jump Game II,55.4,0.410750520988774,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Design Hit Counter,47.8,0.6898155388342669,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Find K Closest Elements,47.8,0.4828063314572909,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+HARD,Text Justification,47.8,0.4683156504443167,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Best Time to Buy and Sell Stock,47.8,0.5468401813466865,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Increasing Subsequence,47.8,0.5706150540836742,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+HARD,Russian Doll Envelopes,47.8,0.3717097632058847,https://leetcode.com/problems/russian-doll-envelopes,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,47.8,0.5312449399016006,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60,"Array, Hash Table, Counting"

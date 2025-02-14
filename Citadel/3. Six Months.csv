@@ -1,38 +1,33 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Operations to Make Numbers Non-positive,100.0,0.41536842105263155,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
-MEDIUM,Length of Longest Subarray With at Most K Frequency,82.6,0.5586604236653844,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
-MEDIUM,LRU Cache,82.6,0.44062614327656857,https://leetcode.com/problems/lru-cache
-HARD,Couples Holding Hands,77.0,0.580596524624961,https://leetcode.com/problems/couples-holding-hands
-HARD,Count Palindromic Subsequences,77.0,0.38297935629722174,https://leetcode.com/problems/count-palindromic-subsequences
-MEDIUM,Insert Delete GetRandom O(1),69.8,0.5482797347341293,https://leetcode.com/problems/insert-delete-getrandom-o1
-HARD,Minimum Costs Using the Train Line,69.8,0.7838019149844484,https://leetcode.com/problems/minimum-costs-using-the-train-line
-HARD,Serialize and Deserialize Binary Tree,69.8,0.5809253744206535,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-HARD,Sort Items by Groups Respecting Dependencies,69.8,0.658121116952277,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
-MEDIUM,Design Circular Queue,69.8,0.5218940172435155,https://leetcode.com/problems/design-circular-queue
-HARD,Design Excel Sum Formula,69.8,0.4396342563814642,https://leetcode.com/problems/design-excel-sum-formula
-EASY,Fizz Buzz,69.8,0.7363859825057569,https://leetcode.com/problems/fizz-buzz
-MEDIUM,Maximum Total Damage With Spell Casting,69.8,0.26989201477692526,https://leetcode.com/problems/maximum-total-damage-with-spell-casting
-HARD,Best Position for a Service Centre,69.8,0.34595109558590026,https://leetcode.com/problems/best-position-for-a-service-centre
-MEDIUM,Number of Islands,59.7,0.6120951386209973,https://leetcode.com/problems/number-of-islands
-MEDIUM,Paint House,59.7,0.6327293856938182,https://leetcode.com/problems/paint-house
-MEDIUM,Evaluate Division,59.7,0.6258583266214353,https://leetcode.com/problems/evaluate-division
-MEDIUM,Design Front Middle Back Queue,59.7,0.5694074654137301,https://leetcode.com/problems/design-front-middle-back-queue
-MEDIUM,"Pow(x, n)",59.7,0.3620260565741303,https://leetcode.com/problems/powx-n
-HARD,Parallel Courses III,59.7,0.6698785598482764,https://leetcode.com/problems/parallel-courses-iii
-HARD,Sliding Window Maximum,59.7,0.4711559986036471,https://leetcode.com/problems/sliding-window-maximum
-HARD,LFU Cache,59.7,0.4552123016577045,https://leetcode.com/problems/lfu-cache
-HARD,Rank Transform of a Matrix,59.7,0.41148939120787686,https://leetcode.com/problems/rank-transform-of-a-matrix
-MEDIUM,Perfect Squares,59.7,0.5532323343996424,https://leetcode.com/problems/perfect-squares
-EASY,Sqrt(x),59.7,0.39826792750170353,https://leetcode.com/problems/sqrtx
-MEDIUM,Letter Combinations of a Phone Number,59.7,0.6268930654637848,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-MEDIUM,Search Suggestions System,59.7,0.6505752316310943,https://leetcode.com/problems/search-suggestions-system
-HARD,Merge k Sorted Lists,59.7,0.5529198813682755,https://leetcode.com/problems/merge-k-sorted-lists
-HARD,Word Ladder II,59.7,0.2710959555601025,https://leetcode.com/problems/word-ladder-ii
-MEDIUM,Count Number of Maximum Bitwise-OR Subsets,59.7,0.8810080424866912,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
-MEDIUM,Group Anagrams,59.7,0.7004724290949617,https://leetcode.com/problems/group-anagrams
-MEDIUM,Find the Duplicate Number,59.7,0.6211173543970145,https://leetcode.com/problems/find-the-duplicate-number
-MEDIUM,Implement Trie (Prefix Tree),59.7,0.6714334268646407,https://leetcode.com/problems/implement-trie-prefix-tree
-HARD,Sudoku Solver,59.7,0.6354810963963622,https://leetcode.com/problems/sudoku-solver
-MEDIUM,First Completely Painted Row or Column,59.7,0.6345534183132898,https://leetcode.com/problems/first-completely-painted-row-or-column
-MEDIUM,Maximum Length of Repeated Subarray,59.7,0.5096443309960739,https://leetcode.com/problems/maximum-length-of-repeated-subarray
-MEDIUM,Merge Intervals,59.7,0.48545705263629274,https://leetcode.com/problems/merge-intervals
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Count Palindromic Subsequences,100.0,0.3850054745577134,https://leetcode.com/problems/count-palindromic-subsequences,"String, Dynamic Programming"
+HARD,Minimum Operations to Make Numbers Non-positive,97.0,0.41187624750499,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive,"Array, Binary Search"
+MEDIUM,LRU Cache,84.9,0.44265074347372146,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Evaluate Division,84.9,0.6267561075306146,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+MEDIUM,Insert Delete GetRandom O(1),84.9,0.5486438654365023,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Length of Longest Subarray With at Most K Frequency,79.2,0.5587472475378131,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency,"Array, Hash Table, Sliding Window"
+HARD,Serialize and Deserialize Binary Tree,71.8,0.5823652425311298,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+HARD,Parallel Courses III,71.8,0.6688272671283292,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
+MEDIUM,Number of Islands,71.8,0.6142362419103389,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Merge k Sorted Lists,71.8,0.5556686484268839,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Palindromic Substrings,71.8,0.7118585303435221,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+HARD,Design Excel Sum Formula,71.8,0.43979159376336563,https://leetcode.com/problems/design-excel-sum-formula,"Array, Graph, Design, Topological Sort, Matrix"
+HARD,Sort Items by Groups Respecting Dependencies,71.8,0.6577172869486644,https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Design Circular Queue,71.8,0.5228732490850556,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+HARD,Couples Holding Hands,71.8,0.5812921488635417,https://leetcode.com/problems/couples-holding-hands,"Greedy, Depth-First Search, Breadth-First Search, Union Find, Graph"
+EASY,Sqrt(x),61.5,0.39941664879031114,https://leetcode.com/problems/sqrtx,"Math, Binary Search"
+HARD,Employee Free Time,61.5,0.7247389119411948,https://leetcode.com/problems/employee-free-time,"Array, Sorting, Heap (Priority Queue)"
+EASY,Climbing Stairs,61.5,0.533167121018202,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Merge Intervals,61.5,0.48695112053072653,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Fizz Buzz,61.5,0.7378267746363537,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+MEDIUM,"Pow(x, n)",61.5,0.36354447302532256,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,Implement Trie (Prefix Tree),61.5,0.673178521026842,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+HARD,Sliding Window Maximum,61.5,0.4719082524873563,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Design Front Middle Back Queue,61.5,0.5702224052718287,https://leetcode.com/problems/design-front-middle-back-queue,"Array, Linked List, Design, Queue, Data Stream"
+MEDIUM,Count Number of Maximum Bitwise-OR Subsets,61.5,0.8807568590350047,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets,"Array, Backtracking, Bit Manipulation, Enumeration"
+HARD,LFU Cache,61.5,0.45696398877821004,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Rank Transform of a Matrix,61.5,0.4117798663253209,https://leetcode.com/problems/rank-transform-of-a-matrix,"Array, Union Find, Graph, Topological Sort, Sorting, Matrix"
+MEDIUM,Perfect Squares,61.5,0.5539169841320051,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"
+MEDIUM,Find the Duplicate Number,61.5,0.6224613671338406,https://leetcode.com/problems/find-the-duplicate-number,"Array, Two Pointers, Binary Search, Bit Manipulation"
+MEDIUM,Letter Combinations of a Phone Number,61.5,0.6290662892359862,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Search Suggestions System,61.5,0.6504832667221015,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+MEDIUM,Paint House,61.5,0.6335426201656014,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"

@@ -1,48 +1,14 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Palindrome Pairs,100.0,0.3587929343301544,https://leetcode.com/problems/palindrome-pairs
-HARD,Text Justification,97.0,0.46463350588941404,https://leetcode.com/problems/text-justification
-HARD,Maximum Profit in Job Scheduling,89.7,0.5431849681573361,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,Smallest Common Region,89.7,0.6786367939413064,https://leetcode.com/problems/smallest-common-region
-HARD,Sliding Puzzle,85.1,0.7293936983890619,https://leetcode.com/problems/sliding-puzzle
-MEDIUM,Pour Water,85.1,0.4750432303593961,https://leetcode.com/problems/pour-water
-MEDIUM,Flatten 2D Vector,85.1,0.49890532047815306,https://leetcode.com/problems/flatten-2d-vector
-HARD,Minimum Window Substring,85.1,0.44366978618373876,https://leetcode.com/problems/minimum-window-substring
-HARD,Alien Dictionary,72.2,0.3631402172134235,https://leetcode.com/problems/alien-dictionary
-EASY,Contains Duplicate II,72.2,0.47620632026678833,https://leetcode.com/problems/contains-duplicate-ii
-HARD,Word Search II,72.2,0.3689282463837565,https://leetcode.com/problems/word-search-ii
-EASY,Intersection of Two Linked Lists,72.2,0.5984513524377096,https://leetcode.com/problems/intersection-of-two-linked-lists
-HARD,Trapping Rain Water,72.2,0.6391060920831345,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Cheapest Flights Within K Stops,72.2,0.39931959550529406,https://leetcode.com/problems/cheapest-flights-within-k-stops
-EASY,Two Sum,72.2,0.546804028057015,https://leetcode.com/problems/two-sum
-EASY,Single Number,61.9,0.7497351211706328,https://leetcode.com/problems/single-number
-MEDIUM,Robot Bounded In Circle,61.9,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle
-MEDIUM,Basic Calculator II,61.9,0.4496691999355233,https://leetcode.com/problems/basic-calculator-ii
-MEDIUM,Design File System,61.9,0.6362458696305197,https://leetcode.com/problems/design-file-system
-MEDIUM,Number of Ways to Build House of Cards,61.9,0.6285067873303167,https://leetcode.com/problems/number-of-ways-to-build-house-of-cards
-EASY,Convert Sorted Array to Binary Search Tree,61.9,0.7328675636297481,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
-MEDIUM,IP to CIDR,61.9,0.5577166932547961,https://leetcode.com/problems/ip-to-cidr
-MEDIUM,Pyramid Transition Matrix,61.9,0.528259595663639,https://leetcode.com/problems/pyramid-transition-matrix
-HARD,Contains Duplicate III,61.9,0.23258777552943358,https://leetcode.com/problems/contains-duplicate-iii
-HARD,Employee Free Time,61.9,0.7243460032648682,https://leetcode.com/problems/employee-free-time
-MEDIUM,Minimum Number of Vertices to Reach All Nodes,61.9,0.8102765987142962,https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
-MEDIUM,Shortest Path in Binary Matrix,61.9,0.488659146534384,https://leetcode.com/problems/shortest-path-in-binary-matrix
-HARD,Making A Large Island,61.9,0.4966909508179222,https://leetcode.com/problems/making-a-large-island
-HARD,Shortest Path to Get All Keys,61.9,0.5361114947745046,https://leetcode.com/problems/shortest-path-to-get-all-keys
-MEDIUM,Maximal Square,61.9,0.4795492325403397,https://leetcode.com/problems/maximal-square
-MEDIUM,Simple Bank System,61.9,0.6365813772939758,https://leetcode.com/problems/simple-bank-system
-HARD,Regular Expression Matching,61.9,0.28773997875463087,https://leetcode.com/problems/regular-expression-matching
-EASY,Contains Duplicate,61.9,0.6263042189480675,https://leetcode.com/problems/contains-duplicate
-HARD,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,61.9,0.7246868422665876,https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix
-EASY,Happy Number,61.9,0.5733792553471211,https://leetcode.com/problems/happy-number
-MEDIUM,House Robber,61.9,0.5185570824658894,https://leetcode.com/problems/house-robber
-EASY,Reverse Bits,61.9,0.616160379931224,https://leetcode.com/problems/reverse-bits
-MEDIUM,Convert to Base -2,61.9,0.6110800670551608,https://leetcode.com/problems/convert-to-base-2
-MEDIUM,Mini Parser,61.9,0.39367329056685835,https://leetcode.com/problems/mini-parser
-MEDIUM,Strings Differ by One Character,61.9,0.4131039025722594,https://leetcode.com/problems/strings-differ-by-one-character
-MEDIUM,Add Two Numbers,61.9,0.4504468027848724,https://leetcode.com/problems/add-two-numbers
-EASY,Add Strings,61.9,0.5166924048283024,https://leetcode.com/problems/add-strings
-MEDIUM,Minimize Rounding Error to Meet Target,61.9,0.4535135135135135,https://leetcode.com/problems/minimize-rounding-error-to-meet-target
-HARD,Merge k Sorted Lists,61.9,0.5529198813682755,https://leetcode.com/problems/merge-k-sorted-lists
-EASY,Valid Parentheses,61.9,0.41600946786560544,https://leetcode.com/problems/valid-parentheses
-HARD,Maximum Candies You Can Get from Boxes,61.9,0.5757398354945409,https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes
-MEDIUM,Subarray Product Less Than K,61.9,0.5221942018288432,https://leetcode.com/problems/subarray-product-less-than-k
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximum Profit in Job Scheduling,100.0,0.5434907675212194,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Text Justification,100.0,0.4683156504443167,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Palindrome Pairs,95.4,0.3596547094181798,https://leetcode.com/problems/palindrome-pairs,"Array, Hash Table, String, Trie"
+MEDIUM,Flatten 2D Vector,95.4,0.4994348565647432,https://leetcode.com/problems/flatten-2d-vector,"Array, Two Pointers, Design, Iterator"
+HARD,Minimum Window Substring,89.7,0.4453664786247562,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Smallest Common Region,89.7,0.6784814309910356,https://leetcode.com/problems/smallest-common-region,"Array, Hash Table, String, Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Pour Water,89.7,0.4754980403070572,https://leetcode.com/problems/pour-water,"Array, Simulation"
+MEDIUM,Subarray Product Less Than K,89.7,0.5229957060886269,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+HARD,Sliding Puzzle,82.4,0.7294985858195312,https://leetcode.com/problems/sliding-puzzle,"Array, Dynamic Programming, Backtracking, Breadth-First Search, Memoization, Matrix"
+MEDIUM,Simple Bank System,82.4,0.6351038538538538,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Shortest Path in Binary Matrix,72.1,0.4905269418646967,https://leetcode.com/problems/shortest-path-in-binary-matrix,"Array, Breadth-First Search, Matrix"
+HARD,Making A Large Island,72.1,0.5409767667324539,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Shortest Path to Get All Keys,72.1,0.53636523931116,https://leetcode.com/problems/shortest-path-to-get-all-keys,"Array, Bit Manipulation, Breadth-First Search, Matrix"

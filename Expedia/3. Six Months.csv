@@ -1,22 +1,6 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6225872133795698,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
-EASY,Roman to Integer,100.0,0.6373321459566342,https://leetcode.com/problems/roman-to-integer
-MEDIUM,The kth Factor of n,100.0,0.689857754025763,https://leetcode.com/problems/the-kth-factor-of-n
-MEDIUM,Rearrange Words in a Sentence,87.2,0.6537533636447991,https://leetcode.com/problems/rearrange-words-in-a-sentence
-MEDIUM,Remove Duplicate Letters,87.2,0.505987740053435,https://leetcode.com/problems/remove-duplicate-letters
-MEDIUM,Merge Intervals,87.2,0.4854553966788814,https://leetcode.com/problems/merge-intervals
-HARD,Trapping Rain Water,87.2,0.6391086360183599,https://leetcode.com/problems/trapping-rain-water
-EASY,Valid Parentheses,87.2,0.4160106187488072,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Unique Substrings With Equal Digit Frequency,87.2,0.6408163265306122,https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency
-MEDIUM,The Earliest Moment When Everyone Become Friends,87.2,0.6558196416228,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
-MEDIUM,String Compression,87.2,0.5683458796082712,https://leetcode.com/problems/string-compression
-MEDIUM,Divide Players Into Teams of Equal Skill,87.2,0.689804690303257,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
-MEDIUM,Valid Triangle Number,87.2,0.5180007285693262,https://leetcode.com/problems/valid-triangle-number
-MEDIUM,Minimum Swaps to Group All 1's Together,87.2,0.6031612867817129,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
-EASY,Most Visited Sector in  a Circular Track,87.2,0.5904065259893481,https://leetcode.com/problems/most-visited-sector-in-a-circular-track
-HARD,Minimum Replacements to Sort the Array,87.2,0.5337110788163631,https://leetcode.com/problems/minimum-replacements-to-sort-the-array
-MEDIUM,Number of Good Binary Strings,87.2,0.5216049382716049,https://leetcode.com/problems/number-of-good-binary-strings
-MEDIUM,Break a Palindrome,87.2,0.5155414163517582,https://leetcode.com/problems/break-a-palindrome
-HARD,Minimum One Bit Operations to Make Integers Zero,87.2,0.7354659116593902,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero
-EASY,Valid Word,87.2,0.38264050867495286,https://leetcode.com/problems/valid-word
-EASY,Find the Index of the First Occurrence in a String,87.2,0.4419054008329661,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Roman to Integer,100.0,0.63977847472776,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Remove Duplicate Letters,100.0,0.5074094659764623,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+HARD,Trapping Rain Water,88.1,0.6412321592683224,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Merge Intervals,88.1,0.48695128305919977,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Find the Index of the First Occurrence in a String,88.1,0.44346736574547374,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"

@@ -1,2 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Number of Islands,100.0,0.6120958178451049,https://leetcode.com/problems/number-of-islands
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Islands,100.0,0.6142356327508643,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

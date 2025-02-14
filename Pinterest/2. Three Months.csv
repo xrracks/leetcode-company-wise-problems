@@ -1,7 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Optimal Account Balancing,100.0,0.4967677201319869,https://leetcode.com/problems/optimal-account-balancing
-HARD,Maximum Profit in Job Scheduling,87.8,0.5431856967415748,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-HARD,Design Search Autocomplete System,87.8,0.492178873156612,https://leetcode.com/problems/design-search-autocomplete-system
-HARD,Shortest Path in a Grid with Obstacles Elimination,78.1,0.45425840519213856,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
-HARD,Count Subarrays With Score Less Than K,78.1,0.5554835793913829,https://leetcode.com/problems/count-subarrays-with-score-less-than-k
-MEDIUM,Count and Say,78.1,0.5746389231290546,https://leetcode.com/problems/count-and-say
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Optimal Account Balancing,100.0,0.49684325288666437,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+HARD,Meeting Rooms III,83.6,0.43990476947325197,https://leetcode.com/problems/meeting-rooms-iii,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+HARD,Count Subarrays With Score Less Than K,83.6,0.5554605117616694,https://leetcode.com/problems/count-subarrays-with-score-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"

@@ -1,47 +1,46 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Minimum Edge Weight Equilibrium Queries in a Tree,100.0,0.4421412889061088,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree
-HARD,Apply Operations on Array to Maximize Sum of Squares,91.6,0.4545850170966739,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares
-HARD,Maximize Score After N Operations,89.5,0.5781903388608508,https://leetcode.com/problems/maximize-score-after-n-operations
-MEDIUM,Next Greater Numerically Balanced Number,89.5,0.48963073722532824,https://leetcode.com/problems/next-greater-numerically-balanced-number
-HARD,Create Components With Same Value,87.2,0.5304181295882541,https://leetcode.com/problems/create-components-with-same-value
-MEDIUM,Choose Edges to Maximize Score in a Tree,87.2,0.5865022267899965,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree
-MEDIUM,Maximum Subarray Sum After One Operation,87.2,0.652690073250821,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation
-HARD,Closest Subsequence Sum,87.2,0.4073355326993984,https://leetcode.com/problems/closest-subsequence-sum
-MEDIUM,Minimum Time to Revert Word to Initial State I,87.2,0.4124711947818615,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i
-HARD,Minimum Time to Revert Word to Initial State II,87.2,0.3491974008248524,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii
-MEDIUM,Number of Same-End Substrings,87.2,0.6173480582169238,https://leetcode.com/problems/number-of-same-end-substrings
-HARD,Count the Number of Powerful Integers,87.2,0.264392839864538,https://leetcode.com/problems/count-the-number-of-powerful-integers
-HARD,Maximum Score of Non-overlapping Intervals,87.2,0.31669473177772434,https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals
-HARD,Number of Great Partitions,87.2,0.3222105393369619,https://leetcode.com/problems/number-of-great-partitions
-MEDIUM,Apply Bitwise Operations to Make Strings Equal,87.2,0.41663907284768215,https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal
-MEDIUM,Asteroid Collision,78.6,0.44956813854461797,https://leetcode.com/problems/asteroid-collision
-HARD,Robot Collisions,70.6,0.5683120752823849,https://leetcode.com/problems/robot-collisions
-MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,65.2,0.46962474744502636,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
-HARD,Serialize and Deserialize Binary Tree,65.2,0.5809253917144465,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-MEDIUM,Insert Delete GetRandom O(1),65.2,0.5482853698457091,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,Number of Provinces,65.2,0.6775545863484502,https://leetcode.com/problems/number-of-provinces
-MEDIUM,Minimize the Difference Between Target and Chosen Elements,65.2,0.355165761966713,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements
-MEDIUM,Partition Labels,58.3,0.8013026327859829,https://leetcode.com/problems/partition-labels
-MEDIUM,Validate IP Address,58.3,0.276398857760284,https://leetcode.com/problems/validate-ip-address
-HARD,Russian Doll Envelopes,58.3,0.37139129976729557,https://leetcode.com/problems/russian-doll-envelopes
-HARD,Count of Smaller Numbers After Self,58.3,0.4266718517694163,https://leetcode.com/problems/count-of-smaller-numbers-after-self
-HARD,Maximum Profit in Job Scheduling,58.3,0.5431787661204661,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,Set Matrix Zeroes,58.3,0.5848612414586055,https://leetcode.com/problems/set-matrix-zeroes
-HARD,Trapping Rain Water,58.3,0.6391113586599505,https://leetcode.com/problems/trapping-rain-water
-HARD,Max Points on a Line,58.3,0.28139641933210924,https://leetcode.com/problems/max-points-on-a-line
-HARD,Count Valid Paths in a Tree,58.3,0.3529114389448044,https://leetcode.com/problems/count-valid-paths-in-a-tree
-MEDIUM,Sort Colors,48.7,0.6593374000496292,https://leetcode.com/problems/sort-colors
-HARD,First Missing Positive,48.7,0.40391848022052407,https://leetcode.com/problems/first-missing-positive
-HARD,Largest Rectangle in Histogram,48.7,0.46246476069841413,https://leetcode.com/problems/largest-rectangle-in-histogram
-MEDIUM,3Sum,48.7,0.36092927290701277,https://leetcode.com/problems/3sum
-MEDIUM,Single Element in a Sorted Array,48.7,0.5919820691763028,https://leetcode.com/problems/single-element-in-a-sorted-array
-MEDIUM,Reach a Number,48.7,0.43580906302144434,https://leetcode.com/problems/reach-a-number
-MEDIUM,Sum of Matrix After Queries,48.7,0.31116819674892615,https://leetcode.com/problems/sum-of-matrix-after-queries
-MEDIUM,Longest Univalue Path,48.7,0.4219439449570919,https://leetcode.com/problems/longest-univalue-path
-MEDIUM,Container With Most Water,48.7,0.568527105722772,https://leetcode.com/problems/container-with-most-water
-HARD,Remove Boxes,48.7,0.481066610975575,https://leetcode.com/problems/remove-boxes
-MEDIUM,Increasing Triplet Subsequence,48.7,0.3921838603971732,https://leetcode.com/problems/increasing-triplet-subsequence
-MEDIUM,LRU Cache,48.7,0.4406273906376283,https://leetcode.com/problems/lru-cache
-HARD,Student Attendance Record II,48.7,0.5551735661633369,https://leetcode.com/problems/student-attendance-record-ii
-EASY,Best Time to Buy and Sell Stock,48.7,0.5457860032148796,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Longest Valid Parentheses,48.7,0.35359027606105004,https://leetcode.com/problems/longest-valid-parentheses
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Edge Weight Equilibrium Queries in a Tree,100.0,0.4377159369307117,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree,"Array, Tree, Graph, Strongly Connected Component"
+HARD,Apply Operations on Array to Maximize Sum of Squares,91.6,0.4518759195684159,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares,"Array, Hash Table, Greedy, Bit Manipulation"
+HARD,Maximize Score After N Operations,89.5,0.5784237274462879,https://leetcode.com/problems/maximize-score-after-n-operations,"Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask"
+MEDIUM,Next Greater Numerically Balanced Number,89.5,0.490010311936066,https://leetcode.com/problems/next-greater-numerically-balanced-number,"Math, Backtracking, Enumeration"
+HARD,Create Components With Same Value,87.2,0.5313781141595711,https://leetcode.com/problems/create-components-with-same-value,"Array, Math, Tree, Depth-First Search, Enumeration"
+MEDIUM,Choose Edges to Maximize Score in a Tree,87.2,0.5628819556127372,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree,"Dynamic Programming, Tree, Depth-First Search"
+MEDIUM,Maximum Subarray Sum After One Operation,87.2,0.6523940837302582,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation,"Array, Dynamic Programming"
+HARD,Closest Subsequence Sum,87.2,0.4099205743088438,https://leetcode.com/problems/closest-subsequence-sum,"Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+MEDIUM,Minimum Time to Revert Word to Initial State I,87.2,0.4139200527039858,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i,"String, Rolling Hash, String Matching, Hash Function"
+HARD,Minimum Time to Revert Word to Initial State II,87.2,0.34886310360993905,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii,"String, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Number of Same-End Substrings,87.2,0.612321184673999,https://leetcode.com/problems/number-of-same-end-substrings,"Array, Hash Table, String, Counting, Prefix Sum"
+HARD,Count the Number of Powerful Integers,87.2,0.26629449374940356,https://leetcode.com/problems/count-the-number-of-powerful-integers,"Math, String, Dynamic Programming"
+HARD,Maximum Score of Non-overlapping Intervals,87.2,0.32212822796081925,https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Apply Bitwise Operations to Make Strings Equal,87.2,0.4174911043007878,https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal,"String, Bit Manipulation"
+HARD,Number of Great Partitions,87.2,0.32263591030073113,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
+MEDIUM,Asteroid Collision,78.7,0.4504235977746731,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+HARD,Robot Collisions,70.6,0.5676145259861609,https://leetcode.com/problems/robot-collisions,"Array, Stack, Sorting, Simulation"
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,65.2,0.4693996502817175,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters,"String, Dynamic Programming, Greedy"
+HARD,Serialize and Deserialize Binary Tree,65.2,0.5823671258412749,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+MEDIUM,Minimize the Difference Between Target and Chosen Elements,65.2,0.35574198566587034,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements,"Array, Dynamic Programming, Matrix"
+MEDIUM,Insert Delete GetRandom O(1),65.2,0.5486450784031152,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Number of Provinces,65.2,0.6791081396249027,https://leetcode.com/problems/number-of-provinces,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Partition Labels,58.4,0.8017152830664241,https://leetcode.com/problems/partition-labels,"Hash Table, Two Pointers, String, Greedy"
+MEDIUM,Validate IP Address,58.4,0.27674036278568565,https://leetcode.com/problems/validate-ip-address,String
+HARD,Russian Doll Envelopes,58.4,0.37171287626111715,https://leetcode.com/problems/russian-doll-envelopes,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Maximum Profit in Job Scheduling,58.4,0.5434894995996545,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Set Matrix Zeroes,58.4,0.587437777038971,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+HARD,Count Valid Paths in a Tree,58.4,0.354542144547606,https://leetcode.com/problems/count-valid-paths-in-a-tree,"Math, Dynamic Programming, Tree, Depth-First Search, Number Theory"
+HARD,Trapping Rain Water,58.4,0.6412337031221012,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Max Points on a Line,58.4,0.2831230087495282,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
+HARD,Count of Smaller Numbers After Self,58.4,0.4270005153007059,https://leetcode.com/problems/count-of-smaller-numbers-after-self,"Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set"
+MEDIUM,Increasing Triplet Subsequence,48.7,0.3919769726419213,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"
+HARD,Remove Boxes,48.7,0.4818391453715469,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+MEDIUM,Container With Most Water,48.7,0.5703986344652084,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Longest Univalue Path,48.7,0.42264125056808927,https://leetcode.com/problems/longest-univalue-path,"Tree, Depth-First Search, Binary Tree"
+HARD,Longest Valid Parentheses,48.7,0.3553554141730604,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
+MEDIUM,Reach a Number,48.7,0.43676852118766213,https://leetcode.com/problems/reach-a-number,"Math, Binary Search"
+EASY,Best Time to Buy and Sell Stock,48.7,0.5468390285222042,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Single Element in a Sorted Array,48.7,0.5915265120206037,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
+MEDIUM,3Sum,48.7,0.362789763130591,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+HARD,Largest Rectangle in Histogram,48.7,0.46447671975441357,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+MEDIUM,LRU Cache,48.7,0.44265564911410155,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,First Missing Positive,48.7,0.40529834305048057,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Sort Colors,48.7,0.6618214507326052,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+MEDIUM,Sum of Matrix After Queries,48.7,0.3111804791036664,https://leetcode.com/problems/sum-of-matrix-after-queries,"Array, Hash Table"

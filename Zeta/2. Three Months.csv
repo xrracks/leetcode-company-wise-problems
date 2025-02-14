@@ -1,3 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36045880820109993,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.710837626960402,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7126360759806727,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"

@@ -1,10 +1,3 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Rank Teams by Votes,100.0,0.5882570635541954,https://leetcode.com/problems/rank-teams-by-votes
-HARD,Text Justification,100.0,0.4646396632956216,https://leetcode.com/problems/text-justification
-MEDIUM,Minimum Moves to Equal Array Elements,89.5,0.5739796073656978,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
-HARD,Number of Music Playlists,89.5,0.6024941736500223,https://leetcode.com/problems/number-of-music-playlists
-EASY,N-th Tribonacci Number,89.5,0.6370338279412487,https://leetcode.com/problems/n-th-tribonacci-number
-MEDIUM,Minimum Increment to Make Array Unique,89.5,0.6014867172721423,https://leetcode.com/problems/minimum-increment-to-make-array-unique
-HARD,Special Binary String,89.5,0.6293425975414217,https://leetcode.com/problems/special-binary-string
-HARD,Reaching Points,89.5,0.3348458019772761,https://leetcode.com/problems/reaching-points
-MEDIUM,Highest Grade For Each Student,89.5,0.709472671567346,https://leetcode.com/problems/highest-grade-for-each-student
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Rank Teams by Votes,100.0,0.5887329089554966,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
+HARD,Text Justification,90.9,0.4683192124646207,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

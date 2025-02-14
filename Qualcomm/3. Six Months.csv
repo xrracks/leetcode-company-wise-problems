@@ -1,6 +1,3 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,String Compression III,100.0,0.6805197871853715,https://leetcode.com/problems/string-compression-iii
-HARD,Maximum Number of Ones,88.2,0.6834641681438339,https://leetcode.com/problems/maximum-number-of-ones
-EASY,Length of Last Word,88.2,0.5494248422456579,https://leetcode.com/problems/length-of-last-word
-HARD,Serialize and Deserialize Binary Tree,88.2,0.5809249298710657,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-MEDIUM,Number of Islands,88.2,0.6120958178451049,https://leetcode.com/problems/number-of-islands
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Islands,100.0,0.6142356327508643,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Length of Last Word,88.2,0.5522762728014361,https://leetcode.com/problems/length-of-last-word,String

@@ -1,12 +1,10 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Most Common Word,100.0,0.4445175164127479,https://leetcode.com/problems/most-common-word
-MEDIUM,Meeting Scheduler,96.4,0.5525053075950765,https://leetcode.com/problems/meeting-scheduler
-MEDIUM,Coin Change,83.5,0.455164027220616,https://leetcode.com/problems/coin-change
-EASY,Valid Word Abbreviation,79.6,0.36521942807205465,https://leetcode.com/problems/valid-word-abbreviation
-EASY,Maximum Depth of N-ary Tree,74.9,0.7265356044900523,https://leetcode.com/problems/maximum-depth-of-n-ary-tree
-MEDIUM,Design Circular Queue,74.9,0.5218952195352322,https://leetcode.com/problems/design-circular-queue
-MEDIUM,Design Add and Search Words Data Structure,74.9,0.46465828671802323,https://leetcode.com/problems/design-add-and-search-words-data-structure
-HARD,Binary Tree Maximum Path Sum,68.8,0.4074711809065764,https://leetcode.com/problems/binary-tree-maximum-path-sum
-HARD,Sliding Window Median,60.1,0.3869578824796454,https://leetcode.com/problems/sliding-window-median
-EASY,Check If It Is a Straight Line,60.1,0.39600414623381364,https://leetcode.com/problems/check-if-it-is-a-straight-line
-MEDIUM,People Whose List of Favorite Companies Is Not a Subset of Another List,60.1,0.5891581366200125,https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Most Common Word,100.0,0.4446499952680748,https://leetcode.com/problems/most-common-word,"Array, Hash Table, String, Counting"
+MEDIUM,Meeting Scheduler,91.7,0.5522577587673464,https://leetcode.com/problems/meeting-scheduler,"Array, Two Pointers, Sorting"
+EASY,Maximum Depth of N-ary Tree,84.3,0.7272791071416038,https://leetcode.com/problems/maximum-depth-of-n-ary-tree,"Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Coin Change,81.2,0.4567930265541398,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+EASY,Valid Word Abbreviation,77.4,0.36592456909175136,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+MEDIUM,Design Circular Queue,72.8,0.5228739357445902,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+MEDIUM,Design Add and Search Words Data Structure,72.8,0.46596867616797494,https://leetcode.com/problems/design-add-and-search-words-data-structure,"String, Depth-First Search, Design, Trie"
+HARD,Binary Tree Maximum Path Sum,66.9,0.408401520003652,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+HARD,Sliding Window Median,58.6,0.38692300526869433,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"

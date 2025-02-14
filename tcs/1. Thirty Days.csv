@@ -1,5 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Zigzag Grid Traversal With Skip,100.0,0.6264393870704507,https://leetcode.com/problems/zigzag-grid-traversal-with-skip
-EASY,Two Sum,66.7,0.546803906140378,https://leetcode.com/problems/two-sum
-EASY,Majority Element,66.7,0.6542322084677389,https://leetcode.com/problems/majority-element
-EASY,Running Sum of 1d Array,66.7,0.869248829472081,https://leetcode.com/problems/running-sum-of-1d-array
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Contains Duplicate II,100.0,0.4787961230550802,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+HARD,Tallest Billboard,100.0,0.519899510776147,https://leetcode.com/problems/tallest-billboard,"Array, Dynamic Programming"
+EASY,Two Sum,100.0,0.5490430863504592,https://leetcode.com/problems/two-sum,"Array, Hash Table"

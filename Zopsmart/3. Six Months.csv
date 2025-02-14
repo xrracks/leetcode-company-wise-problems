@@ -1,7 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Zigzag Conversion,100.0,0.503285661249927,https://leetcode.com/problems/zigzag-conversion
-MEDIUM,Remove K Digits,74.2,0.342640446043766,https://leetcode.com/problems/remove-k-digits
-MEDIUM,Bulls and Cows,74.2,0.50963929112262,https://leetcode.com/problems/bulls-and-cows
-HARD,Trapping Rain Water,60.7,0.6391114414720586,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Fraction Addition and Subtraction,60.7,0.6613410255498732,https://leetcode.com/problems/fraction-addition-and-subtraction
-MEDIUM,Reverse Nodes in Even Length Groups,60.7,0.5986089760413933,https://leetcode.com/problems/reverse-nodes-in-even-length-groups
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Zigzag Conversion,100.0,0.506014939915557,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Remove K Digits,78.1,0.3435615459924757,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Bulls and Cows,78.1,0.5103843642892116,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"

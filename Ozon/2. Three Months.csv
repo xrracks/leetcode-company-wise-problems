@@ -1,3 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Department Top Three Salaries,100.0,0.563078793163816,https://leetcode.com/problems/department-top-three-salaries
-EASY,Monotonic Array,100.0,0.6150583664540306,https://leetcode.com/problems/monotonic-array
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Monotonic Array,100.0,0.615318789087398,https://leetcode.com/problems/monotonic-array,Array

@@ -1,18 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,LRU Cache,100.0,0.44062681329691705,https://leetcode.com/problems/lru-cache
-EASY,Two Sum,91.8,0.5468044046810463,https://leetcode.com/problems/two-sum
-EASY,Maximum Depth of Binary Tree,91.8,0.7657494124058394,https://leetcode.com/problems/maximum-depth-of-binary-tree
-EASY,Contains Duplicate,91.8,0.626304995539756,https://leetcode.com/problems/contains-duplicate
-EASY,Linked List Cycle,80.4,0.5170561210743472,https://leetcode.com/problems/linked-list-cycle
-HARD,Largest Palindrome Product,80.4,0.3434835723011638,https://leetcode.com/problems/largest-palindrome-product
-MEDIUM,Peeking Iterator,80.4,0.6023777657767655,https://leetcode.com/problems/peeking-iterator
-EASY,Binary Number with Alternating Bits,80.4,0.6321086549076999,https://leetcode.com/problems/binary-number-with-alternating-bits
-MEDIUM,Maximum Distance in Arrays,80.4,0.45646502953061857,https://leetcode.com/problems/maximum-distance-in-arrays
-MEDIUM,Word Break,80.4,0.47690393531029457,https://leetcode.com/problems/word-break
-MEDIUM,Non-decreasing Subsequences,80.4,0.6132426432575443,https://leetcode.com/problems/non-decreasing-subsequences
-EASY,Roman to Integer,80.4,0.6373314030169089,https://leetcode.com/problems/roman-to-integer
-HARD,Serialize and Deserialize Binary Tree,80.4,0.5809250267379039,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-EASY,Matrix Cells in Distance Order,80.4,0.7215672905623859,https://leetcode.com/problems/matrix-cells-in-distance-order
-HARD,Median of Two Sorted Arrays,80.4,0.424799126532188,https://leetcode.com/problems/median-of-two-sorted-arrays
-EASY,Reverse Linked List,80.4,0.7835418924820988,https://leetcode.com/problems/reverse-linked-list
-MEDIUM,Combination Sum,80.4,0.7356027991355424,https://leetcode.com/problems/combination-sum
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Combination Sum,100.0,0.737625053366201,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+MEDIUM,Search in Rotated Sorted Array,88.7,0.422176635691243,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Subarray Sum Equals K,88.7,0.4479048282333129,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

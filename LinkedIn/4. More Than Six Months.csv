@@ -1,93 +1,101 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Max Stack,100.0,0.4515426061771214,https://leetcode.com/problems/max-stack
-HARD,All O`one Data Structure,96.3,0.449628556389427,https://leetcode.com/problems/all-oone-data-structure
-MEDIUM,Nested List Weight Sum II,95.4,0.6462878986787473,https://leetcode.com/problems/nested-list-weight-sum-ii
-MEDIUM,Design Authentication Manager,92.7,0.5799790218958961,https://leetcode.com/problems/design-authentication-manager
-MEDIUM,Number of Islands,86.0,0.612095300167789,https://leetcode.com/problems/number-of-islands
-MEDIUM,Kth Largest Element in an Array,80.1,0.674274688150647,https://leetcode.com/problems/kth-largest-element-in-an-array
-EASY,Valid Parentheses,78.4,0.4160091790835416,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Maximum Subarray,74.4,0.5156267740640109,https://leetcode.com/problems/maximum-subarray
-HARD,Serialize and Deserialize Binary Tree,74.4,0.5809253744206535,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
-MEDIUM,Merge Intervals,74.4,0.48545728312607805,https://leetcode.com/problems/merge-intervals
-EASY,Find Pivot Index,72.0,0.5953692469147062,https://leetcode.com/problems/find-pivot-index
-MEDIUM,Search in Rotated Sorted Array,72.0,0.420784806640808,https://leetcode.com/problems/search-in-rotated-sorted-array
-MEDIUM,Shortest Word Distance II,72.0,0.6168041809445413,https://leetcode.com/problems/shortest-word-distance-ii
-MEDIUM,Nested List Weight Sum,72.0,0.8495351622087621,https://leetcode.com/problems/nested-list-weight-sum
-MEDIUM,Maximum Product Subarray,72.0,0.3437476449545506,https://leetcode.com/problems/maximum-product-subarray
-HARD,Word Ladder,69.4,0.41384471631108566,https://leetcode.com/problems/word-ladder
-MEDIUM,Find the Celebrity,69.4,0.4805436818913428,https://leetcode.com/problems/find-the-celebrity
-MEDIUM,Building H2O,69.4,0.5715590345727332,https://leetcode.com/problems/building-h2o
-MEDIUM,Find Leaves of Binary Tree,66.5,0.8088412503313812,https://leetcode.com/problems/find-leaves-of-binary-tree
-MEDIUM,Insert Delete GetRandom O(1),66.5,0.548280109969309,https://leetcode.com/problems/insert-delete-getrandom-o1
-EASY,Can Place Flowers,63.1,0.2882595297421355,https://leetcode.com/problems/can-place-flowers
-MEDIUM,LRU Cache,63.1,0.44062585889449307,https://leetcode.com/problems/lru-cache
-HARD,Closest Binary Search Tree Value II,63.1,0.5980821237111432,https://leetcode.com/problems/closest-binary-search-tree-value-ii
-MEDIUM,Lowest Common Ancestor of a Binary Search Tree,63.1,0.6702139613080275,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
-MEDIUM,Lowest Common Ancestor of a Binary Tree,59.1,0.6513873985897035,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-EASY,Maximum Depth of Binary Tree,59.1,0.7657489986704598,https://leetcode.com/problems/maximum-depth-of-binary-tree
-MEDIUM,Longest Palindromic Subsequence,59.1,0.6350240782610244,https://leetcode.com/problems/longest-palindromic-subsequence
-MEDIUM,Exclusive Time of Functions,59.1,0.6367789089010703,https://leetcode.com/problems/exclusive-time-of-functions
-MEDIUM,Letter Combinations of a Phone Number,59.1,0.6268928673455625,https://leetcode.com/problems/letter-combinations-of-a-phone-number
-EASY,Intersection of Two Arrays,54.2,0.7578423906511644,https://leetcode.com/problems/intersection-of-two-arrays
-MEDIUM,Robot Bounded In Circle,54.2,0.5606482330882583,https://leetcode.com/problems/robot-bounded-in-circle
-MEDIUM,Valid Triangle Number,54.2,0.5180007285693262,https://leetcode.com/problems/valid-triangle-number
-EASY,Fizz Buzz,54.2,0.7363859825057569,https://leetcode.com/problems/fizz-buzz
-MEDIUM,Random Pick with Weight,54.2,0.47950991397371096,https://leetcode.com/problems/random-pick-with-weight
-MEDIUM,Graph Valid Tree,54.2,0.488604779226083,https://leetcode.com/problems/graph-valid-tree
-EASY,Merge Sorted Array,54.2,0.5190062538688417,https://leetcode.com/problems/merge-sorted-array
-HARD,Max Points on a Line,54.2,0.28139611882053805,https://leetcode.com/problems/max-points-on-a-line
-MEDIUM,Longest Palindromic Substring,54.2,0.3504762416934474,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Partition to K Equal Sum Subsets,54.2,0.38096156292999533,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
-EASY,Isomorphic Strings,54.2,0.46192319767999573,https://leetcode.com/problems/isomorphic-strings
-MEDIUM,Edit Distance,54.2,0.5793850859438888,https://leetcode.com/problems/edit-distance
-MEDIUM,Rotate List,54.2,0.3915060661360967,https://leetcode.com/problems/rotate-list
-MEDIUM,Evaluate Reverse Polish Notation,54.2,0.5362577008069818,https://leetcode.com/problems/evaluate-reverse-polish-notation
-MEDIUM,Paint House,54.2,0.6327293856938182,https://leetcode.com/problems/paint-house
-HARD,Valid Number,54.2,0.20853528839182353,https://leetcode.com/problems/valid-number
-MEDIUM,Minimum Knight Moves,47.9,0.41064898786603166,https://leetcode.com/problems/minimum-knight-moves
-MEDIUM,Max Area of Island,47.9,0.7275359225016195,https://leetcode.com/problems/max-area-of-island
-MEDIUM,Partition Labels,47.9,0.8013045728509737,https://leetcode.com/problems/partition-labels
-MEDIUM,Design Bounded Blocking Queue,47.9,0.727024687147467,https://leetcode.com/problems/design-bounded-blocking-queue
-HARD,Minimum Window Substring,47.9,0.443670033266885,https://leetcode.com/problems/minimum-window-substring
-EASY,Design HashMap,47.9,0.6563047181191721,https://leetcode.com/problems/design-hashmap
-MEDIUM,K Closest Points to Origin,47.9,0.6738307892644095,https://leetcode.com/problems/k-closest-points-to-origin
-EASY,Diameter of Binary Tree,47.9,0.6236306531202261,https://leetcode.com/problems/diameter-of-binary-tree
-MEDIUM,Longest Substring Without Repeating Characters,47.9,0.3604555184808725,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Flatten Nested List Iterator,47.9,0.6502400196101128,https://leetcode.com/problems/flatten-nested-list-iterator
-MEDIUM,Find K Closest Elements,47.9,0.48192801984806183,https://leetcode.com/problems/find-k-closest-elements
-MEDIUM,Binary Tree Level Order Traversal,47.9,0.6941497087518494,https://leetcode.com/problems/binary-tree-level-order-traversal
-MEDIUM,Find K Pairs with Smallest Sums,47.9,0.4032728479365689,https://leetcode.com/problems/find-k-pairs-with-smallest-sums
-EASY,Valid Perfect Square,47.9,0.4399308385699799,https://leetcode.com/problems/valid-perfect-square
-MEDIUM,Factor Combinations,47.9,0.5006351050077749,https://leetcode.com/problems/factor-combinations
-HARD,Median of Two Sorted Arrays,47.9,0.42479846418611833,https://leetcode.com/problems/median-of-two-sorted-arrays
-MEDIUM,House Robber,47.9,0.5185575178165529,https://leetcode.com/problems/house-robber
-MEDIUM,Max Consecutive Ones III,39.2,0.6489523051183248,https://leetcode.com/problems/max-consecutive-ones-iii
-MEDIUM,Integer to Roman,39.2,0.6736946373472424,https://leetcode.com/problems/integer-to-roman
-MEDIUM,Accounts Merge,39.2,0.5860341335983317,https://leetcode.com/problems/accounts-merge
-MEDIUM,Sort Transformed Array,39.2,0.5654141997277483,https://leetcode.com/problems/sort-transformed-array
-EASY,Moving Average from Data Stream,39.2,0.7938958273769674,https://leetcode.com/problems/moving-average-from-data-stream
-HARD,Word Ladder II,39.2,0.27109633035767366,https://leetcode.com/problems/word-ladder-ii
-EASY,Two Sum IV - Input is a BST,39.2,0.6178746853941707,https://leetcode.com/problems/two-sum-iv-input-is-a-bst
-MEDIUM,Number of Connected Components in an Undirected Graph,39.2,0.6360321820425786,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
-MEDIUM,Binary Tree Zigzag Level Order Traversal,39.2,0.6069291875683895,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-EASY,Symmetric Tree,39.2,0.5830280543752796,https://leetcode.com/problems/symmetric-tree
-MEDIUM,Binary Tree Upside Down,39.2,0.6380896630834545,https://leetcode.com/problems/binary-tree-upside-down
-HARD,Insert Delete GetRandom O(1) - Duplicates allowed,39.2,0.3571760736755722,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
-HARD,Count Integers in Intervals,39.2,0.3560925947560792,https://leetcode.com/problems/count-integers-in-intervals
-EASY,Best Time to Buy and Sell Stock,39.2,0.545783062163483,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Can I Win,39.2,0.30033375572328724,https://leetcode.com/problems/can-i-win
-MEDIUM,House Robber IV,39.2,0.45266736921639195,https://leetcode.com/problems/house-robber-iv
-MEDIUM,Design Add and Search Words Data Structure,39.2,0.4646581051990917,https://leetcode.com/problems/design-add-and-search-words-data-structure
-MEDIUM,Repeated DNA Sequences,39.2,0.5040838338148091,https://leetcode.com/problems/repeated-dna-sequences
-EASY,Same Tree,39.2,0.6412458942066118,https://leetcode.com/problems/same-tree
-MEDIUM,Palindromic Substrings,39.2,0.7108307592062486,https://leetcode.com/problems/palindromic-substrings
-EASY,Move Zeroes,39.2,0.6240691685753531,https://leetcode.com/problems/move-zeroes
-EASY,Shortest Word Distance,39.2,0.6567621068957776,https://leetcode.com/problems/shortest-word-distance
-MEDIUM,House Robber II,39.2,0.4294266644654607,https://leetcode.com/problems/house-robber-ii
-MEDIUM,Min Stack,39.2,0.556196398401879,https://leetcode.com/problems/min-stack
-MEDIUM,Validate Binary Search Tree,39.2,0.33809020220409136,https://leetcode.com/problems/validate-binary-search-tree
-MEDIUM,"Pow(x, n)",39.2,0.3620263166164607,https://leetcode.com/problems/powx-n
-EASY,Minimum Time to Type Word Using Special Typewriter,39.2,0.7632943935771954,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
-MEDIUM,Combination Sum,39.2,0.7356019595789217,https://leetcode.com/problems/combination-sum
-MEDIUM,Next Permutation,39.2,0.41968083559482106,https://leetcode.com/problems/next-permutation
-HARD,Maximum Profit in Job Scheduling,39.2,0.5431836487316284,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Max Stack,100.0,0.45220377948665524,https://leetcode.com/problems/max-stack,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set"
+MEDIUM,Nested List Weight Sum II,91.6,0.6478353392023029,https://leetcode.com/problems/nested-list-weight-sum-ii,"Stack, Depth-First Search, Breadth-First Search"
+HARD,All O`one Data Structure,90.9,0.44904876099120705,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Design Authentication Manager,86.7,0.5809360858371844,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Number of Islands,80.3,0.6142363289336513,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Serialize and Deserialize Binary Tree,74.6,0.5823652425311298,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+EASY,Valid Parentheses,74.6,0.4173934030903827,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Maximum Subarray,72.9,0.5164879800552821,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Merge Intervals,72.9,0.48695111621487447,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Shortest Word Distance II,71.0,0.6176431452609329,https://leetcode.com/problems/shortest-word-distance-ii,"Array, Hash Table, Two Pointers, String, Design"
+MEDIUM,Kth Largest Element in an Array,71.0,0.6752763419598328,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Nested List Weight Sum,71.0,0.8507637872132747,https://leetcode.com/problems/nested-list-weight-sum,"Depth-First Search, Breadth-First Search"
+MEDIUM,Find the Celebrity,71.0,0.48128733809579194,https://leetcode.com/problems/find-the-celebrity,"Two Pointers, Graph, Interactive"
+MEDIUM,Search in Rotated Sorted Array,71.0,0.42217679295216604,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Maximum Product Subarray,71.0,0.34458804046128444,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+MEDIUM,Find Leaves of Binary Tree,69.0,0.8091737733006233,https://leetcode.com/problems/find-leaves-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+HARD,Word Ladder,69.0,0.41655587234118363,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Building H2O,69.0,0.5724490542567592,https://leetcode.com/problems/building-h2o,Concurrency
+EASY,Find Pivot Index,66.7,0.5974554614485982,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+EASY,Can Place Flowers,64.2,0.28822346402646637,https://leetcode.com/problems/can-place-flowers,"Array, Greedy"
+EASY,Maximum Depth of Binary Tree,61.4,0.7667882978568279,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,61.4,0.6543594515042828,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,LRU Cache,61.4,0.4426505913361551,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Isomorphic Strings,58.1,0.46312440186970527,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Random Pick with Weight,58.1,0.48091247160160594,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+MEDIUM,House Robber,58.1,0.5192200433587721,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Partition to K Equal Sum Subsets,58.1,0.3809102134461048,https://leetcode.com/problems/partition-to-k-equal-sum-subsets,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+HARD,Max Points on a Line,58.1,0.28312125055399523,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
+MEDIUM,Paint House,58.1,0.6335426201656014,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"
+MEDIUM,Insert Delete GetRandom O(1),58.1,0.5486438654365023,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Closest Binary Search Tree Value II,58.1,0.5989853743807031,https://leetcode.com/problems/closest-binary-search-tree-value-ii,"Two Pointers, Stack, Tree, Depth-First Search, Binary Search Tree, Heap (Priority Queue), Binary Tree"
+MEDIUM,Evaluate Reverse Polish Notation,58.1,0.5386419251724266,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+HARD,Valid Number,58.1,0.20992594119495017,https://leetcode.com/problems/valid-number,String
+MEDIUM,Exclusive Time of Functions,54.3,0.638800372100388,https://leetcode.com/problems/exclusive-time-of-functions,"Array, Stack"
+HARD,Minimum Window Substring,54.3,0.44536641864575643,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Palindromic Subsequence,54.3,0.6358687007526352,https://leetcode.com/problems/longest-palindromic-subsequence,"String, Dynamic Programming"
+EASY,Valid Perfect Square,54.3,0.4400119191685772,https://leetcode.com/problems/valid-perfect-square,"Math, Binary Search"
+MEDIUM,Design Bounded Blocking Queue,54.3,0.7275104196329183,https://leetcode.com/problems/design-bounded-blocking-queue,Concurrency
+MEDIUM,Binary Tree Upside Down,54.3,0.6395225838299072,https://leetcode.com/problems/binary-tree-upside-down,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Factor Combinations,54.3,0.5011015884495376,https://leetcode.com/problems/factor-combinations,Backtracking
+MEDIUM,Longest Palindromic Substring,54.3,0.3518923950770966,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Binary Tree Level Order Traversal,54.3,0.6963930075926331,https://leetcode.com/problems/binary-tree-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Lowest Common Ancestor of a Binary Search Tree,54.3,0.6724414481685844,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,Letter Combinations of a Phone Number,54.3,0.6290661919404434,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+EASY,Fizz Buzz,49.6,0.7378267746363537,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+MEDIUM,Graph Valid Tree,49.6,0.49016656000017095,https://leetcode.com/problems/graph-valid-tree,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Palindromic Substrings,49.6,0.7118585303435221,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Valid Triangle Number,49.6,0.5189814184793378,https://leetcode.com/problems/valid-triangle-number,"Array, Two Pointers, Binary Search, Greedy, Sorting"
+EASY,Design HashMap,49.6,0.6565192682814444,https://leetcode.com/problems/design-hashmap,"Array, Hash Table, Linked List, Design, Hash Function"
+MEDIUM,Max Consecutive Ones III,49.6,0.6507295597101829,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,"Pow(x, n)",49.6,0.36354436065374635,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,Robot Bounded In Circle,49.6,0.5611711629744202,https://leetcode.com/problems/robot-bounded-in-circle,"Math, String, Simulation"
+MEDIUM,Rotate List,49.6,0.3928123350380911,https://leetcode.com/problems/rotate-list,"Linked List, Two Pointers"
+EASY,Intersection of Two Arrays,49.6,0.759003628397271,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
+MEDIUM,Binary Tree Zigzag Level Order Traversal,49.6,0.6087077467904601,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Repeated DNA Sequences,49.6,0.5059136490807589,https://leetcode.com/problems/repeated-dna-sequences,"Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+MEDIUM,Edit Distance,49.6,0.5807704327014688,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+EASY,Symmetric Tree,49.6,0.5848945415373504,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+HARD,Count Integers in Intervals,49.6,0.3571957419503447,https://leetcode.com/problems/count-integers-in-intervals,"Design, Segment Tree, Ordered Set"
+EASY,Shortest Word Distance,49.6,0.6571912219526547,https://leetcode.com/problems/shortest-word-distance,"Array, String"
+MEDIUM,Can I Win,49.6,0.3010230627491901,https://leetcode.com/problems/can-i-win,"Math, Dynamic Programming, Bit Manipulation, Memoization, Game Theory, Bitmask"
+EASY,Merge Sorted Array,49.6,0.5209806858724263,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Minimum Knight Moves,43.5,0.41111392252545337,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+EASY,Best Time to Buy and Sell Stock,43.5,0.5468401754859904,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Merge Two Sorted Lists,43.5,0.6615282511162761,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Two Sum,43.5,0.5490429857275047,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Partition Labels,43.5,0.8017150259909911,https://leetcode.com/problems/partition-labels,"Hash Table, Two Pointers, String, Greedy"
+MEDIUM,Longest Substring Without Repeating Characters,43.5,0.3620163341046025,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Find K Closest Elements,43.5,0.48280553684464095,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+MEDIUM,Max Area of Island,43.5,0.7286302844077585,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Diameter of Binary Tree,43.5,0.6258905089630294,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,K Closest Points to Origin,43.5,0.6749336218573112,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+HARD,Median of Two Sorted Arrays,43.5,0.4274720631819882,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Find K Pairs with Smallest Sums,43.5,0.4038285097058632,https://leetcode.com/problems/find-k-pairs-with-smallest-sums,"Array, Heap (Priority Queue)"
+MEDIUM,Flatten Nested List Iterator,43.5,0.6509348798494989,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Min Stack,43.5,0.5578050705990828,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Create Binary Tree From Descriptions,35.1,0.8172831830898353,https://leetcode.com/problems/create-binary-tree-from-descriptions,"Array, Hash Table, Tree, Binary Tree"
+EASY,Minimum Time to Type Word Using Special Typewriter,35.1,0.7663318790079353,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter,"String, Greedy"
+HARD,Maximum Profit in Job Scheduling,35.1,0.5434900479790179,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Combination Sum,35.1,0.7376246436521996,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+MEDIUM,Maximize Total Tastiness of Purchased Fruits,35.1,0.6413738019169329,https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits,"Array, Dynamic Programming"
+MEDIUM,Find Largest Value in Each Tree Row,35.1,0.6640687592485409,https://leetcode.com/problems/find-largest-value-in-each-tree-row,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Sort Transformed Array,35.1,0.5664383003017699,https://leetcode.com/problems/sort-transformed-array,"Array, Math, Two Pointers, Sorting"
+MEDIUM,Next Permutation,35.1,0.42178912125697193,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Merge k Sorted Lists,35.1,0.5556686484268839,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Sum of All Odd Length Subarrays,35.1,0.8338073055252706,https://leetcode.com/problems/sum-of-all-odd-length-subarrays,"Array, Math, Prefix Sum"
+MEDIUM,Integer to Roman,35.1,0.6765155662959956,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+EASY,Two Sum IV - Input is a BST,35.1,0.6186782746339533,https://leetcode.com/problems/two-sum-iv-input-is-a-bst,"Hash Table, Two Pointers, Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree"
+EASY,Moving Average from Data Stream,35.1,0.7950144221770928,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+HARD,Word Ladder II,35.1,0.27112571591837964,https://leetcode.com/problems/word-ladder-ii,"Hash Table, String, Backtracking, Breadth-First Search"
+MEDIUM,Number of Connected Components in an Undirected Graph,35.1,0.6370433100795994,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Validate Binary Search Tree,35.1,0.33900218657558395,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,35.1,0.3577762888667808,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,House Robber II,35.1,0.43033478471619024,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
+EASY,Move Zeroes,35.1,0.6247983176292334,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Accounts Merge,35.1,0.587596759963923,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+MEDIUM,House Robber IV,35.1,0.4559535145849933,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search"
+MEDIUM,Design Add and Search Words Data Structure,35.1,0.46596744250740074,https://leetcode.com/problems/design-add-and-search-words-data-structure,"String, Depth-First Search, Design, Trie"
+EASY,Same Tree,35.1,0.643055797338265,https://leetcode.com/problems/same-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Second Minimum Node In a Binary Tree,35.1,0.4506679340505703,https://leetcode.com/problems/second-minimum-node-in-a-binary-tree,"Tree, Depth-First Search, Binary Tree"

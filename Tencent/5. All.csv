@@ -1,19 +1,18 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Remove Boxes,100.0,0.481066610975575,https://leetcode.com/problems/remove-boxes
-MEDIUM,Minimum Factorization,100.0,0.3371522567239986,https://leetcode.com/problems/minimum-factorization
-MEDIUM,Merge Intervals,64.2,0.48545599476107065,https://leetcode.com/problems/merge-intervals
-MEDIUM,Debounce,64.2,0.9150131642814068,https://leetcode.com/problems/debounce
-EASY,Next Greater Element I,64.2,0.7367194263590341,https://leetcode.com/problems/next-greater-element-i
-MEDIUM,Department Highest Salary,64.2,0.5356829174315001,https://leetcode.com/problems/department-highest-salary
-MEDIUM,Circle and Rectangle Overlapping,64.2,0.4828153264265746,https://leetcode.com/problems/circle-and-rectangle-overlapping
-MEDIUM,Minimum Remove to Make Valid Parentheses,64.2,0.7000689867870012,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
-HARD,Maximum Running Time of N Computers,64.2,0.4993624014890499,https://leetcode.com/problems/maximum-running-time-of-n-computers
-MEDIUM,Jump Game,64.2,0.390046277028928,https://leetcode.com/problems/jump-game
-EASY,Valid Parentheses,64.2,0.41601127972018953,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Remove Duplicates from Sorted List II,64.2,0.48947516396274987,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
-MEDIUM,LRU Cache,64.2,0.4406266969422809,https://leetcode.com/problems/lru-cache
-HARD,Alien Dictionary,64.2,0.3631395109212352,https://leetcode.com/problems/alien-dictionary
-MEDIUM,Immediate Food Delivery II,64.2,0.5340263383790801,https://leetcode.com/problems/immediate-food-delivery-ii
-MEDIUM,Implement Rand10() Using Rand7(),64.2,0.45856375771566216,https://leetcode.com/problems/implement-rand10-using-rand7
-HARD,Candy,64.2,0.4416784547367674,https://leetcode.com/problems/candy
-MEDIUM,Unique Paths II,64.2,0.42590485526848526,https://leetcode.com/problems/unique-paths-ii
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Remove Boxes,100.0,0.4818391453715469,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+MEDIUM,Minimum Factorization,100.0,0.3372036071335965,https://leetcode.com/problems/minimum-factorization,"Math, Greedy"
+MEDIUM,Jump Game,64.2,0.39056516158022697,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Merge Intervals,64.2,0.48695200496244356,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Debounce,64.2,0.9156079341275006,https://leetcode.com/problems/debounce,
+EASY,Next Greater Element I,64.2,0.7381261065558333,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+MEDIUM,Department Highest Salary,64.2,0.53752405009502,https://leetcode.com/problems/department-highest-salary,Database
+MEDIUM,Circle and Rectangle Overlapping,64.2,0.48513432283719427,https://leetcode.com/problems/circle-and-rectangle-overlapping,"Math, Geometry"
+MEDIUM,Minimum Remove to Make Valid Parentheses,64.2,0.7012737957000597,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
+EASY,Valid Parentheses,64.2,0.4173947191868089,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Remove Duplicates from Sorted List II,64.2,0.49124562394768895,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,"Linked List, Two Pointers"
+MEDIUM,LRU Cache,64.2,0.4426543095290916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Alien Dictionary,64.2,0.36363847118816667,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Immediate Food Delivery II,64.2,0.535968526414902,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+MEDIUM,Implement Rand10() Using Rand7(),64.2,0.4585369483789348,https://leetcode.com/problems/implement-rand10-using-rand7,"Math, Rejection Sampling, Randomized, Probability and Statistics"
+HARD,Candy,64.2,0.4429363556434068,https://leetcode.com/problems/candy,"Array, Greedy"
+MEDIUM,Unique Paths II,64.2,0.42692133751393163,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"

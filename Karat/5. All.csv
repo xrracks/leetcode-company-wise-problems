@@ -1,15 +1,15 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Text Justification,100.0,0.46463514475390755,https://leetcode.com/problems/text-justification
-EASY,Find Words That Can Be Formed by Characters,88.0,0.7084205698789655,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters
-EASY,Check if Every Row and Column Contains All Numbers,85.8,0.5238629816402051,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
-MEDIUM,Word Search,80.7,0.443073874480797,https://leetcode.com/problems/word-search
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,77.5,0.46035782191372865,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
-MEDIUM,Course Schedule,73.8,0.48160005275640727,https://leetcode.com/problems/course-schedule
-MEDIUM,Subdomain Visit Count,63.3,0.7664859352533935,https://leetcode.com/problems/subdomain-visit-count
-MEDIUM,Number of Islands,63.3,0.6120966187232968,https://leetcode.com/problems/number-of-islands
-EASY,Ransom Note,63.3,0.6355402514510161,https://leetcode.com/problems/ransom-note
-EASY,Two Sum,55.0,0.5468062816743308,https://leetcode.com/problems/two-sum
-MEDIUM,Valid Sudoku,55.0,0.6132876818064307,https://leetcode.com/problems/valid-sudoku
-HARD,Word Search II,55.0,0.36892695653298924,https://leetcode.com/problems/word-search-ii
-MEDIUM,Course Schedule II,55.0,0.5227088455164004,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Maximal Square,55.0,0.4795506133124887,https://leetcode.com/problems/maximal-square
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Text Justification,100.0,0.468317126762962,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Find Words That Can Be Formed by Characters,87.1,0.708685385836398,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
+MEDIUM,Word Search,85.2,0.44487963502892286,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+EASY,Check if Every Row and Column Contains All Numbers,83.1,0.5249410863331901,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,75.0,0.4610414592196976,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+MEDIUM,Course Schedule,71.3,0.48346038412729103,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Number of Islands,61.1,0.6142360899506368,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Ransom Note,61.1,0.6375960660024388,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+EASY,Two Sum,53.1,0.5490437033382949,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Valid Sudoku,53.1,0.6151420300535619,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Subdomain Visit Count,53.1,0.767073938783222,https://leetcode.com/problems/subdomain-visit-count,"Array, Hash Table, String, Counting"
+HARD,Word Search II,53.1,0.36961222920201564,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+MEDIUM,Course Schedule II,53.1,0.5247569227434774,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Maximal Square,53.1,0.48087141371980074,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"

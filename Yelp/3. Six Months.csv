@@ -1,27 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.546806466161562,https://leetcode.com/problems/two-sum
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3604583406765385,https://leetcode.com/problems/longest-substring-without-repeating-characters
-HARD,Word Ladder,100.0,0.4138481359627153,https://leetcode.com/problems/word-ladder
-HARD,Word Ladder II,100.0,0.27109602629550644,https://leetcode.com/problems/word-ladder-ii
-HARD,Insert Delete GetRandom O(1) - Duplicates allowed,100.0,0.35717900438130584,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5482858097233609,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,String Compression,100.0,0.5683476173508617,https://leetcode.com/problems/string-compression
-MEDIUM,Merge Intervals,100.0,0.48545547503181324,https://leetcode.com/problems/merge-intervals
-HARD,Find the Closest Palindrome,100.0,0.3160091505858073,https://leetcode.com/problems/find-the-closest-palindrome
-MEDIUM,Top K Frequent Words,100.0,0.5877617270779544,https://leetcode.com/problems/top-k-frequent-words
-EASY,Valid Anagram,100.0,0.6589738573878172,https://leetcode.com/problems/valid-anagram
-MEDIUM,Group Anagrams,100.0,0.7004728094406515,https://leetcode.com/problems/group-anagrams
-MEDIUM,"Filter Restaurants by Vegan-Friendly, Price and Distance",100.0,0.6293283624244478,https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
-MEDIUM,Letter Case Permutation,100.0,0.7467594525632104,https://leetcode.com/problems/letter-case-permutation
-EASY,Check If a Word Occurs As a Prefix of Any Word in a Sentence,100.0,0.689341954424263,https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
-MEDIUM,Top K Frequent Elements,100.0,0.6385663316328453,https://leetcode.com/problems/top-k-frequent-elements
-HARD,The Skyline Problem,100.0,0.4345030606441149,https://leetcode.com/problems/the-skyline-problem
-EASY,Minimum Index Sum of Two Lists,100.0,0.5707617719684304,https://leetcode.com/problems/minimum-index-sum-of-two-lists
-MEDIUM,Reverse Words in a String,100.0,0.48960426307377264,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,Course Schedule,100.0,0.4815999390643515,https://leetcode.com/problems/course-schedule
-EASY,Reverse Linked List,100.0,0.7835435699970814,https://leetcode.com/problems/reverse-linked-list
-EASY,Longest Common Prefix,100.0,0.4456166583114816,https://leetcode.com/problems/longest-common-prefix
-EASY,Destination City,100.0,0.7948866779484579,https://leetcode.com/problems/destination-city
-MEDIUM,Decode String,100.0,0.604519704861894,https://leetcode.com/problems/decode-string
-MEDIUM,Active Businesses,100.0,0.6585121563031667,https://leetcode.com/problems/active-businesses
-MEDIUM,Shortest and Lexicographically Smallest Beautiful String,100.0,0.3953860896179865,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,100.0,0.39654073350048874,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string,"String, Sliding Window"

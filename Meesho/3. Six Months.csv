@@ -1,11 +1,5 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Painting the Walls,100.0,0.5033547029278086,https://leetcode.com/problems/painting-the-walls
-MEDIUM,Number of Strings Which Can Be Rearranged to Contain Substring,88.1,0.5511564407324124,https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring
-HARD,Number of Possible Sets of Closing Branches,88.1,0.5066888561735903,https://leetcode.com/problems/number-of-possible-sets-of-closing-branches
-HARD,Count Complete Substrings,88.1,0.27730561213738847,https://leetcode.com/problems/count-complete-substrings
-MEDIUM,Longest Non-decreasing Subarray From Two Arrays,88.1,0.2982775506727985,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays
-MEDIUM,Delete and Earn,88.1,0.5660271200403547,https://leetcode.com/problems/delete-and-earn
-MEDIUM,Consecutive Numbers,88.1,0.45004268032437045,https://leetcode.com/problems/consecutive-numbers
-HARD,Minimum Number of Taps to Open to Water a Garden,88.1,0.5069464195068564,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
-HARD,Minimum Edge Reversals So Every Node Is Reachable,88.1,0.5736339275311663,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
-HARD,Count Subarrays With Fixed Bounds,88.1,0.677532453522241,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Count Subarrays With Fixed Bounds,100.0,0.6772644262617944,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+MEDIUM,Consecutive Numbers,88.7,0.45211601687953473,https://leetcode.com/problems/consecutive-numbers,Database
+HARD,Minimum Edge Reversals So Every Node Is Reachable,88.7,0.5749742061217471,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Minimum Time to Complete Trips,88.7,0.3890169123190418,https://leetcode.com/problems/minimum-time-to-complete-trips,"Array, Binary Search"

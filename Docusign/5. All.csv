@@ -1,31 +1,33 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Copy List with Random Pointer,100.0,0.5897090429922982,https://leetcode.com/problems/copy-list-with-random-pointer
-MEDIUM,Rotting Oranges,90.9,0.5565969825637326,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Merge Intervals,90.9,0.48545537371896785,https://leetcode.com/problems/merge-intervals
-MEDIUM,Product of Array Except Self,84.9,0.6720177117124908,https://leetcode.com/problems/product-of-array-except-self
-MEDIUM,Implement Trie (Prefix Tree),84.9,0.6714364830180127,https://leetcode.com/problems/implement-trie-prefix-tree
-MEDIUM,Design Authentication Manager,77.2,0.5799790218958961,https://leetcode.com/problems/design-authentication-manager
-HARD,Find Median from Data Stream,77.2,0.5275407172291284,https://leetcode.com/problems/find-median-from-data-stream
-MEDIUM,Top K Frequent Elements,77.2,0.6385667464154816,https://leetcode.com/problems/top-k-frequent-elements
-HARD,Reaching Points,77.2,0.33484273481414534,https://leetcode.com/problems/reaching-points
-EASY,Excel Sheet Column Number,77.2,0.6508191228292319,https://leetcode.com/problems/excel-sheet-column-number
-MEDIUM,Sort Colors,77.2,0.6593354224324538,https://leetcode.com/problems/sort-colors
-EASY,Valid Parentheses,77.2,0.4160109525349126,https://leetcode.com/problems/valid-parentheses
-MEDIUM,3Sum,77.2,0.3609293576323418,https://leetcode.com/problems/3sum
-MEDIUM,Peak Index in a Mountain Array,66.3,0.6788956648914153,https://leetcode.com/problems/peak-index-in-a-mountain-array
-MEDIUM,Shortest Bridge,66.3,0.5822199370270346,https://leetcode.com/problems/shortest-bridge
-MEDIUM,Course Schedule,66.3,0.4815997877473693,https://leetcode.com/problems/course-schedule
-MEDIUM,Inorder Successor in BST,66.3,0.504013691727625,https://leetcode.com/problems/inorder-successor-in-bst
-MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,66.3,0.6466426956498053,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
-MEDIUM,LRU Cache,66.3,0.44062666175808896,https://leetcode.com/problems/lru-cache
-EASY,Two Sum,66.3,0.5468061408853269,https://leetcode.com/problems/two-sum
-MEDIUM,Boats to Save People,66.3,0.5980269234967005,https://leetcode.com/problems/boats-to-save-people
-EASY,Palindrome Permutation,66.3,0.6802921578677601,https://leetcode.com/problems/palindrome-permutation
-MEDIUM,Binary Tree Level Order Traversal,66.3,0.6941514687704394,https://leetcode.com/problems/binary-tree-level-order-traversal
-HARD,IPO,66.3,0.530118614170853,https://leetcode.com/problems/ipo
-MEDIUM,Optimal Partition of String,66.3,0.7807073379348757,https://leetcode.com/problems/optimal-partition-of-string
-MEDIUM,Longest Substring Without Repeating Characters,66.3,0.3604578578288786,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Clone Graph,66.3,0.6059709795943786,https://leetcode.com/problems/clone-graph
-MEDIUM,Binary Tree Zigzag Level Order Traversal,66.3,0.6069310461360692,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-MEDIUM,Minesweeper,66.3,0.6756187568831268,https://leetcode.com/problems/minesweeper
-MEDIUM,Insert Delete GetRandom O(1),66.3,0.5482858097233609,https://leetcode.com/problems/insert-delete-getrandom-o1
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Copy List with Random Pointer,100.0,0.5927313597642262,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+MEDIUM,Rotting Oranges,90.9,0.5584689211662497,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Merge Intervals,90.9,0.48695114358264957,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Implement Trie (Prefix Tree),84.8,0.6731809929758348,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Longest Substring Without Repeating Characters,84.8,0.362017009576712,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Product of Array Except Self,84.8,0.6731224032596765,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Design Authentication Manager,77.0,0.5809360858371844,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Find Median from Data Stream,77.0,0.5287617710352406,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Top K Frequent Elements,77.0,0.6397497953104366,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+HARD,Reaching Points,77.0,0.3352525516880398,https://leetcode.com/problems/reaching-points,Math
+EASY,Excel Sheet Column Number,77.0,0.6522496659419837,https://leetcode.com/problems/excel-sheet-column-number,"Math, String"
+MEDIUM,Sort Colors,77.0,0.6618205781853077,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+EASY,Valid Parentheses,77.0,0.41739447394360985,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,3Sum,77.0,0.3627885097107584,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,66.0,0.6472809707819301,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero,"Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Course Schedule,66.0,0.48346038412729103,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Insert Delete GetRandom O(1),66.0,0.5486429034528841,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Shortest Bridge,66.0,0.5828849062196966,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Peak Index in a Mountain Array,66.0,0.6781770965425845,https://leetcode.com/problems/peak-index-in-a-mountain-array,"Array, Binary Search"
+MEDIUM,Inorder Successor in BST,66.0,0.5045444510658069,https://leetcode.com/problems/inorder-successor-in-bst,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,Count Good Nodes in Binary Tree,66.0,0.7328423786518818,https://leetcode.com/problems/count-good-nodes-in-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Two Sum,66.0,0.5490437506614917,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Optimal Partition of String,66.0,0.7808316857355849,https://leetcode.com/problems/optimal-partition-of-string,"Hash Table, String, Greedy"
+MEDIUM,LRU Cache,66.0,0.44265390505533214,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Palindrome Permutation,66.0,0.6805488985303363,https://leetcode.com/problems/palindrome-permutation,"Hash Table, String, Bit Manipulation"
+MEDIUM,Binary Tree Level Order Traversal,66.0,0.6963935509500903,https://leetcode.com/problems/binary-tree-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+HARD,IPO,66.0,0.5301109726793569,https://leetcode.com/problems/ipo,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Boats to Save People,66.0,0.5988400555888949,https://leetcode.com/problems/boats-to-save-people,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Clone Graph,66.0,0.6093571461663572,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Binary Tree Zigzag Level Order Traversal,66.0,0.6087102227451798,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Minesweeper,66.0,0.676448616032947,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Design Add and Search Words Data Structure,66.0,0.4659680842820869,https://leetcode.com/problems/design-add-and-search-words-data-structure,"String, Depth-First Search, Design, Trie"

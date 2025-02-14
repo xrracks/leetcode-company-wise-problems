@@ -1,8 +1,6 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Analyze User Website Visit Pattern,100.0,0.4305900565926709,https://leetcode.com/problems/analyze-user-website-visit-pattern
-HARD,Leetcodify Similar Friends,89.6,0.42522895915502373,https://leetcode.com/problems/leetcodify-similar-friends
-HARD,Leetcodify Friends Recommendations,89.6,0.27664859981933154,https://leetcode.com/problems/leetcodify-friends-recommendations
-EASY,Moving Average from Data Stream,89.6,0.7938965593784684,https://leetcode.com/problems/moving-average-from-data-stream
-EASY,Valid Parentheses,89.6,0.41601123471124707,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Kth Largest Element in an Array,89.6,0.6742763776998253,https://leetcode.com/problems/kth-largest-element-in-an-array
-EASY,Two Sum,89.6,0.5468063879455293,https://leetcode.com/problems/two-sum
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Moving Average from Data Stream,100.0,0.7950187248229406,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Analyze User Website Visit Pattern,100.0,0.4314087076957792,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
+EASY,Valid Parentheses,89.7,0.41739453493202866,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Kth Largest Element in an Array,89.7,0.6752750569916155,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Two Sum,89.7,0.5490436919950447,https://leetcode.com/problems/two-sum,"Array, Hash Table"

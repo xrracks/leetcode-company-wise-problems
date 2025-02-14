@@ -1,7 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Zigzag Iterator,100.0,0.6493460862775717,https://leetcode.com/problems/zigzag-iterator
-MEDIUM,Simple Bank System,100.0,0.6365708622398414,https://leetcode.com/problems/simple-bank-system
-EASY,Decode the Message,87.5,0.8499379019892178,https://leetcode.com/problems/decode-the-message
-MEDIUM,Time Based Key-Value Store,87.5,0.49306842482049407,https://leetcode.com/problems/time-based-key-value-store
-MEDIUM,Find the Length of the Longest Common Prefix,77.5,0.562112327038217,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
-HARD,Text Justification,77.5,0.4646346426890088,https://leetcode.com/problems/text-justification
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Zigzag Iterator,100.0,0.65085444141619,https://leetcode.com/problems/zigzag-iterator,"Array, Design, Queue, Iterator"
+MEDIUM,Simple Bank System,94.6,0.6351038538538538,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Find the Length of the Longest Common Prefix,67.8,0.5628914325671895,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"

@@ -1,11 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Number of Subarrays That Match a Pattern I,100.0,0.6679882490625524,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i
-HARD,Count Prefix and Suffix Pairs II,100.0,0.27558914278048563,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii
-EASY,Count Prefix and Suffix Pairs I,100.0,0.7777814418031401,https://leetcode.com/problems/count-prefix-and-suffix-pairs-i
-EASY,Number of Changing Keys,100.0,0.8015266131348917,https://leetcode.com/problems/number-of-changing-keys
-EASY,Distribute Elements Into Two Arrays I,100.0,0.7258967761465113,https://leetcode.com/problems/distribute-elements-into-two-arrays-i
-HARD,Distribute Elements Into Two Arrays II,100.0,0.2751015670342426,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii
-HARD,Number of Subarrays That Match a Pattern II,100.0,0.32079527135948416,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii
-HARD,Sliding Window Maximum,100.0,0.47115794400533173,https://leetcode.com/problems/sliding-window-maximum
-HARD,Reverse Nodes in k-Group,100.0,0.6153395932970844,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Search in Rotated Sorted Array,100.0,0.42078566729835,https://leetcode.com/problems/search-in-rotated-sorted-array
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Sliding Window Maximum,100.0,0.47190991339869975,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Reverse Nodes in k-Group,100.0,0.6182060216225959,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.4221773248345117,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

@@ -1,15 +1,18 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Time Based Key-Value Store,100.0,0.4930688429487239,https://leetcode.com/problems/time-based-key-value-store
-HARD,Read N Characters Given read4 II - Call Multiple Times,96.4,0.4269159511974695,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
-HARD,Minimum Window Substring,93.6,0.44367043914196513,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Rotting Oranges,90.4,0.5565957968574778,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Range Sum Query 2D - Immutable,81.9,0.5573222942945639,https://leetcode.com/problems/range-sum-query-2d-immutable
-HARD,Max Stack,75.9,0.4515426061771214,https://leetcode.com/problems/max-stack
-MEDIUM,Min Stack,72.1,0.556198651653823,https://leetcode.com/problems/min-stack
-MEDIUM,Asteroid Collision,61.5,0.4495647559017858,https://leetcode.com/problems/asteroid-collision
-MEDIUM,Water and Jug Problem,61.5,0.4224648838661883,https://leetcode.com/problems/water-and-jug-problem
-MEDIUM,Convert Sorted List to Binary Search Tree,53.0,0.6357466412440897,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
-MEDIUM,Implement Trie (Prefix Tree),53.0,0.6714357680957289,https://leetcode.com/problems/implement-trie-prefix-tree
-MEDIUM,Meeting Rooms II,53.0,0.5181634190506144,https://leetcode.com/problems/meeting-rooms-ii
-MEDIUM,Find First and Last Position of Element in Sorted Array,53.0,0.45835011602233094,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-MEDIUM,Process Tasks Using Servers,53.0,0.4068008043962189,https://leetcode.com/problems/process-tasks-using-servers
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Time Based Key-Value Store,100.0,0.49333051545419254,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Read N Characters Given read4 II - Call Multiple Times,98.8,0.4272687299171317,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times,"Array, Simulation, Interactive"
+MEDIUM,Rotting Oranges,94.7,0.5584685394747462,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+HARD,Minimum Window Substring,93.1,0.44536555844804565,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Range Sum Query 2D - Immutable,82.8,0.5586185026732018,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"
+HARD,Max Stack,76.7,0.4522052931456582,https://leetcode.com/problems/max-stack,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set"
+MEDIUM,Min Stack,72.8,0.5578056968171291,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Asteroid Collision,61.9,0.45042360322166053,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Water and Jug Problem,61.9,0.4238165840176766,https://leetcode.com/problems/water-and-jug-problem,"Math, Depth-First Search, Breadth-First Search"
+MEDIUM,Implement Trie (Prefix Tree),53.4,0.6731802942824945,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Convert Sorted List to Binary Search Tree,53.4,0.6373763866478971,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree,"Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree"
+MEDIUM,Meeting Rooms II,53.4,0.5187225763722162,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Process Tasks Using Servers,53.4,0.4069876438005965,https://leetcode.com/problems/process-tasks-using-servers,"Array, Heap (Priority Queue)"
+MEDIUM,Car Pooling,53.4,0.5596582067808383,https://leetcode.com/problems/car-pooling,"Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum"
+MEDIUM,String Compression,53.4,0.570725602777312,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Smallest Range Covering Elements from K Lists,53.4,0.6980393606084836,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists,"Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"
+HARD,Word Ladder II,53.4,0.2711257858877311,https://leetcode.com/problems/word-ladder-ii,"Hash Table, String, Backtracking, Breadth-First Search"

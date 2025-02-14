@@ -1,27 +1,13 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Mark Elements on Array by Performing Queries,100.0,0.4928992121567528,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries
-HARD,Count Prefix and Suffix Pairs II,100.0,0.27558914278048563,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii
-MEDIUM,LRU Cache,83.3,0.44062711346766226,https://leetcode.com/problems/lru-cache
-MEDIUM,Maximize Distance to Closest Person,78.0,0.48578829375903415,https://leetcode.com/problems/maximize-distance-to-closest-person
-MEDIUM,Number of Islands,71.1,0.6120961058880117,https://leetcode.com/problems/number-of-islands
-HARD,Vertical Order Traversal of a Binary Tree,71.1,0.4991663422554335,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
-EASY,Best Time to Buy and Sell Stock,71.1,0.5457848981671198,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Maximum Height by Stacking Cuboids ,61.4,0.5910781309183568,https://leetcode.com/problems/maximum-height-by-stacking-cuboids
-EASY,Two Sum,61.4,0.5468059363444734,https://leetcode.com/problems/two-sum
-HARD,Word Ladder,61.4,0.41384715723653964,https://leetcode.com/problems/word-ladder
-MEDIUM,Is Graph Bipartite?,61.4,0.5694055340548548,https://leetcode.com/problems/is-graph-bipartite
-MEDIUM,Make Sum Divisible by P,61.4,0.39598306215377477,https://leetcode.com/problems/make-sum-divisible-by-p
-MEDIUM,Minimum Cost of a Path With Special Roads,61.4,0.4031496898032769,https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads
-MEDIUM,Largest 1-Bordered Square,61.4,0.5057963426947384,https://leetcode.com/problems/largest-1-bordered-square
-HARD,Design Graph With Shortest Path Calculator,61.4,0.7062457378956236,https://leetcode.com/problems/design-graph-with-shortest-path-calculator
-HARD,Minimum Number of Operations to Make String Sorted,61.4,0.5010984182776801,https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted
-EASY,Find the Width of Columns of a Grid,61.4,0.6843723729038538,https://leetcode.com/problems/find-the-width-of-columns-of-a-grid
-HARD,Partition Array Into Two Arrays to Minimize Sum Difference,61.4,0.21111344222988163,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference
-HARD,Number of Paths with Max Score,61.4,0.4042212899842685,https://leetcode.com/problems/number-of-paths-with-max-score
-EASY,Two Sum IV - Input is a BST,61.4,0.6178738769458407,https://leetcode.com/problems/two-sum-iv-input-is-a-bst
-MEDIUM,Stone Game IX,61.4,0.2907694670557518,https://leetcode.com/problems/stone-game-ix
-MEDIUM,Number of Nodes in the Sub-Tree With the Same Label,61.4,0.5496283781654048,https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label
-EASY,Faulty Keyboard,61.4,0.8359530881808578,https://leetcode.com/problems/faulty-keyboard
-EASY,Maximum Product of Two Elements in an Array,61.4,0.8302204605390108,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array
-HARD,Minimize Deviation in Array,61.4,0.5394775674757633,https://leetcode.com/problems/minimize-deviation-in-array
-MEDIUM,Rotate Array,61.4,0.4218134125479708,https://leetcode.com/problems/rotate-array
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Count Prefix and Suffix Pairs II,100.0,0.2762030613368572,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii,"Array, String, Trie, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Mark Elements on Array by Performing Queries,100.0,0.4905854848035396,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+MEDIUM,LRU Cache,84.0,0.44265239100892534,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Maximize Distance to Closest Person,72.2,0.4861947384837705,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+HARD,Burst Balloons,72.2,0.6053181916348715,https://leetcode.com/problems/burst-balloons,"Array, Dynamic Programming"
+MEDIUM,Rotting Oranges,72.2,0.5584687594504337,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Make Sum Divisible by P,62.9,0.39578674081173887,https://leetcode.com/problems/make-sum-divisible-by-p,"Array, Hash Table, Prefix Sum"
+MEDIUM,Is Graph Bipartite?,62.9,0.5710835984514546,https://leetcode.com/problems/is-graph-bipartite,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+HARD,Word Ladder,62.9,0.4165566700196262,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+EASY,Best Time to Buy and Sell Stock,62.9,0.5468398613171679,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Two Sum,62.9,0.5490436667082793,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Rotate Array,62.9,0.42338133322303406,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"

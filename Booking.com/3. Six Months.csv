@@ -1,9 +1,6 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Reward Top K Students,100.0,0.45566853373406974,https://leetcode.com/problems/reward-top-k-students
-HARD,Sliding Window Maximum,78.0,0.4711571650969646,https://leetcode.com/problems/sliding-window-maximum
-MEDIUM,K Highest Ranked Items Within a Price Range,78.0,0.4395391542776646,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range
-EASY,Two Out of Three,78.0,0.7601324578285973,https://leetcode.com/problems/two-out-of-three
-MEDIUM,Coloring A Border,78.0,0.4945321237728346,https://leetcode.com/problems/coloring-a-border
-MEDIUM,Order Two Columns Independently,78.0,0.6073500967117988,https://leetcode.com/problems/order-two-columns-independently
-HARD,Delete Duplicate Folders in System,78.0,0.5485665137614679,https://leetcode.com/problems/delete-duplicate-folders-in-system
-MEDIUM,Maximal Square,78.0,0.47955093929074516,https://leetcode.com/problems/maximal-square
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Integer to Roman,100.0,0.676516639633887,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Reward Top K Students,92.9,0.4554648517406848,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+HARD,Sliding Window Maximum,82.9,0.47191027671864083,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Maximal Square,82.9,0.48087141371980074,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+HARD,Reconstruct Itinerary,82.9,0.4340879806548726,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"

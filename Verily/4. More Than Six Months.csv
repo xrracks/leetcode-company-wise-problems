@@ -1,7 +1,7 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Happy Number,100.0,0.5733844556274463,https://leetcode.com/problems/happy-number
-MEDIUM,Jump Game,100.0,0.39004754904602756,https://leetcode.com/problems/jump-game
-MEDIUM,Kth Largest Element in an Array,92.9,0.6742748233544069,https://leetcode.com/problems/kth-largest-element-in-an-array
-MEDIUM,Longest Common Subsequence,83.0,0.5788057658470325,https://leetcode.com/problems/longest-common-subsequence
-MEDIUM,Time Needed to Inform All Employees,83.0,0.6014415169289017,https://leetcode.com/problems/time-needed-to-inform-all-employees
-MEDIUM,Group Anagrams,83.0,0.7004746142970795,https://leetcode.com/problems/group-anagrams
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Happy Number,100.0,0.5746146058029774,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Jump Game,100.0,0.3905652100088385,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Kth Largest Element in an Array,92.9,0.6752758572142341,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Longest Common Subsequence,82.9,0.5793142534024981,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Time Needed to Inform All Employees,82.9,0.6015427132970493,https://leetcode.com/problems/time-needed-to-inform-all-employees,"Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Group Anagrams,82.9,0.7021295461775792,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

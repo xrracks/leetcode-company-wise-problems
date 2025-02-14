@@ -1,5 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Apply Operations to Make Two Strings Equal,100.0,0.27231278244028406,https://leetcode.com/problems/apply-operations-to-make-two-strings-equal
-HARD,Reverse Nodes in k-Group,100.0,0.6153406532602113,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36045880820109993,https://leetcode.com/problems/longest-substring-without-repeating-characters
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.710837626960402,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Reverse Nodes in k-Group,100.0,0.6182067223751987,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3620171239087084,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7126360759806727,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"

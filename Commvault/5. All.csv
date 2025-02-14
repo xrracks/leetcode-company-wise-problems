@@ -1,12 +1,11 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Count Vowel Substrings of a String,100.0,0.6943077807213043,https://leetcode.com/problems/count-vowel-substrings-of-a-string
-MEDIUM,Decode Ways,95.5,0.3591394549424322,https://leetcode.com/problems/decode-ways
-MEDIUM,Reach a Number,92.9,0.43580906302144434,https://leetcode.com/problems/reach-a-number
-MEDIUM,Longest Increasing Subsequence,86.5,0.5693004761253007,https://leetcode.com/problems/longest-increasing-subsequence
-MEDIUM,Number of Longest Increasing Subsequence,82.5,0.49192455566832455,https://leetcode.com/problems/number-of-longest-increasing-subsequence
-HARD,Reverse Nodes in k-Group,77.5,0.6153412892352833,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Count Unreachable Pairs of Nodes in an Undirected Graph,77.5,0.4924632271471554,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph
-MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,62.1,0.43616146185258087,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating
-MEDIUM,Rotating the Box,62.1,0.7910352703474327,https://leetcode.com/problems/rotating-the-box
-MEDIUM,Longest Palindromic Substring,62.1,0.3504779909262439,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Find Peak Element,62.1,0.4626231294123329,https://leetcode.com/problems/find-peak-element
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Count Vowel Substrings of a String,100.0,0.6966705911343537,https://leetcode.com/problems/count-vowel-substrings-of-a-string,"Hash Table, String"
+MEDIUM,Decode Ways,95.5,0.3601925100045381,https://leetcode.com/problems/decode-ways,"String, Dynamic Programming"
+MEDIUM,Reach a Number,92.9,0.43676852118766213,https://leetcode.com/problems/reach-a-number,"Math, Binary Search"
+MEDIUM,Longest Increasing Subsequence,86.5,0.5706173214836157,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Number of Longest Increasing Subsequence,82.5,0.49285609863968866,https://leetcode.com/problems/number-of-longest-increasing-subsequence,"Array, Dynamic Programming, Binary Indexed Tree, Segment Tree"
+HARD,Reverse Nodes in k-Group,77.6,0.6182081732922542,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Count Unreachable Pairs of Nodes in an Undirected Graph,77.6,0.49241506772695215,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Rotating the Box,62.2,0.7910309351458387,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,Longest Palindromic Substring,62.2,0.35189358347185296,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Find Peak Element,62.2,0.4628560950372631,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"

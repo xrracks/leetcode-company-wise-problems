@@ -1,35 +1,29 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Smallest Substring With Identical Characters I,100.0,0.18554326201528742,https://leetcode.com/problems/smallest-substring-with-identical-characters-i
-HARD,Smallest Substring With Identical Characters II,100.0,0.4450182530495949,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii
-MEDIUM,Maximum Number of Occurrences of a Substring,97.3,0.5271556782308315,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
-HARD,Distinct Subsequences,94.3,0.49099205719062444,https://leetcode.com/problems/distinct-subsequences
-MEDIUM,Subarray Product Less Than K,94.3,0.5221947966298035,https://leetcode.com/problems/subarray-product-less-than-k
-MEDIUM,String Compression,90.9,0.5683420640237292,https://leetcode.com/problems/string-compression
-MEDIUM,Palindromic Substrings,90.9,0.7108307592062486,https://leetcode.com/problems/palindromic-substrings
-MEDIUM,K-diff Pairs in an Array,87.0,0.4399567417999533,https://leetcode.com/problems/k-diff-pairs-in-an-array
-HARD,LFU Cache,82.4,0.4552123016577045,https://leetcode.com/problems/lfu-cache
-MEDIUM,Group Anagrams,82.4,0.7004721245196645,https://leetcode.com/problems/group-anagrams
-HARD,Trapping Rain Water,69.4,0.6391044651267398,https://leetcode.com/problems/trapping-rain-water
-EASY,Best Time to Buy and Sell Stock,69.4,0.5457829075163753,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-HARD,Minimum Window Substring,69.4,0.4436698783546044,https://leetcode.com/problems/minimum-window-substring
-MEDIUM,Number of Islands,69.4,0.6120952252355103,https://leetcode.com/problems/number-of-islands
-MEDIUM,Number of Divisible Triplet Sums,69.4,0.6425576519916143,https://leetcode.com/problems/number-of-divisible-triplet-sums
-MEDIUM,Merge Intervals,69.4,0.4854573599561618,https://leetcode.com/problems/merge-intervals
-MEDIUM,Top K Frequent Words,59.2,0.5877633771328539,https://leetcode.com/problems/top-k-frequent-words
-MEDIUM,Meeting Rooms II,59.2,0.5181621604113019,https://leetcode.com/problems/meeting-rooms-ii
-EASY,Maximum Units on a Truck,59.2,0.7396779290065301,https://leetcode.com/problems/maximum-units-on-a-truck
-MEDIUM,Game of Life,59.2,0.7065316072406957,https://leetcode.com/problems/game-of-life
-HARD,Minimum Number of Taps to Open to Water a Garden,59.2,0.5069519448164629,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
-MEDIUM,Coin Change,59.2,0.45516483014066156,https://leetcode.com/problems/coin-change
-MEDIUM,K Closest Points to Origin,59.2,0.6738311152130977,https://leetcode.com/problems/k-closest-points-to-origin
-MEDIUM,Longest Increasing Subsequence,59.2,0.5693001167257915,https://leetcode.com/problems/longest-increasing-subsequence
-EASY,Maximum Product of Three Numbers,59.2,0.4520658248686306,https://leetcode.com/problems/maximum-product-of-three-numbers
-EASY,Shortest Distance to Target String in a Circular Array,59.2,0.5042295938704106,https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array
-MEDIUM,Gas Station,59.2,0.4582105888780603,https://leetcode.com/problems/gas-station
-EASY,Two Sum,59.2,0.5468037107741791,https://leetcode.com/problems/two-sum
-MEDIUM,Top K Frequent Elements,59.2,0.6385663678976886,https://leetcode.com/problems/top-k-frequent-elements
-HARD,Reverse Nodes in k-Group,59.2,0.6153404825914572,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Verify Preorder Sequence in Binary Search Tree,59.2,0.5053848112207743,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
-MEDIUM,Min Stack,59.2,0.5561961509825473,https://leetcode.com/problems/min-stack
-EASY,Largest Number After Digit Swaps by Parity,59.2,0.6291200428594041,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
-MEDIUM,Path Sum III,59.2,0.4604014789307833,https://leetcode.com/problems/path-sum-iii
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Subarray Product Less Than K,100.0,0.5229951696254351,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Maximum Number of Occurrences of a Substring,97.9,0.528664942621626,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
+HARD,Smallest Substring With Identical Characters II,95.6,0.4428499071416512,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii,"String, Binary Search"
+HARD,Smallest Substring With Identical Characters I,95.6,0.18890715699761768,https://leetcode.com/problems/smallest-substring-with-identical-characters-i,"Array, Binary Search, Enumeration"
+HARD,Distinct Subsequences,90.2,0.49301047985460383,https://leetcode.com/problems/distinct-subsequences,"String, Dynamic Programming"
+HARD,LFU Cache,90.2,0.45696398877821004,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,String Compression,86.9,0.570725602777312,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Binary Tree Maximum Path Sum,66.4,0.4084018547824836,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Course Schedule II,66.4,0.5247568777607315,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+HARD,Minimum Window Substring,66.4,0.44536641864575643,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Number of Divisible Triplet Sums,66.4,0.6474699893633187,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
+EASY,Maximum Product of Three Numbers,66.4,0.45239519132449646,https://leetcode.com/problems/maximum-product-of-three-numbers,"Array, Math, Sorting"
+MEDIUM,Palindromic Substrings,66.4,0.7118585303435221,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,K-diff Pairs in an Array,66.4,0.4417312870789695,https://leetcode.com/problems/k-diff-pairs-in-an-array,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
+MEDIUM,Meeting Rooms II,56.6,0.5187228835243075,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Number of Islands,56.6,0.6142363289336513,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Word Search,56.6,0.4448821314723932,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Maximum Earnings From Taxi,56.6,0.44524308180387395,https://leetcode.com/problems/maximum-earnings-from-taxi,"Array, Hash Table, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Validate Binary Search Tree,56.6,0.33900210373012596,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,Max Consecutive Ones III,56.6,0.6507292942237952,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Asteroid Collision,56.6,0.45042331906838945,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Longest Substring Without Repeating Characters,56.6,0.3620163718019968,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Game of Life,56.6,0.7081541920690833,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+MEDIUM,All Nodes Distance K in Binary Tree,56.6,0.657471073684419,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Path Sum III,56.6,0.4603352878487213,https://leetcode.com/problems/path-sum-iii,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Coin Change,56.6,0.45679227217636237,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Longest Increasing Subsequence,56.6,0.5706148118901235,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Zigzag Conversion,56.6,0.5060172651865343,https://leetcode.com/problems/zigzag-conversion,String

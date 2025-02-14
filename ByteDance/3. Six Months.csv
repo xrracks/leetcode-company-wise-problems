@@ -1,16 +1,12 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,LRU Cache,100.0,0.44062707038915216,https://leetcode.com/problems/lru-cache
-MEDIUM,Smallest Subsequence of Distinct Characters,75.6,0.6162001020278026,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
-MEDIUM,Combination Sum,75.6,0.7356028830909112,https://leetcode.com/problems/combination-sum
-MEDIUM,Combination Sum II,75.6,0.5695199522498744,https://leetcode.com/problems/combination-sum-ii
-MEDIUM,First Day Where You Have Been in All the Rooms,65.6,0.37686767709341074,https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms
-MEDIUM,Remove Duplicate Letters,65.6,0.5059905957686537,https://leetcode.com/problems/remove-duplicate-letters
-MEDIUM,Maximal Square,65.6,0.47954988450225733,https://leetcode.com/problems/maximal-square
-MEDIUM,Minimum Area Rectangle,65.6,0.5468542297625084,https://leetcode.com/problems/minimum-area-rectangle
-MEDIUM,Number of Good Leaf Nodes Pairs,65.6,0.7185137442898744,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
-HARD,Regular Expression Matching,65.6,0.28774031663190336,https://leetcode.com/problems/regular-expression-matching
-MEDIUM,Rotting Oranges,65.6,0.5565931940925618,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Insert Delete GetRandom O(1),65.6,0.5482813350905642,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,Course Schedule,65.6,0.4816002903670229,https://leetcode.com/problems/course-schedule
-EASY,Climbing Stairs,65.6,0.5329292059201614,https://leetcode.com/problems/climbing-stairs
-HARD,Trapping Rain Water II,65.6,0.5837616761693499,https://leetcode.com/problems/trapping-rain-water-ii
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.44265230946432593,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Regular Expression Matching,73.7,0.2889129660117211,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+MEDIUM,Add Two Numbers,73.7,0.45272527144546904,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Combination Sum II,64.1,0.5710440718798897,https://leetcode.com/problems/combination-sum-ii,"Array, Backtracking"
+MEDIUM,Maximal Square,64.1,0.4808694804828047,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Minimum Area Rectangle,64.1,0.5475943760412857,https://leetcode.com/problems/minimum-area-rectangle,"Array, Hash Table, Math, Geometry, Sorting"
+MEDIUM,Number of Good Leaf Nodes Pairs,64.1,0.7184808584414974,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Rotting Oranges,64.1,0.5584678795463683,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Insert Delete GetRandom O(1),64.1,0.5486430483407203,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+EASY,Climbing Stairs,64.1,0.5331671572459262,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Longest Common Subsequence,64.1,0.5793122266526973,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"

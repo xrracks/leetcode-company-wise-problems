@@ -1,7 +1,6 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Text Justification,100.0,0.46463350588941404,https://leetcode.com/problems/text-justification
-MEDIUM,Smallest Common Region,100.0,0.6786367939413064,https://leetcode.com/problems/smallest-common-region
-HARD,Maximum Profit in Job Scheduling,89.2,0.5431849681573361,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-MEDIUM,Shortest Path in Binary Matrix,89.2,0.488659146534384,https://leetcode.com/problems/shortest-path-in-binary-matrix
-HARD,Making A Large Island,89.2,0.4966909508179222,https://leetcode.com/problems/making-a-large-island
-MEDIUM,Subarray Product Less Than K,89.2,0.5221942018288432,https://leetcode.com/problems/subarray-product-less-than-k
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Subarray Product Less Than K,100.0,0.5229957060886269,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Flatten 2D Vector,92.8,0.4994348565647432,https://leetcode.com/problems/flatten-2d-vector,"Array, Two Pointers, Design, Iterator"
+HARD,Text Justification,82.8,0.4683156504443167,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Shortest Path in Binary Matrix,82.8,0.4905269418646967,https://leetcode.com/problems/shortest-path-in-binary-matrix,"Array, Breadth-First Search, Matrix"
+HARD,Making A Large Island,82.8,0.5409767667324539,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

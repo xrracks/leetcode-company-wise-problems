@@ -1,9 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Number of Orders in the Backlog,100.0,0.5091705559649554,https://leetcode.com/problems/number-of-orders-in-the-backlog
-MEDIUM,Check if There is a Valid Path in a Grid,100.0,0.48536994752839063,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid
-MEDIUM,Count Good Meals,100.0,0.3095283844659365,https://leetcode.com/problems/count-good-meals
-MEDIUM,Ways to Split Array Into Three Subarrays,100.0,0.3322229769337415,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays
-MEDIUM,Restore the Array From Adjacent Pairs,100.0,0.7470813492724185,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs
-MEDIUM,Capital Gain/Loss,100.0,0.8515416217941048,https://leetcode.com/problems/capital-gainloss
-EASY,Count the Number of Consistent Strings,100.0,0.8816371759491258,https://leetcode.com/problems/count-the-number-of-consistent-strings
-MEDIUM,Brightest Position on Street,100.0,0.6161565056075554,https://leetcode.com/problems/brightest-position-on-street
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Defanging an IP Address,100.0,0.8953909980238367,https://leetcode.com/problems/defanging-an-ip-address,String

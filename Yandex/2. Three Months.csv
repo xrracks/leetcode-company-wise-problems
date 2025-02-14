@@ -1,29 +1,22 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.6850411518400977,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
-EASY,Summary Ranges,87.5,0.5231193241194566,https://leetcode.com/problems/summary-ranges
-MEDIUM,Find K Closest Elements,81.0,0.48192843791158313,https://leetcode.com/problems/find-k-closest-elements
-EASY,Isomorphic Strings,76.9,0.4619235907132917,https://leetcode.com/problems/isomorphic-strings
-MEDIUM,Maximize Distance to Closest Person,76.9,0.4857959749289201,https://leetcode.com/problems/maximize-distance-to-closest-person
-MEDIUM,One Edit Distance,76.9,0.34428263925496405,https://leetcode.com/problems/one-edit-distance
-MEDIUM,Permutation in String,71.9,0.46666138282549674,https://leetcode.com/problems/permutation-in-string
-MEDIUM,Find the Prefix Common Array of Two Arrays,71.9,0.8767975776394852,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
-MEDIUM,String Compression,71.9,0.5683440231049098,https://leetcode.com/problems/string-compression
-MEDIUM,Subarray Sum Equals K,65.5,0.44664994126425467,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Find Duplicate Subtrees,65.5,0.5987111271278062,https://leetcode.com/problems/find-duplicate-subtrees
-EASY,Symmetric Tree,65.5,0.5830279913081783,https://leetcode.com/problems/symmetric-tree
-EASY,Valid Palindrome II,65.5,0.421745605426717,https://leetcode.com/problems/valid-palindrome-ii
-MEDIUM,Line Reflection,65.5,0.3585277796349536,https://leetcode.com/problems/line-reflection
-MEDIUM,Merge Intervals,65.5,0.4854565099327514,https://leetcode.com/problems/merge-intervals
-EASY,Merge Two Sorted Lists,56.4,0.6598107924700113,https://leetcode.com/problems/merge-two-sorted-lists
-EASY,Two Sum,56.4,0.5468043798565809,https://leetcode.com/problems/two-sum
-EASY,Squares of a Sorted Array,56.4,0.7303728126470338,https://leetcode.com/problems/squares-of-a-sorted-array
-HARD,Reconstruct Itinerary,56.4,0.4338544648166776,https://leetcode.com/problems/reconstruct-itinerary
-MEDIUM,Add Two Numbers,56.4,0.4504470933863482,https://leetcode.com/problems/add-two-numbers
-MEDIUM,Count Substrings Without Repeating Character,56.4,0.7679411163361276,https://leetcode.com/problems/count-substrings-without-repeating-character
-MEDIUM,LRU Cache,56.4,0.44062681329691705,https://leetcode.com/problems/lru-cache
-MEDIUM,Interval List Intersections,56.4,0.7232047610168819,https://leetcode.com/problems/interval-list-intersections
-MEDIUM,Binary Tree Right Side View,56.4,0.6492528636311871,https://leetcode.com/problems/binary-tree-right-side-view
-MEDIUM,Longest Increasing Subsequence,56.4,0.5693003671209579,https://leetcode.com/problems/longest-increasing-subsequence
-HARD,Trapping Rain Water,56.4,0.639106815170157,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Design an ATM Machine,56.4,0.4349991413360811,https://leetcode.com/problems/design-an-atm-machine
-EASY,Move Zeroes,56.4,0.624068106884907,https://leetcode.com/problems/move-zeroes
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.6868200495990442,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
+EASY,Summary Ranges,96.2,0.5244535147849996,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,String Compression,82.6,0.570725602777312,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Find K Closest Elements,78.5,0.4828063314572909,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+MEDIUM,Find the Prefix Common Array of Two Arrays,73.5,0.8770388117717034,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays,"Array, Hash Table, Bit Manipulation"
+MEDIUM,Maximize Distance to Closest Person,73.5,0.4861956983091334,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+MEDIUM,Line Reflection,73.5,0.35859325588362573,https://leetcode.com/problems/line-reflection,"Array, Hash Table, Math"
+HARD,Reconstruct Itinerary,67.1,0.43408538198169067,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,Find Duplicate Subtrees,67.1,0.5991374317958308,https://leetcode.com/problems/find-duplicate-subtrees,"Hash Table, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Subarray Sum Equals K,67.1,0.4479046736888307,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Merge Intervals,67.1,0.48695098105364537,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,One Edit Distance,58.0,0.34432013232219205,https://leetcode.com/problems/one-edit-distance,"Two Pointers, String"
+EASY,Two Sum,58.0,0.5490431622952359,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Add Two Numbers,58.0,0.4527252556627735,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+EASY,Isomorphic Strings,58.0,0.463124764140321,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Permutation in String,58.0,0.46770572524771525,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"
+EASY,Move Zeroes,58.0,0.624798317898972,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Is Subsequence,58.0,0.48182270156838103,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"
+HARD,Median of Two Sorted Arrays,58.0,0.42747246995643645,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,58.0,0.6536864613675012,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
+MEDIUM,Insert Delete GetRandom O(1),58.0,0.5486435930709712,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"

@@ -1,3 +1,3 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,100.0,0.46035782191372865,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
-EASY,Check if Every Row and Column Contains All Numbers,100.0,0.5238629816402051,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Text Justification,100.0,0.468317126762962,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Word Search,100.0,0.4448797358136559,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"

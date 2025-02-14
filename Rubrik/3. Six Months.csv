@@ -1,19 +1,10 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Maximum Points After Enemy Battles,100.0,0.3215666034520009,https://leetcode.com/problems/maximum-points-after-enemy-battles
-HARD,Maximize Subarray Sum After Removing All Occurrences of One Element,63.6,0.16436529854299592,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element
-MEDIUM,Find Longest Special Substring That Occurs Thrice II,63.6,0.38656616121775206,https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii
-MEDIUM,Candy Crush,44.5,0.7712595762720418,https://leetcode.com/problems/candy-crush
-HARD,Stamping the Grid,44.5,0.3280724768385669,https://leetcode.com/problems/stamping-the-grid
-HARD,Cherry Pickup II,38.1,0.7184854304405451,https://leetcode.com/problems/cherry-pickup-ii
-MEDIUM,Insert Delete GetRandom O(1),38.1,0.5482851238728309,https://leetcode.com/problems/insert-delete-getrandom-o1
-MEDIUM,4Sum,38.1,0.3730250561273515,https://leetcode.com/problems/4sum
-HARD,Remove Invalid Parentheses,38.1,0.4879638884685633,https://leetcode.com/problems/remove-invalid-parentheses
-HARD,Scramble String,38.1,0.413434981371265,https://leetcode.com/problems/scramble-string
-MEDIUM,Distribute Candies Among Children II,38.1,0.35370044861872657,https://leetcode.com/problems/distribute-candies-among-children-ii
-MEDIUM,Alice and Bob Playing Flower Game,38.1,0.47906998116068555,https://leetcode.com/problems/alice-and-bob-playing-flower-game
-MEDIUM,Count Lattice Points Inside a Circle,38.1,0.542513496348047,https://leetcode.com/problems/count-lattice-points-inside-a-circle
-EASY,Existence of a Substring in a String and Its Reverse,38.1,0.6625223244951229,https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse
-HARD,Find the Sum of Subsequence Powers,38.1,0.24188777339548223,https://leetcode.com/problems/find-the-sum-of-subsequence-powers
-HARD,Distribute Candies Among Children III,38.1,0.4404924760601915,https://leetcode.com/problems/distribute-candies-among-children-iii
-MEDIUM,Random Pick with Weight,38.1,0.47951229900050957,https://leetcode.com/problems/random-pick-with-weight
-EASY,Distribute Candies Among Children I,38.1,0.7452480296708391,https://leetcode.com/problems/distribute-candies-among-children-i
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Points After Enemy Battles,100.0,0.3229353867393452,https://leetcode.com/problems/maximum-points-after-enemy-battles,"Array, Greedy"
+MEDIUM,Find Longest Special Substring That Occurs Thrice II,63.7,0.38716000980151916,https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii,"Hash Table, String, Binary Search, Sliding Window, Counting"
+HARD,Maximize Subarray Sum After Removing All Occurrences of One Element,63.7,0.18557405036278277,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element,"Array, Dynamic Programming, Segment Tree"
+HARD,Manhattan Distances of All Arrangements of Pieces,63.7,0.35386908458576577,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces,"Math, Combinatorics"
+HARD,Scramble String,38.4,0.41557513616389685,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
+HARD,Remove Invalid Parentheses,38.4,0.48866178294655827,https://leetcode.com/problems/remove-invalid-parentheses,"String, Backtracking, Breadth-First Search"
+MEDIUM,4Sum,38.4,0.37475016718909954,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Insert Delete GetRandom O(1),38.4,0.5486434481813687,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Stamping the Grid,38.4,0.326809230397487,https://leetcode.com/problems/stamping-the-grid,"Array, Greedy, Matrix, Prefix Sum"

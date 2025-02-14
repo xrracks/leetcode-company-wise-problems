@@ -1,2 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Longest Common Prefix,100.0,0.44561686158924474,https://leetcode.com/problems/longest-common-prefix
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Second Highest Salary,100.0,0.4280179451134983,https://leetcode.com/problems/second-highest-salary,Database

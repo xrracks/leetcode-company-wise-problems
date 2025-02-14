@@ -1,8 +1,6 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Move Zeroes,100.0,0.6240694969132762,https://leetcode.com/problems/move-zeroes
-MEDIUM,Merge Nodes in Between Zeros,100.0,0.8968371277169913,https://leetcode.com/problems/merge-nodes-in-between-zeros
-MEDIUM,Find the Substring With Maximum Cost,88.2,0.5695214796381045,https://leetcode.com/problems/find-the-substring-with-maximum-cost
-MEDIUM,Minimum Swaps to Group All 1's Together II,88.2,0.6554507824331146,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
-EASY,Count Pairs Whose Sum is Less than Target,88.2,0.8744612217514773,https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target
-MEDIUM,Reverse Odd Levels of Binary Tree,88.2,0.8674066632451379,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree
-MEDIUM,Find Bottom Left Tree Value,88.2,0.7152269142509509,https://leetcode.com/problems/find-bottom-left-tree-value
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Move Zeroes,100.0,0.6247991556806572,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Count Pairs Whose Sum is Less than Target,100.0,0.8751895485827599,https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target,"Array, Two Pointers, Binary Search, Sorting"
+MEDIUM,Reverse Odd Levels of Binary Tree,100.0,0.8666968843418482,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Find Bottom Left Tree Value,88.6,0.7156914561724181,https://leetcode.com/problems/find-bottom-left-tree-value,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Maximum Twin Sum of a Linked List,88.6,0.8125226492260436,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"

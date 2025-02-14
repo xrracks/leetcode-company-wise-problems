@@ -1,11 +1,8 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Reverse Nodes in k-Group,100.0,0.6153402712293722,https://leetcode.com/problems/reverse-nodes-in-k-group
-MEDIUM,Restore IP Addresses,100.0,0.5199282440031173,https://leetcode.com/problems/restore-ip-addresses
-MEDIUM,Reverse Linked List II,82.6,0.48839840468971557,https://leetcode.com/problems/reverse-linked-list-ii
-EASY,Maximum Units on a Truck,82.6,0.7396768562860853,https://leetcode.com/problems/maximum-units-on-a-truck
-EASY,Contains Duplicate II,82.6,0.4762099950812395,https://leetcode.com/problems/contains-duplicate-ii
-MEDIUM,Construct String With Repeat Limit,72.5,0.7102853223263818,https://leetcode.com/problems/construct-string-with-repeat-limit
-EASY,Find the Town Judge,72.5,0.4984453424141122,https://leetcode.com/problems/find-the-town-judge
-EASY,Remove Linked List Elements,72.5,0.5076707992802559,https://leetcode.com/problems/remove-linked-list-elements
-MEDIUM,Merge In Between Linked Lists,72.5,0.8204380226645561,https://leetcode.com/problems/merge-in-between-linked-lists
-MEDIUM,Palindromic Substrings,72.5,0.7108292023365049,https://leetcode.com/problems/palindromic-substrings
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Restore IP Addresses,100.0,0.5221686079151773,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+HARD,Reverse Nodes in k-Group,95.5,0.618205607070729,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Reverse Linked List II,90.1,0.48983706698580376,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+EASY,Contains Duplicate II,83.1,0.4787977499684974,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+MEDIUM,Palindromic Substrings,73.2,0.7118588632344799,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+EASY,Maximum Depth of Binary Tree,73.2,0.7667895017774227,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,LRU Cache,73.2,0.4426543095290916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

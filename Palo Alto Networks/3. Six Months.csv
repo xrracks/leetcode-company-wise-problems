@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Find the Longest Equal Subarray,100.0,0.3629614515318935,https://leetcode.com/problems/find-the-longest-equal-subarray
-MEDIUM,String Compression,100.0,0.5683470722864724,https://leetcode.com/problems/string-compression
-EASY,Merge Two Sorted Lists,100.0,0.6598119769714118,https://leetcode.com/problems/merge-two-sorted-lists
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.44265352654450163,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Merge Two Sorted Lists,89.1,0.6615289078547203,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Integer to Roman,89.1,0.6765165039175172,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"

@@ -1,6 +1,1 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Time Based Key-Value Store,100.0,0.4930684504983918,https://leetcode.com/problems/time-based-key-value-store
-EASY,Check if Every Row and Column Contains All Numbers,100.0,0.5238570359548159,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
-HARD,Wildcard Matching,88.8,0.2913035690610548,https://leetcode.com/problems/wildcard-matching
-EASY,Squares of a Sorted Array,88.8,0.7303734247522381,https://leetcode.com/problems/squares-of-a-sorted-array
-MEDIUM,Find First and Last Position of Element in Sorted Array,88.8,0.45835025737120494,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array

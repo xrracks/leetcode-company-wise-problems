@@ -1,3 +1,3 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Largest Rectangle in Histogram,100.0,0.4624632821622548,https://leetcode.com/problems/largest-rectangle-in-histogram
-MEDIUM,Wiggle Sort,100.0,0.6804267988712606,https://leetcode.com/problems/wiggle-sort
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Largest Rectangle in Histogram,100.0,0.46447730765969064,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+HARD,First Missing Positive,100.0,0.40530018634538245,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"

@@ -1,24 +1,28 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5468057620633385,https://leetcode.com/problems/two-sum
-EASY,Valid Parentheses,93.7,0.4160105749200937,https://leetcode.com/problems/valid-parentheses
-EASY,Longest Common Prefix,89.9,0.44561695352329184,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Container With Most Water,85.3,0.5685255181617158,https://leetcode.com/problems/container-with-most-water
-EASY,Maximum Depth of Binary Tree,79.8,0.7657501815319734,https://leetcode.com/problems/maximum-depth-of-binary-tree
-MEDIUM,Maximum Number of Weeks for Which You Can Work,72.6,0.41041077612224797,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
-EASY,Sqrt(x),72.6,0.39826872040768146,https://leetcode.com/problems/sqrtx
-EASY,Fibonacci Number,62.5,0.7229375435608811,https://leetcode.com/problems/fibonacci-number
-MEDIUM,Maximum Subarray,62.5,0.5156272748675399,https://leetcode.com/problems/maximum-subarray
-HARD,Trapping Rain Water,62.5,0.6391086360183599,https://leetcode.com/problems/trapping-rain-water
-MEDIUM,Number of Islands,62.5,0.6120960426396002,https://leetcode.com/problems/number-of-islands
-MEDIUM,Longest Consecutive Sequence,62.5,0.475018829922531,https://leetcode.com/problems/longest-consecutive-sequence
-MEDIUM,Maximal Square,62.5,0.4795506133124887,https://leetcode.com/problems/maximal-square
-EASY,Valid Perfect Square,62.5,0.4399329151447027,https://leetcode.com/problems/valid-perfect-square
-EASY,Reverse Linked List,62.5,0.7835427420434994,https://leetcode.com/problems/reverse-linked-list
-EASY,Valid Palindrome,62.5,0.4971848527553103,https://leetcode.com/problems/valid-palindrome
-EASY,Rotate String,62.5,0.6336106523676919,https://leetcode.com/problems/rotate-string
-MEDIUM,Daily Temperatures,62.5,0.6677640796925965,https://leetcode.com/problems/daily-temperatures
-HARD,Maximum Employees to Be Invited to a Meeting,62.5,0.3780524875873949,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
-EASY,Majority Element,62.5,0.6542317423017825,https://leetcode.com/problems/majority-element
-EASY,Best Time to Buy and Sell Stock,62.5,0.5457847608593875,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-EASY,Remove Duplicates from Sorted Array,62.5,0.5892759862803651,https://leetcode.com/problems/remove-duplicates-from-sorted-array
-EASY,Sort Array by Increasing Frequency,62.5,0.8001799517402152,https://leetcode.com/problems/sort-array-by-increasing-frequency
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5490434741231931,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,87.5,0.44745604111540177,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Valid Parentheses,87.5,0.4173943031755579,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Container With Most Water,83.0,0.5703981445360641,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Maximum Number of Weeks for Which You Can Work,70.5,0.41047459064006153,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work,"Array, Greedy"
+EASY,Sqrt(x),70.5,0.39941545518401056,https://leetcode.com/problems/sqrtx,"Math, Binary Search"
+EASY,Maximum Depth of Binary Tree,70.5,0.7667888791312427,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Longest Consecutive Sequence,60.5,0.4725514272509582,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
+HARD,Count Increasing Quadruplets,60.5,0.3363294178726718,https://leetcode.com/problems/count-increasing-quadruplets,"Array, Dynamic Programming, Binary Indexed Tree, Enumeration, Prefix Sum"
+HARD,Count the Number of Infection Sequences,60.5,0.35542281127496733,https://leetcode.com/problems/count-the-number-of-infection-sequences,"Array, Math, Combinatorics"
+HARD,Maximum Path Quality of a Graph,60.5,0.5946177253708634,https://leetcode.com/problems/maximum-path-quality-of-a-graph,"Array, Backtracking, Graph"
+MEDIUM,Movie Rating,60.5,0.4111034979014556,https://leetcode.com/problems/movie-rating,Database
+EASY,Sort Array by Increasing Frequency,60.5,0.80062783736795,https://leetcode.com/problems/sort-array-by-increasing-frequency,"Array, Hash Table, Sorting"
+MEDIUM,Maximum Subarray,60.5,0.5164880215351575,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+HARD,Trapping Rain Water,60.5,0.6412320709906587,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Number of Islands,60.5,0.6142355892397219,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Rotate String,60.5,0.634540417621686,https://leetcode.com/problems/rotate-string,"String, String Matching"
+MEDIUM,Maximal Square,60.5,0.4808704471031026,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+EASY,Valid Perfect Square,60.5,0.44001274616642017,https://leetcode.com/problems/valid-perfect-square,"Math, Binary Search"
+EASY,Valid Palindrome,60.5,0.49966321497487326,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Daily Temperatures,60.5,0.6687761858720811,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+EASY,Reverse Linked List,60.5,0.7852422482788368,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+HARD,Maximum Employees to Be Invited to a Meeting,60.5,0.6239758516601983,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting,"Depth-First Search, Graph, Topological Sort"
+EASY,Majority Element,60.5,0.6545890855336651,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+EASY,Best Time to Buy and Sell Stock,60.5,0.546839904755157,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Remove Duplicates from Sorted Array,60.5,0.5922426885976432,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+HARD,Maximum Students Taking Exam,60.5,0.5180972078593589,https://leetcode.com/problems/maximum-students-taking-exam,"Array, Dynamic Programming, Bit Manipulation, Matrix, Bitmask"

@@ -1,18 +1,6 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Count Subarrays With Fixed Bounds,100.0,0.6775340495347687,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
-EASY,Pass the Pillow,100.0,0.567188367691558,https://leetcode.com/problems/pass-the-pillow
-MEDIUM,Number of Divisible Triplet Sums,86.4,0.6425576519916143,https://leetcode.com/problems/number-of-divisible-triplet-sums
-MEDIUM,Total Cost to Hire K Workers,86.4,0.4281572761343909,https://leetcode.com/problems/total-cost-to-hire-k-workers
-HARD,Minimum Edge Reversals So Every Node Is Reachable,86.4,0.5736090882609962,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
-HARD,Earliest Second to Mark Indices II,75.7,0.20752037078567692,https://leetcode.com/problems/earliest-second-to-mark-indices-ii
-MEDIUM,Break a Palindrome,75.7,0.5155414163517582,https://leetcode.com/problems/break-a-palindrome
-HARD,String Transformation,75.7,0.3012378803585585,https://leetcode.com/problems/string-transformation
-MEDIUM,Earliest Second to Mark Indices I,75.7,0.3557545657189785,https://leetcode.com/problems/earliest-second-to-mark-indices-i
-MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,75.7,0.6283199233233284,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
-MEDIUM,Minimum Cost Tree From Leaf Values,75.7,0.677098034787954,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
-EASY,Reshape the Matrix,75.7,0.6359900509964647,https://leetcode.com/problems/reshape-the-matrix
-MEDIUM,Maximum Palindromes After Operations,75.7,0.4287290142057685,https://leetcode.com/problems/maximum-palindromes-after-operations
-EASY,Keyboard Row,75.7,0.718363586004152,https://leetcode.com/problems/keyboard-row
-HARD,Count Anagrams,75.7,0.3440439442918601,https://leetcode.com/problems/count-anagrams
-HARD,Last Substring in Lexicographical Order,75.7,0.34491717785656667,https://leetcode.com/problems/last-substring-in-lexicographical-order
-MEDIUM,Maximum Number of Alloys,75.7,0.38799839711480666,https://leetcode.com/problems/maximum-number-of-alloys
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Pass the Pillow,100.0,0.5667326665746611,https://leetcode.com/problems/pass-the-pillow,"Math, Simulation"
+HARD,Count Subarrays With Fixed Bounds,100.0,0.6772644262617944,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+HARD,Minimum Edge Reversals So Every Node Is Reachable,100.0,0.5749742061217471,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph"
+HARD,String Transformation,87.1,0.30498220640569396,https://leetcode.com/problems/string-transformation,"Math, String, Dynamic Programming, String Matching"
+MEDIUM,Number of Divisible Triplet Sums,87.1,0.6471302763437595,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"

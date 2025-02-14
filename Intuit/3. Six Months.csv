@@ -1,29 +1,16 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Valid Parentheses,100.0,0.4160100772401787,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Rotting Oranges,88.1,0.5565934206291223,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Course Schedule II,82.4,0.5227078698820142,https://leetcode.com/problems/course-schedule-ii
-MEDIUM,Word Break,82.4,0.4769040767743635,https://leetcode.com/problems/word-break
-EASY,Logger Rate Limiter,75.1,0.7628052945168325,https://leetcode.com/problems/logger-rate-limiter
-MEDIUM,LRU Cache,75.1,0.4406270976773964,https://leetcode.com/problems/lru-cache
-EASY,Maximum Product of Three Numbers,75.1,0.45206605359249613,https://leetcode.com/problems/maximum-product-of-three-numbers
-MEDIUM,Minimum Limit of Balls in a Bag,64.8,0.6791986758631794,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag
-MEDIUM,Group Anagrams,64.8,0.7004731600731481,https://leetcode.com/problems/group-anagrams
-MEDIUM,Coin Change,64.8,0.45516428354122307,https://leetcode.com/problems/coin-change
-MEDIUM,Spiral Matrix,64.8,0.5243056320212475,https://leetcode.com/problems/spiral-matrix
-MEDIUM,Zigzag Conversion,64.8,0.5032816399656508,https://leetcode.com/problems/zigzag-conversion
-HARD,Longest Valid Parentheses,64.8,0.35358740948037154,https://leetcode.com/problems/longest-valid-parentheses
-HARD,Get the Maximum Score,64.8,0.3975404393210975,https://leetcode.com/problems/get-the-maximum-score
-MEDIUM,Number of Operations to Make Network Connected,64.8,0.6387727984678538,https://leetcode.com/problems/number-of-operations-to-make-network-connected
-MEDIUM,Maximum Difference Score in a Grid,64.8,0.46967389465032516,https://leetcode.com/problems/maximum-difference-score-in-a-grid
-HARD,Sudoku Solver,64.8,0.635481510259028,https://leetcode.com/problems/sudoku-solver
-HARD,Maximum Total Beauty of the Gardens,64.8,0.29825342084770273,https://leetcode.com/problems/maximum-total-beauty-of-the-gardens
-MEDIUM,Max Area of Island,64.8,0.7275355192423347,https://leetcode.com/problems/max-area-of-island
-MEDIUM,Destroy Sequential Targets,64.8,0.4005763099811984,https://leetcode.com/problems/destroy-sequential-targets
-MEDIUM,Number of Distinct Substrings in a String,64.8,0.6445855860584746,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string
-HARD,Basic Calculator IV,64.8,0.5492803875932171,https://leetcode.com/problems/basic-calculator-iv
-MEDIUM,Number of Substrings With Fixed Ratio,64.8,0.5602745602745602,https://leetcode.com/problems/number-of-substrings-with-fixed-ratio
-MEDIUM,Most Profitable Path in a Tree,64.8,0.49666132478632474,https://leetcode.com/problems/most-profitable-path-in-a-tree
-MEDIUM,Length of the Longest Subsequence That Sums to Target,64.8,0.3642392588270454,https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target
-HARD,Make String Anti-palindrome,64.8,0.48786610878661085,https://leetcode.com/problems/make-string-anti-palindrome
-MEDIUM,Top K Frequent Elements,64.8,0.6385666533626023,https://leetcode.com/problems/top-k-frequent-elements
-EASY,Two Sum,64.8,0.5468046010704241,https://leetcode.com/problems/two-sum
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Parentheses,100.0,0.41739415102575295,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Course Schedule II,83.0,0.5247571889886794,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Word Break,83.0,0.47787982558883163,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,LRU Cache,83.0,0.44265230946432593,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Rotting Oranges,66.1,0.5584678795463683,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Top K Frequent Elements,66.1,0.639748852685813,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+EASY,Logger Rate Limiter,66.1,0.7632108059071362,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+HARD,Longest Valid Parentheses,66.1,0.355354301635841,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
+MEDIUM,Spiral Matrix,66.1,0.5271676688511904,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Coin Change,66.1,0.4567928808883002,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Group Anagrams,66.1,0.7021301878193614,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Minimum Limit of Balls in a Bag,66.1,0.6792385129074056,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag,"Array, Binary Search"
+EASY,Two Sum,66.1,0.5490432462490793,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Russian Doll Envelopes,66.1,0.3717097632058847,https://leetcode.com/problems/russian-doll-envelopes,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,66.1,0.6543599057346092,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"

@@ -1,13 +1,16 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Zigzag Grid Traversal With Skip,100.0,0.6264393870704507,https://leetcode.com/problems/zigzag-grid-traversal-with-skip
-EASY,Palindrome Number,78.6,0.5831333294663725,https://leetcode.com/problems/palindrome-number
-EASY,Find the Index of the First Occurrence in a String,71.9,0.4419042184615133,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
-EASY,Majority Element,71.9,0.6542322084677389,https://leetcode.com/problems/majority-element
-EASY,Two Sum,62.5,0.5468039374273372,https://leetcode.com/problems/two-sum
-MEDIUM,3Sum,62.5,0.3609276739515293,https://leetcode.com/problems/3sum
-EASY,Valid Parentheses,62.5,0.4160094738732607,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Maximum Sum of Distinct Subarrays With Length K,62.5,0.42820306315293344,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
-MEDIUM,Subarray Sum Equals K,62.5,0.4466488728768351,https://leetcode.com/problems/subarray-sum-equals-k
-MEDIUM,Unique Paths,62.5,0.652271801567689,https://leetcode.com/problems/unique-paths
-EASY,Valid Palindrome,62.5,0.49718250811289666,https://leetcode.com/problems/valid-palindrome
-EASY,Running Sum of 1d Array,62.5,0.869248829472081,https://leetcode.com/problems/running-sum-of-1d-array
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Zigzag Grid Traversal With Skip,100.0,0.6359046763359432,https://leetcode.com/problems/zigzag-grid-traversal-with-skip,"Array, Matrix, Simulation"
+EASY,Palindrome Number,83.5,0.5850828827988291,https://leetcode.com/problems/palindrome-number,Math
+EASY,Two Sum,78.2,0.549043083016688,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Find the Index of the First Occurrence in a String,71.4,0.44346673720719015,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+EASY,Majority Element,71.4,0.6545898993718605,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Remove Nth Node From End of List,71.4,0.47927325737269366,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+MEDIUM,Maximum Sum of Distinct Subarrays With Length K,61.8,0.4270117986354351,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k,"Array, Hash Table, Sliding Window"
+MEDIUM,Subarray Sum Equals K,61.8,0.4479044608131569,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Unique Paths,61.8,0.653275775583402,https://leetcode.com/problems/unique-paths,"Math, Dynamic Programming, Combinatorics"
+EASY,Valid Palindrome,61.8,0.4996626964164557,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Running Sum of 1d Array,61.8,0.8693919004917058,https://leetcode.com/problems/running-sum-of-1d-array,"Array, Prefix Sum"
+EASY,Contains Duplicate II,61.8,0.4787961230550802,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+EASY,Single Number,61.8,0.7517135931724986,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
+HARD,Tallest Billboard,61.8,0.519899510776147,https://leetcode.com/problems/tallest-billboard,"Array, Dynamic Programming"
+MEDIUM,Rotate Array,61.8,0.42338101747775203,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"

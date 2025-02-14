@@ -1,29 +1,25 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Viewers Turned Streamers,100.0,0.4327290869782139,https://leetcode.com/problems/viewers-turned-streamers
-HARD,Find Beautiful Indices in the Given Array II,100.0,0.2557710427135678,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
-HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.36043668122270744,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
-MEDIUM,Maximum Amount of Money Robot Can Earn,100.0,0.29445955572825594,https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn
-HARD,Smallest Range Covering Elements from K Lists,87.1,0.6978134921711758,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
-HARD,Trapping Rain Water,76.9,0.6391090389663341,https://leetcode.com/problems/trapping-rain-water
-HARD,Reachable Nodes In Subdivided Graph,76.9,0.5069063262931952,https://leetcode.com/problems/reachable-nodes-in-subdivided-graph
-MEDIUM,Most Stones Removed with Same Row or Column,69.7,0.6212352573051557,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
-MEDIUM,Maximal Square,69.7,0.4795506133124887,https://leetcode.com/problems/maximal-square
-MEDIUM,House Robber,69.7,0.5185590188924778,https://leetcode.com/problems/house-robber
-MEDIUM,Decoded String at Index,69.7,0.3653717445074931,https://leetcode.com/problems/decoded-string-at-index
-HARD,Candy,59.6,0.441680409458545,https://leetcode.com/problems/candy
-MEDIUM,Sort Colors,59.6,0.6593350731117081,https://leetcode.com/problems/sort-colors
-MEDIUM,Simple Bank System,59.6,0.6365708622398414,https://leetcode.com/problems/simple-bank-system
-MEDIUM,Queue Reconstruction by Height,59.6,0.739219544761678,https://leetcode.com/problems/queue-reconstruction-by-height
-HARD,Burst Balloons,59.6,0.604018135821533,https://leetcode.com/problems/burst-balloons
-MEDIUM,Longest Palindromic Substring,59.6,0.3504775671388265,https://leetcode.com/problems/longest-palindromic-substring
-MEDIUM,Koko Eating Bananas,59.6,0.48715440990914105,https://leetcode.com/problems/koko-eating-bananas
-MEDIUM,Jump Game II,59.6,0.40989422983525275,https://leetcode.com/problems/jump-game-ii
-MEDIUM,Make Sum Divisible by P,59.6,0.39598306215377477,https://leetcode.com/problems/make-sum-divisible-by-p
-MEDIUM,Walking Robot Simulation,59.6,0.5800775939982218,https://leetcode.com/problems/walking-robot-simulation
-HARD,Apply Operations to Maximize Frequency Score,59.6,0.37209538305428713,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score
-HARD,Decode Ways II,59.6,0.30977732105388606,https://leetcode.com/problems/decode-ways-ii
-HARD,Check if Point Is Reachable,59.6,0.4329997559189651,https://leetcode.com/problems/check-if-point-is-reachable
-MEDIUM,Maximum Tastiness of Candy Basket,59.6,0.6505858201482075,https://leetcode.com/problems/maximum-tastiness-of-candy-basket
-MEDIUM,Rotting Oranges,59.6,0.5565965873299298,https://leetcode.com/problems/rotting-oranges
-MEDIUM,Minimum Cost Tree From Leaf Values,59.6,0.677098034787954,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
-MEDIUM,Smallest String With Swaps,59.6,0.5897881094036773,https://leetcode.com/problems/smallest-string-with-swaps
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Viewers Turned Streamers,100.0,0.4329896907216495,https://leetcode.com/problems/viewers-turned-streamers,Database
+HARD,Find Beautiful Indices in the Given Array II,100.0,0.25753440566749897,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+HARD,Frequencies of Shortest Supersequences,100.0,0.2329282902618518,https://leetcode.com/problems/frequencies-of-shortest-supersequences,"Array, String, Bit Manipulation, Graph, Topological Sort, Enumeration"
+MEDIUM,Maximum Amount of Money Robot Can Earn,100.0,0.2968649542295564,https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn,"Array, Dynamic Programming, Matrix"
+HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.3716353582174514,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements,"Math, Combinatorics"
+HARD,Smallest Range Covering Elements from K Lists,87.3,0.6980393606084836,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists,"Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"
+MEDIUM,Most Stones Removed with Same Row or Column,70.1,0.621070246833758,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column,"Hash Table, Depth-First Search, Union Find, Graph"
+MEDIUM,Queue Reconstruction by Height,70.1,0.7397032337528031,https://leetcode.com/problems/queue-reconstruction-by-height,"Array, Binary Indexed Tree, Segment Tree, Sorting"
+MEDIUM,Split Array into Consecutive Subsequences,70.1,0.5138119467694345,https://leetcode.com/problems/split-array-into-consecutive-subsequences,"Array, Hash Table, Greedy, Heap (Priority Queue)"
+HARD,Trapping Rain Water,70.1,0.6412328147598803,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Maximal Square,70.1,0.48087141371980074,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Find Duplicate Subtrees,60.1,0.5991374317958308,https://leetcode.com/problems/find-duplicate-subtrees,"Hash Table, Tree, Depth-First Search, Binary Tree"
+HARD,Sliding Window Maximum,60.1,0.4719098701459679,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Make Lexicographically Smallest Array by Swapping Elements,60.1,0.604216330376169,https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements,"Array, Union Find, Sorting"
+MEDIUM,House Robber,60.1,0.5192208961467982,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+HARD,Burst Balloons,60.1,0.6053181916348715,https://leetcode.com/problems/burst-balloons,"Array, Dynamic Programming"
+MEDIUM,Longest Palindromic Substring,60.1,0.35189271725910737,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+HARD,Candy,60.1,0.44293628239981314,https://leetcode.com/problems/candy,"Array, Greedy"
+MEDIUM,Jump Game II,60.1,0.4107501931489611,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Make Sum Divisible by P,60.1,0.39578674081173887,https://leetcode.com/problems/make-sum-divisible-by-p,"Array, Hash Table, Prefix Sum"
+HARD,Apply Operations to Maximize Frequency Score,60.1,0.37081054201889607,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score,"Array, Binary Search, Sliding Window, Sorting, Prefix Sum"
+MEDIUM,Rotting Oranges,60.1,0.558468481215474,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Minimum Cost Tree From Leaf Values,60.1,0.6766606229399926,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+MEDIUM,Kth Smallest Element in a Sorted Matrix,60.1,0.6315358293300043,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix,"Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"

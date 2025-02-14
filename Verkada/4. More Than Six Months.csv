@@ -1,8 +1,8 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Snapshot Array,100.0,0.3677238253150671,https://leetcode.com/problems/snapshot-array
-HARD,Guess the Word,84.7,0.3820188929037139,https://leetcode.com/problems/guess-the-word
-MEDIUM,Interval List Intersections,78.4,0.7232074629694157,https://leetcode.com/problems/interval-list-intersections
-MEDIUM,Non-overlapping Intervals,78.4,0.5469645938496241,https://leetcode.com/problems/non-overlapping-intervals
-HARD,Maximum Profit in Job Scheduling,78.4,0.5431804987591627,https://leetcode.com/problems/maximum-profit-in-job-scheduling
-EASY,Image Smoother,69.4,0.6797782854174147,https://leetcode.com/problems/image-smoother
-HARD,Merge k Sorted Lists,69.4,0.5529239622299807,https://leetcode.com/problems/merge-k-sorted-lists
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Snapshot Array,100.0,0.36779940458981547,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+HARD,Guess the Word,84.7,0.3810676142552279,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"
+MEDIUM,Interval List Intersections,78.4,0.723981213144783,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"
+MEDIUM,Non-overlapping Intervals,78.4,0.5484188029303861,https://leetcode.com/problems/non-overlapping-intervals,"Array, Dynamic Programming, Greedy, Sorting"
+HARD,Maximum Profit in Job Scheduling,78.4,0.5434903562292439,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+EASY,Image Smoother,69.4,0.6808666285103496,https://leetcode.com/problems/image-smoother,"Array, Matrix"
+HARD,Merge k Sorted Lists,69.4,0.5556704123580545,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"

@@ -1,18 +1,7 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.37408785755983653,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i
-HARD,Find Beautiful Indices in the Given Array II,96.0,0.2557710427135678,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
-MEDIUM,Minimum Time Difference,69.9,0.622004527515676,https://leetcode.com/problems/minimum-time-difference
-HARD,Selling Pieces of Wood,61.1,0.5106711028158728,https://leetcode.com/problems/selling-pieces-of-wood
-MEDIUM,Accounts Merge,61.1,0.5860366023503196,https://leetcode.com/problems/accounts-merge
-MEDIUM,Find Players With Zero or One Losses,61.1,0.7288731821803538,https://leetcode.com/problems/find-players-with-zero-or-one-losses
-MEDIUM,Number of Divisible Triplet Sums,61.1,0.6425576519916143,https://leetcode.com/problems/number-of-divisible-triplet-sums
-HARD,Integer to English Words,61.1,0.3418807086253269,https://leetcode.com/problems/integer-to-english-words
-HARD,Contains Duplicate III,61.1,0.23258843408109306,https://leetcode.com/problems/contains-duplicate-iii
-MEDIUM,LRU Cache,61.1,0.4406274912094561,https://leetcode.com/problems/lru-cache
-EASY,Contains Duplicate,61.1,0.6263049227686348,https://leetcode.com/problems/contains-duplicate
-EASY,Check If It Is a Straight Line,61.1,0.3960024095380904,https://leetcode.com/problems/check-if-it-is-a-straight-line
-EASY,Range Sum Query - Immutable,61.1,0.6662480648801451,https://leetcode.com/problems/range-sum-query-immutable
-EASY,Contains Duplicate II,61.1,0.4762096145309707,https://leetcode.com/problems/contains-duplicate-ii
-EASY,Single Number,61.1,0.7497356252282121,https://leetcode.com/problems/single-number
-MEDIUM,Maximum Size Subarray Sum Equals k,61.1,0.5013959128072193,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
-MEDIUM,Construct Quad Tree,61.1,0.7646751716152509,https://leetcode.com/problems/construct-quad-tree
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.37662384011420413,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+HARD,Find Beautiful Indices in the Given Array II,91.6,0.25753440566749897,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Number of Divisible Triplet Sums,62.9,0.6472285497342445,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
+MEDIUM,Find Players With Zero or One Losses,62.9,0.7280310222638229,https://leetcode.com/problems/find-players-with-zero-or-one-losses,"Array, Hash Table, Sorting, Counting"
+MEDIUM,Construct Quad Tree,62.9,0.7658330676141454,https://leetcode.com/problems/construct-quad-tree,"Array, Divide and Conquer, Tree, Matrix"
+MEDIUM,Count the Number of Good Subsequences,62.9,0.5227726365450917,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"

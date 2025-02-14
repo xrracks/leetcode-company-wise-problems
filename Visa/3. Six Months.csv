@@ -1,25 +1,17 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Two Sum,100.0,0.5468044985415614,https://leetcode.com/problems/two-sum
-MEDIUM,LRU Cache,88.8,0.44062681329691705,https://leetcode.com/problems/lru-cache
-HARD,Trapping Rain Water,88.8,0.6391068358772355,https://leetcode.com/problems/trapping-rain-water
-EASY,Longest Common Prefix,88.8,0.4456154515986427,https://leetcode.com/problems/longest-common-prefix
-MEDIUM,Rotating the Box,80.8,0.7910341230406017,https://leetcode.com/problems/rotating-the-box
-EASY,Split the Array,80.8,0.5907364775790489,https://leetcode.com/problems/split-the-array
-MEDIUM,Course Schedule,80.8,0.4816001578615486,https://leetcode.com/problems/course-schedule
-EASY,Create Target Array in the Given Order,80.8,0.861136486482215,https://leetcode.com/problems/create-target-array-in-the-given-order
-MEDIUM,Find Score of an Array After Marking All Elements,69.7,0.6499207124003739,https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements
-MEDIUM,3Sum,69.7,0.3609279512590302,https://leetcode.com/problems/3sum
-EASY,Valid Parentheses,69.7,0.41601012648575714,https://leetcode.com/problems/valid-parentheses
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,69.7,0.5665668113549754,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
-EASY,Image Smoother,69.7,0.6797782854174147,https://leetcode.com/problems/image-smoother
-EASY,Diameter of Binary Tree,69.7,0.6236304877122723,https://leetcode.com/problems/diameter-of-binary-tree
-HARD,Text Justification,69.7,0.46463350588941404,https://leetcode.com/problems/text-justification
-MEDIUM,Walls and Gates,69.7,0.6233819024291526,https://leetcode.com/problems/walls-and-gates
-MEDIUM,Count Nodes With the Highest Score,69.7,0.5074183499791258,https://leetcode.com/problems/count-nodes-with-the-highest-score
-EASY,Divisor Game,69.7,0.6976993044408775,https://leetcode.com/problems/divisor-game
-MEDIUM,Match Alphanumerical Pattern in Matrix I,69.7,0.6491228070175439,https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i
-EASY,Two Furthest Houses With Different Colors,69.7,0.6555310123736732,https://leetcode.com/problems/two-furthest-houses-with-different-colors
-EASY,Odd String Difference,69.7,0.6038252778495735,https://leetcode.com/problems/odd-string-difference
-HARD,Earliest Possible Day of Full Bloom,69.7,0.7132344687379174,https://leetcode.com/problems/earliest-possible-day-of-full-bloom
-MEDIUM,Maximum Number of Events That Can Be Attended,69.7,0.3266750823811007,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
-MEDIUM,Rotate Array,69.7,0.42181218694261113,https://leetcode.com/problems/rotate-array
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5490432389311586,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,LRU Cache,91.1,0.4426521832929739,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Longest Common Prefix,85.2,0.4474553612382841,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+HARD,Trapping Rain Water,85.2,0.6412321856231067,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Valid Parentheses,85.2,0.4173940714177868,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Text Justification,77.6,0.4683156504443167,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Rotating the Box,77.6,0.7910263753648092,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,3Sum,77.6,0.3627880976916453,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Find Score of an Array After Marking All Elements,66.9,0.6494991674138594,https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+EASY,Diameter of Binary Tree,66.9,0.6258910115899523,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+EASY,Image Smoother,66.9,0.6808666285103496,https://leetcode.com/problems/image-smoother,"Array, Matrix"
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,66.9,0.5667526395308295,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+MEDIUM,Rotate Array,66.9,0.4233816072013132,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Number of Islands,66.9,0.6142362882650024,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Block Placement Queries,66.9,0.15943027286463426,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+HARD,Word Ladder,66.9,0.4165564497904257,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"

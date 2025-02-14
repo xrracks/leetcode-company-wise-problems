@@ -1,5 +1,1 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Transpose Matrix,100.0,0.7328369116259903,https://leetcode.com/problems/transpose-matrix
-MEDIUM,Snapshot Array,90.1,0.3677238253150671,https://leetcode.com/problems/snapshot-array
-MEDIUM,Basic Calculator II,90.1,0.4496696190492619,https://leetcode.com/problems/basic-calculator-ii
-MEDIUM,LRU Cache,90.1,0.44062717233566084,https://leetcode.com/problems/lru-cache

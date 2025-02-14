@@ -1,10 +1,7 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Smallest Divisible Digit Product I,100.0,0.6513333042377689,https://leetcode.com/problems/smallest-divisible-digit-product-i
-HARD,Smallest Divisible Digit Product II,100.0,0.09259791798470123,https://leetcode.com/problems/smallest-divisible-digit-product-ii
-HARD,Shortest Palindrome,72.4,0.40100832572556266,https://leetcode.com/problems/shortest-palindrome
-MEDIUM,Maximum Subarray,72.4,0.5156270879456241,https://leetcode.com/problems/maximum-subarray
-MEDIUM,Reverse Words in a String,63.1,0.48960057227233067,https://leetcode.com/problems/reverse-words-in-a-string
-MEDIUM,Longest Substring Without Repeating Characters,63.1,0.36045669430940985,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Search Insert Position,63.1,0.47999403549569125,https://leetcode.com/problems/search-insert-position
-EASY,Contains Duplicate II,63.1,0.4762093860361587,https://leetcode.com/problems/contains-duplicate-ii
-EASY,Reverse String,63.1,0.7936755074264874,https://leetcode.com/problems/reverse-string
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Shortest Palindrome,100.0,0.4022821323419671,https://leetcode.com/problems/shortest-palindrome,"String, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Reverse Words in a String,88.2,0.4959199742690348,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Maximum Subarray,88.2,0.5164879714940742,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Reverse String,88.2,0.7945713999866953,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+MEDIUM,Number of Islands,88.2,0.6142359537294844,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Divide Nodes Into the Maximum Number of Groups,88.2,0.6783628224259219,https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups,"Depth-First Search, Breadth-First Search, Union Find, Graph"

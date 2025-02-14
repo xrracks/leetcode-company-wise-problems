@@ -1,15 +1,6 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Number of Divisible Substrings,100.0,0.7364341085271318,https://leetcode.com/problems/number-of-divisible-substrings
-MEDIUM,Minimum Moves to Reach Target Score,82.8,0.5118043577180711,https://leetcode.com/problems/minimum-moves-to-reach-target-score
-MEDIUM,Largest Magic Square,82.8,0.5302495485142013,https://leetcode.com/problems/largest-magic-square
-HARD,Reaching Points,82.8,0.33484273481414534,https://leetcode.com/problems/reaching-points
-HARD,Tournament Winners,72.8,0.49496473093474114,https://leetcode.com/problems/tournament-winners
-MEDIUM,Best Sightseeing Pair,72.8,0.6257596935018906,https://leetcode.com/problems/best-sightseeing-pair
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,72.8,0.46035782191372865,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
-EASY,Maximum Number of Balloons,72.8,0.5971420000285704,https://leetcode.com/problems/maximum-number-of-balloons
-EASY,Delete Characters to Make Fancy String,72.8,0.718423179037285,https://leetcode.com/problems/delete-characters-to-make-fancy-string
-MEDIUM,Longest Happy String,72.8,0.6547672658691597,https://leetcode.com/problems/longest-happy-string
-MEDIUM,Team Scores in Football Tournament,72.8,0.5570346771848649,https://leetcode.com/problems/team-scores-in-football-tournament
-MEDIUM,Design A Leaderboard,72.8,0.6787033767665371,https://leetcode.com/problems/design-a-leaderboard
-MEDIUM,Group Anagrams,72.8,0.7004728094406515,https://leetcode.com/problems/group-anagrams
-EASY,Backspace String Compare,72.8,0.4935457834831356,https://leetcode.com/problems/backspace-string-compare
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Divisible Substrings,100.0,0.7327438676554479,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+HARD,Reaching Points,83.7,0.3352525516880398,https://leetcode.com/problems/reaching-points,Math
+EASY,Backspace String Compare,74.2,0.4936917193400568,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Last Person to Fit in the Bus,74.2,0.6812858852074407,https://leetcode.com/problems/last-person-to-fit-in-the-bus,Database
+MEDIUM,Group Anagrams,74.2,0.7021297798923887,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

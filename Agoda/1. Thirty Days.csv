@@ -1,3 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Best Time to Buy and Sell Stock,100.0,0.545784863840216,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-MEDIUM,Daily Temperatures,100.0,0.6677640796925965,https://leetcode.com/problems/daily-temperatures
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Minimum Absolute Difference,100.0,0.7022442816676443,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"

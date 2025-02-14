@@ -1,3 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-EASY,Count Vowel Substrings of a String,100.0,0.6943077807213043,https://leetcode.com/problems/count-vowel-substrings-of-a-string
-MEDIUM,Find Peak Element,100.0,0.46262325354750994,https://leetcode.com/problems/find-peak-element
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Find Peak Element,100.0,0.4628560950372631,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"

@@ -1,4 +1,3 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-HARD,Merge k Sorted Lists,100.0,0.5529212247399484,https://leetcode.com/problems/merge-k-sorted-lists
-MEDIUM,Design Memory Allocator,100.0,0.5347749559969827,https://leetcode.com/problems/design-memory-allocator
-HARD,Word Search II,100.0,0.3689283478617414,https://leetcode.com/problems/word-search-ii
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Word Search II,100.0,0.36961197239896054,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+HARD,Merge k Sorted Lists,89.6,0.5556696229326177,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"

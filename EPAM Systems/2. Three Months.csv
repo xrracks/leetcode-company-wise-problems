@@ -1,3 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3604585618307986,https://leetcode.com/problems/longest-substring-without-repeating-characters
-EASY,Longest Common Prefix,89.2,0.445616849766682,https://leetcode.com/problems/longest-common-prefix
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36201700787873853,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
