@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Meeting Rooms II,100.0,0.5187225957473671,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Merge Intervals,83.3,0.4869510917927474,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Logger Rate Limiter,83.3,0.7632091415611746,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Merge Intervals,100.0,0.4880655232188065,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Logger Rate Limiter,100.0,0.7635642018282964,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Meeting Rooms II,89.4,0.5191547661608963,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Word Break,89.4,0.47875218380231854,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"

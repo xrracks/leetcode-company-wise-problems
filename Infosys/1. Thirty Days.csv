@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize the Minimum Game Score,100.0,0.231753355704698,https://leetcode.com/problems/maximize-the-minimum-game-score,"Array, Binary Search, Greedy"
+MEDIUM,Eat Pizzas!,100.0,0.32168486739469576,https://leetcode.com/problems/eat-pizzas,"Array, Greedy, Sorting"

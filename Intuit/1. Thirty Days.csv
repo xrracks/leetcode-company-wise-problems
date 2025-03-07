@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.44265230946432593,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Minimum Limit of Balls in a Bag,100.0,0.6792385129074056,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag,"Array, Binary Search"
+EASY,Plus One,100.0,0.4704636694726021,https://leetcode.com/problems/plus-one,"Array, Math"

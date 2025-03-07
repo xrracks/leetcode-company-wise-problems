@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Sqrt(x),100.0,0.3994149592307301,https://leetcode.com/problems/sqrtx,"Math, Binary Search"
-EASY,Remove All Adjacent Duplicates In String,89.7,0.7092938406438152,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
-MEDIUM,Remove All Adjacent Duplicates in String II,89.7,0.59014429685066,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-MEDIUM,Search in Rotated Sorted Array,89.7,0.42217700143417036,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Generate Parentheses,100.0,0.7652988696533802,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+EASY,Sqrt(x),90.2,0.4002713314398575,https://leetcode.com/problems/sqrtx,"Math, Binary Search"

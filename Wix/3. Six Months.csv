@@ -1,8 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Integer to Roman,100.0,0.6765177253607458,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Decode String,94.5,0.6057510544234971,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-HARD,Median of Two Sorted Arrays,87.4,0.42747241942623426,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-HARD,Word Search II,87.4,0.3696118116327014,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
-EASY,Roman to Integer,87.4,0.6397792153918023,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-MEDIUM,Find Peak Element,77.4,0.46285541992879486,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
-MEDIUM,Count and Say,77.4,0.5771801455411542,https://leetcode.com/problems/count-and-say,String
+MEDIUM,Rotting Oranges,100.0,0.5596880920321282,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Decode String,74.9,0.6068670293297431,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Roman to Integer,74.9,0.6415390613763843,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Count and Say,74.9,0.5789706175189212,https://leetcode.com/problems/count-and-say,String

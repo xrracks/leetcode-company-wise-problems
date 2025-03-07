@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reaching Points,100.0,0.3352525516880398,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,LRU Cache,100.0,0.44265582720855806,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,LFU Cache,89.6,0.45696485536329523,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Two Sum,89.6,0.5490437944412871,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Reaching Points,100.0,0.3355144032921811,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,LRU Cache,100.0,0.44431378020948914,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Two Sum,89.7,0.5507399961014207,https://leetcode.com/problems/two-sum,"Array, Hash Table"

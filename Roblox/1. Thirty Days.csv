@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Task Scheduler,100.0,0.6094146020394129,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
-EASY,Valid Parentheses,93.3,0.41739408297112335,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Spiral Matrix,83.9,0.5271678092625995,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Reorganize String,83.9,0.5568969138344085,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Maximize Distance to Closest Person,100.0,0.4870415197084244,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+MEDIUM,Reorganize String,80.2,0.5578367808394188,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Number of Adjacent Elements With the Same Color,80.2,0.5417296548248929,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
